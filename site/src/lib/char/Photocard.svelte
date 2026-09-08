@@ -4,7 +4,7 @@
 </script>
 
 <div class="photocard">
-  <img src={imgsrc} alt="Portrait of {text}"/>
+  <img loading="lazy" src={imgsrc} alt="Portrait of {text}"/>
   <span>{text}</span>
 </div>
 
