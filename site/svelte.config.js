@@ -14,7 +14,7 @@ const config = {
       assets: "build"
     }),
     paths: {
-      base: dev ? '' : "/tlvr",
+      base: dev ? '' : "/asbestos-is-bestos",
     },
     prerender: {
       origin: dev ? "http://sveltekit-prerender" : "http://localhost:5173",

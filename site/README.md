@@ -1,20 +1,20 @@
-# TLVR Site
+# RIVA Site
 
-The site is built using Svelte Kit. We use Yarn around here, but I don't think the command for NPM is any different. Also, TypeScript, but I'm not too big of a stickler for that.
+The site is built using SvelteKit and TypeScript.  I'm using bun, which apparently uses the same commands as yarn.
 
 For development, run
 ```bash
-yarn run dev
+bun run dev
 ```
 
 To build, **make sure the dev server is still running**, then run
 ```bash
-yarn run build
+bun run build
 ```
 
 This will build a static site in the `build` folder. Run this for a preview:
 ```bash
-yarn run preview
+bun run preview
 ```
 
 ## Static Site Shenanigans

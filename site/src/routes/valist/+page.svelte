@@ -1,5 +1,5 @@
 <svelte:head>
-  <title>Voice Actors List - TLVR</title>
+  <title>Voice Actors List - RIVA</title>
 </svelte:head>
 
 <script lang="ts">

@@ -1,2 +1,3 @@
 import { writable } from "svelte/store";
-export const currentLang = writable("en");
+export type textLang = "cn" | "en" | "kr" | "jp";
+export const currentLang = writable<textLang>("en");

@@ -3,9 +3,9 @@
 </script>
 
 <footer>
-  <a href="https://github.com/PseudoMon/tlvr-source" target="_blank"><GithubIcon /></a>
-  <span>Site version 1.4</span>
-  <span>Data last updated: 2025-11-22 (Act or Die on Global)</span>
+  <a href="https://github.com/Zumurrud/riva" target="_blank"><GithubIcon /></a>
+  <span>Site version 0.9</span>
+  <span>Data last updated: 2026-09-05 (Collection on global)</span>
 </footer>
 
 <style>

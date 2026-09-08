@@ -8,7 +8,7 @@
     <div class="label">
       {#if lang == "linkage"}OG
       {:else if lang == "cn_topolect"}CN REG
-      {:else}{lang.toUpperCase()}
+      {:else}{lang.replace("old_", "o.").toUpperCase()}
       {/if}
     </div>
     <div class="content">

@@ -9,25 +9,25 @@ $: welcomeText = data.welcomeText[$currentLang]
 </script>
 
 <svelte:head>
-  <title>Rhodes Island Tetralingual Voice Record Archive</title>
+  <title>Rhodes Island Voice Archive</title>
 </svelte:head>
 
 <main>
   <header>
-    <h1>TLVR</h1>
-    <h2>Rhodes Island Tetralingual Voice Record Archive</h2>
+    <h1>RIVA</h1>
+    <h2>Rhodes Island Voice Archive</h2>
   </header>
   <LangButtonBar />
   <aside class="home-quote">{welcomeText}</aside>
-  <p>TLVR is an Arknights fansite that makes it easy to browse voice lines from the game in all its four languages (English, Chinese, Japanese, Korean). It’s created with multilingual speakers and language-learners in mind!</p>
+  <p>RIVA is an Arknights fansite that makes it easy to browse voice lines from the game in all its four languages (English, Chinese, Japanese, Korean). It’s created with multilingual speakers and language-learners in mind!</p>
 
   <p>This site includes all characters and all voice files currently available in the Global servers, including regional voices. Check footer for when the site was last updated.</p>
 
-  <p>This site was made with love by <a href="https://pseudomon.github.io">PseudoMon</a>. Its creation was inspired by <a href="https://050644zf.github.io/ArknightsStoryTextReader">ASTR</a>.</p>
+  <p>This site is a fork of <a href="https://pseudomon.github.io">PseudoMon</a>'s TLVR for learning purposes. The original creation was inspired by <a href="https://050644zf.github.io/ArknightsStoryTextReader">ASTR</a>.</p>
 
-  <p>Audio files as shown on this site can also be accessed directly from <a href="https://github.com/PseudoMon/arknights-audio">their repository</a>. The site's source code is available on <a href="https://github.com/PseudoMon/tlvr-source">GitHub</a>.</p>
+  <p>Audio files linked on this site can also be accessed directly from <a href="https://github.com/Zumurrud/riva-voices">their repository</a>. The site's source code is available on <a href="https://github.com/Zumurrud/riva">GitHub</a>.</p>
 
-  <p>If you found a bug or have suggestions for the site, you can <a href="https://github.com/PseudoMon/tlvr-source/issues">submit an issue in Github</a> or contact me directly on <a href="https://twitter.com/PseudoMonious">Twitter</a>.</p>
+  <p>If you found a bug or broken link, please do <a href="https://github.com/Zumurrud/riva/issues">submit an issue in Github</a>.</p>
 </main>
 
 <style>

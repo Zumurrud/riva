@@ -34,7 +34,7 @@
     selectedStatus = ratings.map(_ => false);
   }
 
-  function removeRating(ratingToRemove) {
+  function removeRating(ratingToRemove: number) {
     selectedRatings = selectedRatings.filter(
       rating => rating !== ratingToRemove
     );

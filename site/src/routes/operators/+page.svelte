@@ -8,19 +8,29 @@
   import FactionFilter from "./FactionFilter.svelte";
   import MobileFilterMenu from "./MobileFilterMenu.svelte";
 
-  import type { SingleChar } from "./+page"; 
+  import type { SingleChar } from "./+page.server";
   export let data;
 
   let charlist: SingleChar[];
   let filteredCharlist: SingleChar[];
   let nations: string[];
-  $: charlist = data.charlist;
+
+  charlist = data.charlist;
+  charlist.sort((a, b) => {
+    // TODO: sort lexicographically by selected language
+    if (a.name.en < b.name.en) {
+      return -1;
+    } else {
+      return 1;
+    }
+  })
+
   $: filteredCharlist = filterCharlist(charlist, appliedFilters)
   $: nations = data.miscdata.nations.filter(n => !!n);
 
   type Filters = {
     name: string,
-    rating: string[],
+    rating: number[],
     nation: string[],
   }
 
@@ -30,14 +40,14 @@
     nation: [],
   }
 
-  function filterCharlist(list, filter) {
+  function filterCharlist(list: SingleChar[], filter: Filters) {
     return list.filter(char => {
       let include: boolean = true;
 
       if (filter.name != "") {
         const nameToSearch = filter.name.toLowerCase();
         const names = Object.values(char.name);
-        include = names.some(name => 
+        include = names.some(name =>
           name.toLowerCase().includes(nameToSearch)
         );
       }
@@ -54,24 +64,26 @@
     })
   }
 
-  function handleSearchName(e) {
-    const value = e.target.value;
+  // I can see Svelte wants this to be a FormEventHandler<HTMLInputElement>
+  // but I can't figure out what type that makes e
+  function handleSearchName(e: any) {
+    const value = e.currentTarget.value;
     appliedFilters = { ...appliedFilters, name: value };
   }
 
-  function handleFilterRatings(e) {
+  function handleFilterRatings(e: CustomEvent<number[]>) {
     const rating = e.detail;
     appliedFilters = { ...appliedFilters, rating };
   }
 
-  function handleFilterNations(e) {
+  function handleFilterNations(e: CustomEvent<string[]>) {
     const nation = e.detail;
     appliedFilters = { ...appliedFilters, nation };
   }
 </script>
 
 <svelte:head>
-  <title>Operators - TLVR</title>
+  <title>Operators - RIVA</title>
 </svelte:head>
 
 <main>
@@ -80,17 +92,17 @@
   <article class="charpage">
     <h1>Operator List</h1>
     <section class="filter-options">
-      
+
       <label for="name-search">Search</label>
-      <input type="text" placeholder="Search" 
+      <input type="text" placeholder="Search"
         on:input={handleSearchName}
       />
 
       <RatingFilter on:onRatingsChange={handleFilterRatings} />
 
-      <FactionFilter 
+      <FactionFilter
         nations={nations}
-        on:nationsChange={handleFilterNations} 
+        on:nationsChange={handleFilterNations}
       />
     </section>
 
@@ -98,8 +110,8 @@
       {#each filteredCharlist as char}
       <li>
         <a href="{base}/operators/{char.nameid}">
-          <Photocard 
-            imgsrc={getAvatarUrl(char.nameid, base)} 
+          <Photocard
+            imgsrc={getAvatarUrl(char.nameid, base)}
             text={char.name[$currentLang]}
           />
         </a>
@@ -109,10 +121,10 @@
   </article>
 </main>
 
-<MobileFilterMenu 
+<MobileFilterMenu
   on:input={handleSearchName}
   on:onRatingsChange={handleFilterRatings}
-  on:nationsChange={handleFilterNations} 
+  on:nationsChange={handleFilterNations}
   nations={nations}
 />
 
@@ -132,7 +144,7 @@
   ol {
     padding: 0;
   }
-  
+
   li {
     display: block;
   }

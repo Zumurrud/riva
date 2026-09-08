@@ -1,8 +1,8 @@
 <script lang="ts">
   import LangButton from "./LangButton.svelte";
-  import { currentLang } from "./stores.ts"
+  import { currentLang, type textLang } from "./stores"
 
-  function langClicked(lang: string) {
+  function langClicked(lang: textLang) {
     $currentLang = lang;
   }
 </script>

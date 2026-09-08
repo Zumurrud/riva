@@ -11,13 +11,13 @@
 </script>
 
 <header>
-  <a href="{base}/"><h1>TLVR</h1></a>
+  <a href="{base}/"><h1>RIVA</h1></a>
   <button 
     class="burger-button"
     on:click={() => open = true}
   ><MenuIcon /></button>
 
-  <h2>Rhodes Island Tetralingual Voice Record Archive</h2>
+  <h2>Rhodes Island Voice Archive</h2>
 
   <nav class="fullsize-nav">
     <a href="{base}/" on:click={closeDrawer}>Home</a>
@@ -123,11 +123,12 @@
 
     h2 {
       display: initial;
-      margin-left: 21px;
+      margin: 0 0 0 21px;
       font-weight: 600;
       font-style: italic;
-      max-width: 400px;
+      max-width: 250px;
       color: #A7A3A2;
+      line-height: 90%;
     }
 
     .burger-button {

@@ -1,5 +1,5 @@
-import { loadJson } from "$lib/utils";
-import type { LoadArgs } from "$lib/utils";
+import { loadJson, type LoadArgs } from "$lib/utils";
+import type { textLang } from "$lib/stores";
 
 interface CharLoadArgs extends LoadArgs {
   params: {
@@ -7,16 +7,34 @@ interface CharLoadArgs extends LoadArgs {
   }
 }
 
-interface Chardata {
+export interface Chardata {
+  charid: string,
   nameid: string,
   names: {
-    [key:string]: string,
+    [K in textLang]: string;
   },
+  voices: [
+    {
+      id: string,
+      title: {
+        [K in textLang]: string;
+      },
+      text: {
+        [K in textLang]: string;
+      },
+      asset: string,
+    }
+  ],
   actors: {
-    [key:string]: {
+    [key: string]: {
       native: string,
       global: string,
     }
+  }
+  // TODO: this is just the keys of the actors object
+  availability: [string],
+  audio_path_override: {
+    [key: string]: string,
   }
 }
 

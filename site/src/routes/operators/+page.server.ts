@@ -7,7 +7,8 @@ interface ListLoadArgs extends LoadArgs {
   }
 }
 
-interface SingleChar {
+export interface SingleChar {
+  fullid: string,
   nameid: string,
   numberid: string,
   name: {
@@ -16,6 +17,8 @@ interface SingleChar {
     jp: string,
     kr: string,
   },
+  nation: string,
+  rating: number,
 }
 
 interface MiscData {

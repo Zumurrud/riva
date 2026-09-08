@@ -3,88 +3,81 @@
 
   export let assetloc: string;
   export let availability: string[] = [];
-  export let pathOverride;
+  export let pathOverride: {[key: string]: string};
 
-  // Some skins have # in the name, which has to be translated in URL
-  $: assetlocClean = assetloc.replace("#", "%23")
+  // Some skins have # in the name, which has to be escaped in the URL
+  $: assetlocClean = assetloc.replace("#", "%23").toLowerCase()
 
-  const sourceurl = "https://raw.githubusercontent.com/PseudoMon/arknights-audio/global-server-voices"
+  const sourceurl = "https://raw.githubusercontent.com/Zumurrud/riva-voices/main"
 
-  const voiceMap = {
-    "jp": "voice",
-    "en": "voice_en",
-    "cn": "voice_cn",
-    "kr": "voice_kr",
-  }
+  const voiceMap = new Map([
+    ["jp", "voice"],
+    ["cn", "voice_cn"],
+    ["en", "voice_en"],
+    ["kr", "voice_kr"],
+  ]);
 
   const oldLangs = ["old_jp", "old_en", "old_cn"]
-  const regionalLangs = ["ita", "cn_topolect"]
-  const regionalLang_sans_suffix = ["ger", "rus", "fre"]
-  const teamrainbow = ["tachak", "blitz", "ash", "rfrost", 
-    "ela", "iana", "rdoc", "fuze"]
-  const dungeonmeshi = ["laios", "marcil", "chilc", "sensi"]
 
-  const nameMapping = {
-    "cn_topolect": "CN REG",
-    "linkage": "OG",
-    "old_en": "OLD EN",
-    "old_jp": "OLD JP", 
-    "old_cn": "OLD CN",
-  }
+  const regionalSuffixes = new Map([
+    ["cn_topolect", "cn_topolect"],
+    ["de", ""],
+    ["es", ""],
+    ["fr", ""],
+    ["it", "ita"],
+    ["ru", ""],
+  ]);
 
-  function getAudioFileUrl(lang) {
+  const nameMapping = new Map([
+    ["cn_topolect", "CN REG"],
+    ["linkage", "OG"],
+    ["old_cn", "OLD CN"],
+    ["old_en", "OLD EN"],
+    ["old_jp", "OLD JP"],
+  ]);
+
+  function getAudioFileUrl(lang: string | null) {
     if (lang === null) {
       return null;
     }
 
-    if (pathOverride != null && Object.keys(pathOverride).includes(lang))
+    if (pathOverride != null && Object.hasOwn(pathOverride, lang))
     {
-      return `${pathOverride[lang]}/${assetlocClean}.mp3`;
+      // :amiyaunconcerned:
+      let line_num = assetlocClean.slice(-3);
+      return pathOverride[lang].replace("###", line_num);
     }
     
     // One of the standard voice languages
-    if (Object.keys(voiceMap).includes(lang)) {
-      return `${sourceurl}/${voiceMap[selectedLang]}/${assetlocClean}.mp3`;
+    if (voiceMap.has(lang)) {
+      return `${sourceurl}/${voiceMap.get(lang)}/${assetlocClean}.ogg`;
     }
 
-    // Regional voice
-    if (regionalLangs.includes(lang)) {
-      const regionalAssetloc = assetlocClean.replace("/", `_${lang}/`);
-      return `${sourceurl}/voice_custom/${regionalAssetloc}.mp3`;
+    if (regionalSuffixes.has(lang)) {
+      let suff = regionalSuffixes.get(lang);
+      let assetReal = (suff === "")
+        ? assetlocClean
+        : assetlocClean.replace('/', `_${suff}/`);
+      return `${sourceurl}/voice_custom/${assetReal}.ogg`
     }
 
-    if (regionalLang_sans_suffix.includes(lang)) {
-      return `${sourceurl}/voice_custom/${assetlocClean}.mp3`;
-    }
-
-    // Specific file location for crossover characters
     if (lang === "linkage") {
-      if (teamrainbow.some(name => assetlocClean.includes(name))) {
-        return `${sourceurl}/${voiceMap["jp"]}/${assetlocClean}.mp3`
-      } 
-
-      if (dungeonmeshi.some(name => assetlocClean.includes(name))) {
-        return `${sourceurl}/${voiceMap["jp"]}/${assetlocClean}.mp3`
-      } 
-
       if (assetlocClean.includes("ncdeer")) {
-        return `${sourceurl}/${voiceMap["cn"]}/${assetlocClean}.mp3`
+        return `${sourceurl}/${voiceMap.get("cn")}/${assetlocClean}.ogg`
       }
 
-      if (assetlocClean.includes("palico")) {
-        return `${sourceurl}/${voiceMap["jp"]}/${assetlocClean}.mp3`
-      }
+      return `${sourceurl}/${voiceMap.get("jp")}/${assetlocClean}.ogg`
     }
     
     return null;
   }
 
-  let audiofile: string;
+  let audiofile: string | null;
   $: audiofile = getAudioFileUrl(selectedLang);
 
-  let selectedLang: string = null;
+  let selectedLang: string | null = null;
   let showAudio: boolean;
-  $: showAudio = selectedLang && audiofile;
+  $: showAudio = selectedLang != null && audiofile != null;
 
   function clickLang(lang: string) {
     if (lang === selectedLang) {
@@ -105,15 +98,15 @@
         class:selected={selectedLang === lang}
         class:no-width={oldLangs.includes(lang)}
       >{
-        Object.keys(nameMapping).includes(lang) ? 
-        nameMapping[lang] :
-        lang.toUpperCase()
+        nameMapping.has(lang)
+          ? nameMapping.get(lang)
+          : lang.toUpperCase()
       }</button>
     {/each}
   </div>
 
   {#if showAudio}
-  <audio controls src={audiofile} preload="auto">
+  <audio controls src={audiofile} preload="auto" autoplay>
     <a href={audiofile}> Download audio </a>
   </audio>
   {/if}

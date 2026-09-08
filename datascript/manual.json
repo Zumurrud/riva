@@ -8,7 +8,7 @@
                 "native": "茅野愛衣",
                 "global": "Ai Kayano"
             },
-            "baseurl": "https://raw.githubusercontent.com/PseudoMon/arknights-audio/9d94a6083acd5882c35047c33f06aeac978407c5/voice_old"        
+            "baseurl": "https://raw.githubusercontent.com/Zumurrud/riva-voices/main/old_voices/voice/char_204_platnm/CN_###.mp3"
         },
 
         "jesica": {
@@ -18,7 +18,7 @@
                 "native": "Rebecca LaChance",
                 "global": "Rebecca LaChance"
             },
-            "baseurl": "https://raw.githubusercontent.com/PseudoMon/arknights-audio/256053567424c27eac3e9ef8cc411f5d13cb8c21/voice_en"
+            "baseurl": "https://raw.githubusercontent.com/Zumurrud/riva-voices/main/old_voices/voice_en/char_235_jesica/CN_###.mp3"
         },
 
         "angel": {
@@ -28,7 +28,7 @@
                 "native": "Leonora Haig",
                 "global": "Leonora Haig"
             },
-            "baseurl": "https://raw.githubusercontent.com/PseudoMon/arknights-audio/cb13f0369f083541c7143cc4bb50b2eb448dc9fc/voice_en"
+            "baseurl": "https://raw.githubusercontent.com/Zumurrud/riva-voices/main/old_voices/voice_en/char_103_angel/CN_###.mp3"
         },
 
         "elysm": {
@@ -38,7 +38,7 @@
                 "native": "森久保祥太郎",
                 "global": "Showtaro Morikubo"
             },
-            "baseurl": "https://raw.githubusercontent.com/PseudoMon/arknights-audio/9f839553efcfdf31146543a6ad1ca5536a0c5790/voice"
+            "baseurl": "https://raw.githubusercontent.com/Zumurrud/riva-voices/main/old_voices/voice/char_401_elysm/CN_###.mp3"
         },
 
         "rope": {
@@ -48,7 +48,7 @@
                 "native": "藤村歩",
                 "global": "Ayumi Fujimura"
             },
-            "baseurl": "https://raw.githubusercontent.com/PseudoMon/arknights-audio/49321c40e27f9293cd0b2d0c7b446796be74ab1b/voice"
+            "baseurl": "https://raw.githubusercontent.com/Zumurrud/riva-voices/main/old_voices/voice/char_236_rope/CN_###.mp3"
         },
 
         "savage": {
@@ -58,7 +58,7 @@
                 "native": "藤村歩",
                 "global": "Ayumi Fujimura"
             },
-            "baseurl": "https://raw.githubusercontent.com/PseudoMon/arknights-audio/49321c40e27f9293cd0b2d0c7b446796be74ab1b/voice"
+            "baseurl": "https://raw.githubusercontent.com/Zumurrud/riva-voices/main/old_voices/voice/char_230_savage/CN_###.mp3"
         },
 
         "hsguma": {
@@ -68,7 +68,7 @@
                 "native": "蔡欣纯",
                 "global": "X.Chai"
             },
-            "baseurl": "https://raw.githubusercontent.com/PseudoMon/arknights-audio/5e1b475f1a8ac48144c1a790224ee8bc8ac130b0/voice_cn"
+            "baseurl": "https://raw.githubusercontent.com/Zumurrud/riva-voices/main/old_voices/voice_cn/char_136_hsguma/CN_###.mp3"
         },
 
         "mberry": {
@@ -78,7 +78,7 @@
                 "native": "蔡欣纯",
                 "global": "X.Chai"
             },
-            "baseurl": "https://raw.githubusercontent.com/PseudoMon/arknights-audio/5e1b475f1a8ac48144c1a790224ee8bc8ac130b0/voice_cn"
+            "baseurl": "https://raw.githubusercontent.com/Zumurrud/riva-voices/main/old_voices/voice_cn/char_473_mberry/CN_###.mp3"
         },
 
         "red": {
@@ -88,7 +88,7 @@
                 "native": "蔡欣纯",
                 "global": "X.Chai"
             },
-            "baseurl": "https://raw.githubusercontent.com/PseudoMon/arknights-audio/5e1b475f1a8ac48144c1a790224ee8bc8ac130b0/voice_cn"
+            "baseurl": "https://raw.githubusercontent.com/Zumurrud/riva-voices/main/old_voices/voice_cn/char_144_red/CN_###.mp3"
         },
 
         "catap": {
@@ -98,7 +98,7 @@
                 "native": "伽月",
                 "global": "Hart Lau"
             },
-            "baseurl": "https://raw.githubusercontent.com/PseudoMon/arknights-audio/5e1b475f1a8ac48144c1a790224ee8bc8ac130b0/voice_cn"
+            "baseurl": "https://raw.githubusercontent.com/Zumurrud/riva-voices/main/old_voices/voice_cn/char_282_catap/CN_###.mp3"
         }
     }
 }

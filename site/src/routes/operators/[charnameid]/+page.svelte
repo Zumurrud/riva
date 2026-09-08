@@ -8,12 +8,11 @@
   import Voiceline from "./Voiceline.svelte";
 
   export let data;
-  let photosrc: string;
-  $: photosrc = data === null ? null : getAvatarUrl(data.nameid, base)
+  let photosrc = getAvatarUrl(data.nameid, base);
 </script>
 
 <svelte:head>
-  <title>{data.names.en} - TLVR</title>
+  <title>{data.names.en} - RIVA</title>
 </svelte:head>
 
 <main>

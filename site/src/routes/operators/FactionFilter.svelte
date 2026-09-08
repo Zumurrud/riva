@@ -9,7 +9,7 @@
   let selectedNations: string[] = [];
   $: dispatch('nationsChange', selectedNations)
 
-  function selectNation(nation) {
+  function selectNation(nation: string) {
     if (!selectedNations.includes(nation)) {
       selectedNations = [...selectedNations, nation];
     }
@@ -27,7 +27,7 @@
       class:selected={selectedNations.includes(nation)} 
     >
       <img 
-        src={`${base}/images/factions/${nation}.webp`}
+        src={`${base}/images/factions/${nation}.webp`} alt={nation}
       >
     </button>
   {/each}
