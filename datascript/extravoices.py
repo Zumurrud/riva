@@ -1,6 +1,10 @@
-from os import path
-from utils import load_json, save_json
-from transformer import load_wordtables, get_voices, get_chardata
+import logging
+
+from transformer import get_chardata
+from utils import save_json
+
+logging.basicConfig()
+logger = logging.getLogger(__name__)
 
 def grab_unique_voices_ids(charlist, wordtables):
     unique_voices = []
@@ -44,11 +48,8 @@ def get_new_names(oldnames, newid):
 
     if extraid == "1" and oldnames["en"] != "Chongyue":
         nameaddon = "E2"
-        # it's xiaohei or mudrock
-
     elif len(newname_split) < 4:
-        print("Found unique voice that's not common addon but no identifier!")
-
+        logger.warning(f"Found unique voice with uncommon addon but no identifier: {newid}")
     else:
         nameaddon = newname_split[-1].split("#")[0].upper()
 
@@ -77,7 +78,7 @@ def create_and_fill_in_extra_voices(charlist, wordtables):
 
         chardata["nameid"] = newid
         save_json(chardata, f"chardata/{newchar['newid']}.json")
-        print(f"Written chardata for {newchar['newid']}")
+        logger.debug(f"Wrote chardata for {newchar['newid']}")
 
         oldindex = get_char_index(charlist, oldid)
         newindex = get_char_index(charlist, newid)
@@ -91,7 +92,7 @@ def create_and_fill_in_extra_voices(charlist, wordtables):
             newchardata["fullid"] = newchar["newid"]
 
             if nameaddon == "ADDON":
-                newchardata["base"] = charlist[oldindex]["nameid"] 
+                newchardata["base"] = charlist[oldindex]["nameid"]
 
             charlist.insert(oldindex + 1, newchardata)
 

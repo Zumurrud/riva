@@ -1,0 +1,24 @@
+json_prefix := 'https://raw.githubusercontent.com/ArknightsAssets/ArknightsGamedata/refs/heads/master'
+
+ensure-directory-structure:
+  mkdir -p cn en jp kr \
+           images/avatars images/factions \
+           ../site/static/data/chardata
+
+update-json: ensure-directory-structure
+	wget -P cn \
+		{{json_prefix}}/cn/gamedata/excel/charword_table.json \
+		{{json_prefix}}/cn/gamedata/excel/character_table.json
+	wget -P en \
+		{{json_prefix}}/en/gamedata/excel/charword_table.json \
+		{{json_prefix}}/en/gamedata/excel/character_table.json
+	wget -P jp \
+		{{json_prefix}}/jp/gamedata/excel/charword_table.json \
+		{{json_prefix}}/jp/gamedata/excel/character_table.json
+	wget -P kr \
+		{{json_prefix}}/kr/gamedata/excel/charword_table.json \
+		{{json_prefix}}/kr/gamedata/excel/character_table.json
+
+do-the-thing: ensure-directory-structure
+  uv run --with requests doeverything.py
+  cp vadata-alt.json miscdata.json welcome.json ../site/static/data
