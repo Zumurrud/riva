@@ -1,0 +1,644 @@
+{
+    "charid": "char_4208_wintim",
+    "nameid": "wintim",
+    "names": {
+        "en": "Snegurochka",
+        "jp": "スネグーラチカ",
+        "kr": "스네구로치카",
+        "cn": "冬时"
+    },
+    "voices": [
+        {
+            "id": "char_4208_wintim_CN_001",
+            "title": {
+                "en": "Appointed as Assistant",
+                "jp": "秘書任命",
+                "kr": "어시스턴트 임명",
+                "cn": "任命助理"
+            },
+            "text": {
+                "en": "The data from Experiment 36? Second cabinet from the left, in the blue folder. The error report? The document at the very top of the pile behind you. As for the mathematical formulae, they are in the left drawer of your desk. Are there any other files you need? Please, feel free to ask for my help.",
+                "jp": "第三十六回の実験データですか？左から二つ目の棚にある青いフォルダーです。失敗報告書？ドクターの後ろにあるファイルの山の一番上に積まれていますよ。演算公式なら、執務机の左の引き出しに……他に探しているものはありますか？なんでも聞いてください。",
+                "kr": "제36회 실험 데이터 말씀이신가요? 왼쪽에서 두 번째 선반에 있는 파란색 폴더입니다. 실패 보고서요? 박사님 뒤에 있는 파일 더미 맨 위에 있습니다. 연산 공식이라면 집무 책상 왼쪽 서랍에…… 또 찾으시는 건 없나요? 뭐든지 물어보세요.",
+                "cn": "第三十六次实验的数据？从左边数，第二个柜子里的蓝色文件夹就是。失误报告？在您身后文件堆的最上面。演算公式在您书桌的左抽屉......您还有什么要找的文件吗？都可以问我。"
+            },
+            "asset": "char_4208_wintim/CN_001"
+        },
+        {
+            "id": "char_4208_wintim_CN_002",
+            "title": {
+                "en": "Talk 1",
+                "jp": "会話1",
+                "kr": "대화 1",
+                "cn": "交谈1"
+            },
+            "text": {
+                "en": "Please don't mind me, Rhodes Island's laboratories are excellent, and there have been zero issues with the equipment. I keep rearranging it because… Ahem, I never thought I would have a workbench of my own again.",
+                "jp": "ご安心ください。ロドスの研究室はすこぶる良い環境ですし、器材にも問題はありません。私が最近何度も整理しているのは……こほん、その……まさか、また自分の研究机を持てる日が来るなんて思っていなかったからです。",
+                "kr": "안심하세요. 로도스 아일랜드의 연구실 환경은 매우 좋고, 실험 기구도 문제없습니다. 제가 최근에 몇 번이나 정리를 하고 있는 건…… 크흠, 그…… 설마, 제 연구 책상을 다시 갖게 될 날이 올 거라고는 생각 못 했기 때문이에요.",
+                "cn": "您放心，罗德岛的实验室很好，实验器材也没有任何问题，我最近一直在反复地整理这些只是因为......咳，我没想到，居然能再次拥有一张属于自己的研究桌。"
+            },
+            "asset": "char_4208_wintim/CN_002"
+        },
+        {
+            "id": "char_4208_wintim_CN_003",
+            "title": {
+                "en": "Talk 2",
+                "jp": "会話2",
+                "kr": "대화 2",
+                "cn": "交谈2"
+            },
+            "text": {
+                "en": "Oh! My apologies for bumping into you, my glasses fogged up suddenly… I thought I could walk back to my workbench like this, but I was carrying so many things, I had no free hand to wipe my glasses. I'll just stand here until they clear up…",
+                "jp": "あっ！すみません、ぶつかってしまって……メガネが突然曇ってしまって。ちゃんと席まで歩けると思ったんですが、手が塞がっていたせいでメガネも拭けなかったんです。やはりしばらくここで立っておこう……",
+                "kr": "앗! 죄송합니다. 부딪혀버리다니…… 안경에 갑자기 김이 서려서요. 제대로 자리까지 갈 수 있을 거라고 생각했는데, 손이 안 비어서 안경도 못 닦았네요. 역시 잠깐 여기 서 있자……",
+                "cn": "唔！抱歉撞到您，我的眼镜突然起雾了......原本以为自己能正常走到工位上，但是手上的东西太多又没法摘掉眼镜擦一擦，我还是先在原地站一会儿吧......"
+            },
+            "asset": "char_4208_wintim/CN_003"
+        },
+        {
+            "id": "char_4208_wintim_CN_004",
+            "title": {
+                "en": "Talk 3",
+                "jp": "会話3",
+                "kr": "대화 3",
+                "cn": "交谈3"
+            },
+            "text": {
+                "en": "Do I need help? No, I am fine, I know how to key data into the terminal. It's just that… Once this data is in the terminal's system, others can delete it or classify it with a press of a button. Writing it down on paper allows me to feel a little more relaxed.",
+                "jp": "お手伝いですか？大丈夫ですよ。データ入力とアップロードのやり方は知っています。ただ……端末の中のデータは、誰かの指先ひとつで簡単に消されたり、ロックされたりするでしょう？紙に書いておくと、なんだか安心します。",
+                "kr": "도와주신다고요? 괜찮아요. 데이터 입력과 업로드 방법은 알고 있어요. 다만…… 단말기 속 데이터는 누군가의 손가락 하나로 간단히 지워지거나 잠겨 버리잖아요? 종이에 써 두면, 마음이 놓여요.",
+                "cn": "帮忙？不用，我会在终端上输入和上传数据，只是......那些存在终端里的数据，别人点一下按键就能删除或是封禁，用笔写在纸上，能给我一些安心的感觉。"
+            },
+            "asset": "char_4208_wintim/CN_004"
+        },
+        {
+            "id": "char_4208_wintim_CN_005",
+            "title": {
+                "en": "Talk after Promotion 1",
+                "jp": "昇進後会話1",
+                "kr": "1차 정예화 후 대화",
+                "cn": "晋升后交谈1"
+            },
+            "text": {
+                "en": "The polar nights of Ursus are near-endless, to the degree that even if I were to light every lamp, I would still find myself yearning desperately for the tiniest sliver of daylight, the faintest glimmer of hope. Perhaps I followed you here thinking only of proving myself more than a failure in life.",
+                "jp": "ウルサスの極夜は本当に長く終わりがないようで、明かりを全部つけても、光や希望が訪れる日まで待てないと思うくらいでした。あなたたちと一緒にここまで来たのは、自分がただの役立たずじゃないって、証明したかっただけなのかもしれません。",
+                "kr": "우르수스의 극야는 정말 끝이 없는 것처럼 길어서, 불을 전부 켜도 빛이나 희망이 찾아오는 날까지 기다릴 수 없을 것 같았어요. 당신들과 함께 여기까지 온 건 그저, 제가 쓸모없는 사람이 아니라는 걸 증명하고 싶었기 때문일지도 몰라요.",
+                "cn": "乌萨斯的极夜实在是太漫长了，漫长到即使把所有的灯都打开，我还是觉得自己等不到哪怕一点光亮、一点希望。跟着你们一路走到这里，我或许只是想证明，自己不是个一事无成的废物吧。"
+            },
+            "asset": "char_4208_wintim/CN_005"
+        },
+        {
+            "id": "char_4208_wintim_CN_006",
+            "title": {
+                "en": "Talk after Promotion 2",
+                "jp": "昇進後会話2",
+                "kr": "2차 정예화 후 대화",
+                "cn": "晋升后交谈2"
+            },
+            "text": {
+                "en": "Back in the Far North, I thought that by following you, I would escape that endless expanse of ice and snow. Even if I were to leave a suicide note, it would have only made for kindling. I had to go with you. You people are mad for doing what you did in Ursus. But perhaps I, too, have long fallen to madness.",
+                "jp": "クライニ・セーヴェルにいた頃は、あなたたちについていけば、あの終わらない雪から逃れられる気がしていました。もしあそこに残っていたら、遺書さえ暖を取るために燃やされたでしょう。私は絶対にあなたたちについていかねばならなかったんです。ロドスのウルサスでの行動は狂気そのものでしたが、私も、とっくに狂っていたのかもしれません。",
+                "kr": "크라이니 세베르에 있었을 때는, 당신들을 따라가면 그 끝없는 눈으로부터 도망칠 수 있을 것 같았어요. 만약 그곳에 남아 있었다면, 유서마저도 몸을 녹이기 위한 땔감이 되었을 거예요. 저는 반드시 당신들을 따라가야만 했어요. 로도스 아일랜드가 우르수스에서 했던 행동은 광기 그 자체였지만, 저도 진작에 미쳐 있던 건지도 모르죠.",
+                "cn": "在远北时，我觉得跟你们走能逃开那无穷无尽的雪，要是留下或许连遗书都会被当成柴火烧了取暖。我一定要跟你们走。在乌萨斯做那些事，你们简直就是疯子，但或许，我也早已经疯了。"
+            },
+            "asset": "char_4208_wintim/CN_006"
+        },
+        {
+            "id": "char_4208_wintim_CN_007",
+            "title": {
+                "en": "Talk after Trust Increase 1",
+                "jp": "信頼上昇後会話1",
+                "kr": "신뢰도 상승 후 대화 1",
+                "cn": "信赖提升后交谈1"
+            },
+            "text": {
+                "en": "Back in Chernobog, Professor Ilia would try to cram knowledge into my brain as quickly as possible, Director Kal'tsit and the others would perform their calculations without rest, while every day I lived in fear of the punishments I would suffer for any mistake… Who would have thought those would be the best days of my life?",
+                "jp": "チェルノボーグにいた頃、イリヤ先生は焦るように私の頭に知識を詰め込んできて、ケルシー所長もみんなも寝る間もなく計算し続けていて、私は毎日、ミスをしたらどんな罰を受けるのかと怯えていました……まさか、あれが今までの人生で一番幸せな日々だったなんて思いもしませんでした。",
+                "kr": "체르노보그에 있었을 때, 일리아 선생님은 초조한 듯 제 머릿속에 지식을 밀어 넣으셨고, 켈시 소장님과 모두들 잠도 휴식도 없이 계속 계산만 했죠. 그래서 저는 매일 실수라도 하면 어떤 벌을 받게 될지 두려웠어요…… 설마 그게 지금까지의 인생에서 가장 행복했던 나날이 될 거라는 건 생각지도 못했어요.",
+                "cn": "在切城时，伊利亚老师迫切地想把知识塞进我的脑子，凯尔希所长和大家不眠不休地演算，我每天都在担心自己要是出错会受到怎样的惩罚......没想到那是我迄今为止最美好的一段日子。"
+            },
+            "asset": "char_4208_wintim/CN_007"
+        },
+        {
+            "id": "char_4208_wintim_CN_008",
+            "title": {
+                "en": "Talk after Trust Increase 2",
+                "jp": "信頼上昇後会話2",
+                "kr": "신뢰도 상승 후 대화 2",
+                "cn": "信赖提升后交谈2"
+            },
+            "text": {
+                "en": "'The youngest of the genius researchers'. I once held such a title with pride, but if you were to swing a pick anywhere in the Far North and break the frozen earth, you would find the Originium dust the corpses of those geniuses have become. At times, I am glad I managed to escape that place... but have I truly escaped?",
+                "jp": "「最年少の天才研究員」――かつてはその肩書きを誇らしく思っていました。でもクライニ・セーヴェルでは、適当な場所の凍土をピッケルで叩き割れば、天才のなれの果てである源石の塵が覗きます。あそこから逃げられた自分が、これ以上ない幸運だったのではと、時々思うんです……でも、本当に逃げられたんでしょうか？",
+                "kr": "'최연소 천재 연구원'…… 한때는 그 직함을 자랑스럽게 생각했어요. 하지만 크라이니 세베르에서는 아무 얼어붙은 땅이나 곡괭이로 파헤치면, 천재의 결말인 오리지늄 분진을 볼 수 있죠. 거기서 도망친 제가, 더 없이 운이 좋았다고 가끔 생각해요…… 그런데, 정말 도망친 걸까요?",
+                "cn": "“最年轻的天才研究员”，我也曾为这样的名号骄傲过，可是在远北随便用镐子砸开冻土，都能翻出天才的尸体化成的源石粉尘。有时我会庆幸自己居然能逃离那个地方......我真的逃离了吗？"
+            },
+            "asset": "char_4208_wintim/CN_008"
+        },
+        {
+            "id": "char_4208_wintim_CN_009",
+            "title": {
+                "en": "Talk after Trust Increase 3",
+                "jp": "信頼上昇後会話3",
+                "kr": "신뢰도 상승 후 대화 3",
+                "cn": "信赖提升后交谈3"
+            },
+            "text": {
+                "en": "Alcohol is a fine thing. It warms the body and dulls the mind, and you need not think about whatever is happening outside... It is too warm here, and I do not rely on it to get through the day now. What should I rely on next, Doctor? Can you tell me?",
+                "jp": "お酒って良いものですよね。体を温めて、頭を鈍らせて、外で何が起きているかを考えずに済みます……でも、今はここがあまりに暖かくて、もうお酒に頼らなくても大丈夫そうです。ドクター、これから私は何を頼りにすればいいのでしょう？教えていただけますか？",
+                "kr": "술은 참 좋은 물건이죠. 몸을 데워 주고 머리를 둔하게 만들어서, 밖에서 무슨 일이 일어나는지 생각 안 해도 되니까요…… 하지만 지금은 이곳이 너무나 따뜻해서, 이제 술에 의지하지 않아도 괜찮을 것 같아요. 박사님, 이제 저는 무엇에 의지하면 좋을까요? 가르쳐 주시겠어요?",
+                "cn": "酒是个好东西，能让身子暖和起来，也能把脑子搅浑，好让人不用去想外面发生的任何事......这里太暖和，我现在不用再靠它度日了，博士，接下来我该依靠什么呢？您能告诉我吗？"
+            },
+            "asset": "char_4208_wintim/CN_009"
+        },
+        {
+            "id": "char_4208_wintim_CN_010",
+            "title": {
+                "en": "Idle",
+                "jp": "放置",
+                "kr": "방치",
+                "cn": "闲置"
+            },
+            "text": {
+                "en": "I am simply transcribing some data, and you have fallen asleep. Is the sound of my writing really so soothing?",
+                "jp": "私がデータを書き写している間に寝入っていましたよ。ペンの走る音は人を安心させるのでしょうか？",
+                "kr": "제가 데이터를 옮겨 적는 사이에 잠드셨어요. 글씨 쓰는 소리가 사람을 안심시키는 걸까요?",
+                "cn": "我誊抄了一会儿数据，您就睡着了。是写字的声音让人感到安心吗？"
+            },
+            "asset": "char_4208_wintim/CN_010"
+        },
+        {
+            "id": "char_4208_wintim_CN_011",
+            "title": {
+                "en": "Onboard",
+                "jp": "入職会話",
+                "kr": "오퍼레이터 입사",
+                "cn": "干员报到"
+            },
+            "text": {
+                "en": "I thank all of Rhodes Island, Doctor, for taking me in, and I also thank you for… giving me a laboratory where I will not be disturbed.",
+                "jp": "ドクター、私を受け入れてくださってありがとうございます。そして、誰にも邪魔されない研究室を与えてくださって……本当に、ありがとうございます。",
+                "kr": "박사님, 저를 받아주셔서 감사해요. 그리고 누구한테도 방해받지 않는 연구실도 주셔서…… 정말, 감사합니다.",
+                "cn": "博士，感谢你们收留了我，也感谢你们给了我一间......不会被打扰的实验室。"
+            },
+            "asset": "char_4208_wintim/CN_011"
+        },
+        {
+            "id": "char_4208_wintim_CN_012",
+            "title": {
+                "en": "Watching Battle Record",
+                "jp": "経験値上昇",
+                "kr": "작전기록 학습",
+                "cn": "观看作战记录"
+            },
+            "text": {
+                "en": "It seems I am not the only one giving everything to survive. Everyone does the same.",
+                "jp": "どうやら頑張っているのは、私だけではなかったみたいですね。生きていくために、誰もが必死に努力しているんです。",
+                "kr": "아무래도 저만 열심히 하는 건 아니었나 보네요. 살아가기 위해서, 모두가 필사적으로 노력하고 있어요.",
+                "cn": "看来不止是我，为了能活下去，所有人都是如此地努力。"
+            },
+            "asset": "char_4208_wintim/CN_012"
+        },
+        {
+            "id": "char_4208_wintim_CN_013",
+            "title": {
+                "en": "Promotion 1",
+                "jp": "昇進Ⅰ",
+                "kr": "1차 정예화 (승진)",
+                "cn": "精英化晋升1"
+            },
+            "text": {
+                "en": "Receiving such a formal memo scared me half to death, but thankfully, it was not a directive to cease my experiments… You have my deepest gratitude, Doctor. I shall continue with my research.",
+                "jp": "最初はこんなにフォーマルな書き出しの通知にびっくりしましたが、研究打ち切りの知らせでなくてほっとしました……本当にありがとうございます。これからも引き続き研究に励みます。",
+                "kr": "처음에는 이렇게 격식 있는 서두의 통지가 와서 깜짝 놀랐지만, 연구 중단 소식이 아니어서 안심했어요…… 정말 감사합니다. 앞으로도 계속 연구에 힘쓰겠습니다.",
+                "cn": "刚收到开头这么正式的通知时我吓了一跳，还好，不是中止研究的消息......多谢您，我会继续我的研究的。"
+            },
+            "asset": "char_4208_wintim/CN_013"
+        },
+        {
+            "id": "char_4208_wintim_CN_014",
+            "title": {
+                "en": "Promotion 2",
+                "jp": "昇進Ⅱ",
+                "kr": "2차 정예화 (승진)",
+                "cn": "精英化晋升2"
+            },
+            "text": {
+                "en": "I have been looking for you all day, Doctor. Look, my paper was published in a Columbian journal. My research is heading in the right direction! Huh? I am smiling, am I…? It seems I truly am happy now.",
+                "jp": "ドクター、探しましたよ。見てください、私の論文がクルビアの学術誌に掲載されました。研究の方向性は間違っていなかったんです！え？私……笑っていますか？そっか、本当に嬉しいんだ、私。",
+                "kr": "박사님, 찾고 있었어요. 이것 좀 보세요. 제 논문이 컬럼비아 학술지에 실렸어요. 연구 방향성이 틀리지 않았던 거예요! 네? 저…… 웃고 있나요? 그렇구나. 진짜 기쁜 거구나, 나.",
+                "cn": "博士，我找了您很久，您看，我的论文发表在了哥伦比亚的学术期刊上，我的研究方向是正确的！啊？我在笑吗......看来我是真的很开心。"
+            },
+            "asset": "char_4208_wintim/CN_014"
+        },
+        {
+            "id": "char_4208_wintim_CN_017",
+            "title": {
+                "en": "Added to Squad",
+                "jp": "編成",
+                "kr": "팀 배치",
+                "cn": "编入队伍"
+            },
+            "text": {
+                "en": "The materials are ready.",
+                "jp": "必要なものは、すでに揃っています。",
+                "kr": "필요한 건 이미 다 준비되어 있어요.",
+                "cn": "需要的材料已经准备好了。"
+            },
+            "asset": "char_4208_wintim/CN_017"
+        },
+        {
+            "id": "char_4208_wintim_CN_018",
+            "title": {
+                "en": "Appointed as Squad Leader",
+                "jp": "隊長任命",
+                "kr": "팀장 임명",
+                "cn": "任命队长"
+            },
+            "text": {
+                "en": "I am to oversee this project? Understood.",
+                "jp": "今回のプロジェクトは、私が担当するんですか？わかりました。",
+                "kr": "이번 프로젝트는 제가 담당하나요? 알겠습니다.",
+                "cn": "我来负责这次的项目吗？好，明白了。"
+            },
+            "asset": "char_4208_wintim/CN_018"
+        },
+        {
+            "id": "char_4208_wintim_CN_019",
+            "title": {
+                "en": "Depart",
+                "jp": "作戦準備",
+                "kr": "작전 출발",
+                "cn": "行动出发"
+            },
+            "text": {
+                "en": "Readings are coming through… Beginning recording and graphing.",
+                "jp": "測定器の示すデータ……読み取りとグラフの作成を始めます。",
+                "kr": "측정기 데이터…… 판독과 그래프 작성을 시작하겠습니다.",
+                "cn": "仪器显示的数据......开始读取并绘制图表。"
+            },
+            "asset": "char_4208_wintim/CN_019"
+        },
+        {
+            "id": "char_4208_wintim_CN_020",
+            "title": {
+                "en": "Begin Operation",
+                "jp": "戦闘開始",
+                "kr": "작전 개시",
+                "cn": "行动开始"
+            },
+            "text": {
+                "en": "Remember, sample the data every twenty minutes.",
+                "jp": "いいですか、二十分ごとに、数値を記録してください。",
+                "kr": "아시겠어요? 20분마다 수치를 기록해 주세요.",
+                "cn": "注意，每隔二十分钟记录一次数值。"
+            },
+            "asset": "char_4208_wintim/CN_020"
+        },
+        {
+            "id": "char_4208_wintim_CN_021",
+            "title": {
+                "en": "Selecting Operator 1",
+                "jp": "選択時1",
+                "kr": "오퍼레이터 선택 1",
+                "cn": "选中干员1"
+            },
+            "text": {
+                "en": "What is your hypothesis?",
+                "jp": "どんな仮説を立てたんですか？",
+                "kr": "어떤 가설을 세우셨나요?",
+                "cn": "您做出了什么假设？"
+            },
+            "asset": "char_4208_wintim/CN_021"
+        },
+        {
+            "id": "char_4208_wintim_CN_022",
+            "title": {
+                "en": "Selecting Operator 2",
+                "jp": "選択時2",
+                "kr": "오퍼레이터 선택 2",
+                "cn": "选中干员2"
+            },
+            "text": {
+                "en": "Do you have a new conjecture?",
+                "jp": "新しい予想があったんですね？",
+                "kr": "새로운 예측이 있나요?",
+                "cn": "您有了新的猜想？"
+            },
+            "asset": "char_4208_wintim/CN_022"
+        },
+        {
+            "id": "char_4208_wintim_CN_023",
+            "title": {
+                "en": "Deployment 1",
+                "jp": "配置1",
+                "kr": "배치 1",
+                "cn": "部署1"
+            },
+            "text": {
+                "en": "Control group ready.",
+                "jp": "対照群の設定、完了しました。",
+                "kr": "대조군 설정, 완료했습니다.",
+                "cn": "对照组设置完毕。"
+            },
+            "asset": "char_4208_wintim/CN_023"
+        },
+        {
+            "id": "char_4208_wintim_CN_024",
+            "title": {
+                "en": "Deployment 2",
+                "jp": "配置2",
+                "kr": "배치 2",
+                "cn": "部署2"
+            },
+            "text": {
+                "en": "Initiating data collection.",
+                "jp": "データ収集、始めます。",
+                "kr": "데이터 수집, 시작하겠습니다.",
+                "cn": "数据采集现在开始。"
+            },
+            "asset": "char_4208_wintim/CN_024"
+        },
+        {
+            "id": "char_4208_wintim_CN_025",
+            "title": {
+                "en": "In Battle 1",
+                "jp": "作戦中1",
+                "kr": "작전 중 1",
+                "cn": "作战中1"
+            },
+            "text": {
+                "en": "Removing outliers.",
+                "jp": "異常値を除外。",
+                "kr": "이상 수치 제외.",
+                "cn": "剔除异常值。"
+            },
+            "asset": "char_4208_wintim/CN_025"
+        },
+        {
+            "id": "char_4208_wintim_CN_026",
+            "title": {
+                "en": "In Battle 2",
+                "jp": "作戦中2",
+                "kr": "작전 중 2",
+                "cn": "作战中2"
+            },
+            "text": {
+                "en": "Calculating standard deviation.",
+                "jp": "標準偏差を計算。",
+                "kr": "표준편차 계산.",
+                "cn": "计算标准差。"
+            },
+            "asset": "char_4208_wintim/CN_026"
+        },
+        {
+            "id": "char_4208_wintim_CN_027",
+            "title": {
+                "en": "In Battle 3",
+                "jp": "作戦中3",
+                "kr": "작전 중 3",
+                "cn": "作战中3"
+            },
+            "text": {
+                "en": "Marking significant trends.",
+                "jp": "重要傾向をマーク。",
+                "kr": "중요 경향 마크.",
+                "cn": "标注关键趋势。"
+            },
+            "asset": "char_4208_wintim/CN_027"
+        },
+        {
+            "id": "char_4208_wintim_CN_028",
+            "title": {
+                "en": "In Battle 4",
+                "jp": "作戦中4",
+                "kr": "작전 중 4",
+                "cn": "作战中4"
+            },
+            "text": {
+                "en": "Performing data derivation.",
+                "jp": "推算過程を記録。",
+                "kr": "추산 과정 기록.",
+                "cn": "记录推导过程。"
+            },
+            "asset": "char_4208_wintim/CN_028"
+        },
+        {
+            "id": "char_4208_wintim_CN_029",
+            "title": {
+                "en": "4-star Result",
+                "jp": "高難度作戦クリア",
+                "kr": "고난이도 작전 종료",
+                "cn": "完成高难行动"
+            },
+            "text": {
+                "en": "L-Look, Doctor! We succeeded! Has… Has the day finally come?",
+                "jp": "ドクター、み、見てください！私たち、成功しました。まさかこの日が……本当に来るなんて！",
+                "kr": "박사님, 보, 보세요! 저희 성공했어요. 설마 이런 날이…… 진짜로 오다니!",
+                "cn": "博士，您、您看！我们成功了，竟然真的......有这一天？"
+            },
+            "asset": "char_4208_wintim/CN_029"
+        },
+        {
+            "id": "char_4208_wintim_CN_030",
+            "title": {
+                "en": "3-star Result",
+                "jp": "★3で戦闘終了",
+                "kr": "3★ 작전 종료",
+                "cn": "3星结束行动"
+            },
+            "text": {
+                "en": "The hypothesis holds. The report will be on your desk shortly.",
+                "jp": "仮説は成立しました。報告書はすぐにドクターの机に置いておきます。",
+                "kr": "가설 성립입니다. 보고서는 곧 박사님 책상 위에 두겠습니다.",
+                "cn": "假设成立，报告一会儿就放到您的桌上。"
+            },
+            "asset": "char_4208_wintim/CN_030"
+        },
+        {
+            "id": "char_4208_wintim_CN_031",
+            "title": {
+                "en": "Sub 3-star Result",
+                "jp": "★2以下戦闘終了",
+                "kr": "비 3★ 작전 종료",
+                "cn": "非3星结束行动"
+            },
+            "text": {
+                "en": "I will begin investigating the error at once. You may put your faith in me.",
+                "jp": "今すぐ問題点を洗い出してきます、私を信じてください。",
+                "kr": "지금 바로 문제점을 밝혀내겠습니다. 믿어주세요.",
+                "cn": "我这就去排查问题点，请您相信我。"
+            },
+            "asset": "char_4208_wintim/CN_031"
+        },
+        {
+            "id": "char_4208_wintim_CN_032",
+            "title": {
+                "en": "Operation Failure",
+                "jp": "作戦失敗",
+                "kr": "작전 실패",
+                "cn": "行动失败"
+            },
+            "text": {
+                "en": "A failure? No, no, no, how could this be? Please, a little more time! I promise no more problems next time!",
+                "jp": "失敗した？い、いや、そんなはずありません。もう少しだけ、時間をください！次こそは絶対に成功させます！",
+                "kr": "실패라고요? 아, 아니, 그럴 리가 없어요. 조금만 더 시간을 주세요! 다음엔 반드시 성공시킬게요!",
+                "cn": "失败了？不、不，怎么会？请再给我点时间，下一次肯定不会出什么问题了！"
+            },
+            "asset": "char_4208_wintim/CN_032"
+        },
+        {
+            "id": "char_4208_wintim_CN_033",
+            "title": {
+                "en": "Assigned to Facility",
+                "jp": "基地配属",
+                "kr": "시설에 배치",
+                "cn": "进驻设施"
+            },
+            "text": {
+                "en": "Such a warm room…",
+                "jp": "なんて暖かい部屋……",
+                "kr": "정말 따뜻한 방이네요……",
+                "cn": "好温暖的房间......"
+            },
+            "asset": "char_4208_wintim/CN_033"
+        },
+        {
+            "id": "char_4208_wintim_CN_034",
+            "title": {
+                "en": "Tap",
+                "jp": "タッチ1",
+                "kr": "터치",
+                "cn": "戳一下"
+            },
+            "text": {
+                "en": "Oh?! Sorry, I thought you were someone else. Forgive me for hitting you with that file…",
+                "jp": "え？どなたかと思ったら。すみません、ファイルで殴ってしまって……",
+                "kr": "어? 누구신가 했네요. 죄송해요, 파일로 때려버려서……",
+                "cn": "欸？我以为是谁，抱歉用文件砸了您......"
+            },
+            "asset": "char_4208_wintim/CN_034"
+        },
+        {
+            "id": "char_4208_wintim_CN_036",
+            "title": {
+                "en": "Trust Tap",
+                "jp": "信頼タッチ",
+                "kr": "신뢰도 터치",
+                "cn": "信赖触摸"
+            },
+            "text": {
+                "en": "Would you care for a warm cup of tea?",
+                "jp": "温かいお茶はいかがですか？",
+                "kr": "따뜻한 차 한 잔 드시겠어요?",
+                "cn": "要来一杯热茶吗？"
+            },
+            "asset": "char_4208_wintim/CN_036"
+        },
+        {
+            "id": "char_4208_wintim_CN_037",
+            "title": {
+                "en": "Title",
+                "jp": "タイトルコール",
+                "kr": "타이틀",
+                "cn": "标题"
+            },
+            "text": {
+                "en": "Arknights.",
+                "jp": "アークナイツ。",
+                "kr": "명일방주.",
+                "cn": "明日方舟。"
+            },
+            "asset": "char_4208_wintim/CN_037"
+        },
+        {
+            "id": "char_4208_wintim_CN_038",
+            "title": {
+                "en": "New Year's blessing",
+                "jp": "新年",
+                "kr": "새해",
+                "cn": "新年祝福"
+            },
+            "text": {
+                "en": "We never celebrated this holiday when I was at the research institute. The passage of time held no special meaning to us, aside from the little headway we were making on our projects. But now… I wish to believe it means the day I see results is all the more closer.",
+                "jp": "研究所では、この日を特別に祝うことはありませんでした。プロジェクトが進まない現実を突きつけられること以外、時間の流れに意味なんてなかったからです。でも今は……そうですね、次の成果の出る日に、また少し近づいた気がします。",
+                "kr": "연구소에서는 이날을 특별히 축하하지 않았어요. 프로젝트가 진척되지 않았다는 현실을 마주하는 것 외에는, 시간의 흐름에 의미 따윈 없었으니까요. 하지만 지금은…… 그러네요, 다음 성과가 나올 날이, 또 조금 가까워진 느낌이 들어요.",
+                "cn": "在研究所时我们不会专门庆祝这个节日，除了提醒我们项目毫无进展之外，时间的流逝并没有什么特殊的意义。不过现在......我很愿意相信，它代表着我离下一个出成果的日子又近了一些。"
+            },
+            "asset": "char_4208_wintim/CN_038"
+        },
+        {
+            "id": "char_4208_wintim_CN_042",
+            "title": {
+                "en": "Greeting",
+                "jp": "挨拶",
+                "kr": "인사",
+                "cn": "问候"
+            },
+            "text": {
+                "en": "Hello, Doctor. The experiment is proceeding smoothly. Here. I used hot tea to keep my mind clear and warm myself back in Ursus.",
+                "jp": "こんにちは、ドクター。実験は順調に進んでいますよ。お茶をどうぞ。ウルサスにいた頃、よくこうして熱いお茶で眠気と寒さを凌いでいたんです。",
+                "kr": "안녕하세요, 박사님. 실험은 순조롭게 진행되고 있어요. 차 한 잔 드세요. 우르수스에 있었을 땐, 자주 이렇게 뜨거운 차로 졸음과 추위를 견디곤 했어요.",
+                "cn": "博士，您来了，实验在正常进行中。给，以前在乌萨斯，我常用热茶提神驱寒。"
+            },
+            "asset": "char_4208_wintim/CN_042"
+        },
+        {
+            "id": "char_4208_wintim_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": "While I do think preparing a birthday present for my superior is somewhat odd, it is still something I would like to do. It was you who gave me the hope I needed to continue with my research, starting when you chose to enter that mine in search of remaining specimens… I have been grateful to you ever since.",
+                "jp": "上司に誕生日プレゼントを用意するなんて自分でもどうかと思いますが、どうしても伝えたかったんです。ドクター、あなたがいたから、私は研究を続ける希望を持てたんです。あなたが鉱道へ降りて、残されたサンプルを探すと決めたあの日から……ずっと、感謝しています。",
+                "kr": "상사에게 생일 선물을 준비하다니 저도 참 이상하지만, 꼭 전하고 싶었어요. 박사님 덕분에 저는 연구를 계속할 희망을 가질 수 있었어요. 박사님이 갱도로 내려가 남겨진 샘플을 찾겠다고 결심했던 그날부터…… 계속, 감사하고 있어요.",
+                "cn": "虽然觉得给自己的上司准备生日礼物有些奇怪，但我仍旧想这么做。博士，是您给予了我继续从事研究工作的希望，从您决定深入矿井，寻找残余的样本开始......我一直很感激您。"
+            },
+            "asset": "char_4208_wintim/CN_043"
+        },
+        {
+            "id": "char_4208_wintim_CN_044",
+            "title": {
+                "en": "Anniversary Celebration",
+                "jp": "周年",
+                "kr": "애니버서리",
+                "cn": "周年庆典"
+            },
+            "text": {
+                "en": "Here at Rhodes Island, my research enjoys success after success, and the sick benefit from better medicines developed on my results. The fact that these things actually happen here has swept me off my feet countless times… Seeing my work come to fruition, and how it makes this place a better one, has left me greatly satisfied.",
+                "jp": "自分は本当にここで、いくつもの研究を成し遂げたんだと、何度もしみじみと実感しました。中には患者さんが、私の研究成果でより良質な薬物治療を受けられるようになったことも……何か結果を出せて、ロドスが少しずつ良くなっていくのを見守れて、それだけでもう、私は十分に幸せです。",
+                "kr": "제가 정말로 이곳에서 수많은 연구를 해냈다는 걸, 몇 번이고 절실하게 실감했어요. 그중에는 환자분이 제 연구 성과 덕분에 좀 더 좋은 약물로 치료받게 된 경우도 있었죠…… 무언가 결과를 내서, 로도스 아일랜드가 조금씩 나아지는 걸 지켜볼 수 있는 것만으로도, 저는 충분히 행복해요.",
+                "cn": "我曾无数次地感叹自己竟然真的在这里完成了一项又一项研究，甚至有病人受益于我的研究成果，用上了更好的药物......能做成事情，看着这里越来越好，我已经非常满足了。"
+            },
+            "asset": "char_4208_wintim/CN_044"
+        }
+    ],
+    "actors": {
+        "en": {
+            "native": "Elizaveta Chaban",
+            "global": "Elizaveta Chaban"
+        },
+        "cn": {
+            "native": "王雅欣",
+            "global": "Yaxin Wang"
+        },
+        "jp": {
+            "native": "仁見紗綾",
+            "global": "Saya Hitomi"
+        },
+        "kr": {
+            "native": "주예진",
+            "global": "Joo Ye-jin"
+        }
+    },
+    "availability": [
+        "en",
+        "cn",
+        "jp",
+        "kr"
+    ]
+}

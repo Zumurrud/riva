@@ -34,7 +34,7 @@
             },
             "text": {
                 "en": "Fiend of the Night? Ah, I can't hide anything from you. But past glory is nothing to me. After all, I have an even brighter future waiting.",
-                "jp": "東夜の魔王？ああ、聞いてたのか、その通り名……。まぁ、今の俺にとって過去の栄光は所詮過去のもの。それよりも、更に輝かしい未来が俺を待っているのさ。",
+                "jp": "東夜の魔王？ああ、聞いてたのか、その通り名……まぁ、今の俺にとって過去の栄光は所詮過去のもの。それよりも、更に輝かしい未来が俺を待っているのさ。",
                 "kr": "동야의 마왕? 아아, 들었나 보군, 그 별명…… 뭐, 지금의 내게 있어, 과거의 영광은 그저 과거의 것이지. 그것보다, 더 빛나는 미래가 나를 기다리고 있다고.",
                 "cn": "东夜魔王？您知道了啊...不过对我来说，以前的辉煌都算不了什么，毕竟，我的未来只会更加的耀眼。"
             },
@@ -82,7 +82,7 @@
             },
             "text": {
                 "en": "People say my swordsmanship is top notch. All due credit, I have to say. Practicing swordsmanship helps me maintain my figure and cultivate my elegance. It'd be a crime for me to slack off on the pratice. After all, you either keep the momentum and hold the lead or end up getting overwhelmed. Please keep that in mind.",
-                "jp": "俺の実力？結構強い方だと思うよ。ああ、俺は剣術をやってるからね。心の鍛錬にも役立つってわけ。やらない理由はないだろう？それに、いくら強くても努力し続けなけりゃ弱くなっていくだけ。それを忘れちゃいけないね。",
+                "jp": "言っておくけど、俺はすごく強いよ。剣術っていう雅な運動は、スタイルの維持にも魅力を高めるのにも役立つんだ。真摯に励まない理由はないだろう？大体ね、どんなに強い人でも努力を怠れば弱くなるんだ！それをまず理解してもらわないと！",
                 "kr": "내 실력? 꽤 강한 편이라고 생각해. 검술이라는 우아한 운동은 품위 유지는 물론 건강에도 도움이 되거든, 안 할 이유가 없잖아? 게다가, 아무리 강하다 해도 노력하지 않으면 약해지고 만다고, 그걸 잊어선 안 돼!",
                 "cn": "我可是很强的，剑术这项优雅的运动，既能维持身材又能提升气质，有什么理由不勤加练习呢？喂，再强的人不努力也会变弱的！先搞清楚这点啊！"
             },
@@ -98,7 +98,7 @@
             },
             "text": {
                 "en": "People used to say that I sold feelings as commodities, that I treated 'happiness' as a product. Fools, all of them. How can I expect my customers to open their hearts to me if I don't open mine to them first?",
-                "jp": "前の仕事をしてた時は、「幸せにするなんてただの謳い文句で、結局は感情を売り物にしてるだけだろ」なんてことを言うやつが結構いてね。でも俺はあの仕事に真摯に向き合ってた。こっちも誠意を持って本気でやらないと、お客さんの心は見えてこないんだ。",
+                "jp": "俺の前の稼業のこと、感情を売り物にしてて「幸せ」なんて調子のいいセールストークだってみんな言うけど、まったく愚かだよ。真剣な気持ちで向き合わないで、お客様の本当の心なんて掴めるわけがないだろう？",
                 "kr": "전 직장에서는 '행복이라는 건 그냥 표어 같은 거고, 결국엔 감정을 팔고 있는 거잖아'라고 말하는 녀석들이 꽤 있었거든. 그래도 난 그 일을 진지하게 했었어. 내가 성의를 담아서 진심으로 하지 않으면, 손님의 마음이 보이지 않거든.",
                 "cn": "人们说我以前的行当是把感情当做商品贩卖，“幸福”只是叫卖的吆喝。真是愚钝，若不付出真心，又怎么能看见客人的真心？"
             },
@@ -418,7 +418,7 @@
             },
             "text": {
                 "en": "No need to look back. We'll greet each other with a smile next time.",
-                "jp": "終わったことは忘れて、次こそは笑顔で締めくくろう。",
+                "jp": "振り返ったりしないで。笑顔はお互い次の機会に取っておこう。",
                 "kr": "끝난 일은 잊어버리고, 다음엔 꼭 웃는 얼굴로 마무리 짓자고.",
                 "cn": "别回头。等到下次，再用笑容来面对彼此吧。"
             },
@@ -530,7 +530,7 @@
             },
             "text": {
                 "en": "Happy birthday. You should set your work aside for today. We can chat until dawn, and I'll stick by your side if you want to watch the sun rise. But {@nickname}, I trust that you know what to say if Orchid asks why I didn't work overtime tonight.",
-                "jp": "ドクター、お誕生日おめでとう。今日は手元にある仕事を一旦忘れなよ。夜が明けるまで話に付き合うよ。日の出が見たいなら、それも喜んでお供しよう。もちろん、オーキッドさんから今夜業務の方に出なかった理由を尋ねられた時は、ドクターがちゃんと説明してくれよ。",
+                "jp": "ドクター、お誕生日おめでとう。今日は手元にある仕事を一旦忘れなよ。夜が明けるまで話に付き合うよ。日の出が見たいなら、それも喜んでお供しよう。もちろん、オーキッドさんから今夜業務の方に出なかった理由を尋ねられた時は、Dr.{@nickname}がちゃんと説明してくれよ。",
                 "kr": "생일 축하해. 오늘은 하던 일도 좀 내려놓고 마음껏 즐겨. 나도 해가 뜨기 전까지 박사와 함께 어울릴 테니까. 만약 해돋이가 보고 싶은 거라면 그것도 함께해 줄게. 물론 오키드 씨가 왜 야근을 하지 않았냐고 하면 박사가 증인이 되어주는 거다.",
                 "cn": "生日快乐，今天就把手中的工作暂且放下，我可以陪您闲聊到日出前。如果您还想看日出，我也可以和您一起。当然，如果梓兰小姐问起为何今晚我没有加班，{@nickname}可要帮我证明。"
             },
@@ -546,7 +546,7 @@
             },
             "text": {
                 "en": "What you see today is the fruit of all your hard work, {@nickname}. Nothing makes me happier than accompanying someone in admiring their own marvelous achievements. I do hope you'll still choose me to stay by your side this time next year.",
-                "jp": "ドクター、あなたが重ねてきた努力が今のこの光景を作り出しているんだよ。自分の完璧な仕事ぶりを堪能している人の隣にいられること以上の喜びはないよ。願わくば来年の今頃も、あなたに指名され続ける俺でありたいね。",
+                "jp": "{@nickname}、あなたが重ねてきた努力が今のこの光景を作り出しているんだよ。自分の完璧な仕事ぶりを堪能している人の隣にいられること以上の喜びはないよ。願わくば来年の今頃も、あなたに指名され続ける俺でありたいね。",
                 "kr": "{@nickname} 박사의 노력 덕분에 오늘의 우리가 있을 수 있었어. 자신의 완벽함을 추구하는 사람과 함께하는 것보다 더 기쁜 일은 없을 테지. 내년에도 박사의 지명을 받을 수 있기를 바랄게.",
                 "cn": "{@nickname}，您一直以来的努力造就了今天的这番局面，有什么比陪伴一个正在欣赏自己完美的工作现状的人更让我欣喜呢？希望明年这个时候，我也能拥有您的指名。"
             },
@@ -563,8 +563,8 @@
             "global": "Yang Ma"
         },
         "jp": {
-            "native": "佐藤拓也",
-            "global": "Takuya Sato"
+            "native": "高橋英則",
+            "global": "Hidenori Takahashi"
         },
         "kr": {
             "native": "강호철",

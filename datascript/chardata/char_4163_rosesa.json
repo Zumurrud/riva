@@ -633,12 +633,17 @@
         "kr": {
             "native": "미소",
             "global": "Mi-so"
+        },
+        "es": {
+            "native": "Andrea Alzuri Barro",
+            "global": "Andrea Alzuri Barro"
         }
     },
     "availability": [
         "en",
         "cn",
         "jp",
-        "kr"
+        "kr",
+        "es"
     ]
 }

@@ -82,7 +82,7 @@
             },
             "text": {
                 "en": "Rhodes Island is home to some folk devoid of aesthetic sensibility. A disguise isn't just a superficial layer, but an art of meticulous refinement. Without careful cultivation, one merely appears... disheveled. You think my clothing looks tattered? Ha! You simply fail to comprehend my nuanced style...",
-                "jp": "ロドスには趣ってもんを分かってない奴が多い。偽装とは自らを飾り付ける行為であって、表面だけ取り繕えばいいってもんじゃねーんだ。しっかり磨き上げておかねーと、周りにはボロボロの化けの皮を被ってるようにしか見えねぇ。俺がボロボロな服を着てるだけだって？このスタイルの良さをあんたには理解できねーんだよ……。",
+                "jp": "ロドスには趣ってもんを分かってない奴が多い。偽装とは自らを飾り付ける行為であって、表面だけ取り繕えばいいってもんじゃねーんだ。しっかり磨き上げておかねーと、周りにはボロボロの化けの皮を被ってるようにしか見えねぇ。俺がボロボロな服を着てるだけだって？このスタイルの良さをあんたには理解できねーんだよ……",
                 "kr": "로도스 아일랜드에는 멋이라는 걸 모르는 녀석들이 너무 많단 말이지. 위장이란 자신을 꾸미는 행위이지, 표면만 매만진다고 되는 게 아니야. 제대로 손질해 두지 않으면 주변에는 너덜너덜한 괴물 가죽을 뒤집어쓰고 있는 걸로밖에 안 보여. 내가 너덜너덜한 옷을 입고 있을 뿐이라고? 하긴, 이 스타일의 좋은 점을 넌 이해 못 하겠지……",
                 "cn": "罗德岛里总有些缺乏格调的家伙，伪装是种修饰，不是种简单皮囊啊。要是不好好精心雕琢下的话，只会让人觉得外表破破烂烂而已吧？你说我穿的破烂？你根本就不懂这种风格......"
             },
@@ -194,7 +194,7 @@
             },
             "text": {
                 "en": "This weapon's output... I see…",
-                "jp": "この武器からほとばしるエナジー……なるほど……。",
+                "jp": "この武器からほとばしるエナジー……なるほど……",
                 "kr": "이 무기에서 흘러넘치는 에너지…… 그렇군……",
                 "cn": "这种武器出力...唔嗯......"
             },
@@ -306,7 +306,7 @@
             },
             "text": {
                 "en": "My arm is trembling...",
-                "jp": "腕が……震えてやがるっ……。",
+                "jp": "腕が……震えてやがるっ……",
                 "kr": "팔의 떨림이…… 멈추지 않아……",
                 "cn": "手臂在颤抖..."
             },
@@ -338,7 +338,7 @@
             },
             "text": {
                 "en": "At long last...",
-                "jp": "ついに……。",
+                "jp": "ついに……",
                 "kr": "드디어……",
                 "cn": "终于......"
             },
@@ -593,8 +593,8 @@
                 "cn": "生日"
             },
             "text": {
-                "en": "Since today is your birthday, I shall share a secret incantation. Speak it, and you may unchain my true power... Actually, never mind. Dr.{@nickname}, you already know exactly what I'm capable of, don't you?",
-                "jp": "既然今天是你的生日，那我就送给你一句暗号吧，用这句话，你就能要求我解放真正的力量......算了，不用暗号。Dr.{@nickname}，你其实很清楚我能做什么，对吧？",
+                "en": "Since today is your birthday, I shall share a secret incantation. Speak it, and you may unchain my true power... Actually, never mind. Dr.{@nickname}, you already know what I'm capable of, don't you?",
+                "jp": "今日はあんたのバースデーってことで、言霊を一つ授けてやろう。こいつぁ俺の真の力を解き放つための言葉の鍵でな……いや、いらねぇか。Dr.{@nickname}、俺にできそうなことくらい、分かってんだろ？",
                 "kr": "오늘이 당신 생일일 줄이야, 그럼 암호 한 마디를 선물로 주지, 나중에 이 암호로 나의 진정한 힘을 해방할 수 있을 거야…… 됐어, 암호는 필요 없어. {@nickname} 박사, 당신은 내가 뭘 할 수 있는지 잘 알잖아, 아닌가?",
                 "cn": "既然今天是你的生日，那我就送给你一句暗号吧，用这句话，你就能要求我解放真正的力量......算了，不用暗号。Dr.{@nickname}，你其实很清楚我能做什么，对吧？"
             },

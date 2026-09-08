@@ -82,7 +82,7 @@
             },
             "text": {
                 "en": "I've read that evaluation report; Dr. Folinic is suggesting I exit from the frontline for the time being. I can't maintain <i>constant</i> sobriety, that much is true; after years with these hallucinations for company, they are among the few friends I can count on my fingers. But I remain your assassin... Call me, and let me see to the work I know best.",
-                "jp": "この評価報告書には目を通した。フォリニック嬢は私に暫しの前線離脱を勧たいらしい。確かに常に意識が明瞭であるわけではないな。長年の間まとわりついている幻覚は、既に私にとって数少ない友となっている。だが私は依然として君の刺客だ。呼べ、私に最も得意な仕事を完遂させてくれ。",
+                "jp": "この評価報告書には目を通した。フォリニック嬢は私に暫しの前線離脱を勧めたいらしい。確かに常に意識が明瞭であるわけではないな。長年の間まとわりついている幻覚は、既に私にとって数少ない友となっている。だが私は依然として君の刺客だ。呼べ、私に最も得意な仕事を完遂させてくれ。",
                 "kr": "이 평가 보고서는 훑어봤다. 폴리닉은 내게 한동안 전선 이탈을 권하고 싶은 모양이더군. 확실히 항상 의식이 명료한 것은 아니다. 오랜 시간 따라다니는 환각은 내게 이미 몇 없는 친구가 되었으니. 하지만 나는 여전히 너의 자객이다. 언제든 불러라. 내가 가장 잘하는 일을 완수하게 해다오.",
                 "cn": "我看过这份评估报告，亚叶小姐建议我暂时离开行动前线。我确实无法时刻保持清醒，那些幻觉伴随我多年，已成为我屈指可数的朋友。但我依旧是你的刺客，呼唤我，让我完成自己最擅长的工作。"
             },
@@ -634,7 +634,7 @@
             "native": "표영재",
             "global": "Pyo Young-jae"
         },
-        "fre": {
+        "fr": {
             "native": "Vincent Bonnasseau",
             "global": "Vincent Bonnasseau"
         }
@@ -644,6 +644,6 @@
         "cn",
         "jp",
         "kr",
-        "fre"
+        "fr"
     ]
 }

@@ -1,0 +1,629 @@
+{
+    "charid": "char_4184_dolris",
+    "nameid": "dolris",
+    "names": {
+        "en": "Uika Misumi",
+        "jp": "三角初華",
+        "kr": "미스미 우이카",
+        "cn": "三角初华"
+    },
+    "voices": [
+        {
+            "id": "char_4184_dolris_CN_001",
+            "title": {
+                "en": "Appointed as Assistant",
+                "jp": "秘書任命",
+                "kr": "어시스턴트 임명",
+                "cn": "任命助理"
+            },
+            "text": {
+                "en": "It's funny, Umiri-chan always handles these things for us in Ave Mujica. So here, I have to adjust to managing my own schedule.",
+                "jp": "Ave Mujicaでは、いつも海鈴ちゃんがこういう仕事をやってくれてるんだ。でも、ここでは自分でスケジュールを管理しないとね。",
+                "kr": "Ave Mujica에서는, 항상 우미리가 이런 일을 해주고 있어. 그래도, 여기서는 스스로 스케줄을 관리하지 않으면 안 되겠네.",
+                "cn": "在Ave Mujica时，一直都是海铃帮我们做这些工作。现在我也该学会自己安排行程了。"
+            },
+            "asset": "char_4184_dolris/CN_001"
+        },
+        {
+            "id": "char_4184_dolris_CN_002",
+            "title": {
+                "en": "Talk 1",
+                "jp": "会話1",
+                "kr": "대화 1",
+                "cn": "交谈1"
+            },
+            "text": {
+                "en": "Lately, I've been stargazing on the deck with Astesia-san. The stars in Terra's sky are nothing like the ones I know. And when I tell her about our version of astronomy, I can almost see her hanging on every word I say.",
+                "jp": "最近、アステシアさんと甲板で星空を眺めてるんだ。テラの星空は私が見てきたのとは全然違って。アステシアさんに私の知ってる天文学のお話をしてみたら、すっごい興味津々に聞いてくれてね。",
+                "kr": "요즘 아스테시아 씨랑 갑판에서 하늘의 별을 보고 있어. 테라의 밤하늘은 내가 보던 거랑은 완전히 달라서, 아스테시아 씨에게 내가 아는 천문학 얘기를 해봤더니 아주 흥미진진하게 들어주더라고.",
+                "cn": "最近，我会和星极小姐约在甲板上观察星空。泰拉的星空和我熟悉的很不一样，我尝试向她介绍我所知的星象理论，她也十分感兴趣。"
+            },
+            "asset": "char_4184_dolris/CN_002"
+        },
+        {
+            "id": "char_4184_dolris_CN_003",
+            "title": {
+                "en": "Talk 2",
+                "jp": "会話2",
+                "kr": "대화 2",
+                "cn": "交谈2"
+            },
+            "text": {
+                "en": "Huh? You want me to teach you how to write lyrics...? Wait, Doctor, don't look at my terminal!",
+                "jp": "ん？作詞のやり方を知りたいの……？ってドクター、私の端末見ないでっ！",
+                "kr": "응? 작사하는 법을 알고 싶어……? 아니 박사, 내 단말기 보지 마!",
+                "cn": "作词的方法吗......？博士，请不要看我的终端！"
+            },
+            "asset": "char_4184_dolris/CN_003"
+        },
+        {
+            "id": "char_4184_dolris_CN_004",
+            "title": {
+                "en": "Talk 3",
+                "jp": "会話3",
+                "kr": "대화 3",
+                "cn": "交谈3"
+            },
+            "text": {
+                "en": "The cap and sunglasses? They're for wearing in crowded places, I guess. I work in the performing arts, so I'm kind of... a celebrity? I guess... Wait, Doctor, could it be you're a celebrity on Terra? Heheh. Look, you always have the hood on.",
+                "jp": "帽子とサングラス？人が多いところではなんとなくつけてるんだ。芸能活動をしてるから、一応……有名人？だと思うし……ってことは、もしかしてドクターもテラの有名人ってこと？ふふっ。だって、いつもフード被ってるから。",
+                "kr": "모자와 선글라스? 사람이 많은 장소에서는 왠지 모르게 쓰게 되네. 연예계 활동을 하고 있다 보니, 일단은…… 유명인이라 생각하고 있기도 해서…… 그렇다는 건, 혹시 박사도 테라의 유명인이라는 걸까? 후훗, 아니, 항상 후드 뒤집어쓰고 있으니까.",
+                "cn": "我有时会戴墨镜和帽子？是以前养成的习惯啦——人出名以后，要注意的事情也变多了......这么说起来，博士你在泰拉应该也很出名？呵呵，不然为什么你走到哪都戴着兜帽呢？"
+            },
+            "asset": "char_4184_dolris/CN_004"
+        },
+        {
+            "id": "char_4184_dolris_CN_005",
+            "title": {
+                "en": "Talk after Promotion 1",
+                "jp": "昇進後会話1",
+                "kr": "1차 정예화 후 대화",
+                "cn": "晋升后交谈1"
+            },
+            "text": {
+                "en": "Sora-san always has such a warming effect on people, even when she's not performing. It'd be nice if I could fill everyone with that kind of warmth too.",
+                "jp": "ソラさんって、普段からライブの時みたいに、人の心を温かくしてくれるよね。私もソラさんみたいに、みんなをそういう気持ちにしてあげたいな。",
+                "kr": "소라 씨는 평소에도 라이브 할 때처럼 사람의 마음을 따뜻하게 해 주잖아. 나도 소라 씨처럼 모두를 그런 기분이 들게 해주고 싶어.",
+                "cn": "空小姐本人就和她的演出一样，始终让人感到温暖和坚强。我也希望大家能从我的歌声中听到这些。"
+            },
+            "asset": "char_4184_dolris/CN_005"
+        },
+        {
+            "id": "char_4184_dolris_CN_006",
+            "title": {
+                "en": "Talk after Promotion 2",
+                "jp": "昇進後会話2",
+                "kr": "2차 정예화 후 대화",
+                "cn": "晋升后交谈2"
+            },
+            "text": {
+                "en": "I'd rather heal us all through music than fight. But... I get it. Becoming stronger is how I stay by Saki-chan's side. That's why I'll always keep putting in the effort, whether here on Terra or back in our world.",
+                "jp": "戦うよりも、音楽でみんなを癒したいな。でも……分かってる。もっと強くなってこそ、ちゃんとさきちゃんのそばにいられるんだって。だから、テラでも、私たちの世界でも、私はずっと努力し続けるよ。",
+                "kr": "싸우는 것보다도, 음악으로 모두를 치유하고 싶어. 그래도…… 알고 있어. 더 강해져야 제대로 사키 곁에 있을 수 있다는 걸. 그러니까, 테라에서도 우리 세계에서도 나는 계속 노력할 거야.",
+                "cn": "比起战斗，我还是更希望用音乐去治愈大家。但是我也知道，只有足够强大，才能更好地站在祥子身边。不论是在泰拉，还是在我的世界，我都会继续努力。"
+            },
+            "asset": "char_4184_dolris/CN_006"
+        },
+        {
+            "id": "char_4184_dolris_CN_007",
+            "title": {
+                "en": "Talk after Trust Increase 1",
+                "jp": "信頼上昇後会話1",
+                "kr": "신뢰도 상승 후 대화 1",
+                "cn": "信赖提升后交谈1"
+            },
+            "text": {
+                "en": "Ever since coming to Rhodes Island, we members of Ave Mujica have been spending a lot more time together. Once work's done for the day, we head to the studio to practice... It's kind of like we're all in a school club.",
+                "jp": "ロドスに来てからは、Ave Mujicaのみんなと過ごす時間が増えたんだ。仕事が終わったら毎日みんなとスタジオで練習するなんて、なんだか学校の部活みたいだよね。",
+                "kr": "로도스 아일랜드에 오고 나서는, Ave Mujica 멤버들하고 지내는 시간이 늘었어. 일 끝나면 매일 다 같이 스튜디오에 모여서 연습하는 게, 왠지 학교 부활동 같아.",
+                "cn": "自从来到这里，与大家在一起的时间就变多了。每天处理完工作，约上其他成员一起去排练室练习——真的就像参加社团活动一样呢。"
+            },
+            "asset": "char_4184_dolris/CN_007"
+        },
+        {
+            "id": "char_4184_dolris_CN_008",
+            "title": {
+                "en": "Talk after Trust Increase 2",
+                "jp": "信頼上昇後会話2",
+                "kr": "신뢰도 상승 후 대화 2",
+                "cn": "信赖提升后交谈2"
+            },
+            "text": {
+                "en": "Ave Mujica has always meant so much to Saki-chan. And knowing how she treasures it, I want to protect it for her... I want to keep being Mujica's frontwoman, where I can live, breathe, and embody Mujica's world.",
+                "jp": "さきちゃんはずっとAve Mujicaを大切にしてる。私も、さきちゃんの大事にしている世界観を守っていきたい……これからもムジカのフロントマンとして、ムジカの世界観を体現する存在でありたいな。",
+                "kr": "사키는 계속 Ave Mujica를 소중히 여기고 있어. 나도, 사키가 소중하게 생각하는 세계관을 지켜나가고 싶어…… 앞으로도 무지카의 프런트로서, 무지카의 세계관을 구현하는 존재로 있고 싶어.",
+                "cn": "小祥一直把Ave Mujica视若珍宝，我想要守护好她创造的世界观。之后，我也会作为主唱，为展现Ave Mujica的世界观而努力。"
+            },
+            "asset": "char_4184_dolris/CN_008"
+        },
+        {
+            "id": "char_4184_dolris_CN_009",
+            "title": {
+                "en": "Talk after Trust Increase 3",
+                "jp": "信頼上昇後会話3",
+                "kr": "신뢰도 상승 후 대화 3",
+                "cn": "信赖提升后交谈3"
+            },
+            "text": {
+                "en": "Ending up in a strange place and having to bond with strange people has taken a lot of energy, I'll admit, but getting to learn so much in exchange has all been worth it. I still barely know right from left here, but... I'd like to keep on bonding with the people of Rhodes Island, I think.",
+                "jp": "知らない場所に来て、知らない人たちと関係を作る。やっぱりすごく大変だけど、その分たくさんのことが知れて嬉しいんだ。まだまだわからないことだらけだけど……私、もっとロドスのみんなと関係を作りたいと思ってるんだ。",
+                "kr": "모르는 곳에 가서, 모르는 사람들과 관계를 만든다. 역시 큰일이기는 해도, 그만큼 많은 걸 알 수 있어서 기뻐. 아직 모르는 것 투성이지만…… 나, 로도스 아일랜드의 모두와 더 관계를 쌓아가고 싶어.",
+                "cn": "去到一个陌生的地方，重新认识一群人，我有过类似经历，也深知这并非易事。但现在，尽管我对这艘舰船还知之甚少，我依然想要和大家建立更多联系。博士，这就是你说的“信任”吧。"
+            },
+            "asset": "char_4184_dolris/CN_009"
+        },
+        {
+            "id": "char_4184_dolris_CN_010",
+            "title": {
+                "en": "Idle",
+                "jp": "放置",
+                "kr": "방치",
+                "cn": "闲置"
+            },
+            "text": {
+                "en": "Maybe I'll brew some coffee and wait around until the Doctor wakes up?",
+                "jp": "ドクターが起きるまで、コーヒー淹れて待ってようかな？",
+                "kr": "박사가 일어날 때까지, 커피 내리고 기다릴까?",
+                "cn": "等博士醒来的时间里，帮博士泡杯咖啡吧。"
+            },
+            "asset": "char_4184_dolris/CN_010"
+        },
+        {
+            "id": "char_4184_dolris_CN_011",
+            "title": {
+                "en": "Onboard",
+                "jp": "入職会話",
+                "kr": "오퍼레이터 입사",
+                "cn": "干员报到"
+            },
+            "text": {
+                "en": "Hello, I'm Uika... Misumi. Huh? You already heard about me from Saki-chan? How did she describe me, can you tell me?!",
+                "jp": "こんにちは、三角初華です。えっ、さきちゃんから聞いてたの？私のことどんなふうに言ってた！？",
+                "kr": "안녕하세요. 미스미 우이카입니다. 앗, 사키한테서 들었다고? 나에 대해서 어떻게 얘기했어?!",
+                "cn": "你好，我叫三角......初华。欸，小祥已经和你介绍过了？！她、她是怎么介绍我的？"
+            },
+            "asset": "char_4184_dolris/CN_011"
+        },
+        {
+            "id": "char_4184_dolris_CN_012",
+            "title": {
+                "en": "Watching Battle Record",
+                "jp": "経験値上昇",
+                "kr": "작전기록 학습",
+                "cn": "观看作战记录"
+            },
+            "text": {
+                "en": "Are these all... actual battles you taped?",
+                "jp": "これ、全部本当にあった作戦の記録なの？",
+                "kr": "이거, 전부 진짜로 있었던 작전들 기록이야?",
+                "cn": "......这些都是真实的作战记录吗？"
+            },
+            "asset": "char_4184_dolris/CN_012"
+        },
+        {
+            "id": "char_4184_dolris_CN_013",
+            "title": {
+                "en": "Promotion 1",
+                "jp": "昇進Ⅰ",
+                "kr": "1차 정예화 (승진)",
+                "cn": "精英化晋升1"
+            },
+            "text": {
+                "en": "Rhodes Island's training program is incredible! I feel like it's building every part of me up at once. This is going to make concerts so much easier too!",
+                "jp": "ロドスの訓練プログラムはすごいね、まんべんなく鍛えられる気がする。これなら、ライブもすごく楽になりそう！",
+                "kr": "로도스 아일랜드의 훈련 프로그램은 대단하네. 구석구석까지 단련되는 느낌이 들어. 이거라면 라이브도 엄청 편해질 것 같아!",
+                "cn": "罗德岛的训练计划很完善，我能感觉到自己的身体素质越来越好了，今后应对演出肯定会更加轻松。"
+            },
+            "asset": "char_4184_dolris/CN_013"
+        },
+        {
+            "id": "char_4184_dolris_CN_014",
+            "title": {
+                "en": "Promotion 2",
+                "jp": "昇進Ⅱ",
+                "kr": "2차 정예화 (승진)",
+                "cn": "精英化晋升2"
+            },
+            "text": {
+                "en": "I don't know when I'll end up home again. Is it really okay for you to pour so much into me, despite that...? Alright, thank you. I'll be sure to work hard to meet your expectations, Doctor.",
+                "jp": "私、いつ帰るかわからないんだよ。なのに、こんなにたくさんお世話してもらって、本当にいいの？……うん、分かった。きっと、ドクターの期待に応えられるよう、がんばるね。",
+                "kr": "나, 언제 돌아갈 수 있을지 몰라. 그런데, 이렇게 잔뜩 신세 져도 정말 괜찮은 거야? ……응, 알았어. 반드시 박사의 기대에 보답할 수 있게 노력할게.",
+                "cn": "我随时都可能回去，你这样信任我，还投入这么多资源，真的好吗？......明白了，我一定会回应你的期待。"
+            },
+            "asset": "char_4184_dolris/CN_014"
+        },
+        {
+            "id": "char_4184_dolris_CN_017",
+            "title": {
+                "en": "Added to Squad",
+                "jp": "編成",
+                "kr": "팀 배치",
+                "cn": "编入队伍"
+            },
+            "text": {
+                "en": "As the squad's frontwoman, I'll lead the way for you all.",
+                "jp": "この部隊のフロントとして、みんなを導くね。",
+                "kr": "이 부대의 프런트로서, 모두를 이끌도록 할게.",
+                "cn": "我会在队伍的最前方，尽我所能引导大家。"
+            },
+            "asset": "char_4184_dolris/CN_017"
+        },
+        {
+            "id": "char_4184_dolris_CN_018",
+            "title": {
+                "en": "Appointed as Squad Leader",
+                "jp": "隊長任命",
+                "kr": "팀장 임명",
+                "cn": "任命队长"
+            },
+            "text": {
+                "en": "I've never been a <i>leader</i> to anyone before, but... I'll serve as a good example for you all!",
+                "jp": "誰かをリードしたことはないけど……私、みんなの手本になるね！",
+                "kr": "누군가를 리드해 본 적은 없지만…… 나, 모두의 모범이 될게!",
+                "cn": "我还没有什么指引他人的经验，但是我会努力以身作则！"
+            },
+            "asset": "char_4184_dolris/CN_018"
+        },
+        {
+            "id": "char_4184_dolris_CN_019",
+            "title": {
+                "en": "Depart",
+                "jp": "作戦準備",
+                "kr": "작전 출발",
+                "cn": "行动出发"
+            },
+            "text": {
+                "en": "Be careful out there!",
+                "jp": "気を付けて！",
+                "kr": "조심해!",
+                "cn": "小心敌人！"
+            },
+            "asset": "char_4184_dolris/CN_019"
+        },
+        {
+            "id": "char_4184_dolris_CN_020",
+            "title": {
+                "en": "Begin Operation",
+                "jp": "戦闘開始",
+                "kr": "작전 개시",
+                "cn": "行动开始"
+            },
+            "text": {
+                "en": "Don't let your guard down. We can definitely win this!",
+                "jp": "油断したらダメだよ。私たち、きっと勝てるから！",
+                "kr": "방심하면 안 돼. 우리, 반드시 이길 수 있으니까!",
+                "cn": "只要不松懈大意，我们一定能获得胜利！"
+            },
+            "asset": "char_4184_dolris/CN_020"
+        },
+        {
+            "id": "char_4184_dolris_CN_021",
+            "title": {
+                "en": "Selecting Operator 1",
+                "jp": "選択時1",
+                "kr": "오퍼레이터 선택 1",
+                "cn": "选中干员1"
+            },
+            "text": {
+                "en": "I'll help out!",
+                "jp": "手伝うね！",
+                "kr": "도와줄게!",
+                "cn": "我来帮忙！"
+            },
+            "asset": "char_4184_dolris/CN_021"
+        },
+        {
+            "id": "char_4184_dolris_CN_022",
+            "title": {
+                "en": "Selecting Operator 2",
+                "jp": "選択時2",
+                "kr": "오퍼레이터 선택 2",
+                "cn": "选中干员2"
+            },
+            "text": {
+                "en": "Doctor, I'm trusting you.",
+                "jp": "ドクター、信じてるから。",
+                "kr": "박사, 믿고 있으니까.",
+                "cn": "博士，我相信你。"
+            },
+            "asset": "char_4184_dolris/CN_022"
+        },
+        {
+            "id": "char_4184_dolris_CN_023",
+            "title": {
+                "en": "Deployment 1",
+                "jp": "配置1",
+                "kr": "배치 1",
+                "cn": "部署1"
+            },
+            "text": {
+                "en": "To your curtain fall... an elegy.",
+                "jp": "あなたたちの終幕に、挽歌を。",
+                "kr": "당신들의 종막에, 만가를.",
+                "cn": "为你们的终幕......唱响挽歌。"
+            },
+            "asset": "char_4184_dolris/CN_023"
+        },
+        {
+            "id": "char_4184_dolris_CN_024",
+            "title": {
+                "en": "Deployment 2",
+                "jp": "配置2",
+                "kr": "배치 2",
+                "cn": "部署2"
+            },
+            "text": {
+                "en": "To our victory... a paean.",
+                "jp": "私たちの勝利に、讃歌を。",
+                "kr": "우리의 승리에, 찬가를.",
+                "cn": "为我们的胜利......献上赞歌。"
+            },
+            "asset": "char_4184_dolris/CN_024"
+        },
+        {
+            "id": "char_4184_dolris_CN_025",
+            "title": {
+                "en": "In Battle 1",
+                "jp": "作戦中1",
+                "kr": "작전 중 1",
+                "cn": "作战中1"
+            },
+            "text": {
+                "en": "I'm going to sing.",
+                "jp": "歌うね。",
+                "kr": "노래할게.",
+                "cn": "歌唱吧。"
+            },
+            "asset": "char_4184_dolris/CN_025"
+        },
+        {
+            "id": "char_4184_dolris_CN_026",
+            "title": {
+                "en": "In Battle 2",
+                "jp": "作戦中2",
+                "kr": "작전 중 2",
+                "cn": "作战中2"
+            },
+            "text": {
+                "en": "Saki-chan, everyone, I'll protect you!",
+                "jp": "さきちゃんも、みんなも、私が守るから！",
+                "kr": "사키도, 모두도, 내가 지킬 테니까!",
+                "cn": "我会保护小祥，保护所有人！"
+            },
+            "asset": "char_4184_dolris/CN_026"
+        },
+        {
+            "id": "char_4184_dolris_CN_027",
+            "title": {
+                "en": "In Battle 3",
+                "jp": "作戦中3",
+                "kr": "작전 중 3",
+                "cn": "作战中3"
+            },
+            "text": {
+                "en": "I'll cover you now!",
+                "jp": "今助けるね！",
+                "kr": "지금 구해줄게!",
+                "cn": "队友们需要支援！"
+            },
+            "asset": "char_4184_dolris/CN_027"
+        },
+        {
+            "id": "char_4184_dolris_CN_028",
+            "title": {
+                "en": "In Battle 4",
+                "jp": "作戦中4",
+                "kr": "작전 중 4",
+                "cn": "作战中4"
+            },
+            "text": {
+                "en": "Don't panic!",
+                "jp": "焦っちゃだめだよ！",
+                "kr": "초조해하면 안 돼!",
+                "cn": "不要慌乱！"
+            },
+            "asset": "char_4184_dolris/CN_028"
+        },
+        {
+            "id": "char_4184_dolris_CN_029",
+            "title": {
+                "en": "4-star Result",
+                "jp": "高難度作戦クリア",
+                "kr": "고난이도 작전 종료",
+                "cn": "完成高难行动"
+            },
+            "text": {
+                "en": "After getting back, let's take a nice hot bath, put on some relaxing music, and really unwind.",
+                "jp": "帰ったら温かいお風呂に入って、リラックスできる曲を聴いて、ゆっくり休もうね。",
+                "kr": "돌아가면 따뜻한 물에 몸도 담그고, 릴랙스 할 수 있는 곡을 들으면서 푹 쉬자.",
+                "cn": "回去洗个热水澡，放点舒缓的音乐，好好休息一下吧。"
+            },
+            "asset": "char_4184_dolris/CN_029"
+        },
+        {
+            "id": "char_4184_dolris_CN_030",
+            "title": {
+                "en": "3-star Result",
+                "jp": "★3で戦闘終了",
+                "kr": "3★ 작전 종료",
+                "cn": "3星结束行动"
+            },
+            "text": {
+                "en": "We're really getting into sync here!",
+                "jp": "みんなの息がどんどん合うようになってきたね！",
+                "kr": "다들 점점 더 호흡이 맞게 됐네!",
+                "cn": "大家的配合越来越有默契了！"
+            },
+            "asset": "char_4184_dolris/CN_030"
+        },
+        {
+            "id": "char_4184_dolris_CN_031",
+            "title": {
+                "en": "Sub 3-star Result",
+                "jp": "★2以下戦闘終了",
+                "kr": "비 3★ 작전 종료",
+                "cn": "非3星结束行动"
+            },
+            "text": {
+                "en": "I just hope nobody got hurt...",
+                "jp": "怪我した人、いないといいけど……",
+                "kr": "다친 사람, 없으면 좋겠는데……",
+                "cn": "希望没有人受伤......"
+            },
+            "asset": "char_4184_dolris/CN_031"
+        },
+        {
+            "id": "char_4184_dolris_CN_032",
+            "title": {
+                "en": "Operation Failure",
+                "jp": "作戦失敗",
+                "kr": "작전 실패",
+                "cn": "行动失败"
+            },
+            "text": {
+                "en": "It's okay, I... I'll always be by your side.",
+                "jp": "大丈夫、私……ずっと傍にいるから。",
+                "kr": "괜찮아, 나…… 계속 곁에 있을 테니까.",
+                "cn": "没关系的，我会......一直陪在你的身边。"
+            },
+            "asset": "char_4184_dolris/CN_032"
+        },
+        {
+            "id": "char_4184_dolris_CN_033",
+            "title": {
+                "en": "Assigned to Facility",
+                "jp": "基地配属",
+                "kr": "시설에 배치",
+                "cn": "进驻设施"
+            },
+            "text": {
+                "en": "It's really nice in here, isn't it!",
+                "jp": "ここ、すっごくいい所だね。",
+                "kr": "여기, 아주 좋은 장소네.",
+                "cn": "这个地方真不错！"
+            },
+            "asset": "char_4184_dolris/CN_033"
+        },
+        {
+            "id": "char_4184_dolris_CN_034",
+            "title": {
+                "en": "Tap",
+                "jp": "タッチ1",
+                "kr": "터치",
+                "cn": "戳一下"
+            },
+            "text": {
+                "en": "One moment, let me put my guitar away... Okay, sorry about that. What do you need, Doctor?",
+                "jp": "ちょっと待ってね、ギターを置いてくるから……お待たせ。どうしたの？ドクター。",
+                "kr": "기타 두고 올 테니까, 잠깐만…… 기다렸지. 무슨 일이야? 박사.",
+                "cn": "稍等，我先把吉他放好......久等了，你找我有什么事，博士？"
+            },
+            "asset": "char_4184_dolris/CN_034"
+        },
+        {
+            "id": "char_4184_dolris_CN_036",
+            "title": {
+                "en": "Trust Tap",
+                "jp": "信頼タッチ",
+                "kr": "신뢰도 터치",
+                "cn": "信赖触摸"
+            },
+            "text": {
+                "en": "Doctor! Want to go see the stars together?",
+                "jp": "ドクター！一緒に星空、見に行かない？",
+                "kr": "박사! 같이 밤하늘 보러 안 갈래?",
+                "cn": "博士，想一起去看看星空吗？"
+            },
+            "asset": "char_4184_dolris/CN_036"
+        },
+        {
+            "id": "char_4184_dolris_CN_037",
+            "title": {
+                "en": "Title",
+                "jp": "タイトルコール",
+                "kr": "타이틀",
+                "cn": "标题"
+            },
+            "text": {
+                "en": "Arknights.",
+                "jp": "アークナイツ。",
+                "kr": "명일방주.",
+                "cn": "明日方舟。"
+            },
+            "asset": "char_4184_dolris/CN_037"
+        },
+        {
+            "id": "char_4184_dolris_CN_038",
+            "title": {
+                "en": "New Year's blessing",
+                "jp": "新年",
+                "kr": "새해",
+                "cn": "新年祝福"
+            },
+            "text": {
+                "en": "Back in our world, everyone makes a wish on New Year's. Like this―you put your hands together, and close your eyes... If you have a wish, give it a try. It'll be nice if yours comes true too.",
+                "jp": "私のいた所では、新年にはみんな願い事をするんだ。こうやって――手を合わせて、目を閉じて……もしお願い事があるなら真似してみて。ドクターのお願いも、叶うといいね。",
+                "kr": "내가 있던 곳에서는, 새해에 다들 소원을 빌어. 이렇게…… 손을 모아서, 눈을 감고…… 혹시 소원이 있으면 따라 해 봐. 박사의 소원도, 이루어지면 좋겠네.",
+                "cn": "在我的世界，新年时每个人都会许愿祈福，就像这样——双手合十，闭上眼睛......不妨这样试试吧，博士的祈愿也一定能成真的。"
+            },
+            "asset": "char_4184_dolris/CN_038"
+        },
+        {
+            "id": "char_4184_dolris_CN_042",
+            "title": {
+                "en": "Greeting",
+                "jp": "挨拶",
+                "kr": "인사",
+                "cn": "问候"
+            },
+            "text": {
+                "en": "Good timing, I was just brewing coffee. Do you want some?",
+                "jp": "ちょうど、コーヒー淹れてるんだ。ドクターも飲む？",
+                "kr": "잠깐 커피 내리고 있었어. 박사도 마실래?",
+                "cn": "博士，我正好在泡咖啡，你也来一杯吗？"
+            },
+            "asset": "char_4184_dolris/CN_042"
+        },
+        {
+            "id": "char_4184_dolris_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": "Happy birthday, Doctor! That tape's got a couple of songs on it. We wrote them for you, and for everyone at Rhodes Island. So even after we return to our old world someday, you'll still have these songs by your side forever.",
+                "jp": "お誕生日おめでとう、ドクター！そのテープにはいくつか曲が入っててね。ドクターとロドスのみんなのために作った曲なんだ。いつか私たちが元の世界に戻っても、この曲はずっとドクターの側にいるからね。",
+                "kr": "생일 축하해, 박사! 그 테이프에는 곡이 몇 개 들어있는데, 박사와 로도스 아일랜드의 모두를 위한 곡이야. 언젠가 우리가 원래 세계로 돌아가도, 이 곡은 계속 박사 곁에 있을 테니까.",
+                "cn": "博士，生日快乐！这份磁带里存着几首曲子，是我们为了罗德岛的大家和博士你创作的新作品，所以它们属于这里。就算有天我们回去了，希望这些歌还能陪伴在你的身边。"
+            },
+            "asset": "char_4184_dolris/CN_043"
+        },
+        {
+            "id": "char_4184_dolris_CN_044",
+            "title": {
+                "en": "Anniversary Celebration",
+                "jp": "周年",
+                "kr": "애니버서리",
+                "cn": "周年庆典"
+            },
+            "text": {
+                "en": "When I first got here, I thought I was practically useless. But Rhodes Island is such a warm place, isn't it? It takes in any point of view, it gave me a role that I could play―I guess what I'm saying is, maybe I've earned the right to pride myself, as a member of Rhodes Island?",
+                "jp": "ここに来たばかりの頃、自分にできることなんてほとんどないって思ってた。でもロドスってすごく温かいところでね。どんな考え方も受け止めてもらえて、私にも役割を与えてくれて――だから、私もロドスの一員だって胸を張って言っていいかな？",
+                "kr": "여기 막 왔을 때는, 내가 할 수 있는 게 거의 없다고 생각했어. 그래도 로도스 아일랜드는 엄청 따뜻한 곳이라서 말이지. 어떤 사고방식도 받아들여 주고, 내게도 역할을 줘서…… 그러니까, 나도 로도스 아일랜드의 일원이라고 가슴 펴고 얘기해도 되려나?",
+                "cn": "最开始来这里时，我常怀疑自己能做的会不会太有限。但罗德岛是个特别温暖的地方，无论什么想法都能得到理解，任何人都能在此找到自己的位置——所以，我也能坦然地说自己是罗德岛的一员了。"
+            },
+            "asset": "char_4184_dolris/CN_044"
+        }
+    ],
+    "actors": {
+        "linkage": {
+            "native": "佐々木李子",
+            "global": "Rico Sasaki"
+        }
+    },
+    "availability": [
+        "linkage"
+    ]
+}

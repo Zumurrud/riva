@@ -34,7 +34,7 @@
             },
             "text": {
                 "en": "My dream is for all Terra to know… Okay, maybe just Lungmen… Umm, well, maybe I'll just start with Rhodes Island, or even just you! Yes, my dream is for you to know my skill…",
-                "jp": "わたしの夢はこのテラに……あ、いや、その前に龍門か……ううん、まずはロドスに認めていただくこと、それか、ドクターさんに心から褒めてもらうことです！うん、今のところは……。",
+                "jp": "わたしの夢はこのテラに……あ、いや、その前に龍門か……ううん、まずはロドスに認めていただくこと、それか、ドクターさんに心から褒めてもらうことです！うん、今のところは……",
                 "kr": "제 꿈은 이 테라에서…… 아, 아니…… 그 전에 용문이려나…… 아니, 우선은 로도스 아일랜드에서 인정받는 것, 아니면 박사님께 진심 어린 칭찬을 받는 거예요! 네, 지금은요……",
                 "cn": "我的理想就是让整个泰拉......啊，不，还是先从龙门......不，首先要让罗德岛认可我，或者，让博士你由衷地表扬我！对，暂时就是这个理想......"
             },
@@ -114,7 +114,7 @@
             },
             "text": {
                 "en": "You'd like to take a look at my clawhook? That's probably fine... B-But whatever you do, don't push this button. And watch your thumb when you're holding the grip... W-Wait, you're not winding the rope correctly, and... Oh, I-I'm sorry, don't mind me, you can keep looking at it...",
-                "jp": "ドクターさんもわたしのフックが見てみたいんですか？良いっちゃ良いですけど……くれぐれもこのボタンは押さないでくださいね。それから握るときには親指に気を付けて……待って、ワイヤーの巻き方も違います。あと……はっ！ご、ごめんなさい！わたしのことは気にせず、どうぞ続けてくださいです……。",
+                "jp": "ドクターさんもわたしのフックが見てみたいんですか？良いっちゃ良いですけど……くれぐれもこのボタンは押さないでくださいね。それから握るときには親指に気を付けて……待って、ワイヤーの巻き方も違います。あと……はっ！ご、ごめんなさい！わたしのことは気にせず、どうぞ続けてくださいです……",
                 "kr": "박사님도 제 후크가 보고 싶으세요? 괜찮기는 한데…… 아 일단 이 버튼은 누르지 말아 주세요. 그리고 손에 쥘 때는 엄지손가락을 조심하고…… 아 잠깐만요, 와이어 감는 법도 틀리셨어요. 그리고 또…… 헉! 죄, 죄송해요! 저는 신경 쓰지 마시고, 편하게 보고 싶은 만큼 보세요……",
                 "cn": "您想看看我的钩爪？可以是可以......但是千万不要碰这个按钮，还有握住握把的时候小心拇指......等等，缠绳索方法也不对，还有——啊，抱歉，别在意我，您接着看吧......"
             },
@@ -242,7 +242,7 @@
             },
             "text": {
                 "en": "It'll be all right. I just need to remember my training and work hard… ",
-                "jp": "大丈夫です、訓練の時みたいにしっかり頑張ればいいんです……うぅ……。",
+                "jp": "大丈夫です、訓練の時みたいにしっかり頑張ればいいんです……うぅ……",
                 "kr": "괜찮아요, 훈련할 때처럼 정신 차리고 열심히 하면 돼요…… 으으……",
                 "cn": "没关系，只要像训练时那样好好努力就行了，呜......"
             },
@@ -482,7 +482,7 @@
             },
             "text": {
                 "en": "I, I'll go salvage some damaged parts, to at least reduce our losses…",
-                "jp": "わ、わたし、破損したパーツを集めてきます。少しでも損失を減らせるかも……。",
+                "jp": "わ、わたし、破損したパーツを集めてきます。少しでも損失を減らせるかも……",
                 "kr": "저, 저는 파손된 부품을 모아올게요. 이, 이러면 조금은 손실을 줄일 수 있을지도……",
                 "cn": "我、我去把那些损坏的零件都收集起来，至少可以减少损失......"
             },
@@ -626,6 +626,10 @@
             "native": "周童",
             "global": "Atom"
         },
+        "cn_topolect": {
+            "native": "猫倩",
+            "global": "Mao Qian"
+        },
         "jp": {
             "native": "阿澄佳奈",
             "global": "Kana Asumi"
@@ -633,17 +637,13 @@
         "kr": {
             "native": "방시우",
             "global": "Bang Si-u"
-        },
-        "cn_topolect": {
-            "native": "猫倩",
-            "global": "Mao Qian"
         }
     },
     "availability": [
         "en",
         "cn",
+        "cn_topolect",
         "jp",
-        "kr",
-        "cn_topolect"
+        "kr"
     ]
 }

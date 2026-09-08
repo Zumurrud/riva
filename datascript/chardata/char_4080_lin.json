@@ -626,6 +626,10 @@
             "native": "阎么么",
             "global": "Sophia"
         },
+        "cn_topolect": {
+            "native": "闲踏梧桐",
+            "global": "Cotton Candy"
+        },
         "jp": {
             "native": "伊藤かな恵",
             "global": "Kanae Ito"
@@ -633,17 +637,13 @@
         "kr": {
             "native": "강은애",
             "global": "Kang Eun-ae"
-        },
-        "cn_topolect": {
-            "native": "闲踏梧桐",
-            "global": "Cotton Candy"
         }
     },
     "availability": [
         "en",
         "cn",
+        "cn_topolect",
         "jp",
-        "kr",
-        "cn_topolect"
+        "kr"
     ]
 }

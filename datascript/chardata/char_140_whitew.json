@@ -114,7 +114,7 @@
             },
             "text": {
                 "en": "Texas? Ha, she's afraid of me, but I don't wanna do anything to her, except maybe try to bring back the old Texas. The one we got here's a cucciolo impaurito.",
-                "jp": "テキサス？フフッ、あの子はボクのことをものすごーく怖がってるけど、別に何かするつもりはないよ。ただ、ボクは昔のテキサスに戻ってもらいたいだけさ。今みたいな意気地なしじゃなかった頃のね……。",
+                "jp": "テキサス？フフッ、あの子はボクのことをものすごーく怖がってるけど、別に何かするつもりはないよ。ただ、ボクは昔のテキサスに戻ってもらいたいだけさ。今みたいな意気地なしじゃなかった頃のね……",
                 "kr": "텍사스? 후훗, 걔는 날 굉~장히 무서워하는 모양이지만, 딱히 뭘 할 생각은 없어. 그냥, 난 옛날의 그 텍사스로 돌아와 줬으면 할 뿐이야. 지금처럼 나약하지 않던, 그 시절의 텍사스로 말이지……",
                 "cn": "德克萨斯？呵呵，虽然她在害怕我，不过我没打算对她做些什么。我只是想让她变回以前那个德克萨斯，而不是像现在这样怯懦......"
             },
@@ -634,7 +634,7 @@
             "native": "서유리",
             "global": "Seo Yu-ri"
         },
-        "ita": {
+        "it": {
             "native": "Elisa Contestabile",
             "global": "Elisa Contestabile"
         }
@@ -644,6 +644,6 @@
         "cn",
         "jp",
         "kr",
-        "ita"
+        "it"
     ]
 }

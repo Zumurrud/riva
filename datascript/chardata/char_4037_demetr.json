@@ -1,0 +1,644 @@
+{
+    "charid": "char_4037_demetr",
+    "nameid": "demetr",
+    "names": {
+        "en": "Bellone",
+        "jp": "ベッローネ",
+        "kr": "벨로네",
+        "cn": "贝洛内"
+    },
+    "voices": [
+        {
+            "id": "char_4037_demetr_CN_001",
+            "title": {
+                "en": "Appointed as Assistant",
+                "jp": "秘書任命",
+                "kr": "어시스턴트 임명",
+                "cn": "任命助理"
+            },
+            "text": {
+                "en": "Sort these files? Fine, but before we begin your trivial task, you might have a look at these plans I've mapped out for you.",
+                "jp": "一緒に書類を整理しろって？まあいいだろう。ただし、雑務を始める前に、あんたのために作ったこの計画書に目を通してもらうぞ。",
+                "kr": "같이 서류를 정리하라고? 뭐, 좋아. 단 잡무를 시작하기 전에, 널 위해 만든 이 계획서를 훑어봐 줘야겠어.",
+                "cn": "一起整理文件？也行。但在开始做些琐碎的事情之前，你可以先看看我为你制订的这份计划书。"
+            },
+            "asset": "char_4037_demetr/CN_001"
+        },
+        {
+            "id": "char_4037_demetr_CN_002",
+            "title": {
+                "en": "Talk 1",
+                "jp": "会話1",
+                "kr": "대화 1",
+                "cn": "交谈1"
+            },
+            "text": {
+                "en": "There are no famiglie in Nuova Volsinii, not a single one. A famiglia must flip into a corporation before it can enter the city, and that's hardly a bother. Indeed… and there's not much difference between a mafia and a corporation, whether Siracusan or foreign.",
+                "jp": "ヌオバ・ウォルシーニにファミリーは存在しない。かつてのファミリーも、この都市に入りたいなら企業の形を取らなきゃならないんだ。とはいえ、それは大したことじゃないさ。どのみち……シラクーザでもほかの国でも、いわゆる企業ってものは大概、俺からすりゃファミリーと大差ないからな。",
+                "kr": "뉴 볼시니에 패밀리는 존재하지 않아. 예전 패밀리들도, 이 도시에 들어오려면 기업의 형태를 취해야만 하지. 뭐, 큰 문제는 아니야. 어차피…… 시라쿠사든 다른 나라든, 이른바 기업이란 것도 내가 볼 땐 패밀리와 큰 차이가 없으니까.",
+                "cn": "新沃尔西尼不存在家族。曾经的家族要进入这座城市，必须改头换面成企业。这也没什么，反正......不少所谓的企业，无论属于叙拉古还是其他国家，在我看来，与家族也没什么不同。"
+            },
+            "asset": "char_4037_demetr/CN_002"
+        },
+        {
+            "id": "char_4037_demetr_CN_003",
+            "title": {
+                "en": "Talk 2",
+                "jp": "会話2",
+                "kr": "대화 2",
+                "cn": "交谈2"
+            },
+            "text": {
+                "en": "The Bellones took me in when I was five, and trained me to become Leon's consigliere. With this bulky suitcase in tow, I went to many places and met many faces as I ran errands and collected intelligence. Even now, I still do many things myself.",
+                "jp": "五歳の時ベッローネに拾われて以来、俺はレオンの参謀になるべく教育されてきた。自分の身一つで任務をこなし、情報を集め、大きなトランクを引っ提げて色んな場所へ行って、色んな人に会う――ずっとそうやってきたんだ。だから今でも、俺は多くのことを自分の手で片付けてるのさ。",
+                "kr": "5살 때 벨로네에 거두어진 이후로, 나는 레온의 참모가 되기 위한 교육을 받았어. 혼자 임무를 수행하고, 정보를 수집하고, 커다란 트렁크를 들고 여러 곳을 돌아다니며 다양한 사람들과 만나고…… 줄곧 그렇게 해왔지. 그래서 지금도, 나는 많은 일들을 내 손으로 처리하고 있어.",
+                "cn": "五岁时贝洛内家收养了我，此后我便作为莱昂的军师接受培养。执行任务，搜集情报，带着大旅行箱，去很多地方，见很多人，一直如此。即使现在，有许多事我仍会亲力亲为。"
+            },
+            "asset": "char_4037_demetr/CN_003"
+        },
+        {
+            "id": "char_4037_demetr_CN_004",
+            "title": {
+                "en": "Talk 3",
+                "jp": "会話3",
+                "kr": "대화 3",
+                "cn": "交谈3"
+            },
+            "text": {
+                "en": "You want to learn to knuckle-roll a lighter as fast as I do? It's easy, here. Don't worry, just try again. I practice these tricks to keep my hands nimble—after all, there are times when you can't just draw a blade, even in Siracusa.",
+                "jp": "俺みたいに指でライターを回したいのか？簡単さ、手を出してみな。大丈夫、何回でも付き合ってやるよ。俺はいつもこうやって、ナイフを扱う感覚を鈍らせないように指を鍛えてるんだ――なんせ、いくらシラクーザでも、大っぴらにナイフを振り回せないタイミングくらいあるからな。",
+                "kr": "나처럼 손가락으로 라이터를 돌려보고 싶어? 간단해, 손 내밀어 봐. 괜찮아, 몇 번이든 같이 해줄 테니까. 난 항상 이런 식으로 나이프를 다루는 감각이 무뎌지지 않게 손가락을 단련하고 있어…… 아무리 시라쿠사라고 해도, 대놓고 나이프를 휘두를 수 없는 타이밍 정도는 있으니까.",
+                "cn": "要怎么像我一样让打火机在手指间快速转动？很简单，把手给我。没关系，多试几次。平时我用它来练习，保持手指的灵巧——毕竟，就算是在叙拉古，也有不能掏出匕首的时刻。"
+            },
+            "asset": "char_4037_demetr/CN_004"
+        },
+        {
+            "id": "char_4037_demetr_CN_005",
+            "title": {
+                "en": "Talk after Promotion 1",
+                "jp": "昇進後会話1",
+                "kr": "1차 정예화 후 대화",
+                "cn": "晋升后交谈1"
+            },
+            "text": {
+                "en": "At first, the famiglie were just packs of runts keeping each other alive, while the dons used them as tools to grab power. But in Nuova Volsinii, under Leon's rules, a famiglia does imply a real family now—at least, that's how it is for the Bellones.",
+                "jp": "ファミリーってのは元々、弱い者同士が助け合ってるだけの組織だった。それを過去のドンたちが利用して、利益を得るための道具に変えちまったのさ。だが、ヌオバ・ウォルシーニでは、レオンの定めたルールの下で、ファミリーが本来の意義を取り戻しつつある。少なくとも、ベッローネは今後そうなっていくはずだ。",
+                "kr": "패밀리라는 건 원래 그냥 약한 사람들끼리 서로 돕는 조직이었어. 그걸 과거의 보스들이 이용해서, 이익을 얻기 위한 도구로 바꿔버린 거지. 하지만 뉴 볼시니에서는 레온이 정한 규칙 아래에서 패밀리가 원래 의의를 되찾아가고 있어. 적어도 벨로네는 앞으로 그렇게 될 거야.",
+                "cn": "最初，家族只是弱小的人互相帮助的组织，是过去的家主们利用了它，将它当做攫取利益的工具。但在如今的新沃尔西尼，在莱昂的规则之下，它将回归它本来的意义。至少贝洛内家将会如此。"
+            },
+            "asset": "char_4037_demetr/CN_005"
+        },
+        {
+            "id": "char_4037_demetr_CN_006",
+            "title": {
+                "en": "Talk after Promotion 2",
+                "jp": "昇進後会話2",
+                "kr": "2차 정예화 후 대화",
+                "cn": "晋升后交谈2"
+            },
+            "text": {
+                "en": "You think the Bellone name is important? No, what's important is our people and our bond. As for Rhodes Island… we have an excellent working relationship, but if you hope to advance our working relationship even further… you'll have to prove a familial bond exists between us first, Doctor.",
+                "jp": "ベッローネの名がそんなに大事なのかって？いいや、大事なのはファミリーのメンバーさ。俺たちはみんな家族だからな。ロドスについては……今のところ、良いビジネスパートナーだと思ってるよ。さらに関係を深めたいのか？それなら、まずは証明してもらおうか、ドクター。俺たちの間に、家族同然の絆があるってことをな。",
+                "kr": "벨로네라는 이름이 그렇게 소중하냐고? 아니, 소중한 건 패밀리 멤버야. 우리는 다들 가족이니까. 로도스 아일랜드라면…… 지금으로서는 좋은 비즈니스 파트너라고 생각하고 있어. 관계를 더 깊게 하고 싶어? 그렇다면 우선 증명해 주실까, 박사. 우리 사이에 가족이나 다름없는 유대가 있다는 걸 말이야.",
+                "cn": "贝洛内这个名字很重要？不，重要的是贝洛内家族的成员，我们都是家人。至于罗德岛......目前我们是很好的合作伙伴。想更进一步？博士，首先你得向我证明，我们之间有着家人般的联系。"
+            },
+            "asset": "char_4037_demetr/CN_006"
+        },
+        {
+            "id": "char_4037_demetr_CN_007",
+            "title": {
+                "en": "Talk after Trust Increase 1",
+                "jp": "信頼上昇後会話1",
+                "kr": "신뢰도 상승 후 대화 1",
+                "cn": "信赖提升后交谈1"
+            },
+            "text": {
+                "en": "You were told that enjoying authentic Siracusan cuisine is a proper show of respect to a Siracusan? No, I differ on this. You come to my home, and I make sure you're sated. Finishing the food on your plate is a show of <i>respect</i> to me, è così semplice.",
+                "jp": "シラクーザ人へ礼儀を示したいなら、本場のシラクーザ料理を食べろと誰かさんから教わったって？いや、俺のところはそうじゃないな。あんたが家に訪ねてきたら、腹いっぱい食わせてやる。俺の作った料理をきれいに平らげさえすれば、礼儀を示したことになるんだ。簡単だろ。",
+                "kr": "시라쿠사인에게 예의를 표하고 싶으면, 정통 시라쿠사 요리를 먹으라고 누가 가르쳐 줬다고? 아니, 내 쪽은 그렇지 않아. 네가 우리 집에 방문한다면, 배불리 먹여줄게. 내가 만든 요리를 깨끗이 비우기만 하면 예의를 표한 게 되는 거야. 간단하지.",
+                "cn": "有人教过你，吃地道的叙拉古菜，才能表达对叙拉古人的尊重？不，在我这儿不一样。你到我家来，我让你吃饱喝好，这些我做的菜，你都吃干净了，才是对我的尊重。就这么简单。"
+            },
+            "asset": "char_4037_demetr/CN_007"
+        },
+        {
+            "id": "char_4037_demetr_CN_008",
+            "title": {
+                "en": "Talk after Trust Increase 2",
+                "jp": "信頼上昇後会話2",
+                "kr": "신뢰도 상승 후 대화 2",
+                "cn": "信赖提升后交谈2"
+            },
+            "text": {
+                "en": "Of course, you may overlook my concern and kindness, as many do when they first meet me. But soon, you will meet something you can't manage on your own, and then, well… Someday, and that day may never come, I will call upon you to do a service for me. And you will say <i>sì</i>.",
+                "jp": "俺の世話になりたくないならそれでも構わない。最初はみんな、そうやって突っぱねるもんだしな。だが、誰しもいつかは自分の力だけじゃ解決できない問題に直面するだろう。となると……いつか俺のささやかな頼みを聞いてもらうことになるな。その時、あんたに拒否権はないと覚えておくといい。",
+                "kr": "나한테 신세 지고 싶지 않다고 해도 상관없어. 처음엔 다들 그렇게 거절하거든. 하지만 누구나 언젠가는 자신의 힘만으로 해결할 수 없는 문제에 직면하겠지. 그렇게 되면…… 언젠가 내 소소한 부탁을 들어주게 될 거야. 그때 너에게 거부권은 없다는 걸 기억해두는 게 좋아.",
+                "cn": "你当然可以放弃我的照拂和恩惠，很多人一开始也是这样做的。但人总会遇上凭自己的力量无法解决的事，而到了那时......记住，总有一天，我会请你帮一个小忙，你没有拒绝的权利。"
+            },
+            "asset": "char_4037_demetr/CN_008"
+        },
+        {
+            "id": "char_4037_demetr_CN_009",
+            "title": {
+                "en": "Talk after Trust Increase 3",
+                "jp": "信頼上昇後会話3",
+                "kr": "신뢰도 상승 후 대화 3",
+                "cn": "信赖提升后交谈3"
+            },
+            "text": {
+                "en": "Passively carrying out orders isn't my style. Taking control, eliminating all obstacles when the opportunity strikes, and achieving my objective, by any means—That's how I do things, so you'll want to get used to it, Doctor.",
+                "jp": "言われるがまま命令に従うのは性に合わない。常にすべてを掌握し、絶好のタイミングであらゆる障害を排除して、どんな手を使ってでも必ず目標を達成する――それが俺のやり方だ。この点は理解し、慣れておいてもらいたいな、ドクター。",
+                "kr": "명령한 대로 따르는 건 성격에 안 맞아. 항상 모든 것을 장악해 두고, 가장 좋은 타이밍에 모든 장애물을 배제해서, 어떤 수를 써서라도 반드시 목표를 달성한다…… 그게 내 방식이야. 이 점을 이해하고 익숙해졌으면 하는데, 박사.",
+                "cn": "被动地执行命令不是我的风格。时刻掌控全局，在最准确的时机，排除一切障碍，无论使用怎样的方法都必须达成目的，这才是我的方式。请您务必理解并习惯这一点，博士。"
+            },
+            "asset": "char_4037_demetr/CN_009"
+        },
+        {
+            "id": "char_4037_demetr_CN_010",
+            "title": {
+                "en": "Idle",
+                "jp": "放置",
+                "kr": "방치",
+                "cn": "闲置"
+            },
+            "text": {
+                "en": "You're looking a little sluggish… it's time to rest. Here's a cocktail. Salute.",
+                "jp": "動きが少し鈍ってるな……休んだほうがいい。あんたのためにカクテルを作ったんだ。一杯付き合えよ。",
+                "kr": "움직임이 조금 둔해졌네…… 쉬는 게 좋겠군. 널 위해서 칵테일을 만들었어. 같이 한잔하자.",
+                "cn": "你的动作有些迟缓......该休息了。我为你调了酒，一起喝一杯吧。"
+            },
+            "asset": "char_4037_demetr/CN_010"
+        },
+        {
+            "id": "char_4037_demetr_CN_011",
+            "title": {
+                "en": "Onboard",
+                "jp": "入職会話",
+                "kr": "오퍼레이터 입사",
+                "cn": "干员报到"
+            },
+            "text": {
+                "en": "So Leon's codename is 'Vigil'? Abandoning both his family and his name… I see. Well then, Operator Bellone, reporting in.",
+                "jp": "レオンは「ヴィジェル」を名乗ってるのか？ふっ、あいつはファミリーだけじゃなく、自分の名前まで捨てたわけか……わかった。それなら、俺は「ベッローネ」として着任しよう。",
+                "kr": "레온은 '비질'이라는 이름을 쓰고 있나? 훗. 그 녀석은 패밀리뿐만 아니라, 자신의 이름까지 버린 건가…… 알겠어. 그렇다면 나는, '벨로네'로서 착임하지.",
+                "cn": "莱昂的代号叫“伺夜”？他放弃了家族，还放弃了自己的名字......我明白了，那么，干员贝洛内向您报到。"
+            },
+            "asset": "char_4037_demetr/CN_011"
+        },
+        {
+            "id": "char_4037_demetr_CN_012",
+            "title": {
+                "en": "Watching Battle Record",
+                "jp": "経験値上昇",
+                "kr": "작전기록 학습",
+                "cn": "观看作战记录"
+            },
+            "text": {
+                "en": "Violence is only the means, and not the end. But these pups are too inefficient at it.",
+                "jp": "暴力は目的じゃなく、手段に過ぎない。こいつらは効率が悪すぎるな。",
+                "kr": "폭력은 목적이 아니라 수단일 뿐이야. 이 녀석들은 효율이 너무 안 좋네.",
+                "cn": "暴力不是目的，只是手段。这些人的效率太低。"
+            },
+            "asset": "char_4037_demetr/CN_012"
+        },
+        {
+            "id": "char_4037_demetr_CN_013",
+            "title": {
+                "en": "Promotion 1",
+                "jp": "昇進Ⅰ",
+                "kr": "1차 정예화 (승진)",
+                "cn": "精英化晋升1"
+            },
+            "text": {
+                "en": "A promotion… It's been a long time since someone's used this word with me. Feels fresh.",
+                "jp": "昇進か……他人の口からそんな言葉を聞くのはいつ以来だろうな。新鮮な気分だよ。",
+                "kr": "승진인가…… 다른 사람 입에서 그 소리를 듣는 게 얼마 만인지. 신선한 기분이야.",
+                "cn": "晋升......很久没有听到别人对我使用这个词了。很新鲜。"
+            },
+            "asset": "char_4037_demetr/CN_013"
+        },
+        {
+            "id": "char_4037_demetr_CN_014",
+            "title": {
+                "en": "Promotion 2",
+                "jp": "昇進Ⅱ",
+                "kr": "2차 정예화 (승진)",
+                "cn": "精英化晋升2"
+            },
+            "text": {
+                "en": "Titles and tokens don't necessarily equate to trust, but at least they show how you see me. È un onore.",
+                "jp": "物や肩書きは必ずしも信頼の証にはならないが、それはあんたの態度の表れにはなる。光栄だ。",
+                "kr": "물건이나 직함이 반드시 신뢰의 증표가 되는 건 아니지만, 그게 네 태도를 표현해줄 순 있지. 영광이야.",
+                "cn": "头衔与物质并不一定代表信任，但至少它们能表明你的态度。我很荣幸。"
+            },
+            "asset": "char_4037_demetr/CN_014"
+        },
+        {
+            "id": "char_4037_demetr_CN_017",
+            "title": {
+                "en": "Added to Squad",
+                "jp": "編成",
+                "kr": "팀 배치",
+                "cn": "编入队伍"
+            },
+            "text": {
+                "en": "Let's go. It's time we witness the fruition of our plans.",
+                "jp": "行くぞ。俺たちの計画の成果を見届けるとしよう。",
+                "kr": "가자. 우리 계획의 성과를 지켜보도록 하지.",
+                "cn": "走吧，去见证我们规划的成果。"
+            },
+            "asset": "char_4037_demetr/CN_017"
+        },
+        {
+            "id": "char_4037_demetr_CN_018",
+            "title": {
+                "en": "Appointed as Squad Leader",
+                "jp": "隊長任命",
+                "kr": "팀장 임명",
+                "cn": "任命队长"
+            },
+            "text": {
+                "en": "Do as I say, and ask no questions.",
+                "jp": "言う通りにやれ。質問は受け付けない。",
+                "kr": "말하는 대로 해. 질문은 안 받아.",
+                "cn": "按我说的做，不要问为什么。"
+            },
+            "asset": "char_4037_demetr/CN_018"
+        },
+        {
+            "id": "char_4037_demetr_CN_019",
+            "title": {
+                "en": "Depart",
+                "jp": "作戦準備",
+                "kr": "작전 출발",
+                "cn": "行动出发"
+            },
+            "text": {
+                "en": "I don't need so many hands with me. Those on standby, just watch us work.",
+                "jp": "頭数はこんなに必要ない。動かない奴はひとまず見て学べ。",
+                "kr": "머릿수는 이렇게까지 필요 없어. 움직이지 않는 녀석은 일단 보면서 배워.",
+                "cn": "不需要这么多人。不行动的就先观摩吧。"
+            },
+            "asset": "char_4037_demetr/CN_019"
+        },
+        {
+            "id": "char_4037_demetr_CN_020",
+            "title": {
+                "en": "Begin Operation",
+                "jp": "戦闘開始",
+                "kr": "작전 개시",
+                "cn": "行动开始"
+            },
+            "text": {
+                "en": "Stay silent and wait.",
+                "jp": "静かに時を待て。",
+                "kr": "조용히 때를 기다려라.",
+                "cn": "保持安静，等待。"
+            },
+            "asset": "char_4037_demetr/CN_020"
+        },
+        {
+            "id": "char_4037_demetr_CN_021",
+            "title": {
+                "en": "Selecting Operator 1",
+                "jp": "選択時1",
+                "kr": "오퍼레이터 선택 1",
+                "cn": "选中干员1"
+            },
+            "text": {
+                "en": "You're asking me? I say it's time to move.",
+                "jp": "俺の意見か？やるなら今だ。",
+                "kr": "내 의견? 한다면 지금이다.",
+                "cn": "问我的意见？该动手了。"
+            },
+            "asset": "char_4037_demetr/CN_021"
+        },
+        {
+            "id": "char_4037_demetr_CN_022",
+            "title": {
+                "en": "Selecting Operator 2",
+                "jp": "選択時2",
+                "kr": "오퍼레이터 선택 2",
+                "cn": "选中干员2"
+            },
+            "text": {
+                "en": "Don't hesitate.",
+                "jp": "躊躇うな。",
+                "kr": "주저하지 마라.",
+                "cn": "别犹豫。"
+            },
+            "asset": "char_4037_demetr/CN_022"
+        },
+        {
+            "id": "char_4037_demetr_CN_023",
+            "title": {
+                "en": "Deployment 1",
+                "jp": "配置1",
+                "kr": "배치 1",
+                "cn": "部署1"
+            },
+            "text": {
+                "en": "Leave it to me.",
+                "jp": "任せろ。",
+                "kr": "맡겨둬.",
+                "cn": "交给我。"
+            },
+            "asset": "char_4037_demetr/CN_023"
+        },
+        {
+            "id": "char_4037_demetr_CN_024",
+            "title": {
+                "en": "Deployment 2",
+                "jp": "配置2",
+                "kr": "배치 2",
+                "cn": "部署2"
+            },
+            "text": {
+                "en": "I'll handle it.",
+                "jp": "手はずは俺が整えておく。",
+                "kr": "내가 안배하지.",
+                "cn": "我会安排。"
+            },
+            "asset": "char_4037_demetr/CN_024"
+        },
+        {
+            "id": "char_4037_demetr_CN_025",
+            "title": {
+                "en": "In Battle 1",
+                "jp": "作戦中1",
+                "kr": "작전 중 1",
+                "cn": "作战中1"
+            },
+            "text": {
+                "en": "The Bellones say hello.",
+                "jp": "ベッローネより、ご挨拶を。",
+                "kr": "벨로네가, 안부를 전하지.",
+                "cn": "贝洛内家向您问好。"
+            },
+            "asset": "char_4037_demetr/CN_025"
+        },
+        {
+            "id": "char_4037_demetr_CN_026",
+            "title": {
+                "en": "In Battle 2",
+                "jp": "作戦中2",
+                "kr": "작전 중 2",
+                "cn": "作战中2"
+            },
+            "text": {
+                "en": "It's time to repay your debt.",
+                "jp": "ツケを払ってもらおうか。",
+                "kr": "외상값을 치러 주실까.",
+                "cn": "你欠的账该还了。"
+            },
+            "asset": "char_4037_demetr/CN_026"
+        },
+        {
+            "id": "char_4037_demetr_CN_027",
+            "title": {
+                "en": "In Battle 3",
+                "jp": "作戦中3",
+                "kr": "작전 중 3",
+                "cn": "作战中3"
+            },
+            "text": {
+                "en": "This is the price you pay for offending the famiglia.",
+                "jp": "これはベッローネをコケにした代償だ。",
+                "kr": "이건 벨로네를 우습게 본 대가다.",
+                "cn": "这是你冒犯家族的代价。"
+            },
+            "asset": "char_4037_demetr/CN_027"
+        },
+        {
+            "id": "char_4037_demetr_CN_028",
+            "title": {
+                "en": "In Battle 4",
+                "jp": "作戦中4",
+                "kr": "작전 중 4",
+                "cn": "作战中4"
+            },
+            "text": {
+                "en": "Don't worry. I'll take care of your family when you're gone.",
+                "jp": "安心して逝くといい。身内の面倒は俺が見てやる。",
+                "kr": "안심하고 가. 가족들은 내가 돌봐주지.",
+                "cn": "安心去吧，我会照顾好你的家人。"
+            },
+            "asset": "char_4037_demetr/CN_028"
+        },
+        {
+            "id": "char_4037_demetr_CN_029",
+            "title": {
+                "en": "4-star Result",
+                "jp": "高難度作戦クリア",
+                "kr": "고난이도 작전 종료",
+                "cn": "完成高难行动"
+            },
+            "text": {
+                "en": "Meticulous plans, finely executed. You'll get used to these splendid triumphs with me around, Doctor.",
+                "jp": "綿密な計画に、迅速な行動。俺がいれば、こういう輝かしい勝利も日常になるぞ。",
+                "kr": "주도면밀한 계획에, 신속한 행동. 내가 있으면, 이런 빛나는 승리도 일상이 될 걸.",
+                "cn": "周密的规划，利落的行动。有我在，你会对这样辉煌的胜利习以为常的，博士。"
+            },
+            "asset": "char_4037_demetr/CN_029"
+        },
+        {
+            "id": "char_4037_demetr_CN_030",
+            "title": {
+                "en": "3-star Result",
+                "jp": "★3で戦闘終了",
+                "kr": "3★ 작전 종료",
+                "cn": "3星结束行动"
+            },
+            "text": {
+                "en": "Not all donuts come out with a hole. I'll review it when we get back.",
+                "jp": "まだ完璧とは言えないな。戻ったら課題を洗い出そう。",
+                "kr": "아직 완벽하다고는 할 수 없네. 돌아가면 문제점을 파악해 볼게.",
+                "cn": "仍有瑕疵，回去我会复盘。"
+            },
+            "asset": "char_4037_demetr/CN_030"
+        },
+        {
+            "id": "char_4037_demetr_CN_031",
+            "title": {
+                "en": "Sub 3-star Result",
+                "jp": "★2以下戦闘終了",
+                "kr": "비 3★ 작전 종료",
+                "cn": "非3星结束行动"
+            },
+            "text": {
+                "en": "Stragglers will return for revenge, so we'll have to devise a plan to eradicate all possible threats.",
+                "jp": "取り逃がした連中は報復に来るだろう。もう一戦交えて、禍根を断たないとな。",
+                "kr": "놓친 놈들은 보복하러 올 거야. 한 번 더 교전해서 화근을 없애야겠어.",
+                "cn": "漏网之人必会回来复仇，得再安排一场战斗以根除隐患。"
+            },
+            "asset": "char_4037_demetr/CN_031"
+        },
+        {
+            "id": "char_4037_demetr_CN_032",
+            "title": {
+                "en": "Operation Failure",
+                "jp": "作戦失敗",
+                "kr": "작전 실패",
+                "cn": "行动失败"
+            },
+            "text": {
+                "en": "Let's see… how can we flip the situation to our advantage?",
+                "jp": "この局面をどう利用するべきか、考えさせてくれ。",
+                "kr": "이 국면을 어떻게 이용해야 할지, 생각 좀 하게 해줘.",
+                "cn": "让我想想该如何利用眼下这局面。"
+            },
+            "asset": "char_4037_demetr/CN_032"
+        },
+        {
+            "id": "char_4037_demetr_CN_033",
+            "title": {
+                "en": "Assigned to Facility",
+                "jp": "基地配属",
+                "kr": "시설에 배치",
+                "cn": "进驻设施"
+            },
+            "text": {
+                "en": "You have a big famiglia of your own. That's no easy feat, making sure they're all cared for.",
+                "jp": "あんたのところは、随分な大家族だな。一人ひとりに目を配るのは骨が折れそうだ。",
+                "kr": "네 쪽은 꽤 대가족이네. 한 명 한 명 살피는 건 고생이겠어.",
+                "cn": "你有一个庞大的家族。要照顾到每一个人并不容易。"
+            },
+            "asset": "char_4037_demetr/CN_033"
+        },
+        {
+            "id": "char_4037_demetr_CN_034",
+            "title": {
+                "en": "Tap",
+                "jp": "タッチ1",
+                "kr": "터치",
+                "cn": "戳一下"
+            },
+            "text": {
+                "en": "Did I miss something important?",
+                "jp": "なんだ、何か注意事項でも見落としてたか？",
+                "kr": "왜, 뭐 주의사항이라도 놓쳤나?",
+                "cn": "我漏了什么需要注意的事？"
+            },
+            "asset": "char_4037_demetr/CN_034"
+        },
+        {
+            "id": "char_4037_demetr_CN_036",
+            "title": {
+                "en": "Trust Tap",
+                "jp": "信頼タッチ",
+                "kr": "신뢰도 터치",
+                "cn": "信赖触摸"
+            },
+            "text": {
+                "en": "Let's go for a walk and inspect our territory.",
+                "jp": "さあ、出かけよう。一緒に俺たちのシマを視察するんだ。",
+                "kr": "자, 나가자. 같이 우리 구역을 시찰하는 거야.",
+                "cn": "出去走走，一起检阅属于我们的地盘吧。"
+            },
+            "asset": "char_4037_demetr/CN_036"
+        },
+        {
+            "id": "char_4037_demetr_CN_037",
+            "title": {
+                "en": "Title",
+                "jp": "タイトルコール",
+                "kr": "타이틀",
+                "cn": "标题"
+            },
+            "text": {
+                "en": "Arknights.",
+                "jp": "アークナイツ。",
+                "kr": "명일방주.",
+                "cn": "明日方舟。"
+            },
+            "asset": "char_4037_demetr/CN_037"
+        },
+        {
+            "id": "char_4037_demetr_CN_038",
+            "title": {
+                "en": "New Year's blessing",
+                "jp": "新年",
+                "kr": "새해",
+                "cn": "新年祝福"
+            },
+            "text": {
+                "en": "The new year is a time for family gatherings. I should go eat with my famiglia. An unshakable tradition. We'll have dinner together after that. It might be a late one, but I'll make it back before the clock turns over.",
+                "jp": "新年か――家族団欒の時だな。俺も、ファミリーの連中の顔を見に戻って、一緒に食事をしてこよう。だが、夕食はあんたと取るつもりだ。どんなに遅くなっても、必ず戻るよ。",
+                "kr": "새해인가…… 가족이 단란히 모일 때네. 나도 패밀리 녀석들 얼굴 보러 돌아가서, 같이 식사해야겠어. 다만, 저녁 식사는 너와 함께할 생각이야. 아무리 늦어지더라도 반드시 돌아올게.",
+                "cn": "新年——家人团聚的时刻。我得回去见见我家族里的人，一起吃顿饭。但我会与你共进晚餐，不管多晚，我都会赶回来。"
+            },
+            "asset": "char_4037_demetr/CN_038"
+        },
+        {
+            "id": "char_4037_demetr_CN_042",
+            "title": {
+                "en": "Greeting",
+                "jp": "挨拶",
+                "kr": "인사",
+                "cn": "问候"
+            },
+            "text": {
+                "en": "Demetri Certaldo Bellone, happy to serve.",
+                "jp": "ディミトリ・チェルタルド・ベッローネが喜んで力になろう。",
+                "kr": "드미트리 체르탈도 벨로네가 기꺼이 힘이 되어주도록 하지.",
+                "cn": "德米特里·切塔尔多·贝洛内乐意为您效劳。"
+            },
+            "asset": "char_4037_demetr/CN_042"
+        },
+        {
+            "id": "char_4037_demetr_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": "Birthdays only come once a year. So, what would you like to eat? Anything you fancy. Yes, even a pineapple pizza, if you dare—though I'm sure you know you'll pay for it someday.",
+                "jp": "せっかくの誕生日だ、何が食べたいか言ってみな。俺が何でも作ってやるよ。ああ、フルーツを乗せたピッツァでもいいぞ。あんたにそれを頼む度胸があるならな――俺がいつか、それをツケとして取り立てることくらいわかってるだろ。",
+                "kr": "모처럼 생일인데, 먹고 싶은 게 있으면 말해 봐. 내가 뭐든지 만들어 줄게. 아아, 과일 올린 피자여도 괜찮아. 너한테 그걸 부탁할 배짱이 있다면 말이지…… 내가 언젠가 그걸 외상값으로 쳐서 받아낼 거란 것쯤은 알고 있잖아.",
+                "cn": "难得生日，说吧，想吃什么？我都可以给你做。对，就算是往披萨上放水果都行，只要你敢提——你知道总有一天我会要回这笔账的。"
+            },
+            "asset": "char_4037_demetr/CN_043"
+        },
+        {
+            "id": "char_4037_demetr_CN_044",
+            "title": {
+                "en": "Anniversary Celebration",
+                "jp": "周年",
+                "kr": "애니버서리",
+                "cn": "周年庆典"
+            },
+            "text": {
+                "en": "Your eyes… remind me of a friend. Idealistic eyes, shining bright. Don't worry, I'll help you out—by my rules.",
+                "jp": "あんたの目には……俺の友人と同じ、理想主義の光が煌めいてるな。安心しろ、俺があんたらの力になってやる――俺のやり方でな。",
+                "kr": "네 눈에는…… 내 친구와 똑같은 이상주의의 빛이 반짝이고 있군. 안심해, 내가 너희의 힘이 되어 주지…… 내 방식대로 말이야.",
+                "cn": "你的双眼......和我的朋友一样，闪动着理想主义的光芒。放心吧，我会帮助你们的——以我的方式。"
+            },
+            "asset": "char_4037_demetr/CN_044"
+        }
+    ],
+    "actors": {
+        "en": {
+            "native": "Samuele Torrigiani",
+            "global": "Samuele Torrigiani"
+        },
+        "cn": {
+            "native": "桑毓泽",
+            "global": "Yuze Sang"
+        },
+        "jp": {
+            "native": "熊谷健太郎",
+            "global": "Kentaro Kumagai"
+        },
+        "kr": {
+            "native": "한신",
+            "global": "Han Shin"
+        }
+    },
+    "availability": [
+        "en",
+        "cn",
+        "jp",
+        "kr"
+    ]
+}

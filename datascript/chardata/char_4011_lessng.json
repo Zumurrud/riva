@@ -634,7 +634,7 @@
             "native": "김민주",
             "global": "Kim Min-ju"
         },
-        "ger": {
+        "de": {
             "native": "Jesse Grimm",
             "global": "Jesse Grimm"
         }
@@ -644,6 +644,6 @@
         "cn",
         "jp",
         "kr",
-        "ger"
+        "de"
     ]
 }

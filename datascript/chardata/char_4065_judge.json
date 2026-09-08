@@ -634,7 +634,7 @@
             "native": "비주언",
             "global": "Bi Ju-eon"
         },
-        "ita": {
+        "it": {
             "native": "Annalisa Longo",
             "global": "Annalisa Longo"
         }
@@ -644,6 +644,6 @@
         "cn",
         "jp",
         "kr",
-        "ita"
+        "it"
     ]
 }

@@ -66,7 +66,7 @@
             },
             "text": {
                 "en": "Hmph.",
-                "jp": "ふん……。",
+                "jp": "ふん……",
                 "kr": "흥……",
                 "cn": "哼。"
             },
@@ -114,7 +114,7 @@
             },
             "text": {
                 "en": "Maybe one day that man will take note of my efforts, but until then…",
-                "jp": "いつかはあの人に認めてもらえるかもしれない。その時までは……。",
+                "jp": "いつかはあの人に認めてもらえるかもしれない。その時までは……",
                 "kr": "언젠가는 그 사람에게 인정받을지도 몰라. 그때까지는…… ",
                 "cn": "也许有一天我会得到那个人的认可，在那之前......"
             },
@@ -130,7 +130,7 @@
             },
             "text": {
                 "en": "Amiya trusts you completely. When I see you two together, it makes me wonder... what if I had someone like that by my side?",
-                "jp": "アーミヤはキミのことをとても信頼しているようだな。キミ達ふたりを見てると、私にもそんな人がいれば、などとつい考えてしまう……。",
+                "jp": "アーミヤはキミのことをとても信頼しているようだな。キミ達ふたりを見てると、私にもそんな人がいれば、などとつい考えてしまう……",
                 "kr": "아미야는 널 깊이 신뢰하는 모양이더군. 너희 둘을 보면, 내게도…… 그런 사람이 있었으면 하는 생각이 든다.",
                 "cn": "阿米娅深深信赖着你。看着你们两人站在一起，我偶尔也会觉得，如果我身边，也能有这样一个人......"
             },
@@ -146,7 +146,7 @@
             },
             "text": {
                 "en": "I've... I've never been able to rely much on anyone, not even...",
-                "jp": "私は……これまで誰にも背中を預けたことはない。あの人にさえ……。",
+                "jp": "私は……これまで誰にも背中を預けたことはない。あの人にさえ……",
                 "kr": "난…… 지금까지 누구에게도 등 뒤를 맡겨본 적이 없다. 그 사람에게 조차도…… ",
                 "cn": "我......我从没试过去毫无保留地相信一个人，即使是那个人也......"
             },
@@ -594,7 +594,7 @@
             },
             "text": {
                 "en": "Here I am, what do you need…? Your birthday? You have time for stuff like this? What are you waiting for, am I supposed to sing for you? In your dreams… Happy birthday, I'm leaving.",
-                "jp": "我来了，找我有什么事？......生日？你现在还有闲心过这个？还在期待什么，等我给你唱生日歌吗，想得挺好......生日快乐，走了。",
+                "jp": "来たぞ。私に何か用か？……誕生日？そんなことを気に掛ける余裕があるのか？何を期待しているんだ。私がバースデーソングを歌うとでも思っているなら、おめでたいぞ……ハッピーバースデー。もう行くぞ。",
                 "kr": "나 왔어, 무슨 일로 나를 찾은 거지? ……생일? 아직도 그럴 여유가 있나? 내가 생일 축하 노래라도 해주길 기대하나? 참 좋은 생각이네…… 생일 축하한다, 그럼 이만.",
                 "cn": "我来了，找我有什么事？......生日？你现在还有闲心过这个？还在期待什么，等我给你唱生日歌吗，想得挺好......生日快乐，走了。"
             },
@@ -626,6 +626,10 @@
             "native": "虫虫",
             "global": "Jen Zhang"
         },
+        "cn_topolect": {
+            "native": "包少爷",
+            "global": "Sunny So"
+        },
         "jp": {
             "native": "石上静香",
             "global": "Shizuka Ishigami"
@@ -633,17 +637,13 @@
         "kr": {
             "native": "정유정",
             "global": "Chung Yu-joung"
-        },
-        "cn_topolect": {
-            "native": "包少爷",
-            "global": "Sunny So"
         }
     },
     "availability": [
         "en",
         "cn",
+        "cn_topolect",
         "jp",
-        "kr",
-        "cn_topolect"
+        "kr"
     ]
 }

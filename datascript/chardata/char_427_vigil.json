@@ -634,7 +634,7 @@
             "native": "이상호",
             "global": "Lee Sang-ho"
         },
-        "ita": {
+        "it": {
             "native": "Alessandro Pili",
             "global": "Alessandro Pili"
         }
@@ -644,6 +644,6 @@
         "cn",
         "jp",
         "kr",
-        "ita"
+        "it"
     ]
 }

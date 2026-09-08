@@ -385,7 +385,7 @@
                 "cn": "作战中2"
             },
             "text": {
-                "en": "Tremble, in the face of ture bravey.",
+                "en": "Tremble, in the face of true bravery.",
                 "jp": "震え上がれ、真の勇敢さを前に。",
                 "kr": "벌벌 떨어라. 진정한 용맹함 앞에서.",
                 "cn": "颤抖吧，在真正的勇敢面前。"
@@ -594,7 +594,7 @@
             },
             "text": {
                 "en": "Congratulations on the day of your birth, Dr.{@nickname}. This wreath, a symbol of honor and victory, is a gift for you. On your road ahead, may you always journey alongside wisdom and courage. The glory befitting a hero, it's sure to be awaiting you at the end of the thorny path.",
-                "jp": "Dr.{@nickname}，恭贺诞辰。这顶象征着胜利与荣誉的花环赠予您。祝您在前行的道路上，永远有勇气和智慧相伴。在荆棘遍布的险路尽头，一定有属于英雄的荣耀在等待着您。",
+                "jp": "Dr.{@nickname}、ご誕辰おめでとうございます。勝利と荣誉を象徴するこの花の冠を差し上げましょう。あなたのこれからの道行きには、常に勇気と知恵が同道することでしょう。いばらが生い茂る険しい道のりの先には、必ずや英雄に相応しき栄光が待っています。",
                 "kr": "{@nickname} 박사님, 생일을 축하드려요. 이 승리와 영예를 상징하는 화환은 선물입니다. 앞으로 나아가는 길에 항상 용기와 지혜가 함께 하시기를 기원합니다. 가시덤불이 가득한 험한 길 끝에, 반드시 영웅의 영광이 당신을 기다리고 있을 겁니다.",
                 "cn": "Dr.{@nickname}，恭贺诞辰。这顶象征着胜利与荣誉的花环赠予您。祝您在前行的道路上，永远有勇气和智慧相伴。在荆棘遍布的险路尽头，一定有属于英雄的荣耀在等待着您。"
             },

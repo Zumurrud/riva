@@ -1,0 +1,644 @@
+{
+    "charid": "char_4204_mantra",
+    "nameid": "mantra",
+    "names": {
+        "en": "Mantra",
+        "jp": "マントラ",
+        "kr": "만트라",
+        "cn": "真言"
+    },
+    "voices": [
+        {
+            "id": "char_4204_mantra_CN_001",
+            "title": {
+                "en": "Appointed as Assistant",
+                "jp": "秘書任命",
+                "kr": "어시스턴트 임명",
+                "cn": "任命助理"
+            },
+            "text": {
+                "en": "I won't abuse your authorization. From now on, I will listen in.",
+                "jp": "あなたの許可は濫用しない。これ以降、私は傾聴に徹する。",
+                "kr": "당신의 허가를 남용하진 않겠다. 이제부터 나는 경청에만 전념하지.",
+                "cn": "我不会滥用你的许可。从现在开始，我保持聆听。"
+            },
+            "asset": "char_4204_mantra/CN_001"
+        },
+        {
+            "id": "char_4204_mantra_CN_002",
+            "title": {
+                "en": "Talk 1",
+                "jp": "会話1",
+                "kr": "대화 1",
+                "cn": "交谈1"
+            },
+            "text": {
+                "en": "I've always 'filtered' the mental burden of using my Originium Arts just as Amiya does. You may visualize the process as looking for something stable to grasp while falling endlessly through a void. You've noticed her doing it? It was you who gave her the courage to fall in the first place, Doctor.",
+                "jp": "私はこれまで、アーツによる精神的な負担に関しては「篩い分け」によって処理してきた。アーミヤも同じだ。それは、終わりなき落下の中で、受け止めてくれる何かを探すのと似たような体験だ。気付いたか？あなたが彼女に「落下」する勇気を与えたんだ、ドクター。",
+                "kr": "나는 지금까지 아츠로 인한 정신적 부담을 '선별'을 통해 처리해 왔다. 아미야도 마찬가지지. 그건 끝없는 추락 속에서 자신을 받아줄 무언가를 찾는 것과 비슷한 체험이야. 눈치챘나? 당신이 아미야에게 '추락'할 용기를 준 거다, 박사.",
+                "cn": "一直以来，我都通过“筛选”来处理使用源石技艺导致的精神重负，阿米娅也一样。这过程类似于在无休止的坠落中寻找能将自己安全托举的对象。你注意到了？是你给了她坠落的勇气，博士。"
+            },
+            "asset": "char_4204_mantra/CN_002"
+        },
+        {
+            "id": "char_4204_mantra_CN_003",
+            "title": {
+                "en": "Talk 2",
+                "jp": "会話2",
+                "kr": "대화 2",
+                "cn": "交谈2"
+            },
+            "text": {
+                "en": "These marks on my hand? They are remnants of my past, a senseless attempt to turn a human body into an Arts Unit. I grew weary of Sargon before these mystic Arts could cover my entire body. As they receded like the tide, so did my memories, with only these fragments to remind me of the place I once called home.",
+                "jp": "腕にあるこれか？二つばかりの、往時の名残だ。自らの体をアーツユニットへと変えようとしたつまらぬ試みだった。秘術の刻印が全身を覆う前、私はサルゴンという国に倦み切っていた。それらが潮のように引いた今、故郷も少しずつ遠ざかり、この残された痕だけが、私もかつてはあの国に属していたのだと思い出させるんだ。",
+                "kr": "팔에 있는 이것 말인가? 두 조각만 남은 지난날의 흔적이지. 내 몸을 아츠 유닛으로 바꾸려 했던 하찮은 시도였다. 비술의 각인이 온몸을 뒤덮기 전, 나는 이미 사르곤의 모든 것에 싫증이 나 있었어. 이제 그 싫증은 썰물처럼 물러났고, 나도 고향과 점점 멀어졌지. 이 남겨진 흔적만이 나도 한때는 저 나라에 속했었다는 것을 떠올리게 해.",
+                "cn": "手背上？是留在我身上的两片往日，一次将身体构筑成施术单元的无聊尝试。在秘术印痕覆满全身前，我厌倦了萨尔贡的一切。当它们如潮水般回退，故乡也步步远去，只有残余提醒着我曾属于那里。"
+            },
+            "asset": "char_4204_mantra/CN_003"
+        },
+        {
+            "id": "char_4204_mantra_CN_004",
+            "title": {
+                "en": "Talk 3",
+                "jp": "会話3",
+                "kr": "대화 3",
+                "cn": "交谈3"
+            },
+            "text": {
+                "en": "I can tell when perception fails to match words. Similar to how Raidian works, it's more detecting lies than reading minds. The difference is that I am a certified psychological counselor, while she is innately gifted in the comprehension and evocation of emotion.",
+                "jp": "者どもの口から出る言葉と、彼らの持つ認識が噛み合わぬ時、私はそれを察知できる。Raidianと似たようなもので、読心ではなく、嘘を判別するのだ。ただし、私はカウンセラーの資格をかつて取得していたのに対し、彼女の場合は生来の共感と影響力に根差している。",
+                "kr": "사람들 입에서 나오는 말과 그들이 가진 인식이 맞지 않을 때, 나는 그것을 감지할 수 있어. 라이디언과 비슷하게, 마음을 읽는 것이 아니라, 거짓말을 판별하는 거다. 다만 예전에 심리 상담사 자격증을 취득했던 나와는 달리, 라이디언은 선천적인 공감력과 영향력을 바탕으로 하고 있어.",
+                "cn": "当人们对事物的实际认知与他们说出口的话语不相符时，我能辨别这种差异。测谎，而非读心，与Raidian的情况类似。不同在于，我曾持有心理咨询师执照，她则有天然的同理心与感染力。"
+            },
+            "asset": "char_4204_mantra/CN_004"
+        },
+        {
+            "id": "char_4204_mantra_CN_005",
+            "title": {
+                "en": "Talk after Promotion 1",
+                "jp": "昇進後会話1",
+                "kr": "1차 정예화 후 대화",
+                "cn": "晋升后交谈1"
+            },
+            "text": {
+                "en": "A pair of wizened hands, comforting farmers, traders, soldiers, even lords ameer and padishahs. All those seeking answers only to fall into chaos without exception, suffering ceaseless fear or ecstasy, and descent into disorder. I know, the line separating me from the Yurodstvo used to be indistinguishable.",
+                "jp": "枯れ木のような両手が、農夫、商人、兵士、ひいては首長やパーディシャーの頭に触れる。答えを求めた者は尽く混沌に至り、絶えず続く恐怖、陶酔、錯乱――私は知っている。かつての私と佯狂者とはそれほど大きな違いはなかったのだ。",
+                "kr": "마른나무 같은 양손이, 농부, 상인, 병사, 나아가 아미르와 파디샤의 머리에 닿았다. 답을 구했던 자들은 모두 혼돈에 이르렀지. 끝없이 이어지는 공포, 도취, 착란…… 나는 알고 있다. 과거의 나와 유로지비는 그렇게까지 큰 차이가 없었다는 것을.",
+                "cn": "一双干枯的手，抚过农民、商贩、士兵，甚至王酋和帕夏的头顶。所有寻求解答的人无一例外得到混沌的下场，不停歇地惊惧、狂喜，行为失序。我知道，曾经我与圣愚的界限并不分明。"
+            },
+            "asset": "char_4204_mantra/CN_005"
+        },
+        {
+            "id": "char_4204_mantra_CN_006",
+            "title": {
+                "en": "Talk after Promotion 2",
+                "jp": "昇進後会話2",
+                "kr": "2차 정예화 후 대화",
+                "cn": "晋升后交谈2"
+            },
+            "text": {
+                "en": "The departed connect our past to present. Only with this, can we have a future. Someone once said, 'this is the meaning of sacrifice', but I disagree. Do not leave your names behind in such a pragmatic fashion, do not turn your actual life to abstraction, and do not deify suffering and death.",
+                "jp": "去った者たちは、過去と今を繋いでくれた。その行いがあってこそ、我々には未来が訪れた。「それが犠牲の意味だ」と言われることもあるが、私の認識では「違う」。犠牲に価値があると考えて記憶するな。人生を抽象化するな。苦しみと死を神聖視するな。",
+                "kr": "떠난 이들은 과거와 현재를 이어주었다. 그 행동들이 있었기에, 우리에게 미래가 찾아왔지. “그것이 희생의 의의다”라고 말하는 사람도 있지만, 내 인식으로는 '아니다'. 희생에 가치가 있다고 생각하며 기억하지 마라. 인생을 추상화하지 마라. 고통과 죽음을 신성시하지 마라.",
+                "cn": "离开的人让我们连接起过去与现在。在这之后，我们才拥有未来。有人说，“这是牺牲的意义”，我认为，“不”。不要如此功利地铭记，不要将生活抽象，不要神化痛苦与死亡。"
+            },
+            "asset": "char_4204_mantra/CN_006"
+        },
+        {
+            "id": "char_4204_mantra_CN_007",
+            "title": {
+                "en": "Talk after Trust Increase 1",
+                "jp": "信頼上昇後会話1",
+                "kr": "신뢰도 상승 후 대화 1",
+                "cn": "信赖提升后交谈1"
+            },
+            "text": {
+                "en": "'Beware the Caster who can make you writhe in pain, puking your guts out, without lifting even a finger.' This is true to some extent, but my squad members ardently objected and rushed to refute it. Elysium says it is very important to tell the truth about me… ah, the youth.",
+                "jp": "「指一つ動かさず内臓を吐き出すほどの苦痛を与えてくる術師に気をつけろ」――ある程度この言葉は事実だが、うちの隊の面々の反応は激しく、勇んで否定して回っていた。エリジウムが言うには、皆に私の本当の姿を伝えることが大切なのだそうだ。……若いな。",
+                "kr": "“손가락 하나 움직이지 않고 내장을 토할 정도의 고통을 주는 캐스터를 조심하라”는 말은 어느 정도 사실이지만, 우리 부대원들은 격렬하게 반응하며 발 벗고 부정하고 다녔지. 엘리시움의 얘기론, 모두에게 내 진짜 모습을 알리는 것이 중요하다는 모양이야…… 어리군.",
+                "cn": "“当心那个不动手就能让人痛苦到呕出自己内脏的术师。”某种程度上，这是事实，但我的队员却对此反应激烈，奔走辟谣。极境说，向他人传达关于我的真相，这很重要。......多年轻啊。"
+            },
+            "asset": "char_4204_mantra/CN_007"
+        },
+        {
+            "id": "char_4204_mantra_CN_008",
+            "title": {
+                "en": "Talk after Trust Increase 2",
+                "jp": "信頼上昇後会話2",
+                "kr": "신뢰도 상승 후 대화 2",
+                "cn": "信赖提升后交谈2"
+            },
+            "text": {
+                "en": "Doctor. I'm not angry, just emptying my mind to recover some energy. I've come to the age where I have to gasp for breath every few words, after all. Alright, the last one was a joke. It was Dr. Kal'tsit who recommended this method, even if she didn't practice it herself. She always had too much on her mind.",
+                "jp": "ドクター、私は怒りを覚えているわけではない。ただ思考を止めて気力の回復に努めていただけだ。私も時に立ち止まり、一息つかねばならない歳になったからな。ふっ、最後のは冗談だ。ケルシー医師の助言を受けて行っていることだが、彼女自身は滅多にこうした方法をとらないな。いつも考えすぎている。",
+                "kr": "박사, 나는 화가 난 게 아니다. 그저 생각을 멈추고 기력 회복에 전념하고 있었을 뿐이야. 나도 때때로 멈춰 서서 한숨 돌려야 하는 나이가 됐으니까. 훗, 마지막 말은 농담이다. 닥터 켈시의 조언에 따라 하고 있는 것이지만, 정작 본인은 좀처럼 이런 방법을 쓰지 않더군. 항상 생각이 너무 많아.",
+                "cn": "博士，我没有生气，只是放空头脑恢复精力，毕竟我已经到了需要不时停下来喘口气的年纪。好吧，最后一句是玩笑。这是凯尔希医生的建议，可惜同样的方法她自己却不常使用。她总是思虑过重。"
+            },
+            "asset": "char_4204_mantra/CN_008"
+        },
+        {
+            "id": "char_4204_mantra_CN_009",
+            "title": {
+                "en": "Talk after Trust Increase 3",
+                "jp": "信頼上昇後会話3",
+                "kr": "신뢰도 상승 후 대화 3",
+                "cn": "信赖提升后交谈3"
+            },
+            "text": {
+                "en": "Blaze and Rosmontis both keep mementos from those around them. When they came to me, I gave Blaze a signal receiver, while Rosmontis got a transmission disc. Me? I don't keep anything. I don't commit to saving a memory I never intend to forget.",
+                "jp": "ブレイズとロスモンティスは、他の者の持ち物を集めている。二人が訪ねてきた時、私はブレイズに信号受信機を、ロスモンティスに発信レコードをそれぞれ一枚渡した。私？特に何も。忘却するつもりがないのなら、殊更に記憶しようと意識する必要もない。",
+                "kr": "블레이즈와 로즈몬티스는 다른 이들의 소지품을 모으고 있지. 두 사람이 찾아왔을 때, 나는 블레이즈에게 신호 수신기를, 로즈몬티스에게는 발신 레코드를 주었다. 나? 딱히 아무것도. 망각할 생각이 없다면, 굳이 기억하려 의식할 필요도 없어.",
+                "cn": "煌和迷迭香都各自保存了一些其他人的旧物。她们找来时，我给了煌一枚信号接收器，给了迷迭香一张发信小唱片。我？我什么也没有留下。对我而言，如果从不打算遗忘，也就不必留意铭记。"
+            },
+            "asset": "char_4204_mantra/CN_009"
+        },
+        {
+            "id": "char_4204_mantra_CN_010",
+            "title": {
+                "en": "Idle",
+                "jp": "放置",
+                "kr": "방치",
+                "cn": "闲置"
+            },
+            "text": {
+                "en": "Hello, Doctor. I did not mean to disturb your rest, but Amiya wants to remind you there is still work that needs doing.",
+                "jp": "ごきげんよう、ドクター。眠りを妨げるつもりはなかった。ただアーミヤに、ここにはまだ片付けるべき仕事が残っていると知らせてほしいと頼まれてな。",
+                "kr": "안녕, 박사. 잠을 방해할 생각은 없었다. 그저 아미야에게, 이곳에 아직 처리해야 할 일이 남아 있다고 전해달라는 부탁을 받아서 말이야.",
+                "cn": "你好，博士。无意打扰你的好眠，只是阿米娅要我提醒你，这里还有很多工作需要完成。"
+            },
+            "asset": "char_4204_mantra/CN_010"
+        },
+        {
+            "id": "char_4204_mantra_CN_011",
+            "title": {
+                "en": "Onboard",
+                "jp": "入職会話",
+                "kr": "오퍼레이터 입사",
+                "cn": "干员报到"
+            },
+            "text": {
+                "en": "Before the authorizations were modified, I would take orders from you directly. Don't worry, my communications support equipment may have been upgraded, but I won't intrude into your consciousness without prior approval.",
+                "jp": "承認指令が変更されるまでは、あなたの指揮に直接従う。心配は無用だ。私が意思疎通に使用する補助装置は改良されたが、許可がない限り、独断であなたの意識に立ち入るような真似はしない。",
+                "kr": "승인이 변경될 때까지는, 당신의 지휘를 직접 따르도록 하지. 걱정할 필요는 없다. 내가 의사소통에 사용하는 보조 장비가 개량되기는 했지만, 허가가 없는 한 독단으로 당신의 의식에 들어가지는 않아.",
+                "cn": "在授权口令更改前，我将直接听从你的指挥。不必担心，虽然辅助我交流的设备有了改进，但如果没有得到允许，我依旧不会贸然闯进你的意识。"
+            },
+            "asset": "char_4204_mantra/CN_011"
+        },
+        {
+            "id": "char_4204_mantra_CN_012",
+            "title": {
+                "en": "Watching Battle Record",
+                "jp": "経験値上昇",
+                "kr": "작전기록 학습",
+                "cn": "观看作战记录"
+            },
+            "text": {
+                "en": "If Outcast were there, we would've routed the enemy much quicker… You want to see older battle records? I know where to find them.",
+                "jp": "もしこの戦闘にOutcastが機動支援で参加していれば、敵の動きをより迅速に止めることができただろう。……そうした過去の記録が見たいか？どこにあるかは把握している。",
+                "kr": "만약 이 전투에 아웃캐스트가 기동 지원으로 참가했었다면, 적의 움직임을 더 신속하게 저지할 수 있었겠지. ……그런 과거의 기록을 보고 싶나? 어디 있는지 알고 있어.",
+                "cn": "如果这场战斗里能有Outcast来机动配合，敌方动作应该能被更利落地打断。......你想看看更早时候的录像吗？我知道它们放在哪里。"
+            },
+            "asset": "char_4204_mantra/CN_012"
+        },
+        {
+            "id": "char_4204_mantra_CN_013",
+            "title": {
+                "en": "Promotion 1",
+                "jp": "昇進Ⅰ",
+                "kr": "1차 정예화 (승진)",
+                "cn": "精英化晋升1"
+            },
+            "text": {
+                "en": "Elysium offered to simulate the promotion process for me, claiming to be more experienced than me in this field. But now I suspect he may have been buying time to avoid training. Once this is over, I'll have a little 'chat' with him.",
+                "jp": "先ほど、エリジウムが私のために特殊昇進儀式のシミュレーションをすると言い出した。自分はその方面での「先輩」だとな。しかし今となっては、訓練から逃げるために時間稼ぎをしようという魂胆だったようにも見える。ここの用が終わったら、彼と「話」をせねば。",
+                "kr": "조금 전에, 엘리시움이 나를 위해 특수 승진 시뮬레이션을 하자고 하더군. 자신이 그쪽 방면에서는 '선배'라면서 말이야. 하지만 지금 생각해 보면, 훈련을 피하기 위해 시간을 벌 속셈이었던 것 같아. 이쪽 용무가 끝나면, 엘리시움과 '이야기'를 해봐야겠어.",
+                "cn": "先前极境提出要为我模拟特殊晋升过程，说他在这方面算是我的前辈。现在看来，或许他只是为了拖延时间，逃避常规训练。等这边结束，我要找他“谈谈”。"
+            },
+            "asset": "char_4204_mantra/CN_013"
+        },
+        {
+            "id": "char_4204_mantra_CN_014",
+            "title": {
+                "en": "Promotion 2",
+                "jp": "昇進Ⅱ",
+                "kr": "2차 정예화 (승진)",
+                "cn": "精英化晋升2"
+            },
+            "text": {
+                "en": "The promotion process for Elite Operators is still the same, the only change being our reviewer. It was the Speaker, then Dr. Kal'tsit, and now you. It may not be the best time to say this, but welcome back, Doctor.",
+                "jp": "エリートオペレーターの昇進手順は決まっているが、認可を与える者はまま変わる。この席には、かつて議長が、ケルシー医師が、そしてあなたがいた。今が適切な時とは思えないが……おかえり、ドクター。",
+                "kr": "정예 오퍼레이터의 승진 절차는 정해져 있지만, 승인하는 사람은 간혹 바뀌지. 이 자리에는 한때 의장, 닥터 켈시, 그리고 당신이 있었다. 지금이 적절한 때라고는 생각하지 않지만…… 돌아온 걸 환영한다, 박사.",
+                "cn": "精英干员晋升有固定的流程，只是审批人员会产生变动。这个位置上有过议长、凯尔希医生，以及你。也许这不算是个好时机，但，欢迎回来，博士。"
+            },
+            "asset": "char_4204_mantra/CN_014"
+        },
+        {
+            "id": "char_4204_mantra_CN_017",
+            "title": {
+                "en": "Added to Squad",
+                "jp": "編成",
+                "kr": "팀 배치",
+                "cn": "编入队伍"
+            },
+            "text": {
+                "en": "If you must.",
+                "jp": "必要ならば。",
+                "kr": "필요하다면.",
+                "cn": "如果你需要。"
+            },
+            "asset": "char_4204_mantra/CN_017"
+        },
+        {
+            "id": "char_4204_mantra_CN_018",
+            "title": {
+                "en": "Appointed as Squad Leader",
+                "jp": "隊長任命",
+                "kr": "팀장 임명",
+                "cn": "任命队长"
+            },
+            "text": {
+                "en": "Elysium.",
+                "jp": "エリジウム。",
+                "kr": "엘리시움.",
+                "cn": "极境。"
+            },
+            "asset": "char_4204_mantra/CN_018"
+        },
+        {
+            "id": "char_4204_mantra_CN_019",
+            "title": {
+                "en": "Depart",
+                "jp": "作戦準備",
+                "kr": "작전 출발",
+                "cn": "行动出发"
+            },
+            "text": {
+                "en": "A <i>clear</i> battle plan.",
+                "jp": "作戦計画は固まった。",
+                "kr": "작전 계획은 정해졌다.",
+                "cn": "作战计划已明晰。"
+            },
+            "asset": "char_4204_mantra/CN_019"
+        },
+        {
+            "id": "char_4204_mantra_CN_020",
+            "title": {
+                "en": "Begin Operation",
+                "jp": "戦闘開始",
+                "kr": "작전 개시",
+                "cn": "行动开始"
+            },
+            "text": {
+                "en": "Let me know how far I should probe.",
+                "jp": "私が探知すべき波長を指定してくれ。",
+                "kr": "내가 감지해야 할 파장을 지정해 줘.",
+                "cn": "请告知我需要探知的波域广度。"
+            },
+            "asset": "char_4204_mantra/CN_020"
+        },
+        {
+            "id": "char_4204_mantra_CN_021",
+            "title": {
+                "en": "Selecting Operator 1",
+                "jp": "選択時1",
+                "kr": "오퍼레이터 선택 1",
+                "cn": "选中干员1"
+            },
+            "text": {
+                "en": "I'm listening.",
+                "jp": "聞いている。",
+                "kr": "듣고 있어.",
+                "cn": "我在听着。"
+            },
+            "asset": "char_4204_mantra/CN_021"
+        },
+        {
+            "id": "char_4204_mantra_CN_022",
+            "title": {
+                "en": "Selecting Operator 2",
+                "jp": "選択時2",
+                "kr": "오퍼레이터 선택 2",
+                "cn": "选中干员2"
+            },
+            "text": {
+                "en": "If we must be covert.",
+                "jp": "隠密行動が必要ならば。",
+                "kr": "은밀한 행동이 필요하다면.",
+                "cn": "如果需要隐秘行动。"
+            },
+            "asset": "char_4204_mantra/CN_022"
+        },
+        {
+            "id": "char_4204_mantra_CN_023",
+            "title": {
+                "en": "Deployment 1",
+                "jp": "配置1",
+                "kr": "배치 1",
+                "cn": "部署1"
+            },
+            "text": {
+                "en": "I will pass it on.",
+                "jp": "伝えよう。",
+                "kr": "전하겠다.",
+                "cn": "我会传达。"
+            },
+            "asset": "char_4204_mantra/CN_023"
+        },
+        {
+            "id": "char_4204_mantra_CN_024",
+            "title": {
+                "en": "Deployment 2",
+                "jp": "配置2",
+                "kr": "배치 2",
+                "cn": "部署2"
+            },
+            "text": {
+                "en": "A carefully deliberated dispatch.",
+                "jp": "熟慮の賜物だな。",
+                "kr": "심사숙고한 결과로군.",
+                "cn": "深思熟虑的结果。"
+            },
+            "asset": "char_4204_mantra/CN_024"
+        },
+        {
+            "id": "char_4204_mantra_CN_025",
+            "title": {
+                "en": "In Battle 1",
+                "jp": "作戦中1",
+                "kr": "작전 중 1",
+                "cn": "作战中1"
+            },
+            "text": {
+                "en": "Follow my voice.",
+                "jp": "私の声に従え。",
+                "kr": "내 목소리를 따라.",
+                "cn": "跟随我的声音。"
+            },
+            "asset": "char_4204_mantra/CN_025"
+        },
+        {
+            "id": "char_4204_mantra_CN_026",
+            "title": {
+                "en": "In Battle 2",
+                "jp": "作戦中2",
+                "kr": "작전 중 2",
+                "cn": "作战中2"
+            },
+            "text": {
+                "en": "There is no rejecting my intrusion.",
+                "jp": "私の侵入に抗うことは不可能だ。",
+                "kr": "내 침입에 저항하는 건 불가능하다.",
+                "cn": "你们无法拒斥我的侵入。"
+            },
+            "asset": "char_4204_mantra/CN_026"
+        },
+        {
+            "id": "char_4204_mantra_CN_027",
+            "title": {
+                "en": "In Battle 3",
+                "jp": "作戦中3",
+                "kr": "작전 중 3",
+                "cn": "作战中3"
+            },
+            "text": {
+                "en": "Resistance is futile.",
+                "jp": "無駄な抵抗だ。",
+                "kr": "쓸데없는 저항이다.",
+                "cn": "请放弃抵抗。"
+            },
+            "asset": "char_4204_mantra/CN_027"
+        },
+        {
+            "id": "char_4204_mantra_CN_028",
+            "title": {
+                "en": "In Battle 4",
+                "jp": "作戦中4",
+                "kr": "작전 중 4",
+                "cn": "作战中4"
+            },
+            "text": {
+                "en": "Target detected.",
+                "jp": "目標を発見。",
+                "kr": "목표 발견.",
+                "cn": "发现目标。"
+            },
+            "asset": "char_4204_mantra/CN_028"
+        },
+        {
+            "id": "char_4204_mantra_CN_029",
+            "title": {
+                "en": "4-star Result",
+                "jp": "高難度作戦クリア",
+                "kr": "고난이도 작전 종료",
+                "cn": "完成高难行动"
+            },
+            "text": {
+                "en": "The enemy has nowhere to hide. An inevitable result, with perfect command.",
+                "jp": "敵に逃げ場はない。必然の結果であり、完璧な指揮だ。",
+                "kr": "적에게 도망갈 곳은 없어. 필연적인 결과고, 완벽한 지휘다.",
+                "cn": "敌人无所遁形。必然的结果，完美的指挥。"
+            },
+            "asset": "char_4204_mantra/CN_029"
+        },
+        {
+            "id": "char_4204_mantra_CN_030",
+            "title": {
+                "en": "3-star Result",
+                "jp": "★3で戦闘終了",
+                "kr": "3★ 작전 종료",
+                "cn": "3星结束行动"
+            },
+            "text": {
+                "en": "(Nods in approval)",
+                "jp": "（褒め称えるようにうなずく）",
+                "kr": "(칭찬하듯 고개를 끄덕인다)",
+                "cn": "（赞许地点头）"
+            },
+            "asset": "char_4204_mantra/CN_030"
+        },
+        {
+            "id": "char_4204_mantra_CN_031",
+            "title": {
+                "en": "Sub 3-star Result",
+                "jp": "★2以下戦闘終了",
+                "kr": "비 3★ 작전 종료",
+                "cn": "非3星结束行动"
+            },
+            "text": {
+                "en": "I've sent their remaining units' positions to our cleanup squad's terminal. It's over, Doctor.",
+                "jp": "討ち漏らしの座標は掃討班に送信した。作戦終了だ、ドクター。",
+                "kr": "놓친 적들의 좌표는 수습팀에 전송했다. 작전 종료다, 박사.",
+                "cn": "残敌坐标已经发送至收尾队伍的终端。结束了，博士。"
+            },
+            "asset": "char_4204_mantra/CN_031"
+        },
+        {
+            "id": "char_4204_mantra_CN_032",
+            "title": {
+                "en": "Operation Failure",
+                "jp": "作戦失敗",
+                "kr": "작전 실패",
+                "cn": "行动失败"
+            },
+            "text": {
+                "en": "I've jammed their tracers. Leave, now!",
+                "jp": "敵方の追跡装置に干渉を加えた。今だ、退け！",
+                "kr": "적들의 추적기를 교란했다. 지금이다, 물러나라!",
+                "cn": "我干扰了对面的追踪器。趁现在，离开！"
+            },
+            "asset": "char_4204_mantra/CN_032"
+        },
+        {
+            "id": "char_4204_mantra_CN_033",
+            "title": {
+                "en": "Assigned to Facility",
+                "jp": "基地配属",
+                "kr": "시설에 배치",
+                "cn": "进驻设施"
+            },
+            "text": {
+                "en": "It's time to rest.",
+                "jp": "休憩の時間だ。",
+                "kr": "휴식 시간이다.",
+                "cn": "休息时间。"
+            },
+            "asset": "char_4204_mantra/CN_033"
+        },
+        {
+            "id": "char_4204_mantra_CN_034",
+            "title": {
+                "en": "Tap",
+                "jp": "タッチ1",
+                "kr": "터치",
+                "cn": "戳一下"
+            },
+            "text": {
+                "en": "Need something?",
+                "jp": "何か必要か？",
+                "kr": "뭐가 필요한가?",
+                "cn": "有什么需要？"
+            },
+            "asset": "char_4204_mantra/CN_034"
+        },
+        {
+            "id": "char_4204_mantra_CN_036",
+            "title": {
+                "en": "Trust Tap",
+                "jp": "信頼タッチ",
+                "kr": "신뢰도 터치",
+                "cn": "信赖触摸"
+            },
+            "text": {
+                "en": "Try again. This time I'll pretend I didn't notice you beforehand.",
+                "jp": "もう一度試してくれ。今度は、素知らぬフリをする。",
+                "kr": "다시 한번 시도해 봐. 이번에는 모르는 척할 테니.",
+                "cn": "再试一次吧。这次，我会装作没有提前发现。"
+            },
+            "asset": "char_4204_mantra/CN_036"
+        },
+        {
+            "id": "char_4204_mantra_CN_037",
+            "title": {
+                "en": "Title",
+                "jp": "タイトルコール",
+                "kr": "타이틀",
+                "cn": "标题"
+            },
+            "text": {
+                "en": "Arknights.",
+                "jp": "アークナイツ。",
+                "kr": "명일방주.",
+                "cn": "明日方舟。"
+            },
+            "asset": "char_4204_mantra/CN_037"
+        },
+        {
+            "id": "char_4204_mantra_CN_038",
+            "title": {
+                "en": "New Year's blessing",
+                "jp": "新年",
+                "kr": "새해",
+                "cn": "新年祝福"
+            },
+            "text": {
+                "en": "Bootlegging of pigment from Laterano, witnessing gold bars growing legs and vanishing into Kazdel… we Elite Operators are used to sharing stories from the past year's field missions on this night. I'm sure you've missed some of the stories, so I'll try my best to patch any holes along the way, Doctor. Have a seat, if you'd like.",
+                "jp": "ラテラーノの顔料密輸、カズデルの足の生えた純金……エリートオペレーターは毎年この日の夜に、一年分の外勤で見聞きした話を分かち合うのが恒例であった。多少の聞き逃した話があるのは致し方ないことだ。だが、もし望むなら、私が可能な限り欠け補おう。座れ、ドクター。",
+                "kr": "라테라노의 물감 밀수, 카즈델의 발 달린 순금…… 정예 오퍼레이터들은 매년 이날 밤에, 한 해 동안 외근에서 보고 들은 이야기들을 서로 나누는 것이 관례였다. 다소 놓친 이야기가 있는 것은 어쩔 수 없는 일이야. 하지만, 혹시 원한다면 내가 가능한 한 보충해 주지. 앉아라, 박사.",
+                "cn": "拉特兰颜料走私、卡兹戴尔长脚的赤金......精英干员们习惯在今天晚上分享一年外勤任务的见闻。错过一些故事在所难免，如果你希望的话，我会尽可能为你补足缺憾。坐好了，博士。"
+            },
+            "asset": "char_4204_mantra/CN_038"
+        },
+        {
+            "id": "char_4204_mantra_CN_042",
+            "title": {
+                "en": "Greeting",
+                "jp": "挨拶",
+                "kr": "인사",
+                "cn": "问候"
+            },
+            "text": {
+                "en": "(After nodding to each other, the two of you enjoy a cozy moment of silence)",
+                "jp": "（お互いにうなずき合ったあと、心地よい沈黙が二人を包んだ）",
+                "kr": "(서로 고개를 끄덕인 뒤, 편안한 침묵이 두 사람을 감싼다)",
+                "cn": "（在相互点头示意之后，你们享受了一段舒适的静默）"
+            },
+            "asset": "char_4204_mantra/CN_042"
+        },
+        {
+            "id": "char_4204_mantra_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": "I've booked the white noise room for you today. If you'd like to try a new relaxation method once the noise has died down over here, you may go over to take a look. The reservation log is already reflected on your terminal, and the frequencies have been adjusted to your liking as well. Enjoy your day, Doctor.",
+                "jp": "あなたのためにホワイトノイズ室の一日使用申請を出しておいた。ここの賑わいが収まったあと、まだ新しい休息法を試してみたいと思うなら、行ってみるといい。予約記録はそちらの端末に入っており、使用される音もあなたの好みに調整してある。楽しんでくれ、ドクター。",
+                "kr": "당신을 위해 화이트 노이즈실 1일 사용 신청을 해뒀어. 여기의 소란이 가라앉은 다음에, 또 새로운 휴식 방법을 시험해 보고 싶다면 가보는 게 좋을 거야. 예약 기록은 당신 단말기에 있고, 소리도 당신 취향에 맞게 조정해 뒀어. 즐거운 시간 보내길, 박사.",
+                "cn": "我为你申请了一天白噪音室的使用权。在这边的热闹结束之后，如果你仍然想尝试新的放松方式，可以去那里一探究竟。预约记录在你的终端上，音频也已经按照你的喜好调试完毕。好好享受，博士。"
+            },
+            "asset": "char_4204_mantra/CN_043"
+        },
+        {
+            "id": "char_4204_mantra_CN_044",
+            "title": {
+                "en": "Anniversary Celebration",
+                "jp": "周年",
+                "kr": "애니버서리",
+                "cn": "周年庆典"
+            },
+            "text": {
+                "en": "I would not have stayed this long, if I only intended to repay Dr. Kal'tsit for what she did. Sargon's golden sands brought me up, while the icy Ursine snow tempered me, but it is Rhodes Island's sturdy deck that molded me into who I am today. And so I have decided to stay here to watch over the place.",
+                "jp": "もしもケルシー医師への恩返しだけが目的だったのなら、今もここに留まってはいなかった。私を生み育てたのはサルゴンの砂、鞭打ったのはウルサスの雪、だが今の私を形作ったのはロドスの甲板だ。私はここに留まり、この場所を守ると決めている。",
+                "kr": "만약 닥터 켈시의 은혜를 갚는 것만이 목적이었다면, 지금까지 여기에 남아있지는 않았을 거다. 나를 낳아 길러준 것은 사르곤의 모래고, 채찍질한 것은 우르수스의 눈이지만, 지금의 나를 만들어낸 것은 로도스 아일랜드의 갑판이야. 나는 여기에 남아, 이 장소를 지키기로 결심했다.",
+                "cn": "如果只是为了回报凯尔希医生，我不会留到现在。生养我的是萨尔贡的黄沙，鞭笞我的是乌萨斯的冰雪，而塑造我成为如今模样的，是罗德岛号坚实的甲板。我决定在这里停下，也决定为此处守望。"
+            },
+            "asset": "char_4204_mantra/CN_044"
+        }
+    ],
+    "actors": {
+        "en": {
+            "native": "Emma Gregory",
+            "global": "Emma Gregory"
+        },
+        "cn": {
+            "native": "黄雷",
+            "global": "Lei Huang"
+        },
+        "jp": {
+            "native": "折笠愛",
+            "global": "Ai Orikasa"
+        },
+        "kr": {
+            "native": "허예은",
+            "global": "Hur Yea-eun"
+        }
+    },
+    "availability": [
+        "en",
+        "cn",
+        "jp",
+        "kr"
+    ]
+}

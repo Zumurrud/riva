@@ -1,0 +1,629 @@
+{
+    "charid": "char_4182_oblvns",
+    "nameid": "oblvns",
+    "names": {
+        "en": "Sakiko Togawa",
+        "jp": "豊川祥子",
+        "kr": "토가와 사키코",
+        "cn": "丰川祥子"
+    },
+    "voices": [
+        {
+            "id": "char_4182_oblvns_CN_001",
+            "title": {
+                "en": "Appointed as Assistant",
+                "jp": "秘書任命",
+                "kr": "어시스턴트 임명",
+                "cn": "任命助理"
+            },
+            "text": {
+                "en": "Your decision-making acumen is a great inspiration. Would you permit me to observe you for a while longer?",
+                "jp": "あなたの判断基準は大変参考になりますわ。あなたのこと、もう少し観察していてもよろしくて？",
+                "kr": "당신의 판단 기준은 매우 참고가 되는군요. 당신을 조금 더 관찰하고 있어도 될까요?",
+                "cn": "你的决策思路很值得参考，我想在你身边多观察你的言行举止。"
+            },
+            "asset": "char_4182_oblvns/CN_001"
+        },
+        {
+            "id": "char_4182_oblvns_CN_002",
+            "title": {
+                "en": "Talk 1",
+                "jp": "会話1",
+                "kr": "대화 1",
+                "cn": "交谈1"
+            },
+            "text": {
+                "en": "As a work institute, Rhodes Island is just outstanding. Strict yet flexible scheduling, rational evaluation criteria, a clear promotion track... Where did I learn to see things this way, you ask? Well, my... relations are quite versed in the field.",
+                "jp": "ロドスの業務制度は素晴らしいですわね。厳密でありつつ柔軟なスケジュール管理、合理的な評価基準、明確な昇進ルート……どこでそんな視点を身につけたのか、ですか？それは……身内が少々その方面に明るくて。",
+                "kr": "로도스 아일랜드의 업무 제도는 훌륭하군요. 엄밀하면서도 유연한 스케줄 관리, 합리적인 평가 기준, 명확한 승진 루트…… 어디서 그런 시점을 배웠냐고요? 그건…… 그런 쪽에 조금 밝은 집안이라서요.",
+                "cn": "罗德岛的工作制度的确值得称赞，灵活的日程安排、合理的考核标准、明晰的上升渠道，真是让人羡慕啊......为什么我会了解这么多？没、没什么，我从家人那里学到过一些罢了。"
+            },
+            "asset": "char_4182_oblvns/CN_002"
+        },
+        {
+            "id": "char_4182_oblvns_CN_003",
+            "title": {
+                "en": "Talk 2",
+                "jp": "会話2",
+                "kr": "대화 2",
+                "cn": "交谈2"
+            },
+            "text": {
+                "en": "You don't need to tell me―this is a 'soda fountain', isn't it? When you mix different drinks together, you can get surprisingly refreshing results, you know.",
+                "jp": "知っていますわよ――これは「ドリンクバー」でしょう？ドリンク同士を掛け合わせると、意外と美味しいんですのよ。",
+                "kr": "알고 있어요. 이건 '드링크 바'죠? 드링크끼리 섞으면, 의외로 맛있답니다.",
+                "cn": "我知道——这个叫“自助饮料机”，对吧？把各种饮品混合起来，会变得意外地美味呢。"
+            },
+            "asset": "char_4182_oblvns/CN_003"
+        },
+        {
+            "id": "char_4182_oblvns_CN_004",
+            "title": {
+                "en": "Talk 3",
+                "jp": "会話3",
+                "kr": "대화 3",
+                "cn": "交谈3"
+            },
+            "text": {
+                "en": "We as band members do have disputes from time to time, but it's all in service of raising the band to greater heights. Ave Mujica is unshakable, you know.",
+                "jp": "確かにメンバー間で議論をすることもありますが、それも全て私たちのバンドをより素晴らしいものにするため。Ave Mujicaは盤石ですわ。",
+                "kr": "확실히 멤버 간에 논쟁할 때도 있습니다만, 그것도 모두 다 저희 밴드를 더 훌륭하게 만들기 위한 것. Ave Mujica는 단단하답니다.",
+                "cn": "Ave Mujica是支坚如磐石的乐队，的确，我们之间会偶有争论，但这都是为了让我们的乐队更加优秀。"
+            },
+            "asset": "char_4182_oblvns/CN_004"
+        },
+        {
+            "id": "char_4182_oblvns_CN_005",
+            "title": {
+                "en": "Talk after Promotion 1",
+                "jp": "昇進後会話1",
+                "kr": "1차 정예화 후 대화",
+                "cn": "晋升后交谈1"
+            },
+            "text": {
+                "en": "Memories of dreams all fade away someday, don't they... Don't be mistaken, Doctor. I don't rue the fact for one moment. I know full well it was a life I never could have had in the first place... The chance to at least dream such a beautiful dream is more than enough for me.",
+                "jp": "夢の記憶は、いつの日かなくなってしまいますのね……いいえ、ドクター。決して惜しいとは思っていません。わたくしが手に入れられなかった人生であったことは、よくわかっていますから……あのような美しい夢は、見られただけで十分ですわ。",
+                "kr": "꿈의 기억은, 어느 날 없어져 버리는 것이죠…… 아뇨, 박사님. 결코 아쉽다고는 생각하지 않아요. 제가 얻을 수 없었던 인생이었다는 건, 잘 알고 있으니까요…… 그런 아름다운 꿈은, 볼 수 있었던 것만으로 충분해요.",
+                "cn": "那个梦的记忆在逐渐变淡，终有一天，我会彻底忘记它......不，博士，我并不觉得可惜。我很明白，那是我不可能拥有的人生......那样的美梦，只要做过一次就好。"
+            },
+            "asset": "char_4182_oblvns/CN_005"
+        },
+        {
+            "id": "char_4182_oblvns_CN_006",
+            "title": {
+                "en": "Talk after Promotion 2",
+                "jp": "昇進後会話2",
+                "kr": "2차 정예화 후 대화",
+                "cn": "晋升后交谈2"
+            },
+            "text": {
+                "en": "I owe it to the days I've spent on Rhodes Island for reshaping my outlook on Terra. This vast land is filled with people living cruel realities that far surpass the imagination... I have a new resolve to see if I can reach these people, with songs that might nestle in their hearts.",
+                "jp": "ロドスで過ごした日々のおかげで、わたくしはテラについての認識を改めました。この大地には、想像をはるかに超えるほど苛酷な境遇の方がたくさんいる……その方々の心に寄り添える曲を届けられたら、と思っていますわ。",
+                "kr": "로도스 아일랜드에서 지낸 날들 덕분에, 저는 테라에 대한 인식을 바꿨습니다. 이 대지에는 상상을 아득히 초월할 정도로 가혹한 환경에 처한 분들이 많죠…… 그런 분들의 마음에 다가설 수 있는 곡을 전하고 싶다 생각하고 있어요.",
+                "cn": "在罗德岛的这段时间，让我对泰拉有了新的认识......这片大地上许多人的遭遇远比我们看到的更为艰难。博士，我会带着这份感悟，创作出更加直击人心的乐曲。"
+            },
+            "asset": "char_4182_oblvns/CN_006"
+        },
+        {
+            "id": "char_4182_oblvns_CN_007",
+            "title": {
+                "en": "Talk after Trust Increase 1",
+                "jp": "信頼上昇後会話1",
+                "kr": "신뢰도 상승 후 대화 1",
+                "cn": "信赖提升后交谈1"
+            },
+            "text": {
+                "en": "I had a dream, before I came to Rhodes Island even, that we were all living here, working here. I can recall it so vividly even now, as clear as any memory... Hence, when I greeted Vigna-san with a 'Nice to meet you', I couldn't help but feel a twinge of estrangement. *chuckle* Do keep this strictly between us, please?",
+                "jp": "ロドスに来るよりも前に、皆さんと一緒にここで暮らして、お仕事をする夢を見ましたの。今でもはっきり思い出せるくらい鮮明に覚えていますわ……その思い出があったので、ヴィグナさんに「はじめまして」とご挨拶したとき、少し寂しいと思ってしまったんです。ふふっ、ここだけの秘密にしておいてくださる？",
+                "kr": "로도스 아일랜드에 오기 전에, 여러분들과 함께 여기서 생활하고 일하는 꿈을 꾼 적이 있어요. 지금도 확실하게 떠올릴 수 있을 정도로 선명하게 기억하고 있답니다…… 그런 추억이 있다 보니 비그나 씨에게 '처음 뵙겠습니다'라고 인사했을 때, 조금 쓸쓸하다고 생각했었어요. 후훗. 여기서만의 비밀로 해 주실 수 있을까요?",
+                "cn": "来罗德岛之前，我就做过一个在这里生活和工作的梦，现在回想起来，梦里的一切仍旧很清晰。到这里后，跟红豆小姐初次打招呼时，我还感到了一丝落寞。呵呵，博士，可以帮我保守这个秘密吗？"
+            },
+            "asset": "char_4182_oblvns/CN_007"
+        },
+        {
+            "id": "char_4182_oblvns_CN_008",
+            "title": {
+                "en": "Talk after Trust Increase 2",
+                "jp": "信頼上昇後会話2",
+                "kr": "신뢰도 상승 후 대화 2",
+                "cn": "信赖提升后交谈2"
+            },
+            "text": {
+                "en": "Doctor, this is that 'bridge' I was telling you so much about! Here, you can shout everything that's on your mind out loud, and it feels amazing. I'll demonstrate for you first, so would you mind following my lead after? Here I go―",
+                "jp": "ドクター、ここが以前ご説明したブリッジですわ！ここで思っていることを叫ぶと気持ちがいいんですのよ。わたくしが先にお手本を見せますので、ドクターも後に続いてくださる？いきますわよ――",
+                "kr": "박사님, 여기가 전에 설명했던 함교예요! 여기서 생각하고 있는 걸 외치면 기분이 좋아진답니다. 제가 먼저 시범을 보일 테니까, 박사님도 따라 해 주시겠어요? 갑니다……",
+                "cn": "博士，这就是我跟你说过的甲板上的那个位置！在这里放声大喊会让人的心情格外舒畅！我先做个示范，待会博士要不要一起试试看？那我就开始了——"
+            },
+            "asset": "char_4182_oblvns/CN_008"
+        },
+        {
+            "id": "char_4182_oblvns_CN_009",
+            "title": {
+                "en": "Talk after Trust Increase 3",
+                "jp": "信頼上昇後会話3",
+                "kr": "신뢰도 상승 후 대화 3",
+                "cn": "信赖提升后交谈3"
+            },
+            "text": {
+                "en": "Oh, this doll? I received it from Bena-san. *chuckle* When I place it by my side, I feel this sort of warmth cozying up inside me, somewhere near and dear to me.",
+                "jp": "こちらのお人形ですか？ベナさんからいただきましたの。ふふっ、そばに飾っておくだけで、どこか温かくて、心に寄り添ってくれているような気がしますわよね。",
+                "kr": "이 인형 말씀이신가요? 베나 씨에게 받았어요. 후훗. 곁에 두는 것만으로도 어딘가 따뜻하고 마음에 다가와 주는 것 같은 기분이 드네요.",
+                "cn": "这个洋娃娃？这是贝娜小姐送给我的。嘿嘿，只要有它在身边，心里就会感到温暖，就好像一直有人陪在我旁边一样。"
+            },
+            "asset": "char_4182_oblvns/CN_009"
+        },
+        {
+            "id": "char_4182_oblvns_CN_010",
+            "title": {
+                "en": "Idle",
+                "jp": "放置",
+                "kr": "방치",
+                "cn": "闲置"
+            },
+            "text": {
+                "en": "You can't forget how necessary rest is to improving results. During the fledgling days of Ave Mujica's formation, I'd often stay up working throughout the night. But Uika gave me a talking-to, and that was how I finally learned my lesson. *chuckle* 'It's not good for your health!' Her words.",
+                "jp": "成果をあげるためには、適度な休息も必要ですわ。Ave Mujicaを結成したばかりの頃は、わたくしもよく夜遅くまで作業をしておりまして。でも初華に言われて、ようやく大切なことに気づきましたの。ふふっ――「ケンコウによくない！」って。",
+                "kr": "성과를 올리기 위해서는, 적당한 휴식도 필요하답니다. Ave Mujica를 막 결성했을 때에는, 저도 종종 밤늦게까지 작업했었죠. 하지만 우이카에게 한 소리 듣고 나서야, 중요한 것을 깨닫게 됐답니다. 후훗…… '건강에 좋지 않아!'라고요.",
+                "cn": "适当地休息才能更好地达成目标。在Ave Mujica成立初期，我也常熬夜工作到很晚，直到被初华提醒，我才明白了这个道理。“这样有害健康！”——她当时是这么对我说的。"
+            },
+            "asset": "char_4182_oblvns/CN_010"
+        },
+        {
+            "id": "char_4182_oblvns_CN_011",
+            "title": {
+                "en": "Onboard",
+                "jp": "入職会話",
+                "kr": "오퍼레이터 입사",
+                "cn": "干员报到"
+            },
+            "text": {
+                "en": "I am Oblivionis of Ave Mujica, Sakiko Togawa. Until we find a way back, I would be much obliged.",
+                "jp": "Ave Mujicaのオブリビオニス、豊川祥子と申します。帰る方法が見つかるまで、お世話になりますわ。",
+                "kr": "Ave Mujica의 오블리비오니스, 토가와 사키코라고 합니다. 돌아갈 방법을 찾을 때까지, 신세 지도록 하겠습니다.",
+                "cn": "我是Ave Mujica的oblivionis，丰川祥子。在我们找到回去的方法前，还请多多关照。"
+            },
+            "asset": "char_4182_oblvns/CN_011"
+        },
+        {
+            "id": "char_4182_oblvns_CN_012",
+            "title": {
+                "en": "Watching Battle Record",
+                "jp": "経験値上昇",
+                "kr": "작전기록 학습",
+                "cn": "观看作战记录"
+            },
+            "text": {
+                "en": "Are our everyday activities going to be recorded on video too?",
+                "jp": "わたくしたちの普段の行動も、映像で記録されますの？",
+                "kr": "평소 저희 행동도, 영상으로 기록되나요?",
+                "cn": "我们以后的行动也会被记录到录像里吗？"
+            },
+            "asset": "char_4182_oblvns/CN_012"
+        },
+        {
+            "id": "char_4182_oblvns_CN_013",
+            "title": {
+                "en": "Promotion 1",
+                "jp": "昇進Ⅰ",
+                "kr": "1차 정예화 (승진)",
+                "cn": "精英化晋升1"
+            },
+            "text": {
+                "en": "Compared to the other squad captains, I have a great deal I must learn still... I will henceforth devote my utmost efforts to keeping pace with you all.",
+                "jp": "他の小隊長と比べて、わたくしはまだ多くのことを学ばなくてはなりません……皆さんのペースに追いつけるよう、精一杯努力いたしますわ。",
+                "kr": "다른 소대장에 비하면, 저는 아직 많은 것을 배워야 해요…… 여러분의 페이스를 따라잡을 수 있도록, 최대한 노력하도록 하겠습니다.",
+                "cn": "比起其他小队的队长，我还有很多地方需要改进......我会努力跟上大家的脚步。"
+            },
+            "asset": "char_4182_oblvns/CN_013"
+        },
+        {
+            "id": "char_4182_oblvns_CN_014",
+            "title": {
+                "en": "Promotion 2",
+                "jp": "昇進Ⅱ",
+                "kr": "2차 정예화 (승진)",
+                "cn": "精英化晋升2"
+            },
+            "text": {
+                "en": "To be given recognition comes hand in hand with greater responsibility. However, I am of course prepared for that.",
+                "jp": "誰かに認められることには、責任が伴います。ですが、もちろんそれは覚悟の上ですわ。",
+                "kr": "누군가에게 인정받는 것에는 책임이 따릅니다. 그렇지만, 물론 그건 각오하고 있답니다.",
+                "cn": "更多认可代表着要承担更多的责任，我想，我准备好了。"
+            },
+            "asset": "char_4182_oblvns/CN_014"
+        },
+        {
+            "id": "char_4182_oblvns_CN_017",
+            "title": {
+                "en": "Added to Squad",
+                "jp": "編成",
+                "kr": "팀 배치",
+                "cn": "编入队伍"
+            },
+            "text": {
+                "en": "It is time for our teamwork to be put to the test.",
+                "jp": "チームワークが試される時ですわ。",
+                "kr": "팀워크를 시험받을 시간이군요.",
+                "cn": "这也是考验团队默契的时刻，对吧？"
+            },
+            "asset": "char_4182_oblvns/CN_017"
+        },
+        {
+            "id": "char_4182_oblvns_CN_018",
+            "title": {
+                "en": "Appointed as Squad Leader",
+                "jp": "隊長任命",
+                "kr": "팀장 임명",
+                "cn": "任命队长"
+            },
+            "text": {
+                "en": "I will spearhead my members and see our mission through, as I ever do. It is as simple as that.",
+                "jp": "いつも通り、メンバーを率いて任務をやり遂げる。ただそれだけですわ。",
+                "kr": "평소처럼, 멤버들을 이끌고 임무를 완수한다. 그것뿐이에요.",
+                "cn": "我会带领队伍完成任务，一如既往。"
+            },
+            "asset": "char_4182_oblvns/CN_018"
+        },
+        {
+            "id": "char_4182_oblvns_CN_019",
+            "title": {
+                "en": "Depart",
+                "jp": "作戦準備",
+                "kr": "작전 출발",
+                "cn": "行动出发"
+            },
+            "text": {
+                "en": "Now, let's begin... tonight's masquerade!",
+                "jp": "さあ始めましょう、今宵のマスカレードを。",
+                "kr": "자, 시작하죠. 오늘 밤의 매스커레이드를!",
+                "cn": "让我们开始吧，今夜的假面舞会。"
+            },
+            "asset": "char_4182_oblvns/CN_019"
+        },
+        {
+            "id": "char_4182_oblvns_CN_020",
+            "title": {
+                "en": "Begin Operation",
+                "jp": "戦闘開始",
+                "kr": "작전 개시",
+                "cn": "行动开始"
+            },
+            "text": {
+                "en": "How bothersome...",
+                "jp": "邪魔ですわ……",
+                "kr": "방해됩니다……",
+                "cn": "全是碍事的家伙。"
+            },
+            "asset": "char_4182_oblvns/CN_020"
+        },
+        {
+            "id": "char_4182_oblvns_CN_021",
+            "title": {
+                "en": "Selecting Operator 1",
+                "jp": "選択時1",
+                "kr": "오퍼레이터 선택 1",
+                "cn": "选中干员1"
+            },
+            "text": {
+                "en": "I'm sure you and I are drawing up the same plans right now, Doctor.",
+                "jp": "ドクターとわたくし、きっといま同じ作戦を描いていますわね。",
+                "kr": "박사님과 저, 지금 분명 같은 작전을 그리고 있죠?",
+                "cn": "你我现在的判断应该是一致的。"
+            },
+            "asset": "char_4182_oblvns/CN_021"
+        },
+        {
+            "id": "char_4182_oblvns_CN_022",
+            "title": {
+                "en": "Selecting Operator 2",
+                "jp": "選択時2",
+                "kr": "오퍼레이터 선택 2",
+                "cn": "选中干员2"
+            },
+            "text": {
+                "en": "Doctor, your decision please.",
+                "jp": "ドクター、すぐにご決断を。",
+                "kr": "박사님, 지금 바로 결단을.",
+                "cn": "请立刻告诉我你的决定。"
+            },
+            "asset": "char_4182_oblvns/CN_022"
+        },
+        {
+            "id": "char_4182_oblvns_CN_023",
+            "title": {
+                "en": "Deployment 1",
+                "jp": "配置1",
+                "kr": "배치 1",
+                "cn": "部署1"
+            },
+            "text": {
+                "en": "Time will not wait for us.",
+                "jp": "時間は待ってくれませんわ。",
+                "kr": "시간은 기다려주지 않는답니다.",
+                "cn": "时不我待！"
+            },
+            "asset": "char_4182_oblvns/CN_023"
+        },
+        {
+            "id": "char_4182_oblvns_CN_024",
+            "title": {
+                "en": "Deployment 2",
+                "jp": "配置2",
+                "kr": "배치 2",
+                "cn": "部署2"
+            },
+            "text": {
+                "en": "I have no time to waste on feeling lost.",
+                "jp": "迷っている暇はありませんわよ。",
+                "kr": "망설일 시간은 없어요.",
+                "cn": "没有时间犹豫了！"
+            },
+            "asset": "char_4182_oblvns/CN_024"
+        },
+        {
+            "id": "char_4182_oblvns_CN_025",
+            "title": {
+                "en": "In Battle 1",
+                "jp": "作戦中1",
+                "kr": "작전 중 1",
+                "cn": "作战中1"
+            },
+            "text": {
+                "en": "The doll takes on a temporal life.",
+                "jp": "人形は仮初めの命を宿す。",
+                "kr": "인형은 다시 잠깐의 생명을 얻는다.",
+                "cn": "人偶获得了暂时的生命。"
+            },
+            "asset": "char_4182_oblvns/CN_025"
+        },
+        {
+            "id": "char_4182_oblvns_CN_026",
+            "title": {
+                "en": "In Battle 2",
+                "jp": "作戦中2",
+                "kr": "작전 중 2",
+                "cn": "作战中2"
+            },
+            "text": {
+                "en": "The moon will press closer and closer on you.",
+                "jp": "月はあなたをどこまでも追い詰める。",
+                "kr": "달은 당신을 끝까지 몰아넣죠.",
+                "cn": "月光会将你逼入绝境。"
+            },
+            "asset": "char_4182_oblvns/CN_026"
+        },
+        {
+            "id": "char_4182_oblvns_CN_027",
+            "title": {
+                "en": "In Battle 3",
+                "jp": "作戦中3",
+                "kr": "작전 중 3",
+                "cn": "作战中3"
+            },
+            "text": {
+                "en": "Even so, will you still seek solace?",
+                "jp": "それでも、慰めを求めますの？",
+                "kr": "그래도, 위안을 바라나요?",
+                "cn": "如此这样，你也希望寻求慰藉吗？"
+            },
+            "asset": "char_4182_oblvns/CN_027"
+        },
+        {
+            "id": "char_4182_oblvns_CN_028",
+            "title": {
+                "en": "In Battle 4",
+                "jp": "作戦中4",
+                "kr": "작전 중 4",
+                "cn": "作战中4"
+            },
+            "text": {
+                "en": "In this twilight paradise, I will continue to reign!",
+                "jp": "この黄昏の楽園に、わたくしは君臨し続ける。",
+                "kr": "이 황혼의 낙원에, 나는 계속 군림하겠어요!",
+                "cn": "这座黄昏的乐园，由我君临。"
+            },
+            "asset": "char_4182_oblvns/CN_028"
+        },
+        {
+            "id": "char_4182_oblvns_CN_029",
+            "title": {
+                "en": "4-star Result",
+                "jp": "高難度作戦クリア",
+                "kr": "고난이도 작전 종료",
+                "cn": "完成高难行动"
+            },
+            "text": {
+                "en": "I must commend you on your show of tactics just now... Was this victory just one more surprise, courtesy of you?",
+                "jp": "先程の戦術、非常にお見事でした。……この勝利も、あなたが用意したサプライズでして？",
+                "kr": "아까 그 전술, 아주 훌륭했어요. ……이 승리도 당신이 준비한 서프라이즈인가요?",
+                "cn": "刚才的战术真是令人印象深刻，这场胜利也是你刻意准备的惊喜吗？"
+            },
+            "asset": "char_4182_oblvns/CN_029"
+        },
+        {
+            "id": "char_4182_oblvns_CN_030",
+            "title": {
+                "en": "3-star Result",
+                "jp": "★3で戦闘終了",
+                "kr": "3★ 작전 종료",
+                "cn": "3星结束行动"
+            },
+            "text": {
+                "en": "That was a spectacular battle—well done to all of you.",
+                "jp": "素晴らしい作戦でしたわ――皆さん、お疲れ様でした。",
+                "kr": "훌륭한 작전이었어요. 모두, 수고하셨습니다.",
+                "cn": "精彩的作战——大家都辛苦了。"
+            },
+            "asset": "char_4182_oblvns/CN_030"
+        },
+        {
+            "id": "char_4182_oblvns_CN_031",
+            "title": {
+                "en": "Sub 3-star Result",
+                "jp": "★2以下戦闘終了",
+                "kr": "비 3★ 작전 종료",
+                "cn": "非3星结束行动"
+            },
+            "text": {
+                "en": "Just a little more...!",
+                "jp": "あと少しだけ……！",
+                "kr": "조금만 더……!",
+                "cn": "只差一点点......！"
+            },
+            "asset": "char_4182_oblvns/CN_031"
+        },
+        {
+            "id": "char_4182_oblvns_CN_032",
+            "title": {
+                "en": "Operation Failure",
+                "jp": "作戦失敗",
+                "kr": "작전 실패",
+                "cn": "行动失败"
+            },
+            "text": {
+                "en": "I... hate myself.",
+                "jp": "わたくしは……わたくしが嫌いですわ。",
+                "kr": "저는…… 제가 싫어요.",
+                "cn": "我......讨厌我自己。"
+            },
+            "asset": "char_4182_oblvns/CN_032"
+        },
+        {
+            "id": "char_4182_oblvns_CN_033",
+            "title": {
+                "en": "Assigned to Facility",
+                "jp": "基地配属",
+                "kr": "시설에 배치",
+                "cn": "进驻设施"
+            },
+            "text": {
+                "en": "What a sanitary workplace. Its constant maintenance is all but evident.",
+                "jp": "とても清潔なところですのね。いつも整備されていることがよくわかりますわ。",
+                "kr": "아주 청결한 장소네요. 항상 정비하고 있다는 것이 잘 보여요.",
+                "cn": "真是干净整洁的地方，一看就知道是被精心维护的。"
+            },
+            "asset": "char_4182_oblvns/CN_033"
+        },
+        {
+            "id": "char_4182_oblvns_CN_034",
+            "title": {
+                "en": "Tap",
+                "jp": "タッチ1",
+                "kr": "터치",
+                "cn": "戳一下"
+            },
+            "text": {
+                "en": "Kyah!",
+                "jp": "きゃっ！",
+                "kr": "꺅!",
+                "cn": "啊？！"
+            },
+            "asset": "char_4182_oblvns/CN_034"
+        },
+        {
+            "id": "char_4182_oblvns_CN_036",
+            "title": {
+                "en": "Trust Tap",
+                "jp": "信頼タッチ",
+                "kr": "신뢰도 터치",
+                "cn": "信赖触摸"
+            },
+            "text": {
+                "en": "Might I be of assistance in any way?",
+                "jp": "何かお手伝いできることはありまして？",
+                "kr": "무언가 도와드릴 일이라도 있을까요?",
+                "cn": "有什么我能帮到你的？"
+            },
+            "asset": "char_4182_oblvns/CN_036"
+        },
+        {
+            "id": "char_4182_oblvns_CN_037",
+            "title": {
+                "en": "Title",
+                "jp": "タイトルコール",
+                "kr": "타이틀",
+                "cn": "标题"
+            },
+            "text": {
+                "en": "Arknights.",
+                "jp": "アークナイツ。",
+                "kr": "명일방주.",
+                "cn": "明日方舟。"
+            },
+            "asset": "char_4182_oblvns/CN_037"
+        },
+        {
+            "id": "char_4182_oblvns_CN_038",
+            "title": {
+                "en": "New Year's blessing",
+                "jp": "新年",
+                "kr": "새해",
+                "cn": "新年祝福"
+            },
+            "text": {
+                "en": "I happened to be in the training grounds this whole time, and only realized it was past midnight once I heard the cheering coming from outside... Allow me to give you my first greetings of the year, then—a very Happy New Year to you, Doctor.",
+                "jp": "先ほどまで訓練場にいたのですが、外の歓声で零時を過ぎたことに気が付きましたの……では、新年最初のご挨拶をいたしましょう——明けましておめでとうございます、ドクター。",
+                "kr": "조금 전까지 훈련장에 있었습니다만, 밖에서 들리는 환성으로 0시가 넘었다는 것을 깨달았어요…… 그러면, 새해 첫인사를 드리도록 하죠. 새해 복 많이 받으세요, 박사님.",
+                "cn": "我刚在训练场，突然听见外面一阵阵欢呼......这是我新年的第一句问候——新年快乐，博士。"
+            },
+            "asset": "char_4182_oblvns/CN_038"
+        },
+        {
+            "id": "char_4182_oblvns_CN_042",
+            "title": {
+                "en": "Greeting",
+                "jp": "挨拶",
+                "kr": "인사",
+                "cn": "问候"
+            },
+            "text": {
+                "en": "Good morning to you, Doctor. There is to be a masquerade tonight. Do come if time permits. We have a special seat waiting for you.",
+                "jp": "ごきげんよう、ドクター。今晩マスカレードを開きますの。ご都合がよろしければ是非お越しになって。特等席をご用意しておりますわ。",
+                "kr": "안녕하신가요, 박사님. 오늘 밤 매스커레이드를 열 예정이에요. 일정이 괜찮다면 부디 와 주시길. 특등석을 준비해 두었답니다.",
+                "cn": "贵安，博士。今晚我们会举办一场化装舞会，为您预留了贵宾席位。如果您方便的话，欢迎前来参加。"
+            },
+            "asset": "char_4182_oblvns/CN_042"
+        },
+        {
+            "id": "char_4182_oblvns_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": "'Happy birthday to you'... I was taught this song when I was still young. In the days after I'd learned it, I would keep playing it every day to my heart's content... I may have perturbed Mother somewhat with that.",
+                "jp": "ハッピーバースデートゥーユー……この曲は、わたくしがまだ小さな時に教わった曲ですの。教わったばかりの頃は、毎日気が済むまで演奏していて……お母さまを困らせていたかもしれませんわね。",
+                "kr": "해피 버스데이 투 유…… 이 곡은, 제가 아직 어릴 때 배운 곡이에요. 막 배웠을 때는 매일 기분이 풀릴 때까지 연주해서…… 어머니를 곤란하게 했을지도 모르겠네요.",
+                "cn": "祝你生日快乐——这是我很小的时候学的钢琴曲，刚学会它时，我每天都乐此不疲地演奏它......甚至让母亲感到了困扰。"
+            },
+            "asset": "char_4182_oblvns/CN_043"
+        },
+        {
+            "id": "char_4182_oblvns_CN_044",
+            "title": {
+                "en": "Anniversary Celebration",
+                "jp": "周年",
+                "kr": "애니버서리",
+                "cn": "周年庆典"
+            },
+            "text": {
+                "en": "I'm honored I could greet this special day together with you. Since the moment we first arrived, the sight of us all striving for the same goal has done wonders for the spirit.",
+                "jp": "特別な日を共に迎えられて光栄ですわ。ここに来てからというもの、皆さんが同じ目標に向かって努力する姿を見て、とても元気付けられました。",
+                "kr": "특별한 날을 같이 맞이할 수 있어서 영광이에요. 여기 오고 나서부터, 여러분들이 같은 목표를 향해 노력하는 모습을 보고 많은 힘을 얻었어요.",
+                "cn": "很荣幸能和你一起见证这个特殊的日子。这段时间里，看见大家为一个共同的目标而努力，这样的感觉真好。"
+            },
+            "asset": "char_4182_oblvns/CN_044"
+        }
+    ],
+    "actors": {
+        "linkage": {
+            "native": "高尾奏音",
+            "global": "Kanon Takao"
+        }
+    },
+    "availability": [
+        "linkage"
+    ]
+}

@@ -1,0 +1,644 @@
+{
+    "charid": "char_4203_kichi",
+    "nameid": "kichi",
+    "names": {
+        "en": "Kichisei",
+        "jp": "キチセイ",
+        "kr": "키치세이",
+        "cn": "吉星"
+    },
+    "voices": [
+        {
+            "id": "char_4203_kichi_CN_001",
+            "title": {
+                "en": "Appointed as Assistant",
+                "jp": "秘書任命",
+                "kr": "어시스턴트 임명",
+                "cn": "任命助理"
+            },
+            "text": {
+                "en": "How long are you gonna sit there, Doctor? Don't you want to go out and play? Work? Where's the fun in that? Come on, put this stuff down and let's go have some fun!",
+                "jp": "ドクター？一生そこで紙にガンくれてるつもりー？パーっと遊びに出ないの？仕事……？仕事がなんだっつーの。ほら、そんなのほっぽり出してさ……楽しいとこに連れてったげる！",
+                "kr": "박사? 평생 거기서 종이랑 씨름하고 있을 셈? 확 놀러 나갈 생각 없어? 일……? 일이 뭐 어쨌다고. 자, 그딴 거 집어치우고…… 재밌는 데 데려가 줄게!",
+                "cn": "博士？你还要在这儿坐多久啊？不出去玩儿吗？工作......？工作有什么好做的，来，把这些放下......带你去找点乐子！"
+            },
+            "asset": "char_4203_kichi/CN_001"
+        },
+        {
+            "id": "char_4203_kichi_CN_002",
+            "title": {
+                "en": "Talk 1",
+                "jp": "会話1",
+                "kr": "대화 1",
+                "cn": "交谈1"
+            },
+            "text": {
+                "en": "Mitsukue is a special place! There's plenty of good food and fun to be had, handsome boys and beautiful girls everywhere you look. And the best part? Anything you want, you can find it there—as long as you're not concerned about authenticity!",
+                "jp": "御机の景気の良さったらないよー。グルメも遊びも充実してるし、街を歩けば綺麗どころの兄ちゃん姉ちゃんがずらり。なにより、やりたい遊びとか買いたいものとか、頼むとこに頼めば何でもござれだし――まぁ、バッタもんはご愛敬ってことで！",
+                "kr": "미츠쿠에 경기는 더할 나위 없이 좋아~ 먹거리도 놀거리도 충분하고, 거리 걷다 보면 예쁘게 꾸민 오빠 언니들이 쫙 늘어서 있지. 무엇보다도, 하고 싶은 놀이라든가 사고 싶은 거라든가, 부탁할 곳에 얘기하면 뭐든 말만 하시라~ 이런 느낌이니까. ……뭐어, 짝퉁은 애교인 걸로!",
+                "cn": "御机城可是个好地方，好吃的和好玩的都有，漂亮的小伙子和姑娘数之不尽，更重要的是，无论你喜欢什么、想玩什么、想买什么，他们都能给你弄来——只要你不在乎真假！"
+            },
+            "asset": "char_4203_kichi/CN_002"
+        },
+        {
+            "id": "char_4203_kichi_CN_003",
+            "title": {
+                "en": "Talk 2",
+                "jp": "会話2",
+                "kr": "대화 2",
+                "cn": "交谈2"
+            },
+            "text": {
+                "en": "This one, and this... that should be enough... oh, hi, Doctor! I'm putting new stickers on my gun, and I've got some left over. Anything you want to sticker up? I can spare a few.",
+                "jp": "これと、あとこれも……こんなとこかな……あれ、ドクターもいたんだ。今銃のステッカーを貼り替えてたとこ。余ってるから、なんかデコりたかったら持ってっていいよー。",
+                "kr": "이거랑, 그리고 이것도…… 이 정도려나…… 어라, 박사도 있었네. 지금 총에 스티커 바꿔 붙이던 참. 남았으니까, 뭐 꾸미고 싶은 거 있으면 좀 나눠줄게~",
+                "cn": "这个，还有这个......这样大概够了......嗯？博士你也在这儿啊？我正在给我的铳重新贴贴纸呢，还有多余的，你有什么想贴的东西吗？我分你几张？"
+            },
+            "asset": "char_4203_kichi/CN_003"
+        },
+        {
+            "id": "char_4203_kichi_CN_004",
+            "title": {
+                "en": "Talk 3",
+                "jp": "会話3",
+                "kr": "대화 3",
+                "cn": "交谈3"
+            },
+            "text": {
+                "en": "Final lap! Come on, come on! Faster, faster—argh, allllmost... Hm? No, I didn't bet. Spent all my money at the beginning of the month. I'm just watching the stream for the thrill of it.",
+                "jp": "いよいよ最終コーナーだ！いけいけー！末脚見せろー！もうひと伸び――あぁ……ハナ差かぁ……えっ？どこに賭けたのかって？すっからかんだし賭けらんないよ。お小遣いは月初めに全部スッちゃったから、中継で勝手に盛り上がってただけ。人にゃあヒリつきたい時ってのがあるわけよ～。",
+                "kr": "슬슬 최종 코너다! 가라 가! 뒷심을 보여주라고~! 한 발만 더…… 아아. 코 차이인가…… 엉? 어디 걸었냐고? 빈털터리라서 걸지도 못했어. 용돈은 월초에 이미 다 썼으니까, 그냥 중계 보면서 멋대로 흥 좀 낸 거지 뭐. 사람에게는 화끈해지고 싶은 때라는 게 있는 거거든~",
+                "cn": "到最后一圈了！对！跑快点，再——啊......真可惜......嗯？我？我可没钱押注给任何一方，我月初就把工资花光了，现在不过是看直播热闹一下，找找刺激感~"
+            },
+            "asset": "char_4203_kichi/CN_004"
+        },
+        {
+            "id": "char_4203_kichi_CN_005",
+            "title": {
+                "en": "Talk after Promotion 1",
+                "jp": "昇進後会話1",
+                "kr": "1차 정예화 후 대화",
+                "cn": "晋升后交谈1"
+            },
+            "text": {
+                "en": "This place is just the right length and width, and hardly anyone ever comes by... Get yelled at? A tongue-lashing is no big deal! Okay. One phone call, and we'll have a pachinko machine here tomorrow!",
+                "jp": "ここなら広さも奥行きもドンピシャ……人通りもあんまりないっぽいし……怒られるぞって？怒られるくらいでイモ引くタマ？よし、あとは電話一本入れたら明日ジャラジャラ玉を落とすゲーム機が届くって寸法！",
+                "kr": "여기라면 넓이도 깊이도 딱 맞고…… 사람들도 별로 안 지나다니는 것 같고…… 혼난다고? 혼나는 정도로 쫄까 봐? 좋아, 이제 전화 한 통만 넣으면, 내일 촤라락 구슬 떨어지는 게임기가 올 거라고!",
+                "cn": "这块地方的长度、宽度都刚刚好......而且平时很少有人路过这里......挨骂？挨顿骂而已，有什么可怕的？等我打个电话，会叮叮当当掉小珠子的游戏机明天就到！"
+            },
+            "asset": "char_4203_kichi/CN_005"
+        },
+        {
+            "id": "char_4203_kichi_CN_006",
+            "title": {
+                "en": "Talk after Promotion 2",
+                "jp": "昇進後会話2",
+                "kr": "2차 정예화 후 대화",
+                "cn": "晋升后交谈2"
+            },
+            "text": {
+                "en": "My gran's first lesson for me was that the truth doesn't matter, and the means don't matter either. The fake gems she appraised would end up on fancy ladies, bought for eye-popping money. And our fake guns protect the Lucky Star just fine.",
+                "jp": "「真実」と「道筋」が一番どうでもいいってのがばっちゃの最初の教え。ばっちゃが贋物って鑑定した宝石も、結局マダムの首元飾って箔が付いて、べらぼうな額で売れちゃってたし。あたしらがこっそりこさえた銃もどきだって「吉星」を守るのに役立ってるでしょ。",
+                "kr": "세상에서 가장 어찌 되든 상관없는 게 '진실'과 '도리'. 이게 할머니의 첫 가르침이었어. 할머니가 위조라고 감정한 보석도, 결국 귀부인 목에 걸린 다음에 평가가 올라가서 어처구니없는 가격에 팔리기도 했고. 우리끼리 몰래 만든 총 비스무리한 것도 '키치세이'를 지키는 데 도움이 되고 있잖아.",
+                "cn": "“真实”和“路径”是最不重要的东西，这是奶奶教我的第一课。她检验出的假宝石最终会出现在贵妇人的脖子上并卖出高价，而我们私下做的假铳一样能让我保卫“吉星”不受威胁。"
+            },
+            "asset": "char_4203_kichi/CN_006"
+        },
+        {
+            "id": "char_4203_kichi_CN_007",
+            "title": {
+                "en": "Talk after Trust Increase 1",
+                "jp": "信頼上昇後会話1",
+                "kr": "신뢰도 상승 후 대화 1",
+                "cn": "信赖提升后交谈1"
+            },
+            "text": {
+                "en": "One Lucky Star's enough trouble; I can't imagine what it takes to run a whole Rhodes Island... Huh? The people I picked up? They... weren't any trouble; just gave them some medicine and let them lie down…",
+                "jp": "あたしは「吉星」の仕切りですら億劫なのに、ドクターはこんなドデカいロドスを切り盛りしてるなんて……えっ？前にあたしが拾って帰った奴ら？いや……あれは手の掛からない連中だから大丈夫。薬をやって寝かせときゃいいだけだし……",
+                "kr": "나는 '키치세이' 관리하는 것도 귀찮아 죽겠는데, 박사는 이따만큼 큰 로도스 아일랜드를 관리하고 있다니……엉? 전에 내가 주워 온 애들? 아아~ 손 가는 애들은 아니니까 괜찮아. 약 주고 재워두면 되니까……",
+                "cn": "我光是看着“吉星”就觉得麻烦了，你居然要管理这么大一个罗德岛......嗯？你说我之前捡回家的人？那......那些人也没什么麻烦的，给点药让他们躺下睡觉就好了......"
+            },
+            "asset": "char_4203_kichi/CN_007"
+        },
+        {
+            "id": "char_4203_kichi_CN_008",
+            "title": {
+                "en": "Talk after Trust Increase 2",
+                "jp": "信頼上昇後会話2",
+                "kr": "신뢰도 상승 후 대화 2",
+                "cn": "信赖提升后交谈2"
+            },
+            "text": {
+                "en": "Oh no, look at this! There's another new idol in Mitsukue! Momoka's fan club has already lost a bunch of members... Me? Of course I'm staying true! I'm her most loyal fan, even if I don't have the money to buy any merch. My love for Momoka is true!",
+                "jp": "うわっ最悪、見てよこれ！御机でまた新しいアイドルがデビューだって！萌々香のファンクラブ会員も向こうのシマに流れちゃってるみたい――あたし？あたしは浮気なんて絶対しないよ！こちとら萌々香一筋でやってんの！グッズを買う銭がなくたって、萌々香への愛は本物！",
+                "kr": "우와, 최악이다. 이거 좀 봐봐! 미츠쿠에에 또 새 아이돌이 데뷔한대! 모모카 팬클럽 회원도 저쪽 동네로 넘어가고 있는 것 같아…… 나? 나는 절대로 바람 안 피워! 나는 모모카 외길이라고! 굿즈 살 돈은 없어도 모모카를 향한 애정은 진짜니까!",
+                "cn": "糟了，看看这个！御机城又有新的偶像被推出来了！萌萌香的粉丝俱乐部已经跑了不少人——我？我当然不会变心啦！我可是她的忠实粉丝！虽然我没什么钱买周边，但我对她的感情可是真的！"
+            },
+            "asset": "char_4203_kichi/CN_008"
+        },
+        {
+            "id": "char_4203_kichi_CN_009",
+            "title": {
+                "en": "Talk after Trust Increase 3",
+                "jp": "信頼上昇後会話3",
+                "kr": "신뢰도 상승 후 대화 3",
+                "cn": "信赖提升后交谈3"
+            },
+            "text": {
+                "en": "Towers built from bubbles teeter, and everyone goes grasping for a star in their final moments... my star appeared when I was on the verge of freezing to death, the night I was abandoned by my parents as an infant. She gave me a home.",
+                "jp": "泡で積み上げたビルがぐらつき始めたら、誰もが藁にも縋る思いで一発逆転の星を掴もうとする……あたしにとっての星は、おくるみ一丁で親に捨てられて、寒さに震えて生死の境を彷徨ったあの夜に現れて……あたしを家に迎え入れてくれた人だよ。",
+                "kr": "버블로 쌓아 올린 빌딩이 흔들리기 시작하면, 모두가 지푸라기라도 잡는 심정으로 일발 역전의 별을 잡으려고 하지…… 내 별은, 포대기 하나 두르고 부모한테 버려져, 추위에 떨면서 생사를 오가던 그날 밤 나타나…… 나를 집으로 맞이해준 사람이야.",
+                "cn": "泡沫堆起的高楼摇摇欲坠，人人都想在最后关头紧抓住一颗星星......而我的星星，在亲生父母把襁褓中的我丢弃的那个晚上，在我冷得发抖快要一命呜呼的时候出现了，是她给了我一个家。"
+            },
+            "asset": "char_4203_kichi/CN_009"
+        },
+        {
+            "id": "char_4203_kichi_CN_010",
+            "title": {
+                "en": "Idle",
+                "jp": "放置",
+                "kr": "방치",
+                "cn": "闲置"
+            },
+            "text": {
+                "en": "Huh? The Dr.{@nickname}'s not in the office today… Guess I'll have to find somebody else... who should I pick? Can't be a complainer, a miser, or sane enough to keep clear…",
+                "jp": "あれ？今日はドクター執務室にいないんだ……ほかの遊び相手を探すとするか……誰にしよっかな。ぴーちくぱーちく言わずに気前もよくて、頭のネジがぶっ飛んでるのがいいよね……",
+                "kr": "어라? 오늘은 박사가 집무실에 없네…… 놀아줄 다른 상대를 찾아볼까…… 누구로 할까나. 빽빽거리지 않고 성격 좋고 나사 하나쯤 빠진 사람이 좋겠네……",
+                "cn": "嗯？今天Dr.{@nickname}居然不在办公室啊......看来我得去找个别的搭子了......找谁好呢？得是一个不会挑三拣四、出手大方还足够疯的家伙......"
+            },
+            "asset": "char_4203_kichi/CN_010"
+        },
+        {
+            "id": "char_4203_kichi_CN_011",
+            "title": {
+                "en": "Onboard",
+                "jp": "入職会話",
+                "kr": "오퍼레이터 입사",
+                "cn": "干员报到"
+            },
+            "text": {
+                "en": "Kichisei the Unerring, reporting in! Come to the Lucky Star in Mitsukue for all your needs, whether you need a gem appraiser, a fence, or an information broker. I am always at your service during business hours.",
+                "jp": "百発百中のキチセイ――ここに参上！今後宝石鑑定や曰く付きのブツの処分、情報の仕入れがご入り用でしたら、ぜひ御机の「吉星」にご一報ください。営業時間内なら、いつでも承りますよ～っと。",
+                "kr": "백발백중 키치세이, 여기 등장! 앞으로 보석 감정이나 사연 있는 물건 처리, 정보 매입이 필요하시면 부디 미츠쿠에의 '키치세이'로 연락 주시길. 영업시간 내라면 언제든 의뢰받습니다요~",
+                "cn": "百发百中的吉星——向你报到！如果日后有时间、有意愿进行珠宝鉴定或是销赃洗白、购买情报，都可以联系御机城“吉星”店铺，在店铺营业时间内，我随时为你服务~"
+            },
+            "asset": "char_4203_kichi/CN_011"
+        },
+        {
+            "id": "char_4203_kichi_CN_012",
+            "title": {
+                "en": "Watching Battle Record",
+                "jp": "経験値上昇",
+                "kr": "작전기록 학습",
+                "cn": "观看作战记录"
+            },
+            "text": {
+                "en": "Real guns... they use them differently from gran…",
+                "jp": "本物の銃だ……使い方はばっちゃと違うみたいだけど……",
+                "kr": "진짜 총이다…… 쓰는 방법은 할머니 거랑 다른 것 같지만……",
+                "cn": "真正的铳......他们的用法，和奶奶并不一样......"
+            },
+            "asset": "char_4203_kichi/CN_012"
+        },
+        {
+            "id": "char_4203_kichi_CN_013",
+            "title": {
+                "en": "Promotion 1",
+                "jp": "昇進Ⅰ",
+                "kr": "1차 정예화 (승진)",
+                "cn": "精英化晋升1"
+            },
+            "text": {
+                "en": "Wow, working for you lot pays so much better than the yakuza.",
+                "jp": "おお～、よっ、太っ腹！やっぱりロドスのために働く方が、ヤクザもんとつるむよりよっぽどいいよー。",
+                "kr": "오오~ 이야, 대인배! 역시 로도스 아일랜드를 위해 일하는 게 조직 애들이랑 다니는 것보다 훨씬 낫네~",
+                "cn": "哇哦~真大方，给你们干活果然比伺候那些道上的好多了~"
+            },
+            "asset": "char_4203_kichi/CN_013"
+        },
+        {
+            "id": "char_4203_kichi_CN_014",
+            "title": {
+                "en": "Promotion 2",
+                "jp": "昇進Ⅱ",
+                "kr": "2차 정예화 (승진)",
+                "cn": "精英化晋升2"
+            },
+            "text": {
+                "en": "Rest assured. You're always VIPs at the Lucky Star.",
+                "jp": "安心してよ、ロドスはいつまでもずっと「吉星」の上客様だからね。",
+                "kr": "안심해. 로도스 아일랜드는 언제까지나 '키치세이'의 VIP니까.",
+                "cn": "放心吧，你们永远是“吉星”的VIP客户。"
+            },
+            "asset": "char_4203_kichi/CN_014"
+        },
+        {
+            "id": "char_4203_kichi_CN_017",
+            "title": {
+                "en": "Added to Squad",
+                "jp": "編成",
+                "kr": "팀 배치",
+                "cn": "编入队伍"
+            },
+            "text": {
+                "en": "Breaktime's…. over, I guess.",
+                "jp": "休憩時間――おしまいっと……",
+                "kr": "휴식 시간…… 끝……",
+                "cn": "休息时间——结束......"
+            },
+            "asset": "char_4203_kichi/CN_017"
+        },
+        {
+            "id": "char_4203_kichi_CN_018",
+            "title": {
+                "en": "Appointed as Squad Leader",
+                "jp": "隊長任命",
+                "kr": "팀장 임명",
+                "cn": "任命队长"
+            },
+            "text": {
+                "en": "I'm the leader? Alright, better to work for you than to stick my neck out for someone else.",
+                "jp": "あたしが隊長？……まあいっか。命張るなら、他の連中よりドクターのがマシだから。",
+                "kr": "내가 대장이라고? ……뭐 상관없나. 목숨 걸 거면 다른 놈들보다는 박사가 나으니까.",
+                "cn": "我当队长？......算了，给你干活总比给别人卖命好。"
+            },
+            "asset": "char_4203_kichi/CN_018"
+        },
+        {
+            "id": "char_4203_kichi_CN_019",
+            "title": {
+                "en": "Depart",
+                "jp": "作戦準備",
+                "kr": "작전 출발",
+                "cn": "行动出发"
+            },
+            "text": {
+                "en": "Come with me, I know a secret passage.",
+                "jp": "みんな付いてきて。こっちに抜け道があるんだ。",
+                "kr": "다들 따라와. 여기 샛길이 있어.",
+                "cn": "跟我来吧，我知道一条小路。"
+            },
+            "asset": "char_4203_kichi/CN_019"
+        },
+        {
+            "id": "char_4203_kichi_CN_020",
+            "title": {
+                "en": "Begin Operation",
+                "jp": "戦闘開始",
+                "kr": "작전 개시",
+                "cn": "行动开始"
+            },
+            "text": {
+                "en": "Mm, just as I thought.",
+                "jp": "よし。ヨミ通りって感じかなー。",
+                "kr": "좋아. 예상대로, 라는 느낌인데~",
+                "cn": "嗯，和预料中的一样~"
+            },
+            "asset": "char_4203_kichi/CN_020"
+        },
+        {
+            "id": "char_4203_kichi_CN_021",
+            "title": {
+                "en": "Selecting Operator 1",
+                "jp": "選択時1",
+                "kr": "오퍼레이터 선택 1",
+                "cn": "选中干员1"
+            },
+            "text": {
+                "en": "Hm? What's that?",
+                "jp": "んー？どうしたの？",
+                "kr": "응? 무슨 일인데?",
+                "cn": "嗯？什么？"
+            },
+            "asset": "char_4203_kichi/CN_021"
+        },
+        {
+            "id": "char_4203_kichi_CN_022",
+            "title": {
+                "en": "Selecting Operator 2",
+                "jp": "選択時2",
+                "kr": "오퍼레이터 선택 2",
+                "cn": "选中干员2"
+            },
+            "text": {
+                "en": "Yeah, yeah, heard you the first time...",
+                "jp": "はいはい、聞こえてるって……",
+                "kr": "예이 예이, 들립니다요……",
+                "cn": "啊，听到了听到了......"
+            },
+            "asset": "char_4203_kichi/CN_022"
+        },
+        {
+            "id": "char_4203_kichi_CN_023",
+            "title": {
+                "en": "Deployment 1",
+                "jp": "配置1",
+                "kr": "배치 1",
+                "cn": "部署1"
+            },
+            "text": {
+                "en": "Loaded... check.",
+                "jp": "弾ぁ……入ってる。っし。",
+                "kr": "총알…… 들어 있네. 좋았어.",
+                "cn": "弹药装填......没问题。"
+            },
+            "asset": "char_4203_kichi/CN_023"
+        },
+        {
+            "id": "char_4203_kichi_CN_024",
+            "title": {
+                "en": "Deployment 2",
+                "jp": "配置2",
+                "kr": "배치 2",
+                "cn": "部署2"
+            },
+            "text": {
+                "en": "Something suspicious up ahead, two hundred meters.",
+                "jp": "二百メートル先にスジモンっぽいの発見。",
+                "kr": "200미터 앞에 조직원같이 생긴 놈 발견.",
+                "cn": "前方两百米处有可疑对象。"
+            },
+            "asset": "char_4203_kichi/CN_024"
+        },
+        {
+            "id": "char_4203_kichi_CN_025",
+            "title": {
+                "en": "In Battle 1",
+                "jp": "作戦中1",
+                "kr": "작전 중 1",
+                "cn": "作战中1"
+            },
+            "text": {
+                "en": "The gun may be fake, but yeah, that's all it takes.",
+                "jp": "銃はハッタリだけど、あんたの終わりはカタいよ～。",
+                "kr": "총은 가짜지만, 네가 끝장나는 건 진짜라구~",
+                "cn": "铳是假的，但你要完蛋了是真的~"
+            },
+            "asset": "char_4203_kichi/CN_025"
+        },
+        {
+            "id": "char_4203_kichi_CN_026",
+            "title": {
+                "en": "In Battle 2",
+                "jp": "作戦中2",
+                "kr": "작전 중 2",
+                "cn": "作战中2"
+            },
+            "text": {
+                "en": "I don't need to aim!",
+                "jp": "適当にぶっ放しても当たんだよねっ！",
+                "kr": "적당히 쏴 제껴도 맞거든!",
+                "cn": "我可不需要瞄准！"
+            },
+            "asset": "char_4203_kichi/CN_026"
+        },
+        {
+            "id": "char_4203_kichi_CN_027",
+            "title": {
+                "en": "In Battle 3",
+                "jp": "作戦中3",
+                "kr": "작전 중 3",
+                "cn": "作战中3"
+            },
+            "text": {
+                "en": "Hope you enjoy this!",
+                "jp": "お楽しみはまだまだこれからだよ！",
+                "kr": "진짜 재밌는 건 지금부터라고!",
+                "cn": "享受接下来的一切吧！"
+            },
+            "asset": "char_4203_kichi/CN_027"
+        },
+        {
+            "id": "char_4203_kichi_CN_028",
+            "title": {
+                "en": "In Battle 4",
+                "jp": "作戦中4",
+                "kr": "작전 중 4",
+                "cn": "作战中4"
+            },
+            "text": {
+                "en": " Unerring!",
+                "jp": "百発百中っ！",
+                "kr": "백발백중!",
+                "cn": "百发百中——！"
+            },
+            "asset": "char_4203_kichi/CN_028"
+        },
+        {
+            "id": "char_4203_kichi_CN_029",
+            "title": {
+                "en": "4-star Result",
+                "jp": "高難度作戦クリア",
+                "kr": "고난이도 작전 종료",
+                "cn": "完成高难行动"
+            },
+            "text": {
+                "en": "*laughter* Well done! Did anyone get a pic of that? I want to print it out and put it up on the door of the Lucky Star!",
+                "jp": "アハハッ――お見事！誰かさっきの大立ち回りは撮ってくれた？ドカンとプリントして、「吉星」の店先に飾らないとね！",
+                "kr": "아하핫! 훌륭해! 방금 대판 싸우던 거 누구 찍은 사람 있어? 아주 큼지막하게 인쇄해서 '키치세이' 가게 앞에다가 걸어놔야겠는데!",
+                "cn": "啊哈——做得好！刚刚那一幕有人拍照了吗？我得把这张照片放大打印，挂在“吉星”的大门口！"
+            },
+            "asset": "char_4203_kichi/CN_029"
+        },
+        {
+            "id": "char_4203_kichi_CN_030",
+            "title": {
+                "en": "3-star Result",
+                "jp": "★3で戦闘終了",
+                "kr": "3★ 작전 종료",
+                "cn": "3星结束行动"
+            },
+            "text": {
+                "en": "Good job! Dismissed. Go do whatever you want, and see you next time!",
+                "jp": "よーし上出来！じゃあこれで解散、各自自由行動ってことでー。またあとでね。",
+                "kr": "좋~아 잘했어! 그러면 이제 해산하고, 각자 자유 행동하는 걸로~ 나중에 보자고.",
+                "cn": "做得好！我们原地解散，然后爱干嘛干嘛吧~大家再见！"
+            },
+            "asset": "char_4203_kichi/CN_030"
+        },
+        {
+            "id": "char_4203_kichi_CN_031",
+            "title": {
+                "en": "Sub 3-star Result",
+                "jp": "★2以下戦闘終了",
+                "kr": "비 3★ 작전 종료",
+                "cn": "非3星结束行动"
+            },
+            "text": {
+                "en": "I guess we're done. Can I hit the pachi… Err, can I take a game break now?",
+                "jp": "もう終わったっぽいし、そろそろパチ……あーいや、ゲーム機のとこで一休みしてきてもいい？",
+                "kr": "이제 끝난 것 같고, 슬슬 파칭…… 아~ 아니, 게임기 있는 데서 좀 쉬고 와도 돼?",
+                "cn": "看起来已经完事儿了，我能去玩......不，我能去游戏机那儿休息一会儿了吗？"
+            },
+            "asset": "char_4203_kichi/CN_031"
+        },
+        {
+            "id": "char_4203_kichi_CN_032",
+            "title": {
+                "en": "Operation Failure",
+                "jp": "作戦失敗",
+                "kr": "작전 실패",
+                "cn": "行动失败"
+            },
+            "text": {
+                "en": "Whoa, whoa, we pissed off the wrong guy! Run! Move those legs! Let's get out of here!",
+                "jp": "ヤバいのにちょっかい出しちゃったね、ずらかるよー！ほら、ちゃきちゃき足動かして！",
+                "kr": "좀 위험한 놈한테 손을 대 버렸네. 튀어! 자, 재깍재깍 다리 움직이라고!",
+                "cn": "惹到不该惹的家伙了，快跑——！快快快——把腿动起来！"
+            },
+            "asset": "char_4203_kichi/CN_032"
+        },
+        {
+            "id": "char_4203_kichi_CN_033",
+            "title": {
+                "en": "Assigned to Facility",
+                "jp": "基地配属",
+                "kr": "시설에 배치",
+                "cn": "进驻设施"
+            },
+            "text": {
+                "en": "This is a nice little space. Maybe I can get a few arcade cabinets set up... no, you didn't hear me say anything.",
+                "jp": "お誂え向きのスペースじゃん。次はアーケードゲームも運び込んで……いやいや何でもないよ、空耳でしょ。",
+                "kr": "딱 좋은 공간이잖아. 다음은 아케이드 게임기도 가져와서…… 아니아니, 아무것도 아냐. 잘못 들었겠지.",
+                "cn": "这片空地倒是不错，也许下次我可以把那些街机也搬......不，没什么，你听错了。"
+            },
+            "asset": "char_4203_kichi/CN_033"
+        },
+        {
+            "id": "char_4203_kichi_CN_034",
+            "title": {
+                "en": "Tap",
+                "jp": "タッチ1",
+                "kr": "터치",
+                "cn": "戳一下"
+            },
+            "text": {
+                "en": "Hey! Take it easy... I'm not a broken vending machine you can fix with a smack, you know!",
+                "jp": "わあっ！ぶっ叩いてくれちゃって……詰まった自販機じゃないんだからさ！",
+                "kr": "우왓! 이렇게 막 두들기다니…… 내가 뭐 돈 먹은 자판기도 아니고!",
+                "cn": "唔！动作轻点儿......我又不是坏了的自动贩卖机！"
+            },
+            "asset": "char_4203_kichi/CN_034"
+        },
+        {
+            "id": "char_4203_kichi_CN_036",
+            "title": {
+                "en": "Trust Tap",
+                "jp": "信頼タッチ",
+                "kr": "신뢰도 터치",
+                "cn": "信赖触摸"
+            },
+            "text": {
+                "en": "Wooo... Good timing. I was about to sneak out for a drink... wanna join me?",
+                "jp": "おー、いいとこに来たね。今から抜け出して飲みに行くんだけど……一杯いっとく？",
+                "kr": "오~ 딱 좋은 때에 왔네. 술 한잔하러 몰래 나가려던 참인데…… 같이 갈래?",
+                "cn": "哎呀，你来得正好，我现在正准备溜出去喝点东西......你去吗？"
+            },
+            "asset": "char_4203_kichi/CN_036"
+        },
+        {
+            "id": "char_4203_kichi_CN_037",
+            "title": {
+                "en": "Title",
+                "jp": "タイトルコール",
+                "kr": "타이틀",
+                "cn": "标题"
+            },
+            "text": {
+                "en": "Arknights.",
+                "jp": "アークナイツ。",
+                "kr": "명일방주.",
+                "cn": "明日方舟。"
+            },
+            "asset": "char_4203_kichi/CN_037"
+        },
+        {
+            "id": "char_4203_kichi_CN_038",
+            "title": {
+                "en": "New Year's blessing",
+                "jp": "新年",
+                "kr": "새해",
+                "cn": "新年祝福"
+            },
+            "text": {
+                "en": "The Lucky Star's open all night today! Not that there are many guests at this hour, but it's one of grandma's old sayings. When the Lucky Star stays open, good fortune comes often.",
+                "jp": "今夜「吉星」は一晩中開けとくつもり。みんな家で寝てるだろうからお客さんは来ないけど、「吉星」がずっとそばに――幸運の星がみんなに付いてるってゲン担ぎだよ！ばっちゃの遺した流儀なんだ！",
+                "kr": "오늘밤 '키치세이'는 밤새 열어둘 생각이야. 다들 집에서 자고 있을 테니까 손님은 없겠지만, '키치세이'가 언제나 곁에…… 행운의 별이 모두에게 붙어있다고 하는 미신 같은 거지! 할머니가 남긴 방식이야!",
+                "cn": "今晚“吉星”会彻夜开门的，虽然这个时候大家都在家里休息，没什么客户会上门，但“吉星”常伴——好运傍身嘛！这是我奶奶留下的规矩！"
+            },
+            "asset": "char_4203_kichi/CN_038"
+        },
+        {
+            "id": "char_4203_kichi_CN_042",
+            "title": {
+                "en": "Greeting",
+                "jp": "挨拶",
+                "kr": "인사",
+                "cn": "问候"
+            },
+            "text": {
+                "en": "Irrashaimase... oops, I guess I let the old habits slip in. What brings you here, Doctor?",
+                "jp": "社長さん、お掛けになって遠慮なく……ちぇっ、頭より先に口が回るのはいつ治るのかねぇ……適当に座って。で、あたしに何の用？",
+                "kr": "사장님, 사양하지 마시고 앉으세…… 쳇. 머리보다 입이 먼저 움직이는 건 언제 고쳐지려나…… 적당히 앉아. 그래서, 무슨 용건인데?",
+                "cn": "老板随便坐，有事儿直......啧，这破嘴，到底什么时候能改了这个毛病......你坐吧，找我有什么事儿？"
+            },
+            "asset": "char_4203_kichi/CN_042"
+        },
+        {
+            "id": "char_4203_kichi_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": "Hey, Doctor, wanna know the plan for your birthday party? For this low, low price, I'll tell you what surprise Amiya has in store for you, and what 'surprise' Elysium has…",
+                "jp": "ちょっと、ねえちょっと……ドクター、誕生会の段取りを詳しく知りたくない？おひねりこんだけで、アーミヤが用意してるサプライズも、エリジウムの「サプライズ」も全部教えてあげられちゃうんだけどなぁ……",
+                "kr": "잠깐, 저기 잠깐만…… 박사, 생일 파티 준비하는 거 자세히 알고 싶지 않아? 팁 요만큼만 주면 아미야가 준비하고 있는 서프라이즈도, 엘리시움의 '서프라이즈'도 전부 다 알려줄 수 있는데……",
+                "cn": "喂、喂喂......博士，你想不想知道今天你的生日会都有什么流程？只要这个数，我就告诉你阿米娅准备的惊喜是什么，极境的“惊喜”又是什么......"
+            },
+            "asset": "char_4203_kichi/CN_043"
+        },
+        {
+            "id": "char_4203_kichi_CN_044",
+            "title": {
+                "en": "Anniversary Celebration",
+                "jp": "周年",
+                "kr": "애니버서리",
+                "cn": "周年庆典"
+            },
+            "text": {
+                "en": "After today is tomorrow. After tomorrow another tomorrow—come find me again tomorrow, Doctor.",
+                "jp": "今日が終われば明日が来るけど、明日が終わってもまた次の明日が来る――ってことでドクター、明日も遊びに誘ってねー。",
+                "kr": "오늘이 끝나면 내일이 오지만, 내일이 끝나도 또 그다음의 내일이 온다…… 그러니까 박사, 내일 놀러 갈 때도 불러줘~",
+                "cn": "过了今天，就是明天，但过了明天，还有明天——博士，明天也记得找我玩哦~"
+            },
+            "asset": "char_4203_kichi/CN_044"
+        }
+    ],
+    "actors": {
+        "en": {
+            "native": "Crystal Lee",
+            "global": "Crystal Lee"
+        },
+        "cn": {
+            "native": "陈婷婷",
+            "global": "Tingting Chen"
+        },
+        "jp": {
+            "native": "いなせあおい",
+            "global": "Aoi Inase"
+        },
+        "kr": {
+            "native": "최현지",
+            "global": "Choi Hyun-ji"
+        }
+    },
+    "availability": [
+        "en",
+        "cn",
+        "jp",
+        "kr"
+    ]
+}

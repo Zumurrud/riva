@@ -1,0 +1,644 @@
+{
+    "charid": "char_1045_svash2",
+    "nameid": "svash2",
+    "names": {
+        "en": "SilverAsh the Reignfrost",
+        "jp": "凛御シルバーアッシュ",
+        "kr": "실버애쉬 더 레인프로스트",
+        "cn": "凛御银灰"
+    },
+    "voices": [
+        {
+            "id": "char_1045_svash2_CN_001",
+            "title": {
+                "en": "Appointed as Assistant",
+                "jp": "秘書任命",
+                "kr": "어시스턴트 임명",
+                "cn": "任命助理"
+            },
+            "text": {
+                "en": "Your time and sanity should be left to more consequential matters. Surely you can find someone suitable to handle these trifles in your stead? Very well. For you, I shall happily serve.",
+                "jp": "お前の時間もエネルギーも、より重要な物事にこそ費やすべきだというのに、まさか、まだこの手の雑務を任せられる人間を見つけていないのか？いいだろう、お前のためなら喜んで引き受けよう。",
+                "kr": "네 시간도 에너지도 더 중요한 일에 써야 할 텐데, 설마 아직도 이런 잡무를 맡길 사람을 못 찾은 건가? 좋다. 너를 위해서라면 기꺼이 맡도록 하지.",
+                "cn": "你的精力与时间应该用在更重要的地方，难道你还没有找到合适的人来替你处理这些工作？好吧，如果是你的话，我愿意代劳。"
+            },
+            "asset": "char_1045_svash2/CN_001"
+        },
+        {
+            "id": "char_1045_svash2_CN_002",
+            "title": {
+                "en": "Talk 1",
+                "jp": "会話1",
+                "kr": "대화 1",
+                "cn": "交谈1"
+            },
+            "text": {
+                "en": "Gnosis and Degenbrecher have taken over my Karlan Trade duties. Since this was not what I originally promised for their careers, they understandably have some complaints. There is not always a clean boundary between method and aim, but when I used this sword of mine to cleave the bridges behind me, I saw it, clear as day.",
+                "jp": "カランド貿易はノーシスとデーゲンブレヒャーに任せることになったが、あの事業自体は、私が二人に約束していた取り組みではない。ゆえに、多少の愚痴も受け入れるとしよう。手段と目的は、常に明瞭に区別できるとは限らない。少なくとも、この剣を手に取り退路を断った時、私は極めて冷静にその判断を下したのだからな。",
+                "kr": "카란 무역회사는 노시스와 데겐블레허에게 맡기게 됐다만, 그 사업 자체는 내가 그 둘에게 약속했던 방향이 아니다. 그렇기에 약간의 푸념은 받아들이도록 하지. 수단과 목적이 항상 명료하게 구별되는 것은 아니야. 적어도 이 검을 들고 퇴로를 끊었을 때, 나는 지극히 냉정하게 그 판단을 내렸지.",
+                "cn": "诺希斯和锏接手了喀兰贸易的工作，这本不是我许诺他们的事业，我可以体谅他们有些怨言。手段与目的不总是界限分明，至少当我拿起这柄剑斩断退路的时候，我是清醒的。"
+            },
+            "asset": "char_1045_svash2/CN_002"
+        },
+        {
+            "id": "char_1045_svash2_CN_003",
+            "title": {
+                "en": "Talk 2",
+                "jp": "会話2",
+                "kr": "대화 2",
+                "cn": "交谈2"
+            },
+            "text": {
+                "en": "When I was surveying the land to find a suitable site for the observation station, I already understood the sight of it would attract numerous gazes. In this era of radical change, those timid conservatives and ignorant opportunists will meet similar fates in the dustheap. But I, SilverAsh, <i>must</i> ensure Kjerag is never again left behind by the times.",
+                "jp": "観測ステーションの立地調査をしていた際、その先に広がる景色が必然的に多くの目を引くだろうことを理解していた。変革に直面した時、臆病な保守派と盲目的な投機家の迎える結末には、さほど違いはないだろう。私は、イェラグが再び時代に取り残されることがないように、万全を期さねばならない。",
+                "kr": "관측소 입지 조사를 하던 때에, 그 앞에 펼쳐진 경치가 필연적으로 많은 관심을 끌 거라는 걸 이해하고 있었다. 변혁에 직면한 때에는, 겁쟁이 보수파와 맹목적인 투기꾼이 맞이하는 결말에 그다지 큰 차이는 없겠지. 나는 쉐라그가 또다시 시대에 뒤처지는 일이 없도록 만전을 기해야 한다.",
+                "cn": "在为观测站选址作考察的时候，我就知道这样的风景势必会引来许多目光。变革当前，畏缩的守旧者与盲目的投机者下场不会有太大区别。而我必须要确保，谢拉格不会再一次被时代抛下。"
+            },
+            "asset": "char_1045_svash2/CN_003"
+        },
+        {
+            "id": "char_1045_svash2_CN_004",
+            "title": {
+                "en": "Talk 3",
+                "jp": "会話3",
+                "kr": "대화 3",
+                "cn": "交谈3"
+            },
+            "text": {
+                "en": "I've met with the Speaker, yes. Those of similar ideals face similar issues, perhaps even similar… kin? When Father left for Victoria, he would never have imagined a future where that nation was to be our enemy. It was indeed a simpler time, one to which we may never return.",
+                "jp": "例の議長に会ってきた。相通ずる理想を持つ者は、しばしば相通ずる苦悩を胸に抱くものだが、さらに相通ずる……なに、血筋も似通っている、と？フッ。かつて父上がヴィクトリアを訪れた時には、かの国と敵対する未来があるなどとは想像もしなかったのだろうな。確かに、あの時代はもっと単純だった。もはや、ああした時代が戻ることはないがな。",
+                "kr": "그 의장을 만나고 왔다. 서로 통하는 이상을 가진 자는 종종 서로 통하는 고뇌를 가슴에 안고 있는 법이지만, 그보다 더 통하는…… 뭐, 혈통도 닮았다고? 훗. 일전에 아버지가 빅토리아를 방문하셨던 때는, 그 나라와 적대하는 미래가 있을 거라고는 생각지도 못하셨겠지. 확실히, 그 시대는 훨씬 단순했어. 이제는 그런 시대가 돌아올 일은 없겠지만 말이야.",
+                "cn": "我见到了那位议长大人，有相似理想的人总是有相似的困惑，甚至相似的......血亲？父亲当年前往维多利亚时应该不曾想象过与这个国家为敌的未来，那的确是一个简单，也不复存在的时代。"
+            },
+            "asset": "char_1045_svash2/CN_004"
+        },
+        {
+            "id": "char_1045_svash2_CN_005",
+            "title": {
+                "en": "Talk after Promotion 1",
+                "jp": "昇進後会話1",
+                "kr": "1차 정예화 후 대화",
+                "cn": "晋升后交谈1"
+            },
+            "text": {
+                "en": "Those who seek power out of cowardice shall find nothing at the apex of authority. As for me? My friends and enemies both ensure I am unlikely to forget the importance of how I conduct myself. But I am dearly looking forward to the day I take the final step towards the peak, and find myself standing opposed to you.",
+                "jp": "野心家は臆病であるがゆえに権力を追い求めるが、最終的に、権力の頂には何もなかったと気付かされるものだ。私はどうなのか、と？友や好敵手のおかげで、自らの行いの意義を忘れずにいられている。だがその一方で、いずれ私が最も極端な一歩を踏み出した時には、お前が私の前に立ちはだかってくれたらと期待しているのだ。",
+                "kr": "야심가는 겁쟁이이기 때문에 권력을 추구하지만, 결국 권력의 정점에는 아무것도 없다는 것을 깨닫게 되는 법이다. 나는 어떠하냐고? 친구나 호적수 덕분에, 스스로 하는 행동의 의미를 잊지 않고 지낼 수 있지. 다만 한편으로는, 내가 가장 극단적인 한 걸음을 내디뎠을 때 네가 내 앞을 막아서 주기를 기대하고 있다.",
+                "cn": "野心家因胆怯而逐权，最终只会发现权力的峰顶空无一物。我？朋友与对手可以让我不至于忘记自己所作所为的意义。不过我很期待，当我踏出了最极端的那一步，你会是那个站在我对面的人。"
+            },
+            "asset": "char_1045_svash2/CN_005"
+        },
+        {
+            "id": "char_1045_svash2_CN_006",
+            "title": {
+                "en": "Talk after Promotion 2",
+                "jp": "昇進後会話2",
+                "kr": "2차 정예화 후 대화",
+                "cn": "晋升后交谈2"
+            },
+            "text": {
+                "en": "Kjerag seeks to build ever-greater institutions, but we shall not stand tall among the nations because of them. When we faced a true crisis, I began to believe in the strength inherent in the people of the Snow Realm. I must admit, Enya is right. It is not that I do not care for faith. I have simply long since found a belief of my own.",
+                "jp": "イェラグはより優れた制度を追求しているが、国家とは、制度によって偉大になるものではない。私は、真の危機に直面したことで、雪境が育んだ人々の力を信じるようになった。エンヤの言っていた通り、私は信仰に畏敬の念を抱いていないわけではないのだろう。言うなれば、とうに己の信仰を見出していただけのことだ。",
+                "kr": "쉐라그는 더욱 뛰어난 제도를 추구하고 있지만, 국가는 제도에 의해 위대해지는 것이 아니지. 나는 진정한 위기에 직면하면서 히라가 키워낸 사람들의 힘을 믿게 되었다. 엔야가 말해 오던 것처럼, 나는 신앙에 경외심을 품고 있지 않은 것은 아니야. 말하자면, 이미 자신의 신앙을 찾아냈을 뿐이지.",
+                "cn": "谢拉格在追求更优越的制度，但国家不会因制度而伟大。在真正的危机面前，我开始相信雪境孕育的民族所拥有的力量。其实恩雅说得对，我并非对信仰毫无敬畏，我只是早已找到了自己的信仰。"
+            },
+            "asset": "char_1045_svash2/CN_006"
+        },
+        {
+            "id": "char_1045_svash2_CN_007",
+            "title": {
+                "en": "Talk after Trust Increase 1",
+                "jp": "信頼上昇後会話1",
+                "kr": "신뢰도 상승 후 대화 1",
+                "cn": "信赖提升后交谈1"
+            },
+            "text": {
+                "en": "There is no such thing as a chessboard without uncertainty. In a sense, every move we make is a gamble. Only when maximizing one's odds of success do one's wits come into play. Ah, the burdenbeast I bet on crossed the line first. According to custom, you are to down your glass.",
+                "jp": "不確定要素の存在しない対局などない。ゆえにある意味、我々がこれまでに成してきたすべては「賭け」だったと言えよう。如何にして最大限に勝率を高めるかが、腕の見せ所だが――私がベットした駄獣が先にゴールしたな。では、約束通りこの一杯を飲み干してもらおうか。",
+                "kr": "불확정 요소가 존재하지 않는 대국 따위는 없다. 그래서 어떤 의미로는 우리가 지금까지 이뤄온 모든 건 '도박'이었다고 할 수 있겠지. 어떻게 승률을 최대한으로 끌어올릴 수 있는지가 실력을 보여줄 수 있는 부분이지만…… 내가 베팅한 버든비스트가 먼저 들어왔군. 그러면, 약속대로 이 한 잔을 다 마셔 주실까.",
+                "cn": "没有变数的棋局根本不存在，从某种意义上讲，我们所做的一切事业都是在“赌”。要如何将自己的胜算提升到最高，才是见手段的地方——是我押的驮兽先冲线了，按规矩，你应该干了这杯酒。"
+            },
+            "asset": "char_1045_svash2/CN_007"
+        },
+        {
+            "id": "char_1045_svash2_CN_008",
+            "title": {
+                "en": "Talk after Trust Increase 2",
+                "jp": "信頼上昇後会話2",
+                "kr": "신뢰도 상승 후 대화 2",
+                "cn": "信赖提升后交谈2"
+            },
+            "text": {
+                "en": "Ensia cherishes her friendship with you. Asking you to take care of her was, at the time, a somewhat unreasonable request of mine, but now I see that there could not have been a better choice. Let us not speak of the barriers between her and me. Rather than reaching any so-called understanding, I would much rather see which peak she decides to conquer next.",
+                "jp": "エンシアは、お前との友情をとても大切にしているようだ。あの当時、彼女の世話を任せたことは些か身勝手な頼みだったが、今にして思えば、最良の選択だった。もはや兄妹の隔たりなど、論じる必要もない。私は理解し合うことなどより、エンシアが次なる高みを踏破することをこそ期待しているのだから。",
+                "kr": "엔시아는 너와의 우정을 매우 소중히 하는 것 같더군. 그때 엔시아의 뒷바라지를 맡긴 것은 다소 제멋대로인 부탁이었지만, 지금 와서 생각해 보면 가장 좋은 선택이었어. 이제 남매의 거리 따위는 논할 필요도 없다. 나는 서로 이해하는 것 따위보다, 엔시아가 다음 고지를 정복하는 것을 기대하고 있으니까.",
+                "cn": "恩希亚很珍视与你的友谊。当初请你代为照顾她本是有些无理的请求，但现在看来，是再正确不过的选择。不必再谈什么隔阂，比起所谓的理解，我更期待她去征服下一座高峰。"
+            },
+            "asset": "char_1045_svash2/CN_008"
+        },
+        {
+            "id": "char_1045_svash2_CN_009",
+            "title": {
+                "en": "Talk after Trust Increase 3",
+                "jp": "信頼上昇後会話3",
+                "kr": "신뢰도 상승 후 대화 3",
+                "cn": "信赖提升后交谈3"
+            },
+            "text": {
+                "en": "Ohh? You are worried. Those in power cannot take the weight of responsibility lightly, but neither can they allow it to hold them back. At times, you need only make decisions, then entrust the rest to others. There is nothing simpler, yet more difficult. A lonely life? No, though I do look forward to having an opponent who could stand shoulder-to-shoulder with me.",
+                "jp": "憂慮しているようだな。権力者がその責任の重さを知らずにいることは許されないが、それによって躊躇し、立ち止まることはなおさら許されん。時として、我々のような者は進むべき方向を定め、信頼を託すことのみを求められ、それは最も容易く、なおかつ最も困難な行いとなるだろう。孤独を感じるか、と？いいや。確かに、自身に並び立つ好敵手を望んではいるがな。",
+                "kr": "걱정하고 있는 것 같군. 권력자가 그 책임의 무게를 모르는 것은 용납되지 않지만, 그로 인해 주저하고 멈춰 서는 것은 더욱 용납될 수 없다. 때때로 우리 같은 자들이 해야 할 건 나아갈 방향을 정한 뒤 믿고 맡기는 것뿐이겠지만, 그건 가장 쉬우면서도 또한 어려운 일이 되겠지. 고독을 느끼느냐고? 아니. 물론, 나와 어깨를 나란히 할 수 있는 호적수를 바라고는 있다만.",
+                "cn": "你在忧虑。掌权者不可不知责任之重，但更不可因此踌躇不前。有时候你要做的只是决定方向，然后交出信任，最简单和最困难的事莫过于此。孤独？不，虽然我的确期待着一个可以并肩而立的对手。"
+            },
+            "asset": "char_1045_svash2/CN_009"
+        },
+        {
+            "id": "char_1045_svash2_CN_010",
+            "title": {
+                "en": "Idle",
+                "jp": "放置",
+                "kr": "방치",
+                "cn": "闲置"
+            },
+            "text": {
+                "en": "…The snowfall hath relented. Let us go for a walk outside.",
+                "jp": "……雪が止んだな。外の空気を吸いに行こう。",
+                "kr": "……눈이 멈췄군. 바깥 공기를 쐬러 가도록 할까.",
+                "cn": "......雪停了，出去走走吧。"
+            },
+            "asset": "char_1045_svash2/CN_010"
+        },
+        {
+            "id": "char_1045_svash2_CN_011",
+            "title": {
+                "en": "Onboard",
+                "jp": "入職会話",
+                "kr": "오퍼레이터 입사",
+                "cn": "干员报到"
+            },
+            "text": {
+                "en": "It has been quite a while. The land teems with misfortune, but neither Kjerag nor Rhodes Island have fallen to the floor just yet. Are you ready? I believe we can re-establish our old rapport rather quickly. I, SilverAsh, have joined your cause as a sworn ally.",
+                "jp": "久方ぶりだな。この大地には予期せぬトラブルがつきものだが、イェラグもロドスもいまだ健在でなによりだ。それで、用意はできているのだろうな？我々ならば、かつて肩を並べた時のような連携をすぐに取り戻せると信じている。シルバーアッシュ、盟友として参戦する。",
+                "kr": "오래간만이군. 이 대지에는 예상치 못한 문제가 늘 따라다니지만, 쉐라그도 로도스 아일랜드도 아직 건재하니 다행이다. 그래서, 준비는 되어 있겠지? 우리라면 한때 어깨를 나란히 하던 때와 같은 연계를 금방 되찾을 수 있을 거라고 믿고 있다. 실버애쉬, 동맹으로써 참전하겠다.",
+                "cn": "许久不见了，这片大地上变故横生，但谢拉格和罗德岛都不曾倒下。准备好了吗？我相信我们很快就能找回从前共事的默契。银灰，你的盟友，前来助力。"
+            },
+            "asset": "char_1045_svash2/CN_011"
+        },
+        {
+            "id": "char_1045_svash2_CN_012",
+            "title": {
+                "en": "Watching Battle Record",
+                "jp": "経験値上昇",
+                "kr": "작전기록 학습",
+                "cn": "观看作战记录"
+            },
+            "text": {
+                "en": "I have always found Rhodes Island's methods quite… refreshing.",
+                "jp": "ロドスの斬新な戦略にはいつも感心させられる。",
+                "kr": "로도스 아일랜드의 참신한 전략에는 언제나 감탄하게 되는군.",
+                "cn": "罗德岛的手段总能让我耳目一新。"
+            },
+            "asset": "char_1045_svash2/CN_012"
+        },
+        {
+            "id": "char_1045_svash2_CN_013",
+            "title": {
+                "en": "Promotion 1",
+                "jp": "昇進Ⅰ",
+                "kr": "1차 정예화 (승진)",
+                "cn": "精英化晋升1"
+            },
+            "text": {
+                "en": "When you accepted my proposal, did you not suspect Rhodes Island was becoming part of my schemes? Then again, you rather enjoy this sort of challenge.",
+                "jp": "私との取引を受け入れるにあたり、お前は如何にして、ロドスが私の謀略に組み込まれていないかを見極めるつもりだ？フッ。とはいえ、お前もそうした挑戦を受けることを楽しんでいるのだろうがな。",
+                "kr": "나와의 거래를 받아들이면서, 너는 로도스 아일랜드가 내 모략에 휘말려있지 않은가를 어떻게 판별할 셈이지? 훗. 물론 너는 그런 도전을 받아들이는 걸 즐기고 있겠지만 말이지.",
+                "cn": "当你接受我的协议时，你又如何确信罗德岛不在我的谋划当中？不过想来你也乐于接受这样的挑战。"
+            },
+            "asset": "char_1045_svash2/CN_013"
+        },
+        {
+            "id": "char_1045_svash2_CN_014",
+            "title": {
+                "en": "Promotion 2",
+                "jp": "昇進Ⅱ",
+                "kr": "2차 정예화 (승진)",
+                "cn": "精英化晋升2"
+            },
+            "text": {
+                "en": "How shall this cooperation of ours end? Will the two of us conquer all of Terra together, or will we face each other across a board near-finished, our conflict inexorable? No matter where the dice may fall, we await the outcome with bated breath.",
+                "jp": "この協力関係の終着点には、何が待っているのだろうな。お前と私ですべてを征服する未来か、あるいは対局の果ての避けられぬ決戦か。どんなものであれ、期待に胸が躍る。",
+                "kr": "이 협력 관계의 종착점에는 무엇이 기다리고 있는가. 너와 내가 모든 것을 정복하는 미래인가, 아니면 대국의 끝에 피할 수 없는 결전인가. 어떤 것이든, 기대로 가슴이 뛰는군.",
+                "cn": "这份合作关系的尽头会是什么？是你我携手征服一切，或者是一场在棋局终点无可回避的对决？不论是哪一种可能，结局都令人期待。"
+            },
+            "asset": "char_1045_svash2/CN_014"
+        },
+        {
+            "id": "char_1045_svash2_CN_017",
+            "title": {
+                "en": "Added to Squad",
+                "jp": "編成",
+                "kr": "팀 배치",
+                "cn": "编入队伍"
+            },
+            "text": {
+                "en": "I have learned some new tricks, since the last battle.",
+                "jp": "戦場に関しては、新たな知見を得たのでな。",
+                "kr": "전장에 관해서는 새로운 식견을 얻었으니까 말이지.",
+                "cn": "对于战场，我有一些新的体悟。"
+            },
+            "asset": "char_1045_svash2/CN_017"
+        },
+        {
+            "id": "char_1045_svash2_CN_018",
+            "title": {
+                "en": "Appointed as Squad Leader",
+                "jp": "隊長任命",
+                "kr": "팀장 임명",
+                "cn": "任命队长"
+            },
+            "text": {
+                "en": "They shall learn whom they face.",
+                "jp": "彼らは間もなく、自らが直面するものを知るだろう。",
+                "kr": "저들은 얼마 가지 않아 자신이 직면할 것을 알게 되겠지.",
+                "cn": "他们会知道自己将要面对什么。"
+            },
+            "asset": "char_1045_svash2/CN_018"
+        },
+        {
+            "id": "char_1045_svash2_CN_019",
+            "title": {
+                "en": "Depart",
+                "jp": "作戦準備",
+                "kr": "작전 출발",
+                "cn": "行动出发"
+            },
+            "text": {
+                "en": "How nostalgic…",
+                "jp": "懐かしいな……",
+                "kr": "그립군……",
+                "cn": "令人怀念......"
+            },
+            "asset": "char_1045_svash2/CN_019"
+        },
+        {
+            "id": "char_1045_svash2_CN_020",
+            "title": {
+                "en": "Begin Operation",
+                "jp": "戦闘開始",
+                "kr": "작전 개시",
+                "cn": "行动开始"
+            },
+            "text": {
+                "en": "The outcome has already been decided. They simply cannot see it yet.",
+                "jp": "結末は定まった。されど、彼らはそれを未だ見通せていない。",
+                "kr": "결말은 정해졌다. 그러나 저들은 그것을 아직 내다보지 못하고 있어.",
+                "cn": "结局已定，只是他们还看不清。"
+            },
+            "asset": "char_1045_svash2/CN_020"
+        },
+        {
+            "id": "char_1045_svash2_CN_021",
+            "title": {
+                "en": "Selecting Operator 1",
+                "jp": "選択時1",
+                "kr": "오퍼레이터 선택 1",
+                "cn": "选中干员1"
+            },
+            "text": {
+                "en": "Great minds think alike.",
+                "jp": "図らずも、考えが一致したな。",
+                "kr": "우연히도 생각이 일치했군.",
+                "cn": "不谋而合的想法。"
+            },
+            "asset": "char_1045_svash2/CN_021"
+        },
+        {
+            "id": "char_1045_svash2_CN_022",
+            "title": {
+                "en": "Selecting Operator 2",
+                "jp": "選択時2",
+                "kr": "오퍼레이터 선택 2",
+                "cn": "选中干员2"
+            },
+            "text": {
+                "en": "Make your decision, fast.",
+                "jp": "決断を下せ。",
+                "kr": "결단을 내려라.",
+                "cn": "做决定吧。"
+            },
+            "asset": "char_1045_svash2/CN_022"
+        },
+        {
+            "id": "char_1045_svash2_CN_023",
+            "title": {
+                "en": "Deployment 1",
+                "jp": "配置1",
+                "kr": "배치 1",
+                "cn": "部署1"
+            },
+            "text": {
+                "en": "The situation is crystal clear.",
+                "jp": "戦況は明白だ。",
+                "kr": "전황은 명확하다.",
+                "cn": "局势明了。"
+            },
+            "asset": "char_1045_svash2/CN_023"
+        },
+        {
+            "id": "char_1045_svash2_CN_024",
+            "title": {
+                "en": "Deployment 2",
+                "jp": "配置2",
+                "kr": "배치 2",
+                "cn": "部署2"
+            },
+            "text": {
+                "en": "Everything is under control.",
+                "jp": "すべて計算通りだ。",
+                "kr": "모두 계산대로다.",
+                "cn": "尽在掌控。"
+            },
+            "asset": "char_1045_svash2/CN_024"
+        },
+        {
+            "id": "char_1045_svash2_CN_025",
+            "title": {
+                "en": "In Battle 1",
+                "jp": "作戦中1",
+                "kr": "작전 중 1",
+                "cn": "作战中1"
+            },
+            "text": {
+                "en": "Hark! Ne'er hast thou questioned the road thou'st strayed upon.",
+                "jp": "汝ら、おのが道の正しきを疑わずして、深みに陥りけり。",
+                "kr": "네놈들은, 잘못된 길을 의심치도 않았구나.",
+                "cn": "你们不曾怀疑自己深陷歧途。"
+            },
+            "asset": "char_1045_svash2/CN_025"
+        },
+        {
+            "id": "char_1045_svash2_CN_026",
+            "title": {
+                "en": "In Battle 2",
+                "jp": "作戦中2",
+                "kr": "작전 중 2",
+                "cn": "作战中2"
+            },
+            "text": {
+                "en": "Thy trampling of this hallowed ground shall beget bitter rue.",
+                "jp": "汝ら、いずれ浄土を踏み荒らせしことを悔いん。",
+                "kr": "네놈들은, 정토를 더럽힌 것을 후회하게 되리라.",
+                "cn": "你们会后悔自己曾践踏净土。"
+            },
+            "asset": "char_1045_svash2/CN_026"
+        },
+        {
+            "id": "char_1045_svash2_CN_027",
+            "title": {
+                "en": "In Battle 3",
+                "jp": "作戦中3",
+                "kr": "작전 중 3",
+                "cn": "作战中3"
+            },
+            "text": {
+                "en": "Wait, for the snow shall bury this all…",
+                "jp": "雪がすべて葬るのを待とう……",
+                "kr": "눈이 모든 것을 묻어버리기를 기다리도록 하지……",
+                "cn": "等待雪埋葬这一切......"
+            },
+            "asset": "char_1045_svash2/CN_027"
+        },
+        {
+            "id": "char_1045_svash2_CN_028",
+            "title": {
+                "en": "In Battle 4",
+                "jp": "作戦中4",
+                "kr": "작전 중 4",
+                "cn": "作战中4"
+            },
+            "text": {
+                "en": "…As ice yields to gentle warmth's embrace.",
+                "jp": "……氷雪の融けるが如く。",
+                "kr": "……얼음과 눈이 녹아 사라지듯.",
+                "cn": "......如冰雪消融。"
+            },
+            "asset": "char_1045_svash2/CN_028"
+        },
+        {
+            "id": "char_1045_svash2_CN_029",
+            "title": {
+                "en": "4-star Result",
+                "jp": "高難度作戦クリア",
+                "kr": "고난이도 작전 종료",
+                "cn": "完成高难行动"
+            },
+            "text": {
+                "en": "Has this battle left you unsatisfied? I eagerly anticipate seeing you dictate the flow of an even grander chessboard.",
+                "jp": "もはやお前には、この程度の駆け引きでは物足りないのではないか？お前がより広大なチェスボードを意のままとすることを期待していよう。",
+                "kr": "이 정도의 대결로는 이제 네게 부족하지 않나? 네가 더 광대한 체스판을 뜻대로 다루는 것을 기대하도록 하지.",
+                "cn": "这样的斗争是否已经无法令你满足？我十分期待你执掌更广阔的棋盘。"
+            },
+            "asset": "char_1045_svash2/CN_029"
+        },
+        {
+            "id": "char_1045_svash2_CN_030",
+            "title": {
+                "en": "3-star Result",
+                "jp": "★3で戦闘終了",
+                "kr": "3★ 작전 종료",
+                "cn": "3星结束行动"
+            },
+            "text": {
+                "en": "An astonishing result. And here I thought myself inured to you bringing home victory.",
+                "jp": "驚くべき戦果だ。お前のもたらす勝利には、今や慣れたと思っていたのだがな。",
+                "kr": "놀랄만한 성과다. 네가 가져오는 승리는 이제 익숙해졌다고 생각했다만.",
+                "cn": "令人惊讶的成果，我本以为对于你带来的胜利我早已习以为常。"
+            },
+            "asset": "char_1045_svash2/CN_030"
+        },
+        {
+            "id": "char_1045_svash2_CN_031",
+            "title": {
+                "en": "Sub 3-star Result",
+                "jp": "★2以下戦闘終了",
+                "kr": "비 3★ 작전 종료",
+                "cn": "非3星结束行动"
+            },
+            "text": {
+                "en": "Am I to believe you did this intentionally…?",
+                "jp": "これは意図した戦略だと信じるべきか……？",
+                "kr": "이건 의도한 전략이라고 믿어야 하나……?",
+                "cn": "我是否该相信这是你有意为之......？"
+            },
+            "asset": "char_1045_svash2/CN_031"
+        },
+        {
+            "id": "char_1045_svash2_CN_032",
+            "title": {
+                "en": "Operation Failure",
+                "jp": "作戦失敗",
+                "kr": "작전 실패",
+                "cn": "行动失败"
+            },
+            "text": {
+                "en": "Ultimate victory will not be decided by a single check. Do not miss the chessboard for the squares.",
+                "jp": "勝敗はここにあるものばかりではない。お前は、全体の局面にこそ目を向けるべきだ。",
+                "kr": "승패는 여기에 있는 것만이 아니다. 너는 오히려 전체 국면에 눈을 돌려야 한다.",
+                "cn": "输赢不只在这一处，你更应当关注全局。"
+            },
+            "asset": "char_1045_svash2/CN_032"
+        },
+        {
+            "id": "char_1045_svash2_CN_033",
+            "title": {
+                "en": "Assigned to Facility",
+                "jp": "基地配属",
+                "kr": "시설에 배치",
+                "cn": "进驻设施"
+            },
+            "text": {
+                "en": "A new beginning, yet not an unwelcome one.",
+                "jp": "新たな始まりか。悪くはない。",
+                "kr": "새로운 시작인가. 나쁘지 않군.",
+                "cn": "新的起点，也不错。"
+            },
+            "asset": "char_1045_svash2/CN_033"
+        },
+        {
+            "id": "char_1045_svash2_CN_034",
+            "title": {
+                "en": "Tap",
+                "jp": "タッチ1",
+                "kr": "터치",
+                "cn": "戳一下"
+            },
+            "text": {
+                "en": "If you are ever in the mood for some chess, I shall be happy to oblige.",
+                "jp": "対局を望むのならば、いつでも相手になろう。",
+                "kr": "대국을 원한다면 언제든 상대해 주지.",
+                "cn": "有兴致对弈的话，我随时奉陪。"
+            },
+            "asset": "char_1045_svash2/CN_034"
+        },
+        {
+            "id": "char_1045_svash2_CN_036",
+            "title": {
+                "en": "Trust Tap",
+                "jp": "信頼タッチ",
+                "kr": "신뢰도 터치",
+                "cn": "信赖触摸"
+            },
+            "text": {
+                "en": "…I am awake.",
+                "jp": "……眠っていたわけではない。",
+                "kr": "……자고 있던 건 아니다.",
+                "cn": "......我醒着。"
+            },
+            "asset": "char_1045_svash2/CN_036"
+        },
+        {
+            "id": "char_1045_svash2_CN_037",
+            "title": {
+                "en": "Title",
+                "jp": "タイトルコール",
+                "kr": "타이틀",
+                "cn": "标题"
+            },
+            "text": {
+                "en": "Arknights.",
+                "jp": "アークナイツ。",
+                "kr": "명일방주.",
+                "cn": "明日方舟。"
+            },
+            "asset": "char_1045_svash2/CN_037"
+        },
+        {
+            "id": "char_1045_svash2_CN_038",
+            "title": {
+                "en": "New Year's blessing",
+                "jp": "新年",
+                "kr": "새해",
+                "cn": "新年祝福"
+            },
+            "text": {
+                "en": "Enya is very happy aboard Rhodes Island. With Ensia to accompany her, I daresay it might be the happiest time of her life… I shall avoid intruding upon them. I will say, you are the only one who could make such a suggestion without crossing a line. Let us head out to enjoy the snow. Happy New Year, my ally.",
+                "jp": "エンヤはロドスで楽しい時を過ごせているようだ。エンシアもそばにいる今が、エンヤにとっては最も幸福な時間なのかもしれないな……いや、輪に加わるのは遠慮させてもらおう。言っておくが、そうした提言は、お前でなければ許されるものではないぞ。では、我々は外で雪を眺めるとしよう。新年おめでとう、我が盟友よ。",
+                "kr": "엔야는 로도스 아일랜드에서 즐거운 시간을 보내고 있는 것 같다. 엔시아도 곁에 있는 지금이 엔야에게 가장 행복한 시간일지도 모르겠군…… 아니, 저기에 끼어드는 것은 사양하도록 하지. 말해두지만, 그런 제안은 네가 아니면 용서받지 못할 일이다. 그러면, 우리는 밖에서 눈을 바라보도록 하지. 새해 복 많이 받도록, 나의 맹우여.",
+                "cn": "恩雅在罗德岛上很开心，有恩希亚陪着她，甚至算得上她最开心的时候......加入她们就免了。不过，这种建议也只有你提才不算越界。我们就在外面看一看雪吧，新年快乐，盟友。"
+            },
+            "asset": "char_1045_svash2/CN_038"
+        },
+        {
+            "id": "char_1045_svash2_CN_042",
+            "title": {
+                "en": "Greeting",
+                "jp": "挨拶",
+                "kr": "인사",
+                "cn": "问候"
+            },
+            "text": {
+                "en": "You haven't weathered one bit, my friend.",
+                "jp": "息災か、我が盟友よ。",
+                "kr": "무탈한가, 나의 맹우여.",
+                "cn": "别来无恙，我的盟友。"
+            },
+            "asset": "char_1045_svash2/CN_042"
+        },
+        {
+            "id": "char_1045_svash2_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": "A meeting between Karlan Trade and the General Chamber of Commerce? You are frightfully knowledgeable about my schedule. But it is clear that today, I, SilverAsh, have much more important plans. There is no doubt you are worth a blemish or two upon the Silverash name. Happy birthday, my ally. How do you wish to spend the day?",
+                "jp": "カランド貿易と商業連合会の会議を気にしているのか？お前はつくづく、私のスケジュールをよく把握していることだ。しかし、今日はそれよりも重要な予定があるのでな。疑うべくもなく、お前はこのシルバーアッシュがそうする価値のある人物だ。誕生日おめでとう、我が盟友よ。今日はどう過ごすつもりだ？",
+                "kr": "카란 무역회사와 상업연합회의 회의를 신경 쓰고 있나? 너는 정말 내 스케줄을 잘 파악하고 있군. 하지만 오늘은 그것보다 중요한 예정이 있어서 말이지. 의심할 여지 없이, 너는 이 실버애쉬가 그렇게 할 가치가 있는 인물이다. 생일 축하한다, 나의 맹우여. 오늘은 어떻게 지낼 생각이지?",
+                "cn": "喀兰贸易与商业联合会的会议？你的确很清楚我的日程。不过很显然，今天我有更重要的安排。不用质疑，你当然值得银灰这么做。生日快乐，我的盟友。今天准备怎样度过呢？"
+            },
+            "asset": "char_1045_svash2/CN_043"
+        },
+        {
+            "id": "char_1045_svash2_CN_044",
+            "title": {
+                "en": "Anniversary Celebration",
+                "jp": "周年",
+                "kr": "애니버서리",
+                "cn": "周年庆典"
+            },
+            "text": {
+                "en": "Rhodes Island's cause will reshape the fabric of this land. This point may be beyond the comprehension of most, but I am not most men. I believe we have both heard our fair share of similar comments, but remember: those who truly have the ability to change this land are often those arrogant and conceited enough to think themselves able to do so.",
+                "jp": "ロドスの事業はやがてこの大地の構造を変えることだろう。それは大多数の人々の理解を超えているが、私はそう確信している。我々はこれまでに、似通った評価を数多く受けてきたが、真にこの大地を変えられる者とは、往々にして自分にはそれができると思い込んでいる「狂人」なのだからな。",
+                "kr": "로도스 아일랜드의 사업은 머지않아 이 대지의 구조를 바꾸겠지. 그것은 대다수 사람들의 이해 범위를 초월하고 있지만, 나는 그렇게 확신하고 있다. 우리는 지금까지 서로 비슷한 평가를 많이 받아왔지만, 진정으로 이 대지를 바꿀 수 있는 사람이란, 때때로 자신이 그것을 할 수 있다고 믿는 '광인'이니까 말이지.",
+                "cn": "罗德岛的事业会改变这片大地的格局，这或许超出了绝大多数人的理解，但我很清楚这一点。我想我们都收到过许多类似的评价，但真正能改变这片大地的人，往往是那些自以为可以做出改变的狂人。"
+            },
+            "asset": "char_1045_svash2/CN_044"
+        }
+    ],
+    "actors": {
+        "en": {
+            "native": "James Day",
+            "global": "James Day"
+        },
+        "cn": {
+            "native": "黒石稔",
+            "global": "Yuxuan Liu"
+        },
+        "jp": {
+            "native": "小西克幸",
+            "global": "Katsuyuki Konishi"
+        },
+        "kr": {
+            "native": "남도형",
+            "global": "Nam Doh-hyeong"
+        }
+    },
+    "availability": [
+        "en",
+        "cn",
+        "jp",
+        "kr"
+    ]
+}

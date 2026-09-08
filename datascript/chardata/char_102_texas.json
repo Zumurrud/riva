@@ -34,7 +34,7 @@
             },
             "text": {
                 "en": "I don't say much? That's because I'd rather avoid thinking about most things.",
-                "jp": "無口だと？それは私が大抵のことに感慨を抱かないからだ……。",
+                "jp": "無口だと？それは私が大抵のことに感慨を抱かないからだ……",
                 "kr": "과묵하다고? 그건 내가…… 웬만한 일에는 감흥이 없어서 그래.",
                 "cn": "我的话不多？实际上，我对大多数事情都没什么感想。"
             },
@@ -482,7 +482,7 @@
             },
             "text": {
                 "en": "I may have underestimated this operation.",
-                "jp": "今回の任務を甘く見ていたようだ……。",
+                "jp": "今回の任務を甘く見ていたようだ……",
                 "kr": "이번 임무를 너무 쉽게 본 모양이군……",
                 "cn": "我可能低估了这次行动的难度..."
             },
@@ -514,7 +514,7 @@
             },
             "text": {
                 "en": "Oh...!",
-                "jp": "ウッ……。",
+                "jp": "ウッ……",
                 "kr": "윽……",
                 "cn": "唔......！"
             },
@@ -634,7 +634,7 @@
             "native": "김채하",
             "global": "Kim Chae-ha"
         },
-        "ita": {
+        "it": {
             "native": "Ilaria Silvestri",
             "global": "Ilaria Silvestri"
         }
@@ -644,6 +644,6 @@
         "cn",
         "jp",
         "kr",
-        "ita"
+        "it"
     ]
 }

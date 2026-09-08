@@ -82,7 +82,7 @@
             },
             "text": {
                 "en": "Granny's calling... I can hear her.",
-                "jp": "聞こえる……オバアサンが呼んでる……。",
+                "jp": "聞こえる……オバアサンが呼んでる……",
                 "kr": "들려…… 할머니가 부르고 있어……",
                 "cn": "“外婆”在呼唤......红能听见。"
             },
@@ -130,7 +130,7 @@
             },
             "text": {
                 "en": "They avoid me... I just want to touch their tails. Provence, and Texas... I like their scent.",
-                "jp": "みんな、レッドを避ける。レッドはただ、みんなのしっぽ、触ってみたかっただけ……。プロヴァンス、テキサス……彼女たち、レッドの好きな匂い……する。",
+                "jp": "みんな、レッドを避ける。レッドはただ、みんなのしっぽ、触ってみたかっただけ……プロヴァンス、テキサス……彼女たち、レッドの好きな匂い……する。",
                 "kr": "모두, 레드를 피한다. 레드는 그냥, 모두의 꼬리, 만지고 싶었을 뿐…… 프로방스랑, 텍사스…… 그 여자들, 레드가 좋아하는 냄새…… 난다.",
                 "cn": "她们都躲着红。红其实只是想......摸摸她们的尾巴。普罗旺斯的，德克萨斯的......红在她们身上，能闻到红喜欢的味道。"
             },
@@ -146,7 +146,7 @@
             },
             "text": {
                 "en": "Doctor, sometimes I wonder... if I weren't a wolf hunter, would my life be different? Oh, you mean… I should answer the question... myself?",
-                "jp": "ドクター、教えて……。もしウルフハンターじゃなければ、レッドは、違う人生を過ごせたか？……答えは、自分の中にある？そう……か。",
+                "jp": "ドクター、教えて……もしウルフハンターじゃなければ、レッドは、違う人生を過ごせたか？……答えは、自分の中にある？そう……か。",
                 "kr": "박사, 알려줘…… 만약 울프 헌터가 아니라면, 레드는, 다른 인생을 살았을까? ……답은, 내 안에…… 있다고? 그런…… 가.",
                 "cn": "博士，红也想过......如果红不是猎狼人，会不会也能有不一样的生活？这个问题要红......自己回答？唔。"
             },
@@ -482,7 +482,7 @@
             },
             "text": {
                 "en": "Sorry... My blade... not sharp enough.",
-                "jp": "……このナイフ……まだ鋭さ、足りなかった……。",
+                "jp": "……このナイフ……まだ鋭さ、足りなかった……",
                 "kr": "……이 나이프…… 아직 예리함이, 부족했다……",
                 "cn": "......红的刀......还不够锋利......"
             },
@@ -498,7 +498,7 @@
             },
             "text": {
                 "en": "I prefer to be outside. But… it's okay.",
-                "jp": "レッド、部屋の中は、慣れていない。でも、嫌ではない……。",
+                "jp": "レッド、部屋の中は、慣れていない。でも、嫌ではない……",
                 "kr": "레드, 방 안은, 익숙지 않다. 하지만, 싫진 않아……",
                 "cn": "红，不太习惯室内，不过，也不讨厌。"
             },
@@ -594,7 +594,7 @@
             },
             "text": {
                 "en": "I've seen people. Many people. They went to the Doctor's room, and left things. That spells danger… it doesn't? Birthday presents? Oh, well… I'll lend you this fluffy ball to touch. But you have to give it back.",
-                "jp": "红看到，很多人来博士房间，送来很多东西，很危险......不危险？生日？好吧......这个毛球，可以借你摸摸，之后要还给红......",
+                "jp": "レッド、ドクターの部屋でたくさんの人見た。みんな何か持ってきていた、きっと危ない……危なくはない？今日は誕生日だから？そうか……この毛玉、あとでちゃんと返してくれるなら、貸してもいい。",
                 "kr": "레드 봤어. 많은 사람들이 박사 방에 왔다. 그리고 뭘 많이 두고 갔어. 위험해…… 안 위험하다고? 생일? 알겠다…… 이 털공, 빌려줄게. 가지고 놀다가, 다시 레드한테 돌려줘……",
                 "cn": "红看到，很多人来博士房间，送来很多东西，很危险......不危险？生日？好吧......这个毛球，可以借你摸摸，之后要还给红......"
             },
@@ -647,6 +647,6 @@
         "old_cn"
     ],
     "audio_path_override": {
-        "old_cn": "https://raw.githubusercontent.com/PseudoMon/arknights-audio/5e1b475f1a8ac48144c1a790224ee8bc8ac130b0/voice_cn"
+        "old_cn": "https://raw.githubusercontent.com/Zumurrud/riva-voices/main/old_voices/voice_cn/char_144_red/CN_###.mp3"
     }
 }

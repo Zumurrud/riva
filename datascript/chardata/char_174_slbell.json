@@ -178,7 +178,7 @@
             },
             "text": {
                 "en": "Shh, I sneaked out—oh, um, hi, HR Director! I... I'm here to lend my powers to Rhodes Island. Pramanix, Karlan Saintess, at your service. Bless you, my friend.",
-                "jp": "シッ、静かに。……内密に抜け出してき――ああ、あなたがロドスの……。カランドの巫女、プラマニクスと申します。ロドスに協力し、あなたに祝福を授けましょう。",
+                "jp": "シッ、静かに。……内密に抜け出してき――ああ、あなたがロドスの……カランドの巫女、プラマニクスと申します。ロドスに協力し、あなたに祝福を授けましょう。",
                 "kr": "쉿, 조용히…… 몰래 빠져 나왔…… 아아, 당신이 로도스 아일랜드의…… 카란의 성녀, 프라마닉스라고 합니다. 로도스 아일랜드에 협력하여, 당신에게 축복을 내려 드리지요.",
                 "cn": "嘘，我是偷偷跑出来——啊，嗯，人事主管你也在啊，是的，我是来协助罗德岛的。喀兰圣女，初雪，向你献上至洁的祝福。"
             },
@@ -194,7 +194,7 @@
             },
             "text": {
                 "en": "I hear a voice... repeating something in my head...",
-                "jp": "頭の中で……声が……聞こえます……。",
+                "jp": "頭の中で……声が……聞こえます……",
                 "kr": "머릿속에서…… 목소리가…… 들려와요…… ",
                 "cn": "在脑海中......有什么声音......在回响着......"
             },
@@ -594,7 +594,7 @@
             },
             "text": {
                 "en": "So—how does it taste? Nice and cool, isn't it? It's my own handmade frosted chocolate. Do you like it? Good, that's a relief, I really spent a lot of time studying it.",
-                "jp": "嗯——味道怎么样？是不是凉凉的？这是我亲手做的霜雪巧克力，很美味吧？喜欢吗？啊啊，那就好，不枉我研究了那么久呢。",
+                "jp": "どうぞ――お味はいかがですか？ひんやりしていますか？手作りのパウダースノーチョコレートです。美味しいでしょう？気に入っていただけたようで嬉しいです。あれほど長く時間をかけて作り上げたかいがありました。",
                 "kr": "드셔보세요…… 맛이 어떠신가요? 직접 만든 파우더 스노우 초콜릿이에요. 식어도 맛있죠? 좋아해 주셨으면 좋겠어요. 오랜 시간 공들여 연구한 보람이 있었네요.",
                 "cn": "嗯——味道怎么样？是不是凉凉的？这是我亲手做的霜雪巧克力，很美味吧？喜欢吗？啊啊，那就好，不枉我研究了那么久呢。"
             },
@@ -631,8 +631,8 @@
             "global": "Saori Hayami"
         },
         "kr": {
-            "native": "박고운",
-            "global": "Park Ko-woon"
+            "native": "천송이",
+            "global": "Chun Song-e"
         }
     },
     "availability": [

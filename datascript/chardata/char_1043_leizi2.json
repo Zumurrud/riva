@@ -1,0 +1,644 @@
+{
+    "charid": "char_1043_leizi2",
+    "nameid": "leizi2",
+    "names": {
+        "en": "Leizi the Thunderbringer",
+        "jp": "司霆レイズ",
+        "kr": "레이즈 더 썬더브링어",
+        "cn": "司霆惊蛰"
+    },
+    "voices": [
+        {
+            "id": "char_1043_leizi2_CN_001",
+            "title": {
+                "en": "Appointed as Assistant",
+                "jp": "秘書任命",
+                "kr": "어시스턴트 임명",
+                "cn": "任命助理"
+            },
+            "text": {
+                "en": "Give those documents here. Steady diligence paves the way to grand vision. During my cultivation retreat, I would grade ninety-nine assignments for the Tianshis every day—Halt. Where do you think you're going? Are you planning to dump your work on me to loaf about like the rest of them? Very well. Ignorance of consequence is bliss.",
+                "jp": "ファイルを渡してください。行いを篤くして後に思慮を遠くせよとの言葉の通り、私が一人で閉じ篭っていた期間、毎日天師たちの宿題を九十九件も採点していたのです――待ってください、どちらへ？あなたも彼らと同じように仕事を私に押し付けて怠けるつもりなのですか？結構。その行動が招く結果を知ることになるでしょう。",
+                "kr": "파일 넘겨주십시오. 행동을 깊이 하고 그 뒤 숙고하라는 말대로, 혼자 틀어박혀 있던 기간에는 매일 천사들의 숙제를 99건이나 채점하던 적도 있었죠…… 잠시, 어디 가시는지? 당신도 그 사람들처럼 저한테 일을 떠맡기고 농땡이나 칠 생각이십니까? 좋습니다. 그 행동이 불러올 결과를 곧 아시게 되겠죠.",
+                "cn": "把文件交给我吧。行笃而后思远，我闭关期间每天会为天师们批满九十九份作业——慢着，你去哪里？你也准备像他们一样，把工作丢给我就去偷懒？很好，你不想知道这样做的后果。"
+            },
+            "asset": "char_1043_leizi2/CN_001"
+        },
+        {
+            "id": "char_1043_leizi2_CN_002",
+            "title": {
+                "en": "Talk 1",
+                "jp": "会話1",
+                "kr": "대화 1",
+                "cn": "交谈1"
+            },
+            "text": {
+                "en": "The case is closed. I can only hope Blaze is no longer shackled by her past, though it's hard not to worry for someone with her temperament. Never mind, I am simply visiting this time around—She won't be back for another two weeks? Ahem, staying a few more days will do me no harm. If there is anything I can help with, just say the word.",
+                "jp": "旧事は片付きました。私としては、ブレイズがこれ以上過去に囚われることがないのを願うばかりですが、彼女のあの性格ではどうも安心できません。いいえ、今回はただ道すがら彼女を訪ね……あと半月しないと戻らないのですか？こほん、何日か滞在が伸びても問題はありませんよ。私に手伝える仕事があれば任せてください。",
+                "kr": "옛일은 정리했습니다. 저로서는 블레이즈가 이 이상 과거에 갇혀있지 않기를 바랄 뿐입니다만, 블레이즈의 성격상 아무래도 안심할 수는 없습니다. 아뇨, 이번에는 그냥 지나가는 김에 들렀을 뿐…… 앞으로 보름 정도는 안 돌아올 거라고요? 크흠, 며칠 정도는 체류 기간이 길어져도 문제없습니다. 뭐라도 도울 일이 있으면 맡겨 주십시오.",
+                "cn": "旧案已了，我只希望煌不再受过往牵绊，可她那样的心性又很难让人放心。没什么，我这次来只是顺路拜访——她还要半个月才能回来？咳，多待几日倒也无妨，有什么我帮得上忙的工作就交给我吧。"
+            },
+            "asset": "char_1043_leizi2/CN_002"
+        },
+        {
+            "id": "char_1043_leizi2_CN_003",
+            "title": {
+                "en": "Talk 2",
+                "jp": "会話2",
+                "kr": "대화 2",
+                "cn": "交谈2"
+            },
+            "text": {
+                "en": "I must stress that Lei Fa is neither for quick-charging batteries <i>nor</i> invoking rain and storm! This Tianshi garb attracts many curious questions, and I am compelled to answer them all—Repairing a burnt circuit...? Give it here. This has nothing to do with Lei Fa either! I simply have a lot of practical experience in this field.",
+                "jp": "急速充電から、風雨の召喚まで何でもござれだと思われていますが――どれも雷法の真髄ではありません！この天師服のおかげで少なからず好奇心を向けられ、投げかけられた質問に一つ一つ説明せねばなりません――焼けた配線の修理？……貸してください。これも雷法とは関係ありませんからね！慣れた結果です。",
+                "kr": "급속 충전부터 비바람 소환까지 뭐든 가능하다고 생각하시나 본데, 그것들 전부 뇌법의 진수가 아닙니다! 이 천사복 때문에 적잖이 호기심을 끄는 바람에, 들어오는 질문에 하나하나 다 설명해야 한단 말입니다…… 타버린 회로 수리요? ……이리 주시죠. 이것도 뇌법과는 상관없는 일입니다! 그냥 익숙해진 거죠.",
+                "cn": "小到快速充电，大到唤风祈雨——全都不是雷法的追求！这身天师服吸引来不少好奇的追问，我必须逐一解释——修理烧坏的电路？......给我。这也与雷法无关！只是熟能生巧罢了。"
+            },
+            "asset": "char_1043_leizi2/CN_003"
+        },
+        {
+            "id": "char_1043_leizi2_CN_004",
+            "title": {
+                "en": "Talk 3",
+                "jp": "会話3",
+                "kr": "대화 3",
+                "cn": "交谈3"
+            },
+            "text": {
+                "en": "Zuo Le has been taking on more important duties at the Sui Regulator, but he still possesses the heart of a youth. He may seem a cautious young man, but he lets emotion get the better of him at crucial moments. How is one not meant to worry...? Why are you looking at me like that? I promised my sworn sister I would look after him, so naturally I'm concerned for him—Seriously, why are you looking at me like that?",
+                "jp": "ラウくんが司歳台で果たすべき責任は重くなるばかりですが、気性はまだ少年のような部分を残しています。普段は落ち着いているように見えても、肝心なところで感情に流されやすい有様ですから、どうして安心できましょう。その表情はなんです？義姉にラウくんの面倒を見ると約束したので、心配しているだけですよ――なぜそんな目で見るのですか？",
+                "kr": "좌락이 사세대에서 짊어져야 할 책임은 무거워지기만 하는데, 성정에는 아직 소년 같은 부분이 남아 있습니다. 평소에는 침착해 보여도 중요한 때에는 감정에 휘둘리기 쉬운 모양새이니, 안심할 수 있을 리가요. 그 표정은 뭐죠? 좌락을 돌봐주기로 언니와 약속했으니 걱정하고 있는 것뿐입니다. ……왜 그런 눈으로 보시는 거죠?",
+                "cn": "左乐在司岁台的责任渐重，可还是一副少年心气。平时看似持重，关键处又总会意气用事，叫人如何放心。为何这样看我？我答应过义姐要关照左乐，故而有些担忧罢了——为什么要这样看着我？"
+            },
+            "asset": "char_1043_leizi2/CN_004"
+        },
+        {
+            "id": "char_1043_leizi2_CN_005",
+            "title": {
+                "en": "Talk after Promotion 1",
+                "jp": "昇進後会話1",
+                "kr": "1차 정예화 후 대화",
+                "cn": "晋升后交谈1"
+            },
+            "text": {
+                "en": "During my studies at the Tianshi Bureaus, I would never dare to neglect my Lei Fa drills or memorization of the law. But work at the Judicial Review Office requires human interaction. I was at a loss, but I came to realize something at last: when all is said and done, what both roles seek is nothing more than the <i>truth</i>.",
+                "jp": "天師府で学んでいた頃は、雷法の研究であれ律法の暗記であれ、決して怠りはしませんでした。しかし大理寺の仕事は人を相手にしたものです。私もどうすればよいか分からず迷ったことはありましたが、最終的に悟りました――根本まで辿れば、両者が求めるものはどちらも「真」という一文字に尽きるのです。",
+                "kr": "천사부에서 공부하던 시절에는, 뇌법 연구도 율법 암기도 절대 게을리하지 않았습니다. 그런데 대리사의 일은 사람을 상대하는 것이죠. 어떻게 하면 좋을지 몰라 헤매던 때도 있었습니다만, 결국에는 깨달았습니다…… 근본까지 들어가 보면, 양자가 추구하는 것은 모두 '진실'이라는 한 단어로 귀결된다는 것을 말이죠.",
+                "cn": "在天师府求学时，无论是钻研雷法还是记诵律法，我都不敢怠慢。但是大理寺的工作，却变成了与人打交道。我也曾感到迷茫，最终却想通了——究其根本，二者之所求，无非一个“真”字。"
+            },
+            "asset": "char_1043_leizi2/CN_005"
+        },
+        {
+            "id": "char_1043_leizi2_CN_006",
+            "title": {
+                "en": "Talk after Promotion 2",
+                "jp": "昇進後会話2",
+                "kr": "2차 정예화 후 대화",
+                "cn": "晋升后交谈2"
+            },
+            "text": {
+                "en": "I may have shed my mandarin's robe, but I do not dwell on it. As a former enforcer of the law, I am well aware of its imperfections. There are times when swords are chipped and thunder falls silent. The law, Lei Fa, and the longsword are simply tools to punish evil and drive out wickedness. So long as the wielder is of resolute heart, there is nothing they cannot overcome.",
+                "jp": "官服を脱ぎはしましたが、未練はありません。かつて法の執行をする立場にあった者として、律法の不完全さは承知しています。刃にも欠けはあり、雷にも音を失う時はあります。律法も雷法も剣法も、突き詰めれば悪を懲らしめる手段に過ぎません。使い手の信念が固ければ、どんなことも障りにはなりません。",
+                "kr": "관복을 벗기는 했습니다만, 미련은 없습니다. 한때 법을 집행하는 입장이었던 자로서, 율법의 불완전성은 잘 알고 있습니다. 칼에도 흠이 있고, 번개도 소리를 잃을 때가 있습니다. 율법도 뇌법도 검법도, 파고들어 보면 결국 악을 징벌하는 수단에 지나지 않죠. 그것을 쓰는 사람의 신념이 굳건하다면, 어떤 것도 장애물이 될 수 없습니다.",
+                "cn": "我虽已脱下官服，却并无心结。作为曾经的执法者，我清楚律法的不完美。剑有缺口，雷有喑时，律法、雷法、剑法，说到底都是惩奸除恶的工具。只要使用者内心坚定，便不成阻碍。"
+            },
+            "asset": "char_1043_leizi2/CN_006"
+        },
+        {
+            "id": "char_1043_leizi2_CN_007",
+            "title": {
+                "en": "Talk after Trust Increase 1",
+                "jp": "信頼上昇後会話1",
+                "kr": "신뢰도 상승 후 대화 1",
+                "cn": "信赖提升后交谈1"
+            },
+            "text": {
+                "en": "Of course Tianshis are ordinary people, not cultivators of immortality. The Tianshi Bureaus were placed atop a mountain's peak simply for solitude's sake, allowing students to focus on their studies. Inconvenient? The Originium contraptions produced by the Chamber of Alchemy are perfectly sufficient to our daily needs. Besides, one can ride a Tianshi's Wing to the Baizao market and back in the span of a single joss stick. There's nothing inconvenient about it.",
+                "jp": "天師も当然のことながら常人です。天師府が山頂に設けられているのは、静かな場所を選んで皆が学業に専念できるようにするためにすぎません。不便？練丹房で作られる源石装置で日々の暮らしの需要は十分満たせますし、天師翼に乗って百灶の市場まで往復しても香が一本燃え尽きるほどの時間です。別段不便はありませんよ。",
+                "kr": "당연한 얘기지만, 천사도 평범한 사람입니다. 천사부가 산 정상에 건설된 것은 조용한 장소에서 다들 학업에 전념할 수 있도록 하기 위한 것뿐이죠. 불편이요? 연단방에서 만드는 오리지늄 장치로 일상생활에 필요한 것은 충족할 수 있고, 천사익에 타서 백조 시장까지 왕복해도 향 하나 태우는 시간 정도밖에 안 됩니다. 딱히 불편하지는 않습니다.",
+                "cn": "天师当然是常人，天师府设立在山巅，只是寻一处僻静之地好让大家专心治学。不便？炼丹房里产出的源石装置完全可以满足日常所需，乘天师翼往返百灶市集也不过一炷香的工夫，倒也没什么不便。"
+            },
+            "asset": "char_1043_leizi2/CN_007"
+        },
+        {
+            "id": "char_1043_leizi2_CN_008",
+            "title": {
+                "en": "Talk after Trust Increase 2",
+                "jp": "信頼上昇後会話2",
+                "kr": "신뢰도 상승 후 대화 2",
+                "cn": "信赖提升后交谈2"
+            },
+            "text": {
+                "en": "You are worried. If life's challenges have left you with a weary heart, then follow me back to the Tianshi Bureaus to seclude your mind. Choose a research topic to your liking, suffer the torment of fanciful and enthusiastic Tianshis for a few years, and your heart shall be clear as crystal— To decline with such formality... Are my jokes still too serious?",
+                "jp": "あなたは憂いを抱えていらっしゃいますね。もし世の艱難辛苦に心を痛めているのであれば、私と共に天師府で外界との接触を断ち、修行をすると良いでしょう。興味のある研究課題を選び、奇想天外で元気のあり余った天師たちに数年も揉まれれば、心はきっと澄み渡ります――これほど丁重に断られるとは、冗談にしては真面目すぎましたか？",
+                "kr": "당신은 근심을 안고 계시는군요. 혹시 세상의 온갖 쓰라린 고생에 마음이 괴로우시다면, 저와 함께 천사부에서 바깥세상과의 접촉을 끊고 수행하시면 좋을 겁니다. 관심 있는 연구 과제를 골라서 기상천외하고 활력 넘치는 천사들에게 몇 년쯤 시달리다 보면, 마음도 분명 청명해지겠죠…… 이 정도로 정중하게 거절하실 줄이야. 농담치고는 너무 진지했나요?",
+                "cn": "你很忧虑。若觉世事艰难心头苦闷，便随我回天师府闭关修心。选择中意的研究项目，被异想天开又充满干劲的天师折磨个几年，内心势必通透澄亮——这么正式地拒绝我，我的玩笑还是太严肃了吗？"
+            },
+            "asset": "char_1043_leizi2/CN_008"
+        },
+        {
+            "id": "char_1043_leizi2_CN_009",
+            "title": {
+                "en": "Talk after Trust Increase 3",
+                "jp": "信頼上昇後会話3",
+                "kr": "신뢰도 상승 후 대화 3",
+                "cn": "信赖提升后交谈3"
+            },
+            "text": {
+                "en": "I once saw a dastardly criminal who had been pronounced innocent struck by a bolt from the blue on his way home. Not far off, there was my little uncle who had no business there. I had hoped to question him, but in the end, I hid it away in my heart—Why am I telling you? Weren't we exchanging secrets?!",
+                "jp": "かつて狡猾にも罪を逃れた悪党が帰宅途中に天雷に打たれるのを見ました。遠からぬところには、通りがかるはずのない師叔がいました。問い詰めようと思いましたが、結局この件は胸に秘めることにしました――ではなぜ今話すのかと？秘密を交換するのではなかったのですか！？",
+                "kr": "일전에 교활하게 죄를 피한 악당이 집에 돌아가던 중 벼락에 맞는 것을 본 적이 있습니다. 그리고 멀지 않은 곳에 그곳을 지나갈 리가 없는 사숙이 있었죠. 한 번 따져볼까 싶었지만 결국 이 건은 가슴에 묻어두기로 했습니다…… 그런데 이걸 왜 지금 이야기하냐고요? 비밀을 교환하는 게 아니었나요?!",
+                "cn": "我曾看见一个狡猾脱罪的恶徒在归家途中被一道天雷劈中，在不远处是不应路过此地的师叔。我本想向他追问，最终还是将这件事藏在了心底——那为什么说出来？不是在交换秘密吗？！"
+            },
+            "asset": "char_1043_leizi2/CN_009"
+        },
+        {
+            "id": "char_1043_leizi2_CN_010",
+            "title": {
+                "en": "Idle",
+                "jp": "放置",
+                "kr": "방치",
+                "cn": "闲置"
+            },
+            "text": {
+                "en": "Do not push yourself. As a leader, you should recuperate when appropriate. A well-rested mind is an agile, observant mind. You can't finish your work? You want my help? Ridiculous! Preposterous! ...Give it here.",
+                "jp": "無理は禁物ですよ。指導者たる者こそ、適時に休息をとり、鋭い思考で細かな事柄までも見通すべきです。仕事が終わらないと？私の手伝いが必要ですって？まったくもう！……貸してください。",
+                "kr": "무리는 금물입니다. 무릇 지도자는 적절한 때에 휴식을 취하고 날카로운 사고로 세세한 부분까지 살펴야 합니다. 일이 안 끝난다고요? 제가 도와줬으면 좋겠다고요? 아 정말! ……이리 주시죠.",
+                "cn": "不要强撑，作为领头人，更应及时休整，思敏以察微。工作做不完？要我帮你？岂有此理？！......拿来吧。"
+            },
+            "asset": "char_1043_leizi2/CN_010"
+        },
+        {
+            "id": "char_1043_leizi2_CN_011",
+            "title": {
+                "en": "Onboard",
+                "jp": "入職会話",
+                "kr": "오퍼레이터 입사",
+                "cn": "干员报到"
+            },
+            "text": {
+                "en": "I am here to terminate my investigation authorization with your company. And here is my new application for—'Thank goodness'? I am applying as an ordinary visitor, merely here to talk. I, Leizi of Great Yan's Tianshi Bureaus, do beg your pardon for my continued presence.",
+                "jp": "貴社との捜査協定を解除しに参りました。こちらが申請書です……良かった？私は一般訪問者としての乗艦に切り替える申請をしに来たのですがね。炎国天師府のレイズとして、今後もお邪魔させていただきます。",
+                "kr": "귀사와의 수사 협정을 해제하러 왔습니다. 신청서는 여기…… 잘 됐다고요? 저는 일반 방문객 승함으로 전환 신청하러 온 겁니다만. 염국 천사부의 레이즈로서, 앞으로도 신세 지도록 하겠습니다.",
+                "cn": "我来终止与贵司的搜查协议，这是我的申请......太好了？我申请的是以普通访客的身份来交流。大炎天师府惊蛰，今后将继续叨扰。"
+            },
+            "asset": "char_1043_leizi2/CN_011"
+        },
+        {
+            "id": "char_1043_leizi2_CN_012",
+            "title": {
+                "en": "Watching Battle Record",
+                "jp": "経験値上昇",
+                "kr": "작전기록 학습",
+                "cn": "观看作战记录"
+            },
+            "text": {
+                "en": "It is worth considering Originium Arts doctrine in a complex battlefield environment.",
+                "jp": "複雑な戦場環境でのアーツの使い方……こうした発想は、確かに参考にして良さそうですね。",
+                "kr": "복잡한 전장 환경에서의 아츠 사용법…… 확실히 이런 발상은 참고해도 좋을 것 같습니다.",
+                "cn": "在复杂的战场环境里使用源石技艺，这些思路确实值得参考。"
+            },
+            "asset": "char_1043_leizi2/CN_012"
+        },
+        {
+            "id": "char_1043_leizi2_CN_013",
+            "title": {
+                "en": "Promotion 1",
+                "jp": "昇進Ⅰ",
+                "kr": "1차 정예화 (승진)",
+                "cn": "精英化晋升1"
+            },
+            "text": {
+                "en": "I do not grant my trust lightly, but Rhodes Island has proven itself a trustworthy organization. Do not disappoint me. Oh, I was talking over you? My apologies. Please, go ahead.",
+                "jp": "私は簡単に信頼を寄せたりはしませんが、ロドスはすでに信頼に値する組織であることを証明しました。どうか私を失望させないでください。え、あなたの台詞を奪った？失礼しました、どうぞお話を続けてください。",
+                "kr": "저는 누군가를 쉽게 신뢰하지는 않습니다만, 로도스 아일랜드는 신뢰할 만한 조직이라는 것을 이미 증명했습니다. 부디 저를 실망시키지 마세요. 앗, 제가 당신의 대사를 빼앗았나요? 실례했습니다. 하시던 말씀 계속하세요.",
+                "cn": "我不轻易交付信任，但罗德岛已证明了自己是值得信赖的组织，不要让我失望。呃，抢了你该说的话？抱歉，请说。"
+            },
+            "asset": "char_1043_leizi2/CN_013"
+        },
+        {
+            "id": "char_1043_leizi2_CN_014",
+            "title": {
+                "en": "Promotion 2",
+                "jp": "昇進Ⅱ",
+                "kr": "2차 정예화 (승진)",
+                "cn": "精英化晋升2"
+            },
+            "text": {
+                "en": "When I first joined the Judicial Review Office, I strove to be the best in all things. I thought the higher I stood, the more I could do. And yet, it was the same thought that bade me leave. Do I regret it? No. Listen to the rumbling of the thunder. Where can its mighty roar not be heard? Where can its brilliant bolts not reach?",
+                "jp": "大理寺に入ったばかりの頃は何事も我先にと動き、高い地位に立てばより多くのことができると考えていました。ですが、大理寺を離れたのも同じ考えからです。心残り？いいえ。この雷鳴を聞いてください。どこまでも響き、どこまでも届きます。",
+                "kr": "막 대리사에 들어갔을 때는 무슨 일이든 간에 먼저 나서서 했었고, 높은 자리에 가면 더 많은 일을 할 수 있을 거라고 생각했었죠. 그렇지만, 대리사를 떠난 것도 같은 이유였습니다. 미련? 전혀요. 이 천둥소리를 들어보시죠. 어디까지든 울리고, 어디까지든 닿을 수 있습니다.",
+                "cn": "初入大理寺时我万事都想争先，以为站得越高，能成之事就越多。而如今离开大理寺也是出于同样的考虑。遗憾？不。你听这雷声隆隆，何处不闻，何处不至？"
+            },
+            "asset": "char_1043_leizi2/CN_014"
+        },
+        {
+            "id": "char_1043_leizi2_CN_017",
+            "title": {
+                "en": "Added to Squad",
+                "jp": "編成",
+                "kr": "팀 배치",
+                "cn": "编入队伍"
+            },
+            "text": {
+                "en": "When one learns from experience, the lessons never cease.",
+                "jp": "私の修行はまだ終わっていません。",
+                "kr": "제 수행은 아직 끝나지 않았습니다.",
+                "cn": "我的历练并未结束。"
+            },
+            "asset": "char_1043_leizi2/CN_017"
+        },
+        {
+            "id": "char_1043_leizi2_CN_018",
+            "title": {
+                "en": "Appointed as Squad Leader",
+                "jp": "隊長任命",
+                "kr": "팀장 임명",
+                "cn": "任命队长"
+            },
+            "text": {
+                "en": "Levin crack umbra, luminate the path.",
+                "jp": "雷霆曇りを破り、前路明らかなり！",
+                "kr": "뇌정이 그늘을 부수고, 앞길을 밝히리라!",
+                "cn": "雷霆破翳，前路昭明！"
+            },
+            "asset": "char_1043_leizi2/CN_018"
+        },
+        {
+            "id": "char_1043_leizi2_CN_019",
+            "title": {
+                "en": "Depart",
+                "jp": "作戦準備",
+                "kr": "작전 출발",
+                "cn": "行动出发"
+            },
+            "text": {
+                "en": "With my blade, I decree—",
+                "jp": "剣を以て令と為す――",
+                "kr": "검으로 명을 행할지니……",
+                "cn": "以剑为令——"
+            },
+            "asset": "char_1043_leizi2/CN_019"
+        },
+        {
+            "id": "char_1043_leizi2_CN_020",
+            "title": {
+                "en": "Begin Operation",
+                "jp": "戦闘開始",
+                "kr": "작전 개시",
+                "cn": "行动开始"
+            },
+            "text": {
+                "en": "There is no cure for the shameless.",
+                "jp": "廉恥なき者は治め難し。",
+                "kr": "염치없는 자는 다스리기 어려운 법.",
+                "cn": "寡廉鲜耻，不可治。"
+            },
+            "asset": "char_1043_leizi2/CN_020"
+        },
+        {
+            "id": "char_1043_leizi2_CN_021",
+            "title": {
+                "en": "Selecting Operator 1",
+                "jp": "選択時1",
+                "kr": "오퍼레이터 선택 1",
+                "cn": "选中干员1"
+            },
+            "text": {
+                "en": "I am here.",
+                "jp": "ここに。",
+                "kr": "여기 있습니다.",
+                "cn": "在。"
+            },
+            "asset": "char_1043_leizi2/CN_021"
+        },
+        {
+            "id": "char_1043_leizi2_CN_022",
+            "title": {
+                "en": "Selecting Operator 2",
+                "jp": "選択時2",
+                "kr": "오퍼레이터 선택 2",
+                "cn": "选中干员2"
+            },
+            "text": {
+                "en": "A fine decision.",
+                "jp": "良い判断です。",
+                "kr": "좋은 판단이군요.",
+                "cn": "很好的判断。"
+            },
+            "asset": "char_1043_leizi2/CN_022"
+        },
+        {
+            "id": "char_1043_leizi2_CN_023",
+            "title": {
+                "en": "Deployment 1",
+                "jp": "配置1",
+                "kr": "배치 1",
+                "cn": "部署1"
+            },
+            "text": {
+                "en": "Practice without principle is the height of folly.",
+                "jp": "術あれど道なきは愚の骨頂。",
+                "kr": "기술이 있다 한들 도리가 없다면 어리석기 그지없는 것.",
+                "cn": "有术无道，愚不可及。"
+            },
+            "asset": "char_1043_leizi2/CN_023"
+        },
+        {
+            "id": "char_1043_leizi2_CN_024",
+            "title": {
+                "en": "Deployment 2",
+                "jp": "配置2",
+                "kr": "배치 2",
+                "cn": "部署2"
+            },
+            "text": {
+                "en": "Amidst lightning flash, thund'rous sword shall clash!",
+                "jp": "電光石火、触ば即ち発す！",
+                "kr": "전광석화, 건드리는 즉시 발하리라!",
+                "cn": "电光石火，有触即发！"
+            },
+            "asset": "char_1043_leizi2/CN_024"
+        },
+        {
+            "id": "char_1043_leizi2_CN_025",
+            "title": {
+                "en": "In Battle 1",
+                "jp": "作戦中1",
+                "kr": "작전 중 1",
+                "cn": "作战中1"
+            },
+            "text": {
+                "en": "Five thunders, smite the wicked!",
+                "jp": "五雷邪佞を震わせ、破！",
+                "kr": "오뢰가 악인을 떨게 하니, 깨뜨려라!",
+                "cn": "五雷震邪佞，破！"
+            },
+            "asset": "char_1043_leizi2/CN_025"
+        },
+        {
+            "id": "char_1043_leizi2_CN_026",
+            "title": {
+                "en": "In Battle 2",
+                "jp": "作戦中2",
+                "kr": "작전 중 2",
+                "cn": "作战中2"
+            },
+            "text": {
+                "en": "With trine blade shall evil be excised, with righteous fulgur's strike shall demons die!",
+                "jp": "三元帰一の剣、魑魅を貫き、一筋の正義が禍祟を撃つ！",
+                "kr": "삼원귀일의 검 이매망량을 뚫고, 한 줄기 정의가 재액을 친다!",
+                "cn": "三元归一剑贯魑魅，一点浩气霆击祸祟！"
+            },
+            "asset": "char_1043_leizi2/CN_026"
+        },
+        {
+            "id": "char_1043_leizi2_CN_027",
+            "title": {
+                "en": "In Battle 3",
+                "jp": "作戦中3",
+                "kr": "작전 중 3",
+                "cn": "作战中3"
+            },
+            "text": {
+                "en": "Tremble, villains! Quake, ye ghouls! For thunder roars, and heaven shakes!",
+                "jp": "妖を斬り奸悪を除き、雷霆乾坤を動かす！",
+                "kr": "요사한 것을 베고 간악함을 제거하며, 뇌정이 건곤을 움직인다!",
+                "cn": "斩妖除奸恶，雷霆动乾坤！"
+            },
+            "asset": "char_1043_leizi2/CN_027"
+        },
+        {
+            "id": "char_1043_leizi2_CN_028",
+            "title": {
+                "en": "In Battle 4",
+                "jp": "作戦中4",
+                "kr": "작전 중 4",
+                "cn": "作战中4"
+            },
+            "text": {
+                "en": "There is no flight from Heaven's bolts!",
+                "jp": "天雷轟轟、逃がしはしません！",
+                "kr": "천뢰굉굉, 도망 못 갈 거다!",
+                "cn": "天雷滚滚，你想往哪里逃！"
+            },
+            "asset": "char_1043_leizi2/CN_028"
+        },
+        {
+            "id": "char_1043_leizi2_CN_029",
+            "title": {
+                "en": "4-star Result",
+                "jp": "高難度作戦クリア",
+                "kr": "고난이도 작전 종료",
+                "cn": "完成高难行动"
+            },
+            "text": {
+                "en": "You should maintain such a high standard in future battles. You are the one who sets the standard, of course, but that does not mean you can be complacent!",
+                "jp": "今後もこのように高い水準を維持してください。もちろんあなたを認めての言葉ですが、だからと言って決して油断してはなりませんからね！",
+                "kr": "이후에도 이 정도로 높은 수준을 유지해 주십시오. 물론 당신을 인정해서 하는 얘기입니다만, 그렇다고 절대 방심해서는 안 되니까요!",
+                "cn": "往后也要维持刚才那样的高水准。当然是对你的认可，但你绝不可因此掉以轻心！"
+            },
+            "asset": "char_1043_leizi2/CN_029"
+        },
+        {
+            "id": "char_1043_leizi2_CN_030",
+            "title": {
+                "en": "3-star Result",
+                "jp": "★3で戦闘終了",
+                "kr": "3★ 작전 종료",
+                "cn": "3星结束行动"
+            },
+            "text": {
+                "en": "You have improved. Less admonition next time? That would be complacency. I rescind my earlier praise!",
+                "jp": "進歩しましたね。今後は少し説教を手加減してほしい？すぐ調子に乗るんですから。今の褒め言葉を取り消します！",
+                "kr": "진보했군요. 다음에는 설교를 좀 살살 해달라고요? 바로 우쭐해져서는…… 방금 칭찬은 취소입니다!",
+                "cn": "有进步。以后少说你几句？这样自满，我收回刚才的夸赞！"
+            },
+            "asset": "char_1043_leizi2/CN_030"
+        },
+        {
+            "id": "char_1043_leizi2_CN_031",
+            "title": {
+                "en": "Sub 3-star Result",
+                "jp": "★2以下戦闘終了",
+                "kr": "비 3★ 작전 종료",
+                "cn": "非3星结束行动"
+            },
+            "text": {
+                "en": "Phew...What you need is time to clear your mind. As one of Rhodes Island's leaders, you must not make the same mistake twice. Remember this.",
+                "jp": "ふぅ――あなたは静かに考える必要があります。ロドスの指導者の一人として、同じ過ちを繰り返してはなりませんよ。この点をよく覚えておくことです。",
+                "kr": "후…… 당신은 이번 건에 대해서, 조용히 생각해 볼 필요가 있겠군요. 로도스 아일랜드의 지도자 중 한 명으로서, 같은 잘못을 반복해서는 안 됩니다. 이 점을 명심해 두세요.",
+                "cn": "呼——你需要的是静思。作为罗德岛的领头人之一，同样的错绝不可再犯，这点你要记住。"
+            },
+            "asset": "char_1043_leizi2/CN_031"
+        },
+        {
+            "id": "char_1043_leizi2_CN_032",
+            "title": {
+                "en": "Operation Failure",
+                "jp": "作戦失敗",
+                "kr": "작전 실패",
+                "cn": "行动失败"
+            },
+            "text": {
+                "en": "Stand and fight alongside me! I know you are not so easily defeated!",
+                "jp": "立ちなさい、共に戦いますよ！あなたが簡単に打ち倒されるような方でないことは知っています！",
+                "kr": "일어나십시오, 같이 싸우겠습니다! 당신이 이렇게 간단히 쓰러질 사람이 아니라는 건 알고 있습니다!",
+                "cn": "站起来，和我一起战斗！我知道你不会轻易被击败！"
+            },
+            "asset": "char_1043_leizi2/CN_032"
+        },
+        {
+            "id": "char_1043_leizi2_CN_033",
+            "title": {
+                "en": "Assigned to Facility",
+                "jp": "基地配属",
+                "kr": "시설에 배치",
+                "cn": "进驻设施"
+            },
+            "text": {
+                "en": "My idle days must be spent on thorough study. If there are any further explosions outside my door—There won't be? Very well. I trust you.",
+                "jp": "私は日頃から集中して研究を行わねばなりません。もしまた部屋の外で爆発が起きたら――起きないと保証する？分かりました。あなたを信じましょう。",
+                "kr": "저는 평소에도 연구에 집중해야 합니다. 혹시 방 밖에서 또 폭발이 일어나면…… 안 일어날 거라 보장하겠다고요? 알겠습니다. 당신을 믿도록 하죠.",
+                "cn": "我平日里需要潜心研究，要是门外再发生爆炸——不会？好，我信你。"
+            },
+            "asset": "char_1043_leizi2/CN_033"
+        },
+        {
+            "id": "char_1043_leizi2_CN_034",
+            "title": {
+                "en": "Tap",
+                "jp": "タッチ1",
+                "kr": "터치",
+                "cn": "戳一下"
+            },
+            "text": {
+                "en": "Calm mind, tranquil heart—I shall not bicker with you.",
+                "jp": "心静かなれば揺れることなし――今回は大目に見ます。",
+                "kr": "마음이 고요하면 흔들리지 않으니…… 이번은 봐드리도록 하죠.",
+                "cn": "心静则神清——不和你计较。"
+            },
+            "asset": "char_1043_leizi2/CN_034"
+        },
+        {
+            "id": "char_1043_leizi2_CN_036",
+            "title": {
+                "en": "Trust Tap",
+                "jp": "信頼タッチ",
+                "kr": "신뢰도 터치",
+                "cn": "信赖触摸"
+            },
+            "text": {
+                "en": "It's only a handshake, no need to be so cautious. I haven't shocked anybody in years—Ah. Static does not count.",
+                "jp": "ただの握手ですから、臆することはありません。最後に人を感電させたのは随分前ですから。あ、今の静電気は含みませんよ。",
+                "kr": "그냥 악수이니, 겁내실 필요 없습니다. 마지막으로 사람을 감전시킨 지도 꽤 됐으니까요. 아, 방금 정전기는 제외입니다.",
+                "cn": "只是握个手，无需小心翼翼，我已经很久没电到人了。啊，静电不算。"
+            },
+            "asset": "char_1043_leizi2/CN_036"
+        },
+        {
+            "id": "char_1043_leizi2_CN_037",
+            "title": {
+                "en": "Title",
+                "jp": "タイトルコール",
+                "kr": "타이틀",
+                "cn": "标题"
+            },
+            "text": {
+                "en": "Arknights.",
+                "jp": "アークナイツ。",
+                "kr": "명일방주.",
+                "cn": "明日方舟。"
+            },
+            "asset": "char_1043_leizi2/CN_037"
+        },
+        {
+            "id": "char_1043_leizi2_CN_038",
+            "title": {
+                "en": "New Year's blessing",
+                "jp": "新年",
+                "kr": "새해",
+                "cn": "新年祝福"
+            },
+            "text": {
+                "en": "Fresh atmosphere brought by Spring squalls, many wills make new walls—Does this call for a little more passion? Hmm, I'll clench a fist at the end. Alright, from the top. What do you mean, 'there's no need'? Since Rhodes Island invited me to participate in the New Year's performance, I shall give my full effort!",
+                "jp": "春雷新たなる意を煥発し、衆志まさに城を成す――どうです、もう少し激昂した方が良いでしょうか？ふむ、締めにも力強く拳を握る動作を加えなければ。よし、ではもう一度。もういいとはなんですか？ロドスが新年の出し物に私を招待してくれた以上、全力で臨むつもりです！",
+                "kr": "봄의 번개가 새 뜻을 환히 밝히고, 수많은 뜻이 바야흐로 성을 이룬다…… 어떻습니까, 조금 더 격앙된 쪽이 좋으려나요? 흠, 마무리 부분에도 힘 있게 주먹 쥐는 동작을 추가해야겠군. 좋아, 다시 한번. 이제 됐다니 그게 무슨 소리이신가요? 로도스 아일랜드가 저를 신년 공연에 초대해 주신 이상, 전력으로 임할 생각입니다!",
+                "cn": "春雷焕新意，众志且成城——怎么样，需要再激昂一点吗？唔，结尾也得加一个有力的握拳动作。好了，再来一遍。什么叫可以了？既然罗德岛邀请我参与新年表演，我定会全力以赴！"
+            },
+            "asset": "char_1043_leizi2/CN_038"
+        },
+        {
+            "id": "char_1043_leizi2_CN_042",
+            "title": {
+                "en": "Greeting",
+                "jp": "挨拶",
+                "kr": "인사",
+                "cn": "问候"
+            },
+            "text": {
+                "en": "According to the schedule, you should not be resting here right now, Doctor.",
+                "jp": "スケジュール表によると、あなたは今ここで休んでいるべきではありませんよ、ドクター。",
+                "kr": "스케줄표를 보면 당신은 지금 여기서 쉬고 있을 때가 아닐 텐데요, 박사.",
+                "cn": "从日程表来看，你现在不该在这里休息，博士。"
+            },
+            "asset": "char_1043_leizi2/CN_042"
+        },
+        {
+            "id": "char_1043_leizi2_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": "Congratulations on the anniversary of your birth. I, Leizi of the Tianshi Bureaus, offer you this device, with absolute certitude you shall put it to good use. You need only press the button—Don't point it at yourse—... Are you alright? Wake up! I was about to say you should press it when you are <i>in danger</i>, at which point the lightning I stored in it would be released...",
+                "jp": "誕辰をお祝い申し上げます。天師府より参りましたレイズが贈るのはこちらの法宝です。きっと有効に使ってくださることでしょう。このボタンを押すだけで――待ってください、自分に向けては……大丈夫ですか？しっかりしてください！危険に遭遇した時にこのボタンを押せば、私が中に封じた雷が解放されると言おうとしたのです……",
+                "kr": "탄신일, 축하드립니다. 천사부의 레이즈가 드리는 선물은 여기 이 법보입니다. 분명 유용하게 쓰실 수 있겠죠. 이 버튼을 누르…… 잠깐만요, 그걸 자기 쪽으로 향하면……! 괜찮으십니까? 정신 차리세요! 위험할 때 이 버튼을 누르면 제가 안에 봉인해 둔 번개가 발사된다고 말하려던 참입니다만……",
+                "cn": "恭贺诞辰。天师府惊蛰奉上的是这件法宝，相信你定会善加使用。只要按下这个按钮——别对着自己......你没事吧？醒醒！我是说遇险时按下这个按钮，我存在里面的雷就会释放......"
+            },
+            "asset": "char_1043_leizi2/CN_043"
+        },
+        {
+            "id": "char_1043_leizi2_CN_044",
+            "title": {
+                "en": "Anniversary Celebration",
+                "jp": "周年",
+                "kr": "애니버서리",
+                "cn": "周年庆典"
+            },
+            "text": {
+                "en": "I must admit, I had many reservations about Rhodes Island due to your connection with that particular case. But now, when I join you on missions, it is not for observation's sake. To aid the weak and demand justice are not such different goals. May our collaboration continue on.",
+                "jp": "これまで、例の事件があったことで、私がロドスに対して強い警戒心を抱いていたことを認めましょう。しかし今となって、こうして再びロドスの任務に参加するのは、もはや視察のためではありません。弱者に援助を提供し、公平を求める――私たちが求めるものに本来違いはないのです。これからも協力をしていきましょう。",
+                "kr": "예의 그 사건 때문에, 지금까지는 제가 로도스 아일랜드에 대해 강한 경계심을 가지고 있었다는 것을 인정하겠습니다. 하지만 지금, 이렇게 다시 한번 로도스 아일랜드의 임무에 참가하는 것은 더 이상 시찰을 위한 것이 아닙니다. 약자에게 도움을 주고, 공평함을 추구한다…… 우리가 추구하는 것에 근본적으로 차이는 없습니다. 앞으로도 서로 협력해 나가시죠.",
+                "cn": "我承认，先前因那案子的关系，我对罗德岛多有戒备。如今再参与罗德岛的任务，已不是为了考察。向弱势者提供援助，寻求公平，我们所求之事本无差别，大可继续合作。"
+            },
+            "asset": "char_1043_leizi2/CN_044"
+        }
+    ],
+    "actors": {
+        "en": {
+            "native": "小巫",
+            "global": "小巫"
+        },
+        "cn": {
+            "native": "徐徐",
+            "global": "Skye"
+        },
+        "jp": {
+            "native": "甲斐田裕子",
+            "global": "Yuhko Kaida"
+        },
+        "kr": {
+            "native": "강시현",
+            "global": "Kang Si-hyun"
+        }
+    },
+    "availability": [
+        "en",
+        "cn",
+        "jp",
+        "kr"
+    ]
+}

@@ -1,0 +1,644 @@
+{
+    "charid": "char_4195_radian",
+    "nameid": "radian",
+    "names": {
+        "en": "Raidian",
+        "jp": "レイディアン",
+        "kr": "라이디언",
+        "cn": "电弧"
+    },
+    "voices": [
+        {
+            "id": "char_4195_radian_CN_001",
+            "title": {
+                "en": "Appointed as Assistant",
+                "jp": "秘書任命",
+                "kr": "어시스턴트 임명",
+                "cn": "任命助理"
+            },
+            "text": {
+                "en": "Doctor, let's try a simple test. How many of the snacks I put on the coffee table did you sneak off with?",
+                "jp": "ドクター、ちょっとしたテストをしようね。テーブルに置いてあったお菓子、いくつつまみ食いしちゃったんだっけ？",
+                "kr": "박사, 테스트 좀 할게. 테이블에 뒀던 과자, 몇 개나 훔쳐 먹었어?",
+                "cn": "博士，做个简单的测试吧，放在茶几上的点心，你偷吃了几个？"
+            },
+            "asset": "char_4195_radian/CN_001"
+        },
+        {
+            "id": "char_4195_radian_CN_002",
+            "title": {
+                "en": "Talk 1",
+                "jp": "会話1",
+                "kr": "대화 1",
+                "cn": "交谈1"
+            },
+            "text": {
+                "en": "Don't worry, Doctor. It's true I pay no attention to my surroundings when I'm deep in thought, but Dendie and Axie will keep me from bumping into anything or anyone. Who're they, you ask? Why, my mechanical arms here. There's a lot they can do.",
+                "jp": "心配しないでね、ドクター。確かに歩きながら考え事しちゃって、周りへの注意が疎かになってることもあるけど、「デンディ」と「アクシー」がぶつからないように誘導してくれるの。それは誰、って……もちろんこの二本のロボットアームのことだよ。この子たち、すっごく有能なんだから。",
+                "kr": "걱정하지 마, 박사. 확실히 걸으면서 생각하다 보니, 주변에 주의가 소홀해질 때도 있기는 한데, '덴디'와 '액시'가 안 부딪히게 유도해 줘. 그게 누구냐니…… 물론 여기 두 로봇팔이지. 얘들 진짜 유능하다니까.",
+                "cn": "博士，别担心，虽然我确实会在走路时因思考而忽略周遭环境，不过，“小树”和“小轴”会辅助我规避障碍的。你问是谁？啊，就是这两只机械臂呀。它们能做很多事呢。"
+            },
+            "asset": "char_4195_radian/CN_002"
+        },
+        {
+            "id": "char_4195_radian_CN_003",
+            "title": {
+                "en": "Talk 2",
+                "jp": "会話2",
+                "kr": "대화 2",
+                "cn": "交谈2"
+            },
+            "text": {
+                "en": "The kids have given me a lot of nicknames, like 'Squinty' or 'Four-Armed Braintalker'. It's fine, and even normal I'd say. Kids their age just hate being seen through. Though, hehe. If they're unhappy about it, they could simply practice and try to trick me.",
+                "jp": "子供たちにたくさんあだ名を付けられちゃってるの。「糸目の怪人」とか、「四つ手のエスパー」とか……でも気にしてないよ。お年頃の子は気持ちを見透かされるのが大嫌いだから、そうやって反抗しちゃうんだ。でも……ふふっ、悔しかったら一生懸命お勉強して、私を欺いてごらんなさいってね。",
+                "kr": "아이들 때문에 별명이 많이 붙었지 뭐야. '실눈 괴인'이라든가, '네 팔 달린 에스퍼'라든가…… 뭐, 그래도 별로 신경 안 써. 한창때 아이들은 자기 마음을 들키는 게 정말 싫으니까 그렇게 반항하게 되거든. 하지만…… 후훗. 분하면 열심히 공부해서 날 속여보든가.",
+                "cn": "小家伙们给我起了不少外号呢，比如“眯眯眼怪人”“四手心电怪”之类的。没事的，这个年纪的孩子们最讨厌被看穿的感觉，这也很正常。不过，呵呵，不服气的话，就好好学习，试着骗过我吧。"
+            },
+            "asset": "char_4195_radian/CN_003"
+        },
+        {
+            "id": "char_4195_radian_CN_004",
+            "title": {
+                "en": "Talk 3",
+                "jp": "会話3",
+                "kr": "대화 3",
+                "cn": "交谈3"
+            },
+            "text": {
+                "en": "My Arts are all about perceiving and manipulating electrical signals. That lets me understand the people around me better, though it also makes me oversensitive to details. For example, your right trapezius muscle has been discharging an abnormal signal, so I think you should adjust your sitting posture, Doctor.",
+                "jp": "いろんな電気信号を感知したり、操ったりするのが私のアーツの本質なの。そのおかげでみんなのことをもっと深く理解できる反面、些細なことにも敏感になっちゃうんだ。たとえば……ドクター、右肩の僧帽筋がずっと異常な筋放電をしてるみたいだから、そろそろ姿勢を変えてみたらどうかな。",
+                "kr": "다양한 전기 신호를 감지하거나 조종하는 게 내 오리지늄 아츠의 본질이야. 덕분에 모두를 더 깊게 이해할 수 있는 대신, 사소한 일에도 예민해져 버려. 예를 들면…… 박사, 오른쪽 어깨 승모근이 계속 이상하게 방전되고 있으니까, 슬슬 자세를 바꿔보면 어떨까?",
+                "cn": "感知和操控各种电信号，这是我源石技艺的本质。它让我对周围的人有了更多的了解，但也让我对许多细节都过分敏感。比如，你的右肩斜方肌正在持续异常放电，该调整坐姿了，博士。"
+            },
+            "asset": "char_4195_radian/CN_004"
+        },
+        {
+            "id": "char_4195_radian_CN_005",
+            "title": {
+                "en": "Talk after Promotion 1",
+                "jp": "昇進後会話1",
+                "kr": "1차 정예화 후 대화",
+                "cn": "晋升后交谈1"
+            },
+            "text": {
+                "en": "Doctor, I'm glad to see your face in my classroom. The Infected of Ursus walk the razor's edge, but—correct, there are many ways to deal with those who employ violence to conceal weakness. It seems you know quite a bit, so don't we conduct a pop quiz right now?",
+                "jp": "ドクターも私の授業に来てくれて嬉しいなぁ。ウルサスにおける感染者の現状は過酷なものだけど――正解。暴力で自分の弱さを隠す人への対処法はいくつもあるよね。授業の内容はよく心得てるみたいだから、それじゃあ……よし、抜き打ちテストしちゃおっかな。",
+                "kr": "내 수업에 박사도 와 줘서 기쁘네. 우르수스 감염자의 현 상황은 가혹하지만…… 정답. 폭력으로 자신의 연약함을 숨기는 사람에 대한 대처법은 여러 가지가 있지. 수업 내용은 잘 알고 있는 것 같으니까, 그러면…… 좋아. 기습 테스트를 해 볼까.",
+                "cn": "博士，看到你出现在我的课堂上，我很高兴。感染者在乌萨斯的处境很艰难，但——没错，有许多方法可以对付那些用暴力来掩盖软弱的人。看来你对我的课程很有心得，那么，来一场突击测验吧。"
+            },
+            "asset": "char_4195_radian/CN_005"
+        },
+        {
+            "id": "char_4195_radian_CN_006",
+            "title": {
+                "en": "Talk after Promotion 2",
+                "jp": "昇進後会話2",
+                "kr": "2차 정예화 후 대화",
+                "cn": "晋升后交谈2"
+            },
+            "text": {
+                "en": "Do non-Sarkaz races also have the cultural concept of the soul? A complex question. Though, the signals I see in human bodies are not just the pulsing rhythm of life, but also emotions in bloom engraved within. Sometimes they are just blazingly bright, like the flames of a soul.",
+                "jp": "サルカズ以外にも魂の概念はあるか？うーん……難しい質問だね。だけど、人体の電気信号は命の律動を表してるだけじゃなくて、そこには溢れんばかりの感情も刻まれてるんだ。時々それが本当に眩しくて、まるで迸る魂の光みたいって感じることもあるよ。",
+                "kr": "살카즈 외에도 영혼의 개념이 있냐고? 음…… 어려운 질문이네. 그래도 인체의 전기 신호는 생명의 움직임을 나타낼 뿐만 아니라, 넘쳐흐르는 감정도 새겨져 있어. 그게 가끔은 정말 눈부셔서, 마치 샘솟는 영혼의 빛처럼 느껴질 때도 있지.",
+                "cn": "萨卡兹以外的种族是否有灵魂的概念？嗯......这是个复杂的问题。但是，我能看到，人体的电信号不仅是生命的律动，同样铭刻着绽放的情感。它们有时太过耀眼，就像是灵魂的火光。"
+            },
+            "asset": "char_4195_radian/CN_006"
+        },
+        {
+            "id": "char_4195_radian_CN_007",
+            "title": {
+                "en": "Talk after Trust Increase 1",
+                "jp": "信頼上昇後会話1",
+                "kr": "신뢰도 상승 후 대화 1",
+                "cn": "信赖提升后交谈1"
+            },
+            "text": {
+                "en": "Doctor, I'm glad to see your body's signals indicate you've had a stable lifestyle lately. That wasn't sarcasm, you don't have to confess your negligence. Physical health aside, I think it's good to keep a steady rhythm, like the readings on a medical instrument—a quiet waveform means approaching death, while a noisy one says disease is on the way.",
+                "jp": "ドクターも最近は穏やかに過ごせてるみたいだね。体の電気信号が安定しててほっとしたよ。ふふっ、皮肉じゃないから、そんな慌てて不摂生を反省しなくていいよ。健康も大事だけど、私は規則性の方が重要だと思ってるの。たとえば医療機器に映る波形がそう。静かすぎたら死のサインだし、激しすぎるのは病気の予兆でしょ。",
+                "kr": "최근에는 박사도 평온하게 지낼 수 있는 모양이네. 몸의 전기 신호가 안정되어 있길래 안심했어. 후훗. 비꼬는 거 아니니까 그렇게 건강에 소홀했던 걸 반성하지는 않아도 돼. 건강도 중요하지만, 나는 규칙성 쪽이 중요하다고 생각하고 있어. 예를 들면 의료 기기에 표시되는 파형이 그렇지. 너무 조용하면 죽었다는 표시고, 너무 격렬하면 병의 전조잖아.",
+                "cn": "博士最近的生活看起来很稳定呢，身体发出的信号让我很安心。噗，我没有在说反话，不用急着忏悔。比起健康，我更看重规律，就像医疗仪器上的波形，太安静意味着死亡，太嘈杂则预示着疾病。"
+            },
+            "asset": "char_4195_radian/CN_007"
+        },
+        {
+            "id": "char_4195_radian_CN_008",
+            "title": {
+                "en": "Talk after Trust Increase 2",
+                "jp": "信頼上昇後会話2",
+                "kr": "신뢰도 상승 후 대화 2",
+                "cn": "信赖提升后交谈2"
+            },
+            "text": {
+                "en": "There was a time when Rosmontis's body was like two lost fowlbeasts shrieking in fright. I'd hold her until she fell asleep, and they would 'peck' at me. I'm glad she can sleep on her own now, though I admit it leaves me a little lonely.",
+                "jp": "昔のロスモンティスはね、まるで体の中に迷い込んだ二匹の羽獣が、恐怖に金切り声を上げてるみたいだったんだ。当時はよく眠るまで抱きしめてあげてたから、その羽獣たちに「啄まれて」怪我しちゃったこともあるよ。今ではもう一人で眠れるようになって、嬉しい反面、ちょっと寂しくなっちゃったかも。",
+                "kr": "예전의 로즈몬티스는 말이지, 마치 몸 안에 두 마리 헤매는 파울비스트가 공포심에 쇳소리를 내고 있는 것 같았어. 당시에는 잠들 때까지 안아주다 보니, 그 파울비스트들에게 '쪼여서' 상처를 입은 적도 있었고. 지금은 이제 혼자서도 잘 수 있게 돼서 기쁘기도 하지만, 약간 쓸쓸할지도 모르겠네.",
+                "cn": "过去，迷迭香的身体里，就像是有两只迷途的羽兽在惊恐地尖叫。那时，我经常抱着她入睡，也因此被那两只羽兽“啄”伤过。现在，她已经可以一个人睡了，虽然很欣慰，但也感觉有些寂寞呢。"
+            },
+            "asset": "char_4195_radian/CN_008"
+        },
+        {
+            "id": "char_4195_radian_CN_009",
+            "title": {
+                "en": "Talk after Trust Increase 3",
+                "jp": "信頼上昇後会話3",
+                "kr": "신뢰도 상승 후 대화 3",
+                "cn": "信赖提升后交谈3"
+            },
+            "text": {
+                "en": "Are you tired, Doctor? Alright, since you've worked so hard today, come, hold my hand. Feel your nerves pulse, think of them as a gentle tune. Now, let's softly sway to the warm beat—until all your exhaustion fades away.",
+                "jp": "ドクター、疲れたかな？そっか、じゃあ今日お仕事を頑張ったご褒美に……ほら、私の手を握ってみて。自分の神経を走る信号を感じながら、それが優しい音楽だって想像してみるの。よし、じゃあこの温かなリズムに合わせてゆっくり体を揺らしていこう――疲れがぜーんぶ飛んでっちゃうまで。",
+                "kr": "박사, 지쳤어? 그렇구나. 그러면 오늘 열심히 일한 보상으로…… 자, 내 손을 잡아 봐. 자신의 신경을 타고 흐르는 신호를 느끼면서, 그게 부드러운 음악이라고 상상해 보는 거야. 좋아, 그러면 이 따뜻한 리듬에 맞춰서 천천히 몸을 흔들어 보자…… 피로가 전부 날아가 버릴 때까지.",
+                "cn": "博士，你累了吗？好吧，看在你今天努力工作的分上，来，握住我的手，感受自己神经的跳动，想象它是一支柔和的乐曲。现在，让我们随这温暖的节拍轻轻摇曳——直到所有疲惫烟消云散。"
+            },
+            "asset": "char_4195_radian/CN_009"
+        },
+        {
+            "id": "char_4195_radian_CN_010",
+            "title": {
+                "en": "Idle",
+                "jp": "放置",
+                "kr": "방치",
+                "cn": "闲置"
+            },
+            "text": {
+                "en": "Comms terminal set to silent. Don't worry, you won't miss any important news with me here.",
+                "jp": "通信端末、サイレントにしといたよ。大丈夫。私がいれば重要なメッセージは絶対見逃さないから。",
+                "kr": "통신 단말, 무음으로 해 뒀어. 괜찮아. 내가 있으면 중요한 메시지는 절대 놓치지 않으니까.",
+                "cn": "通讯终端已经调成静默模式了。放心，有我在，你不会错过任何重要的消息。"
+            },
+            "asset": "char_4195_radian/CN_010"
+        },
+        {
+            "id": "char_4195_radian_CN_011",
+            "title": {
+                "en": "Onboard",
+                "jp": "入職会話",
+                "kr": "오퍼레이터 입사",
+                "cn": "干员报到"
+            },
+            "text": {
+                "en": "According to Amiya's instruction, I take orders directly from you now, Doctor. I handle communications and intelligence. But of course, feel free to come to me with any life issues.",
+                "jp": "アーミヤの承認指令が下りたから、これからはドクターの直属になるよ。私は主に通信と情報処理の仕事を担当するけど、生活面での悩み事も気軽に相談してね。",
+                "kr": "아미야한테서 승인이 떨어졌으니까, 지금부터는 박사 직속이야. 주로 통신이나 정보 처리 쪽을 담당하고 있지만, 생활 쪽 고민도 편하게 상담해 줘.",
+                "cn": "根据阿米娅的授权口令，接下来我会直接听从你的指挥，博士。我主要负责通讯和情报处理的工作，当然，如果你有生活管理方面的问题，也可以来找我。"
+            },
+            "asset": "char_4195_radian/CN_011"
+        },
+        {
+            "id": "char_4195_radian_CN_012",
+            "title": {
+                "en": "Watching Battle Record",
+                "jp": "経験値上昇",
+                "kr": "작전기록 학습",
+                "cn": "观看作战记录"
+            },
+            "text": {
+                "en": "It's obvious which side will win, considering our overwhelming information supremacy.",
+                "jp": "情報量の差は明らかだし、どっちが勝つかも一目瞭然だよ。",
+                "kr": "정보량 차이도 명확하고, 어디가 이길지 일목요연하네.",
+                "cn": "双方的信息差很明显呢，胜负一目了然。"
+            },
+            "asset": "char_4195_radian/CN_012"
+        },
+        {
+            "id": "char_4195_radian_CN_013",
+            "title": {
+                "en": "Promotion 1",
+                "jp": "昇進Ⅰ",
+                "kr": "1차 정예화 (승진)",
+                "cn": "精英化晋升1"
+            },
+            "text": {
+                "en": "I get the most gratification as a communications intelligence officer when my information is used to its full potential. So keep at it, Doctor!",
+                "jp": "情報通信の技術者にとって、一番やりがいを感じるのは提供した情報が最大限活用された時なんだ。ということで、ドクターにももっと頑張ってもらわなきゃね！",
+                "kr": "정보 통신 기술자가 가장 보람을 느끼는 건, 제공한 정보가 최대한 활용됐을 때야. 그러니까, 박사도 좀 더 열심히 해줘야겠지?",
+                "cn": "对一个通讯情报人员来说，最欣慰的莫过于提供的情报被运用到极致。博士也要再接再厉哦！"
+            },
+            "asset": "char_4195_radian/CN_013"
+        },
+        {
+            "id": "char_4195_radian_CN_014",
+            "title": {
+                "en": "Promotion 2",
+                "jp": "昇進Ⅱ",
+                "kr": "2차 정예화 (승진)",
+                "cn": "精英化晋升2"
+            },
+            "text": {
+                "en": "Doctor, Blaze, and the rest of you—just come out. It's cute you thought you could spring a surprise on me. Still hiding? A round of hide-and-seek, hmm? You're all so in touch with your inner children. Alright then. Let's start with the Doctor—",
+                "jp": "ドクター、ブレイズ、それから他の子たちも出てきなさい。私にサプライズだなんて百年早いよ。ふーん、出てこないんだ？かくれんぼしたいのかな？はぁ、いつまで経っても子供なんだから。じゃあドクターから見つけちゃおっか――",
+                "kr": "박사, 블레이즈, 그리고 다른 친구들도, 다 나와. 나한테 서프라이즈라니, 백 년은 이르다고. 흐~응, 안 나올 거야? 숨바꼭질이 하고 싶은 걸까나? 하아. 아무리 시간이 지나도 그냥 애들이라니까. 그러면, 우선 박사부터 찾아볼까~",
+                "cn": "博士、煌还有其他人，都出来吧，你们想给我准备惊喜还早着呢。还不出来吗？你们想和我玩捉迷藏？哎，真是一群长不大的孩子。那就先从博士开始吧——"
+            },
+            "asset": "char_4195_radian/CN_014"
+        },
+        {
+            "id": "char_4195_radian_CN_017",
+            "title": {
+                "en": "Added to Squad",
+                "jp": "編成",
+                "kr": "팀 배치",
+                "cn": "编入队伍"
+            },
+            "text": {
+                "en": "Carry on with your war room business, I'll propose suggestions as needed.",
+                "jp": "必要な時にアドバイスはするから、そのまま作戦会議を続けて。",
+                "kr": "필요할 때에 어드바이스 할 테니까, 작전 회의는 그대로 계속해.",
+                "cn": "我会在适当的时候提建议，继续作战会议吧。"
+            },
+            "asset": "char_4195_radian/CN_017"
+        },
+        {
+            "id": "char_4195_radian_CN_018",
+            "title": {
+                "en": "Appointed as Squad Leader",
+                "jp": "隊長任命",
+                "kr": "팀장 임명",
+                "cn": "任命队长"
+            },
+            "text": {
+                "en": "Trust me, I'll always manage to locate you, no matter what sort of danger you may find yourselves in.",
+                "jp": "どんなに危険な状況に陥っても、絶対に私が見つけてあげるからね。",
+                "kr": "어떤 위험한 상황에 처하더라도, 내가 반드시 찾아내 줄게.",
+                "cn": "无论你们身处什么样的险境，相信我，我一定能找到你们。"
+            },
+            "asset": "char_4195_radian/CN_018"
+        },
+        {
+            "id": "char_4195_radian_CN_019",
+            "title": {
+                "en": "Depart",
+                "jp": "作戦準備",
+                "kr": "작전 출발",
+                "cn": "行动出发"
+            },
+            "text": {
+                "en": "All packed and ready? Let's go then.",
+                "jp": "忘れ物はない？それじゃ、出発しよっか。",
+                "kr": "잊은 건 없지? 그럼 출발할까.",
+                "cn": "东西都带好了吗？那么，出发吧。"
+            },
+            "asset": "char_4195_radian/CN_019"
+        },
+        {
+            "id": "char_4195_radian_CN_020",
+            "title": {
+                "en": "Begin Operation",
+                "jp": "戦闘開始",
+                "kr": "작전 개시",
+                "cn": "行动开始"
+            },
+            "text": {
+                "en": "Enemy signal detected. All units, prepare for battle.",
+                "jp": "敵の信号捕捉。各員、戦闘準備。",
+                "kr": "적 신호 포착. 전원, 전투 준비.",
+                "cn": "发现敌人的信号了，各位，准备战斗吧。"
+            },
+            "asset": "char_4195_radian/CN_020"
+        },
+        {
+            "id": "char_4195_radian_CN_021",
+            "title": {
+                "en": "Selecting Operator 1",
+                "jp": "選択時1",
+                "kr": "오퍼레이터 선택 1",
+                "cn": "选中干员1"
+            },
+            "text": {
+                "en": "Doctor, what kind of message do you want me to transmit?",
+                "jp": "ドクター、伝えたいメッセージは何？",
+                "kr": "박사, 전하고 싶은 메시지가 뭐야?",
+                "cn": "博士，你想要传递什么讯息？"
+            },
+            "asset": "char_4195_radian/CN_021"
+        },
+        {
+            "id": "char_4195_radian_CN_022",
+            "title": {
+                "en": "Selecting Operator 2",
+                "jp": "選択時2",
+                "kr": "오퍼레이터 선택 2",
+                "cn": "选中干员2"
+            },
+            "text": {
+                "en": "I've intercepted some fascinating intel, Doctor.",
+                "jp": "ドクター、面白い情報をキャッチしたよ。",
+                "kr": "박사, 재밌는 정보를 캐치했어.",
+                "cn": "博士，我截获了一些有趣的情报。"
+            },
+            "asset": "char_4195_radian/CN_022"
+        },
+        {
+            "id": "char_4195_radian_CN_023",
+            "title": {
+                "en": "Deployment 1",
+                "jp": "配置1",
+                "kr": "배치 1",
+                "cn": "部署1"
+            },
+            "text": {
+                "en": "Relax, their comms will be paralyzed as long as I'm here.",
+                "jp": "大丈夫。私がいる限り、相手はまともに通信できないから。",
+                "kr": "괜찮아. 내가 있는 한, 상대는 제대로 통신할 수 없으니까.",
+                "cn": "放心，只要我在这里，对方就不可能进行高效的信息传递。"
+            },
+            "asset": "char_4195_radian/CN_023"
+        },
+        {
+            "id": "char_4195_radian_CN_024",
+            "title": {
+                "en": "Deployment 2",
+                "jp": "配置2",
+                "kr": "배치 2",
+                "cn": "部署2"
+            },
+            "text": {
+                "en": "Verified all allied units in position. Everything's fine, don't worry.",
+                "jp": "味方全員の座標確認完了。ふふっ、何も問題ないから、落ち着いていこう。",
+                "kr": "아군 전체의 좌표 확인 완료. 후훗, 아무 문제 없으니까 침착하게 가자.",
+                "cn": "所有我方单位的位置确认完毕。一切正常，别担心。"
+            },
+            "asset": "char_4195_radian/CN_024"
+        },
+        {
+            "id": "char_4195_radian_CN_025",
+            "title": {
+                "en": "In Battle 1",
+                "jp": "作戦中1",
+                "kr": "작전 중 1",
+                "cn": "作战中1"
+            },
+            "text": {
+                "en": "Sorry, this isn't the way out, but a trap I set for you.",
+                "jp": "ごめんね。こっちは逃げ道じゃなくて、あなたたちをお迎えする罠なんだ。",
+                "kr": "미안. 이쪽은 퇴로가 아니라 당신들을 맞이하는 덫이야.",
+                "cn": "抱歉，这边不是生路，是我为你们设下的陷阱。"
+            },
+            "asset": "char_4195_radian/CN_025"
+        },
+        {
+            "id": "char_4195_radian_CN_026",
+            "title": {
+                "en": "In Battle 2",
+                "jp": "作戦中2",
+                "kr": "작전 중 2",
+                "cn": "作战中2"
+            },
+            "text": {
+                "en": "Enjoy a little solo sojourn to the information silo.",
+                "jp": "しばらく情報の孤島で過ごしててもらおうかな。",
+                "kr": "잠시 정보의 외딴섬에서 지내게 해 줄까나.",
+                "cn": "请你们在信息的孤岛上逗留一段时间吧。"
+            },
+            "asset": "char_4195_radian/CN_026"
+        },
+        {
+            "id": "char_4195_radian_CN_027",
+            "title": {
+                "en": "In Battle 3",
+                "jp": "作戦中3",
+                "kr": "작전 중 3",
+                "cn": "作战中3"
+            },
+            "text": {
+                "en": "I'll jam their signals while the rest of you move.",
+                "jp": "今から通信妨害するから、迅速に行動して。",
+                "kr": "지금부터 통신 방해를 할 거니까, 신속하게 움직여.",
+                "cn": "我来干扰他们的通讯，迅速行动吧。"
+            },
+            "asset": "char_4195_radian/CN_027"
+        },
+        {
+            "id": "char_4195_radian_CN_028",
+            "title": {
+                "en": "In Battle 4",
+                "jp": "作戦中4",
+                "kr": "작전 중 4",
+                "cn": "作战中4"
+            },
+            "text": {
+                "en": "Sadly, there's no controlling the battlefield with brute force alone.",
+                "jp": "残念だけど、腕っぷしだけじゃ戦況を動かせないよ。",
+                "kr": "미안하지만, 완력만으로는 전황을 움직일 수 없어.",
+                "cn": "很遗憾，单靠武力，是无法左右战局的。"
+            },
+            "asset": "char_4195_radian/CN_028"
+        },
+        {
+            "id": "char_4195_radian_CN_029",
+            "title": {
+                "en": "4-star Result",
+                "jp": "高難度作戦クリア",
+                "kr": "고난이도 작전 종료",
+                "cn": "完成高难行动"
+            },
+            "text": {
+                "en": "How was the battle, Doctor? You want <i>my</i> evaluation? Dendie and Axie have already given you my answer, haven't they?",
+                "jp": "ドクターは今回の指揮官としての自分をどう評価してる？私からの評価？「デンディ」と「アクシー」のハンドサインを見てみて。",
+                "kr": "박사는 이번 작전의 지휘관으로서 자신을 어떻게 평가하고 있어? 내 평가? '덴디'랑 '액시'의 손 사인을 봐 봐.",
+                "cn": "博士对指挥这场战斗的自己有什么评价？我的评价？“小树”和“小轴”已经给出来了哦。"
+            },
+            "asset": "char_4195_radian/CN_029"
+        },
+        {
+            "id": "char_4195_radian_CN_030",
+            "title": {
+                "en": "3-star Result",
+                "jp": "★3で戦闘終了",
+                "kr": "3★ 작전 종료",
+                "cn": "3星结束行动"
+            },
+            "text": {
+                "en": "No further enemy signals in range. Mission complete, perfectly executed. Phew... Alright, Doctor, give me a high-five!",
+                "jp": "エリア内の敵反応なし、完璧に任務達成だね。ふぅ……よし、ドクター、ハイタッチしよ！",
+                "kr": "지역 내 적 반응 없음. 완벽한 임무 달성이네. 후우…… 좋아. 박사, 하이파이브 하자!",
+                "cn": "区域内已经没有敌人的踪迹了，任务完美完成。呼......好了，博士，来击个掌吧！"
+            },
+            "asset": "char_4195_radian/CN_030"
+        },
+        {
+            "id": "char_4195_radian_CN_031",
+            "title": {
+                "en": "Sub 3-star Result",
+                "jp": "★2以下戦闘終了",
+                "kr": "비 3★ 작전 종료",
+                "cn": "非3星结束行动"
+            },
+            "text": {
+                "en": "I have their signals in my head now. They won't get away.",
+                "jp": "逃げた相手の電気信号は覚えたから、もうどこへも行けないよ。",
+                "kr": "도망친 적의 전기 신호는 기억했으니까, 이제 어디로도 못 갈 거야.",
+                "cn": "我已经记住了那几个家伙的电信号，他们跑不了的。"
+            },
+            "asset": "char_4195_radian/CN_031"
+        },
+        {
+            "id": "char_4195_radian_CN_032",
+            "title": {
+                "en": "Operation Failure",
+                "jp": "作戦失敗",
+                "kr": "작전 실패",
+                "cn": "行动失败"
+            },
+            "text": {
+                "en": "Don't lose heart, Doctor. We'll win next time, alright?",
+                "jp": "ドクター、落ち込まないで。次は一緒にリベンジしよ、ね？",
+                "kr": "박사, 우울해하지 마. 다음에 같이 복수하자, 응?",
+                "cn": "博士，别气馁，下次我们一起赢回来，好吗？"
+            },
+            "asset": "char_4195_radian/CN_032"
+        },
+        {
+            "id": "char_4195_radian_CN_033",
+            "title": {
+                "en": "Assigned to Facility",
+                "jp": "基地配属",
+                "kr": "시설에 배치",
+                "cn": "进驻设施"
+            },
+            "text": {
+                "en": "Rhodes Island's signal still puts me at ease.",
+                "jp": "やっぱりロドスの電気信号は落ち着くなぁ。",
+                "kr": "역시, 로도스 아일랜드의 전기 신호는 편안하네.",
+                "cn": "还是罗德岛上的电信号让人安心。"
+            },
+            "asset": "char_4195_radian/CN_033"
+        },
+        {
+            "id": "char_4195_radian_CN_034",
+            "title": {
+                "en": "Tap",
+                "jp": "タッチ1",
+                "kr": "터치",
+                "cn": "戳一下"
+            },
+            "text": {
+                "en": "Doctor, did I not tell you to behave yourself?",
+                "jp": "ドクター、こういうことはしちゃいけませんって教えたよね？",
+                "kr": "박사, 이런 짓은 하면 안 된다고 했었지?",
+                "cn": "博士，我说过不可以随便这么做的吧？"
+            },
+            "asset": "char_4195_radian/CN_034"
+        },
+        {
+            "id": "char_4195_radian_CN_036",
+            "title": {
+                "en": "Trust Tap",
+                "jp": "信頼タッチ",
+                "kr": "신뢰도 터치",
+                "cn": "信赖触摸"
+            },
+            "text": {
+                "en": "Are you heading over to the meeting too, Doctor? Let's go together then.",
+                "jp": "ドクターも会議？じゃあ、途中まで一緒に行こっか。",
+                "kr": "박사도 회의야? 그러면 도중까지 같이 갈까.",
+                "cn": "博士也要去开会吗？那么，一起走一段路吧。"
+            },
+            "asset": "char_4195_radian/CN_036"
+        },
+        {
+            "id": "char_4195_radian_CN_037",
+            "title": {
+                "en": "Title",
+                "jp": "タイトルコール",
+                "kr": "타이틀",
+                "cn": "标题"
+            },
+            "text": {
+                "en": "Arknights.",
+                "jp": "アークナイツ。",
+                "kr": "명일방주.",
+                "cn": "明日方舟。"
+            },
+            "asset": "char_4195_radian/CN_037"
+        },
+        {
+            "id": "char_4195_radian_CN_038",
+            "title": {
+                "en": "New Year's blessing",
+                "jp": "新年",
+                "kr": "새해",
+                "cn": "新年祝福"
+            },
+            "text": {
+                "en": "Thank you, Doctor, till the deck will do... No, I'm not drunk... It's just, there's always so much joy and excitement in everyone's signals this time of year. It always gets me a little dizzy. I suppose this is a good problem to have. Happy New Year, Doctor.",
+                "jp": "ありがとうドクター、甲板に出たらすっかり良くなったよ……ふぅ。ううん、酔っ払ったんじゃなくて、こういう時にみんなから出る電気信号には喜びとワクワクが詰まってるから、ちょっとクラクラしちゃったの。いわゆる幸せな悩みってやつかな。それじゃ、明けましておめでとう、ドクター。",
+                "kr": "고마워, 박사. 갑판에 나오니까 완전히 좋아졌어…… 후우. 아냐, 취한 게 아니라, 이런 때 모두가 내보내는 전기 신호에는 기쁨이나 두근거림이 가득 차 있으니까 좀 어질어질했어. 흔히 말하는 행복한 고민이라는 걸까나. 그럼 새해 복 많이 받아, 박사.",
+                "cn": "谢谢，博士，到甲板后就好多了......不，我没醉，只是每年的这个时候，大家发出的电信号都承载了太多喜悦和兴奋，会让我感到有些晕眩，这就是所谓幸福的烦恼吧。新年快乐，博士。"
+            },
+            "asset": "char_4195_radian/CN_038"
+        },
+        {
+            "id": "char_4195_radian_CN_042",
+            "title": {
+                "en": "Greeting",
+                "jp": "挨拶",
+                "kr": "인사",
+                "cn": "问候"
+            },
+            "text": {
+                "en": "Doctor, were you looking for me?",
+                "jp": "ドクター、私のこと探してるのかな？",
+                "kr": "박사, 날 찾고 있던 거야?",
+                "cn": "博士，你在找我吗？"
+            },
+            "asset": "char_4195_radian/CN_042"
+        },
+        {
+            "id": "char_4195_radian_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": "Doctor, I just sent you a map. It shows the locations of everyone who wishes to celebrate your birthday. I've already planned the shortest route you can take, and you should be done by dinner time, if there aren't any hiccups on the way. The question mark at the end? That's my present for you, I hope you're excited for it.",
+                "jp": "ドクター、マップを送ったから見てね。艦内でドクターの誕生日をお祝いしたがってる人の場所を全部マークしてあって、最短で全員のところを回れるルートも組んであるよ。スムーズにいけば、夕食の時間までに回りきれるからね。最終地点にあるはてなマーク？それは私からのプレゼントだから、楽しみにしてて。",
+                "kr": "박사, 지도 하나 보냈으니까 봐 봐. 함 내에 박사 생일을 축하하고 싶어 하는 사람들의 장소를 전부 마킹해서, 최단 거리로 모두 다 돌 수 있는 루트를 짜놨어. 순조롭다면 저녁 시간까지는 돌 수 있을 거야. 마지막 지점의 물음표 마크? 그건 내 선물이니까, 기대해.",
+                "cn": "博士，我给你传了一份地图。这是今天本舰上所有想要为你庆生的人的位置，我已经为你设计好了一条最短线路，顺利的话，应该能在晚饭时结束。终点的问号？那是我准备的礼物，可以期待一下哦。"
+            },
+            "asset": "char_4195_radian/CN_043"
+        },
+        {
+            "id": "char_4195_radian_CN_044",
+            "title": {
+                "en": "Anniversary Celebration",
+                "jp": "周年",
+                "kr": "애니버서리",
+                "cn": "周年庆典"
+            },
+            "text": {
+                "en": "We've lost a lot of people, but there are always more joining our ranks. Gradually, the newbies inherit their seniors' ideas as they in turn become mentors to others. Doctor, judging from the signals I'm getting, sometimes I even find myself mistaken—I get the feeling my comrades never change.",
+                "jp": "たくさんの仲間を失ったけど、新しい仲間も増え続けてる。そして新しい子たちも少しずつ、先輩の理想を受け継いで、先輩と呼ばれる人に成長していくんだよ。電気信号にだけ注目してると、時々錯覚しちゃうんだ――まるでずっと同じ仲間たちと一緒に戦ってるみたいだって。",
+                "kr": "수많은 동료를 잃었지만, 새 동료도 늘고 있어. 그리고 새로운 아이들도 조금씩 선배들의 이상을 이어받아, 선배라고 불리는 사람으로 성장해 가지. 전기 신호에만 집중하고 있다 보면 가끔 착각해 버려…… 마치 같은 동료들과 계속 함께 싸우고 있는 것 같다고 말이야.",
+                "cn": "我们失去了很多人，但也总有新的人加入我们。渐渐地，新人们继承了前辈的理念，自己也变成了前辈。博士，从电信号的角度来看，我有时候甚至会产生错觉——和我一起作战的人从未改变。"
+            },
+            "asset": "char_4195_radian/CN_044"
+        }
+    ],
+    "actors": {
+        "en": {
+            "native": "Elizaveta Bulatova",
+            "global": "Elizaveta Bulatova"
+        },
+        "cn": {
+            "native": "施丛昊",
+            "global": "Chloe"
+        },
+        "jp": {
+            "native": "福井裕佳梨",
+            "global": "Yukari Fukui"
+        },
+        "kr": {
+            "native": "이이로",
+            "global": "Lee I-ro"
+        }
+    },
+    "availability": [
+        "en",
+        "cn",
+        "jp",
+        "kr"
+    ]
+}

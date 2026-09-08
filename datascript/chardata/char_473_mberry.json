@@ -594,7 +594,7 @@
             },
             "text": {
                 "en": "Doctor, happy birthday... I'd like to ask, ever since I gave you that amulet, did any of your wishes happen to come true...? N—No? Then... do you have any wishes for your birthday, that I can make real?",
-                "jp": "博士，生日快乐......我想问问，您收下那个平安符后，有心想事成的感觉吗......没，没有？那......您有什么生日愿望，我可以帮您实现吗?",
+                "jp": "ドクター、誕生日おめでとうございます……あの、例のお守りを受け取ってから、願い事が叶ったりしていますか？……ま、まったくないんですか？それじゃあ……私に叶えてあげられそうなことはありますか？",
                 "kr": "박사님, 생일 축하드려요…… 저 여쭤보고 싶은 게 있는데, 혹시 예전에 제가 드린 부적을 받고 나서 바라던 일들이 이루어졌나요? ……아, 없었다고요? 그럼…… 제가 이뤄드릴 수 있는 소원이 있을까요?",
                 "cn": "博士，生日快乐......我想问问，您收下那个平安符后，有心想事成的感觉吗......没，没有？那......您有什么生日愿望，我可以帮您实现吗?"
             },
@@ -626,6 +626,10 @@
             "native": "张雨曦",
             "global": "Nancie"
         },
+        "cn_topolect": {
+            "native": "张雨曦",
+            "global": "Nancie"
+        },
         "jp": {
             "native": "小原莉子",
             "global": "Riko Kohara"
@@ -633,10 +637,6 @@
         "kr": {
             "native": "장경희",
             "global": "Chang Kyug-hee"
-        },
-        "cn_topolect": {
-            "native": "张雨曦",
-            "global": "Nancie"
         },
         "old_cn": {
             "native": "蔡欣纯",
@@ -646,12 +646,12 @@
     "availability": [
         "en",
         "cn",
+        "cn_topolect",
         "jp",
         "kr",
-        "cn_topolect",
         "old_cn"
     ],
     "audio_path_override": {
-        "old_cn": "https://raw.githubusercontent.com/PseudoMon/arknights-audio/5e1b475f1a8ac48144c1a790224ee8bc8ac130b0/voice_cn"
+        "old_cn": "https://raw.githubusercontent.com/Zumurrud/riva-voices/main/old_voices/voice_cn/char_473_mberry/CN_###.mp3"
     }
 }

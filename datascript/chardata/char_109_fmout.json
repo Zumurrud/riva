@@ -18,7 +18,7 @@
             },
             "text": {
                 "en": "Alright, Doctor, your tarot card for today is...",
-                "jp": "さて、ドクター、おぬしの今日の運勢は……。",
+                "jp": "さて、ドクター、おぬしの今日の運勢は……",
                 "kr": "자아, 박사. 그대의 오늘 운세는……",
                 "cn": "嗯，博士。您今天的运势是......"
             },
@@ -34,7 +34,7 @@
             },
             "text": {
                 "en": "Would you like to learn more about your future?",
-                "jp": "おぬしも未来の運命を知りたいのか……。",
+                "jp": "おぬしも未来の運命を知りたいのか……",
                 "kr": "그대도 미래의 운명을 알고 싶은 것인가……",
                 "cn": "您也想知道，自己未来的命运吗......"
             },
@@ -146,7 +146,7 @@
             },
             "text": {
                 "en": "It's a divination taboo to do readings concerning death. But I don't believe death is the end—it's the beginning of something new.",
-                "jp": "「死」を占うことは、占い師の間ではタブーとされておる。じゃがわらわは、「死」は終わりではなく、新たな始まりと考えておる……。",
+                "jp": "「死」を占うことは、占い師の間ではタブーとされておる。じゃがわらわは、「死」は終わりではなく、新たな始まりと考えておる……",
                 "kr": "……'죽음'을 점치는 건 점술가들 사이에선 금기시되어 있지. 다만, 우린 '죽음'을 끝이 아닌 새로운 시작으로 여긴다네……",
                 "cn": "对“死亡”的占卜，在我们业内也算是种禁忌。但我认为，“死亡”并非终点，而是一个新的开始。"
             },
@@ -210,7 +210,7 @@
             },
             "text": {
                 "en": "I'd already foreseen this promotion in my crystal ball. Heheh, just kidding.",
-                "jp": "わらわの水晶が、この昇進の光景を映しておったぞ……。ふふ、ただの冗談じゃ。",
+                "jp": "わらわの水晶が、この昇進の光景を映しておったぞ……ふふ、ただの冗談じゃ。",
                 "kr": "내 수정구슬이 이미 승진하는 모습을 비춰주고 있었다네…… 후후, 농담 한 번 해본 걸세.",
                 "cn": "我已经在水晶里预见了这次晋升哦？呵呵，只是个玩笑而已。"
             },
@@ -482,7 +482,7 @@
             },
             "text": {
                 "en": "Impossible... this isn't what I saw in the cards...",
-                "jp": "わらわたちの運命は、こんなものでは……。",
+                "jp": "わらわたちの運命は、こんなものでは……",
                 "kr": "우리의 운명은, 이럴 리가 없을 터인데……",
                 "cn": "不，这不该是我们应有的命运......"
             },
@@ -593,8 +593,8 @@
                 "cn": "生日"
             },
             "text": {
-                "en": "Happy birthday, Doctor. As my birthday gift for you, I will answer any one question from you about the future. Yes, anything will be fine. I would like to remind you though, that I don't offer this knid of chance everyday, so think twice before you ask.",
-                "jp": "生日快乐哦。作为礼物，我可以回答你一个和未来相关的问题哦。嗯，什么都可以。不过这种机会可不是常有的，在提问前可要好好想清楚哦。",
+                "en": "Happy birthday, Doctor. As my birthday gift for you, I will answer any one question from you about the future. Yes, anything will be fine. I would like to remind you though, that I don't offer this kind of chance everyday, so think twice before you ask.",
+                "jp": "誕辰を祝おうかのう、ドクター。贈り物として、未来に関する問いに一つだけ答えてやろう。うむ、なんでもよいぞ。とはいえ、このような機会は滅多にないからのう、口に出す前によく考えるんじゃぞ。",
                 "kr": "생일 축하하네. 선물로 미래에 관한 질문을 하나 대답해 주지. 응, 뭐든 다 괜찮네. 하지만 흔하게 생기는 기회가 아니니, 질문 전에 생각을 잘하도록 하게나.",
                 "cn": "生日快乐哦。作为礼物，我可以回答你一个和未来相关的问题哦。嗯，什么都可以。不过这种机会可不是常有的，在提问前可要好好想清楚哦。"
             },
@@ -609,7 +609,7 @@
                 "cn": "周年庆典"
             },
             "text": {
-                "en": "There's no preordained path where one shall walk, nor predestined fate which one shall suffer. And everyone on Rhodes Island has proved that many, many times. Here, Doctor, Peek into the crystall ball. As long as your heart is not shadowed by the clouds, you will see the light of hope at the end of the haze.",
+                "en": "There's no preordained path where one shall walk, nor predestined fate which one shall suffer. And everyone on Rhodes Island has proved that many, many times. Here, Doctor, Peek into the crystal ball. As long as your heart is not shadowed by the clouds, you will see the light of hope at the end of the haze.",
                 "jp": "全てが想定通りに進むことはないし、変えられぬ運命というのも存在せぬ。今日に至るまで、ロドスの皆が幾度も証（しょう）しておることではないか。この水晶を覗き込んでみよ、おぬしの心に闇がない限り、必ずや希望の光明が見えるのじゃ。",
                 "kr": "정해진 길도, 바꿀 수 없는 운명도 존재하지 않는다. 오늘에 이르기까지, 그건 이미 로도스 아일랜드 모두가 여러 번 증명하지 않았나? 이 수정구슬을 보게나, 그대의 마음속에 어둠이 비치지만 않는다면, 희망의 불빛은 영원히 꺼지지 않을 것이네.",
                 "cn": "从来都不存在预设好的道路，也没有无法改变的命运。事到如今，罗德岛各位不是已经多次证明了这一点吗？看看这个水晶球吧，只要您的内心没有阴霾，就永远可以看到希望的光亮。"

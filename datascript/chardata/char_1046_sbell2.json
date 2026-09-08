@@ -1,0 +1,644 @@
+{
+    "charid": "char_1046_sbell2",
+    "nameid": "sbell2",
+    "names": {
+        "en": "Pramanix the Prerita",
+        "jp": "聖聆プラマニクス",
+        "kr": "프라마닉스 더 프레리타",
+        "cn": "圣聆初雪"
+    },
+    "voices": [
+        {
+            "id": "char_1046_sbell2_CN_001",
+            "title": {
+                "en": "Appointed as Assistant",
+                "jp": "秘書任命",
+                "kr": "어시스턴트 임명",
+                "cn": "任命助理"
+            },
+            "text": {
+                "en": "Serve as your assistant…? Hm, from what I have seen, there is not much difference between administrative work and organizing the scriptures of the Vine-Bead Court. I know how to do it, but… are you sure there are not more important things for me to do?",
+                "jp": "秘書の仕事ですか……むぅ、こうしてみると資料の仕分けといったデスクワークは、蔓珠院の皆様が行う経文の整理と大差ありませんね。やり方は心得ていますが……もっと重要で、私の力を必要としている仕事は本当にないのでしょうか？",
+                "kr": "비서 일인가요…… 음, 이렇게 보니 자료를 분류하는 사무 업무는 만주원 분들이 하는 경전 정리와 큰 차이가 없네요. 하는 방법은 알고 있지만…… 더 중요하고, 제 힘을 필요로 하는 일은 정말 없는 건가요?",
+                "cn": "助理工作啊......呣，现在看来，归类档案的文书类工作和蔓珠院的大家所做的经书整理并无区别，我知道应该如何完成，但......你确定没有更重要、更需要我去做的工作吗？"
+            },
+            "asset": "char_1046_sbell2/CN_001"
+        },
+        {
+            "id": "char_1046_sbell2_CN_002",
+            "title": {
+                "en": "Talk 1",
+                "jp": "会話1",
+                "kr": "대화 1",
+                "cn": "交谈1"
+            },
+            "text": {
+                "en": "During my days at the Vine-Bead Court I would clamber up and down ladders to consult ancient records and scripture as thick and heavy as bricks. Based on past Saintess selections, the girl who is to become Saintess must have a strong, healthy body. Hm, I believe I've figured out the reasoning behind these traditions.",
+                "jp": "蔓珠院では、いつもハシゴを上り下りしながら、レンガよりも分厚い歴史書や経文を手に調べ回っているのです。しかし、巫女選定の儀式を振り返ってみれば、巫女の候補者は、元より健康で力強い身体を持つ人から選ばれていたように思います。むぅ、やはり伝統やしきたりには、何かしらの理由があるものなのですね。",
+                "kr": "만주원에서는 늘 사다리를 오르내리면서 벽돌보다 두꺼운 역사서나 경전을 손에 들고 조사하고 있어요. 하지만 성녀 선발 의식을 되돌아보면, 성녀 후보자는 원래부터 건강하고 힘 있는 신체를 가진 사람 중에서 선택됐던 것 같습니다. 음, 역시 전통이나 관습에는 뭐라도 이유가 있는 거군요.",
+                "cn": "我在蔓珠院时，总要用梯子爬上爬下，查阅比砖头还厚的史籍与经书，不过从圣女选拔的仪式看来，能够成为圣女的姑娘本来就有一副健康有力的好身体。唔，果然这些传统都是有原因的呢。"
+            },
+            "asset": "char_1046_sbell2/CN_002"
+        },
+        {
+            "id": "char_1046_sbell2_CN_003",
+            "title": {
+                "en": "Talk 2",
+                "jp": "会話2",
+                "kr": "대화 2",
+                "cn": "交谈2"
+            },
+            "text": {
+                "en": "Hm? Oh, this? This is something I knitted for Ensia's birthday in my spare time. It's like when I was little, Father and I would knit new cloaks or scarves for the entire family every three years… I know what you want to ask, but please don't.",
+                "jp": "むぅ？これですか？先日、仕事の合間に編んだエンシアへの誕生日プレゼントです。幼い頃は、私と父で三年おきに、家族の皆に向けてマントかマフラーを編んでいたので、その名残で……聞きたいことはわかりますが、口にしないでくださいね。",
+                "kr": "음? 이거 말인가요? 전에 일하는 사이에 엔시아에게 주려고 짠 생일 선물입니다. 어릴 때는 저랑 아버지가 3년에 한 번씩 가족들 모두에게 망토나 목도리를 짜줬는데, 그 기억 때문에…… 뭘 묻고 싶은지는 알겠지만, 입으로 말하지는 말아 주세요.",
+                "cn": "呣？这个吗？这个是我前不久在工作空余时织的，给恩希亚的生日礼物。就像小时候一样，每隔三年我和父亲都会为全家人编织新的斗篷或是围巾......我知道你要问什么，但是别问。"
+            },
+            "asset": "char_1046_sbell2/CN_003"
+        },
+        {
+            "id": "char_1046_sbell2_CN_004",
+            "title": {
+                "en": "Talk 3",
+                "jp": "会話3",
+                "kr": "대화 3",
+                "cn": "交谈3"
+            },
+            "text": {
+                "en": "Why do foreign envoys still believe Kjerag to be a land of spirits and sprites…? Hmph, it leaves me no choice but to meet their expectations, and take on a most fearsome form. 'If you do not wish to be snatched away by the Tschäggättä, then you must show some sincerity.' That will make them good little ambassadors who sign our agreements.",
+                "jp": "未だにイェラグを化け物の跋扈する地だと思い込んでいる使者がいるとは驚きました……まったく。仕方がないので私もその期待に応え、恐ろしい表情を作って「チェゲッタに攫われたくなければ誠意を見せろ」と脅かしてあげました。そうしたら、彼らは大人しく業務提携の契約書にサインしてくれましたよ。",
+                "kr": "아직도 쉐라그를 페이가 날뛰는 곳이라고 생각하는 사절이 있다니 놀랍네요…… 정말이지. 어쩔 수 없이 저도 그 기대에 부응해서 무서운 표정을 지으며 '설산귀에게 납치되고 싶지 않다면 성의를 보여라'라고 위협해 줬죠. 그랬더니, 얌전하게 업무 제휴 계약서에 서명해 주더군요.",
+                "cn": "怎么还会有使者以为谢拉格是一个遍地精怪的地方......哼，那我也只好按他们的期待，摆出一副吓人的样子，“不想被山雪鬼抓走的话就要表现出诚意”，然后他们就乖乖地在合同上签字了。"
+            },
+            "asset": "char_1046_sbell2/CN_004"
+        },
+        {
+            "id": "char_1046_sbell2_CN_005",
+            "title": {
+                "en": "Talk after Promotion 1",
+                "jp": "昇進後会話1",
+                "kr": "1차 정예화 후 대화",
+                "cn": "晋升后交谈1"
+            },
+            "text": {
+                "en": "What is a miracle, you ask? Hm, who knows? Perhaps a gust of night wind, or a beautiful rainbow, so long as it inspires the devout and puts fear into the heart of sinners. When you feel troubled and know not what to do, pray, and the divine in your heart shall give you strength.",
+                "jp": "どれもこれも「神による奇跡」なのか、と聞かれましても――むぅ、私にもわかりません。単に偶然夜風が吹き抜けただけ、あるいは美しい虹が架かっただけのことかもしれませんので。とはいえ、そうしたものは信心深い人々を奮い立たせ、罪を抱えた人々を震え上がらせるには十分です。いつか、あなたが途方に暮れる時があれば、その時はどうか祈ってください。あなたの心に御座す「神」が、きっと力を与えてくださいますから。",
+                "kr": "이것도 저것도 다 '신이 내린 기적'이냐 물어보셔도…… 음, 저도 모릅니다. 그냥 우연히 밤바람이 스쳐 지나간다든가 아름다운 무지개가 걸린 것뿐일 수도 있으니까요. 그렇다고는 해도, 그런 것들은 신앙심 깊은 사람들을 고무시키고, 죄를 지은 사람들을 떨게 하기에 충분합니다. 언젠가 당신이 어떻게 해야 할지 모를 때가 온다면, 그때는 아무쪼록 기도하세요. 당신의 마음에 계신 '신'께서 분명 힘을 주실 테니까요.",
+                "cn": "那算是“神迹”吗？唔，谁知道呢。或许只是一阵晚风、一道漂亮的彩虹，但是足以让虔诚的人振奋，让心怀罪孽的人畏惧。当你真的感到无助时，祈祷吧，存在于你心中的“神明”会给你力量的。"
+            },
+            "asset": "char_1046_sbell2/CN_005"
+        },
+        {
+            "id": "char_1046_sbell2_CN_006",
+            "title": {
+                "en": "Talk after Promotion 2",
+                "jp": "昇進後会話2",
+                "kr": "2차 정예화 후 대화",
+                "cn": "晋升后交谈2"
+            },
+            "text": {
+                "en": "It is not that Kjeragandr taught us virtue, but that She is made manifest through the virtue in our hearts. So too does all sloth and sin find release through this understanding. She shall not scold you, for recognizing oneself is a difficult thing, and She will always show a path through the wind and snow for her children.",
+                "jp": "イェラガンドが人々に美徳を授けたのではなく、人々の心に存在していた美徳が、イェラガンドを通じて顕現したのです。さらには、すべての怠惰と罪悪にも、それによって解釈の余地が生まれました。責め立てなどしませんよ。自身を正しく認識するのは、元よりとても難しいことであり、神はいつも風雪の中で子らに道を示してくださるものですから。",
+                "kr": "쉐라간드가 사람들에게 미덕을 준 것이 아니라, 사람들의 마음에 존재하던 미덕이 쉐라간드를 통해 발현된 것입니다. 나아가 모든 나태와 죄악도 이로 인해 해석의 여지가 생겼죠. 비난하지는 않아요. 자신을 올바르게 인식하는 건 원래부터 매우 어려운 일이고, 신은 언제나 눈보라 속에서 아이들에게 길을 보여주시니까요.",
+                "cn": "并非耶拉冈德教会了人们美德，而是人们心中的美德借由祂显现，一切的怠惰与罪孽也都借此找到了解释的出口。怎么会责怪呢，认清自身本来就是很难的事，而祂总会在风雪中为孩子们指出一条路。"
+            },
+            "asset": "char_1046_sbell2/CN_006"
+        },
+        {
+            "id": "char_1046_sbell2_CN_007",
+            "title": {
+                "en": "Talk after Trust Increase 1",
+                "jp": "信頼上昇後会話1",
+                "kr": "신뢰도 상승 후 대화 1",
+                "cn": "信赖提升后交谈1"
+            },
+            "text": {
+                "en": "There aren't enough funds for dormitory maintenance? Allow me to make a donation in the name of the Vine-Bead Court. The funds shall come from the personal account of the president of Karlan Trade—ah, no, no need for that. The medical support Rhodes Island has given the people of Kjerag is plain for all to see. Sir Enciodes won't utter a single complaint.",
+                "jp": "宿舎の修理費が足りないのですか？では、身共が蔓珠院を代表して資金援助をいたしましょう。お金自体は、カランド貿易取締役会長の個人口座から……いえ、そう仰らず。ロドスの医療支援がイェラグの民の助けとなっていることは明白ですので、エンシオディス様も異議を唱えることはないでしょう。",
+                "kr": "숙소 수리비가 부족한가요? 그러시면, 제가 만주원을 대표해서 자금을 지원하도록 하죠. 돈은 카란 무역회사 대표의 개인 계좌에서…… 아뇨, 그렇게 말씀하지 마시길. 로도스 아일랜드의 의료 지원이 쉐라그 백성에게 도움이 되는 것은 명백하니, 엔시오데스 님도 이의를 제기하지는 않겠죠.",
+                "cn": "宿舍的维修经费不足？让我代表蔓珠院来资助吧，资金会从喀兰贸易董事长的私账......不，别这么说，罗德岛的医疗支援对谢拉格民众的帮助是有目共睹的，恩希欧迪斯先生绝无怨言。"
+            },
+            "asset": "char_1046_sbell2/CN_007"
+        },
+        {
+            "id": "char_1046_sbell2_CN_008",
+            "title": {
+                "en": "Talk after Trust Increase 2",
+                "jp": "信頼上昇後会話2",
+                "kr": "신뢰도 상승 후 대화 2",
+                "cn": "信赖提升后交谈2"
+            },
+            "text": {
+                "en": "You'd like to help me comb my hair? Nmph… it wouldn't be an easy job. If it weren't for Kjarr and the other maids, I don't know how much time I'd have to spend each day caring for it. I've considered cutting it short, but I understand some of the people would be sad if I did, so…",
+                "jp": "髪を梳いてくださるのですか？うーん……一筋縄ではいかない仕事ですよ？私自身、ヤエルと侍女の助けがなければ、毎日どれほどの時間を髪に費やさねばならないのか見当もつきません。短く切ることも考えたのですが、一部の民が悲しむと聞いたものですから……",
+                "kr": "머리를 빗어주시겠다고요? 으음…… 웬만해선 못하실 텐데요? 저 스스로도 키야르나 시녀의 도움이 없었다면, 매일 얼마나 머리에 시간을 써야 할지 짐작도 할 수 없습니다. 짧게 자르는 것도 생각했지만, 일부 백성들이 슬퍼할 거라고 들어서……",
+                "cn": "要帮我梳头发吗？嗯......这个工作可不容易哦？如果没有雅儿和侍女帮忙，我每天不知道要花费多少时间在这上头。我也想过剪短，但我听说有一部分民众会因此难过，所以......"
+            },
+            "asset": "char_1046_sbell2/CN_008"
+        },
+        {
+            "id": "char_1046_sbell2_CN_009",
+            "title": {
+                "en": "Talk after Trust Increase 3",
+                "jp": "信頼上昇後会話3",
+                "kr": "신뢰도 상승 후 대화 3",
+                "cn": "信赖提升后交谈3"
+            },
+            "text": {
+                "en": "'Merciful Kjeragandr'… She has clearly run off to that snowy mountain to fool about… Perhaps once Her spirit has recovered, She will awaken once more. How will Kjerag have changed in that time? If there really are gods, then please, help her find a way back home.",
+                "jp": "「慈悲深きイェラガンド」だなんて。彼女は単なる遊び心でこの雪山に来ただけだというのに……たっぷり英気を養えたら、また目を覚ますこともあるのかもしれませんね。その時、イェラグはどうなっているのでしょうか？もし本当に神がいるのなら、どうか彼女に帰り道をお示しくださいますように。",
+                "kr": "'자비로우신 쉐라간드'라니. 그녀는 그저 놀러 오는 기분으로 이 설산에 왔을 뿐인데…… 충분히 원기를 회복하면, 다시 눈을 뜰 일이 있을지도 모르겠네요. 그때 쉐라그는 어떻게 되어 있을까요? 만약 정말 신이 존재한다면, 부디 그녀에게 돌아가는 길을 보여주시기를.",
+                "cn": "“慈悲的耶拉冈德”，明明是贪玩才跑到这片雪山来的......或许等到她休养好精神就会再次醒来吧。那时候谢拉格又会变成什么样呢？如果真的有神明的话，就请帮她找到回来的路吧。"
+            },
+            "asset": "char_1046_sbell2/CN_009"
+        },
+        {
+            "id": "char_1046_sbell2_CN_010",
+            "title": {
+                "en": "Idle",
+                "jp": "放置",
+                "kr": "방치",
+                "cn": "闲置"
+            },
+            "text": {
+                "en": "Hm? Documents that need to be signed? Err… The Doctor is currently in an emergency meeting, would it be alright if these got back to you later? Alright, I shall pass them on for you… *phew* Getting an afternoon nap is no small task for Dr. {@nickname}.",
+                "jp": "はい？承認が必要な書類があるのですか？むぅ……ドクターは急な会議に出ておられるので、お返事は後ほどでもよろしいでしょうか？ええ、お伝えしておきます……ふぅ、ドクターはお昼寝するのも一苦労ですね。",
+                "kr": "네? 승인이 필요한 서류가 있다고요? 음…… 박사님은 급한 회의에 참석 중이셔서, 답변은 나중에 해도 괜찮을까요? 네, 전해드리겠습니다…… 후우, 박사님은 낮잠 한번 자는 것도 어려우시군요.",
+                "cn": "嗯？需要审批的文件？呣......博士正在参加一个临时会议，晚点给你回复可以吗？好，我会转交的......呼，Dr.{@nickname}想睡个午觉也真是不容易呢。"
+            },
+            "asset": "char_1046_sbell2/CN_010"
+        },
+        {
+            "id": "char_1046_sbell2_CN_011",
+            "title": {
+                "en": "Onboard",
+                "jp": "入職会話",
+                "kr": "오퍼레이터 입사",
+                "cn": "干员报到"
+            },
+            "text": {
+                "en": "Amidst the undying winds of the Snow Realm and the unending fall of snow, Pramanix of Kjerag now stands before you… How's that for a preamble? Now let me in already, we'll have plenty of time for greetings later.",
+                "jp": "絶えず雪境を取り巻く風に、降り止まぬ雪――イェラグのプラマニクスが、あなたの御前に参上いたしました……と、このような口上はいかがでしょうか？ひとまず、上がらせてください。お話をする時間はいくらでもありますから。",
+                "kr": "끊임없이 히라를 휘감는 바람에, 그치지 않는 눈…… 쉐라그의 프라마닉스가 당신의 어전에 도착했습니다…… 이런 말투는 어떠신가요? 일단 좀 들어가게 해 주시죠. 얘기할 시간은 얼마든지 있으니까요.",
+                "cn": "雪境终年环绕的风，飘落不止的雪——谢拉格的初雪，正站在您的面前......这样的开场白，听起来怎么样？让我先进去吧，我们有的是时间寒暄。"
+            },
+            "asset": "char_1046_sbell2/CN_011"
+        },
+        {
+            "id": "char_1046_sbell2_CN_012",
+            "title": {
+                "en": "Watching Battle Record",
+                "jp": "経験値上昇",
+                "kr": "작전기록 학습",
+                "cn": "观看作战记录"
+            },
+            "text": {
+                "en": "'When in snow, seek the footprints of those heading forward'. This is the simple wisdom of Kjeragandr.",
+                "jp": "「雪道では、先往く人の足跡を探しなさい」――これは、イェラガンドの授けた知恵です。",
+                "kr": "“눈길에서는 먼저 간 사람의 발자국을 찾아라” ……이것은 쉐라간드가 내려준 지혜입니다.",
+                "cn": "“在雪地中要寻找前行者的脚印”——这是耶拉冈德朴实的智慧。"
+            },
+            "asset": "char_1046_sbell2/CN_012"
+        },
+        {
+            "id": "char_1046_sbell2_CN_013",
+            "title": {
+                "en": "Promotion 1",
+                "jp": "昇進Ⅰ",
+                "kr": "1차 정예화 (승진)",
+                "cn": "精英化晋升1"
+            },
+            "text": {
+                "en": "No, no more gifts or ornaments, please. A Saintess's garb is heavy enough as it is. You want me to feel light and breezy, don't you?",
+                "jp": "いえ、お祝いや装飾品の類いは結構です。巫女の装束だけでもかなりの重さがありますから。私には楽に過ごしてほしいと思うでしょう？",
+                "kr": "아뇨, 축하 선물이나 장식품 종류는 괜찮습니다. 성녀 의상만 해도 무게가 꽤 나가거든요. 제가 편하게 지내길 바라시겠죠?",
+                "cn": "不，贺礼和新装饰品就免了，圣女的披挂已经足够沉重了。你会希望我轻松点的，不是吗？"
+            },
+            "asset": "char_1046_sbell2/CN_013"
+        },
+        {
+            "id": "char_1046_sbell2_CN_014",
+            "title": {
+                "en": "Promotion 2",
+                "jp": "昇進Ⅱ",
+                "kr": "2차 정예화 (승진)",
+                "cn": "精英化晋升2"
+            },
+            "text": {
+                "en": "'Of what has been gained, renounce it all. Of what has been lost, forget it all. We need only strive for truth and question ourselves, and in the end, we shall return to Her embrace.'",
+                "jp": "「手にした一切を手放し、失いし一切を忘れて、真理への探究心と、自問のみを携え進むべし。終着点に至りし時、我々は再び神の御許へと帰るのだ。」",
+                "kr": "“손에 넣은 모든 것을 버리고, 잃어버린 모든 것을 잊고, 진리에 대한 탐구심과 자신을 향한 질문만을 가지고 나아가야 할지니. 종착점에 다다랐을 때, 우리는 다시 신의 곁으로 돌아갈 것이다.”",
+                "cn": "“放下得到的一切的一切，忘记失去的一切的一切，只带着对真理的求索、对我们自身的叩问，在最后的终点，我们会回到祂的怀抱。”"
+            },
+            "asset": "char_1046_sbell2/CN_014"
+        },
+        {
+            "id": "char_1046_sbell2_CN_017",
+            "title": {
+                "en": "Added to Squad",
+                "jp": "編成",
+                "kr": "팀 배치",
+                "cn": "编入队伍"
+            },
+            "text": {
+                "en": "Victory belongs to the faithful.",
+                "jp": "勝利は、敬虔なる者にこそ与えられん。",
+                "kr": "승리는 경건한 자에게 주어질지니.",
+                "cn": "胜利属于心怀信仰之人。"
+            },
+            "asset": "char_1046_sbell2/CN_017"
+        },
+        {
+            "id": "char_1046_sbell2_CN_018",
+            "title": {
+                "en": "Appointed as Squad Leader",
+                "jp": "隊長任命",
+                "kr": "팀장 임명",
+                "cn": "任命队长"
+            },
+            "text": {
+                "en": "I shall guide you in Her stead.",
+                "jp": "神に代わり、身共が導きます。",
+                "kr": "신을 대신하여 제가 인도하겠습니다.",
+                "cn": "我会代行祂的引导。"
+            },
+            "asset": "char_1046_sbell2/CN_018"
+        },
+        {
+            "id": "char_1046_sbell2_CN_019",
+            "title": {
+                "en": "Depart",
+                "jp": "作戦準備",
+                "kr": "작전 출발",
+                "cn": "行动出发"
+            },
+            "text": {
+                "en": "May the unclean be purified, and the blizzards dispersed.",
+                "jp": "不浄を清め、人を惑わす瘴気を払いましょう。",
+                "kr": "부정을 정화하고, 사람을 현혹시키는 독기를 쫓아냅시다.",
+                "cn": "净化不洁之物，吹散迷瘴之风。"
+            },
+            "asset": "char_1046_sbell2/CN_019"
+        },
+        {
+            "id": "char_1046_sbell2_CN_020",
+            "title": {
+                "en": "Begin Operation",
+                "jp": "戦闘開始",
+                "kr": "작전 개시",
+                "cn": "行动开始"
+            },
+            "text": {
+                "en": "You shall go no further…",
+                "jp": "それ以上は進めませんよ……",
+                "kr": "이 이상은 못 지나갑니다……",
+                "cn": "你们只可到此......"
+            },
+            "asset": "char_1046_sbell2/CN_020"
+        },
+        {
+            "id": "char_1046_sbell2_CN_021",
+            "title": {
+                "en": "Selecting Operator 1",
+                "jp": "選択時1",
+                "kr": "오퍼레이터 선택 1",
+                "cn": "选中干员1"
+            },
+            "text": {
+                "en": "She is omnipresent.",
+                "jp": "神はいずこにも御座すものです。",
+                "kr": "신은 어디에나 계십니다.",
+                "cn": "祂无处不在。"
+            },
+            "asset": "char_1046_sbell2/CN_021"
+        },
+        {
+            "id": "char_1046_sbell2_CN_022",
+            "title": {
+                "en": "Selecting Operator 2",
+                "jp": "選択時2",
+                "kr": "오퍼레이터 선택 2",
+                "cn": "选中干员2"
+            },
+            "text": {
+                "en": "She cannot be sought.",
+                "jp": "神はいずこにも見出せぬものです。",
+                "kr": "신은 어디에서도 찾을 수 없는 법입니다.",
+                "cn": "祂无所寻觅。"
+            },
+            "asset": "char_1046_sbell2/CN_022"
+        },
+        {
+            "id": "char_1046_sbell2_CN_023",
+            "title": {
+                "en": "Deployment 1",
+                "jp": "配置1",
+                "kr": "배치 1",
+                "cn": "部署1"
+            },
+            "text": {
+                "en": "Hear Her words.",
+                "jp": "お聞きなさい。",
+                "kr": "들으십시오.",
+                "cn": "侧耳聆听。"
+            },
+            "asset": "char_1046_sbell2/CN_023"
+        },
+        {
+            "id": "char_1046_sbell2_CN_024",
+            "title": {
+                "en": "Deployment 2",
+                "jp": "配置2",
+                "kr": "배치 2",
+                "cn": "部署2"
+            },
+            "text": {
+                "en": "Pray with all your heart.",
+                "jp": "敬虔に祈りなさい。",
+                "kr": "경건하게 기도하십시오.",
+                "cn": "诚心祈祷。"
+            },
+            "asset": "char_1046_sbell2/CN_024"
+        },
+        {
+            "id": "char_1046_sbell2_CN_025",
+            "title": {
+                "en": "In Battle 1",
+                "jp": "作戦中1",
+                "kr": "작전 중 1",
+                "cn": "作战中1"
+            },
+            "text": {
+                "en": "Cold winds care not for whom they chill.",
+                "jp": "寒風はあまねく平等なり。",
+                "kr": "차가운 바람은 모두에게 평등한 것.",
+                "cn": "寒风不曾心存偏私。"
+            },
+            "asset": "char_1046_sbell2/CN_025"
+        },
+        {
+            "id": "char_1046_sbell2_CN_026",
+            "title": {
+                "en": "In Battle 2",
+                "jp": "作戦中2",
+                "kr": "작전 중 2",
+                "cn": "作战中2"
+            },
+            "text": {
+                "en": "Ice and snow know not mercy.",
+                "jp": "氷雪は憐憫知らぬものなり。",
+                "kr": "빙설은 연민을 모르는 법.",
+                "cn": "冰雪不曾怀有怜悯。"
+            },
+            "asset": "char_1046_sbell2/CN_026"
+        },
+        {
+            "id": "char_1046_sbell2_CN_027",
+            "title": {
+                "en": "In Battle 3",
+                "jp": "作戦中3",
+                "kr": "작전 중 3",
+                "cn": "作战中3"
+            },
+            "text": {
+                "en": "Behold the power the mountains pledged to me.",
+                "jp": "これは山々より授かりし力。",
+                "kr": "이것은 뭇 산들이 내려준 힘.",
+                "cn": "这是群山许诺于我的力量。"
+            },
+            "asset": "char_1046_sbell2/CN_027"
+        },
+        {
+            "id": "char_1046_sbell2_CN_028",
+            "title": {
+                "en": "In Battle 4",
+                "jp": "作戦中4",
+                "kr": "작전 중 4",
+                "cn": "作战中4"
+            },
+            "text": {
+                "en": "Your struggles are feeble.",
+                "jp": "何と些末な抵抗でしょう。",
+                "kr": "이 얼마나 하찮은 저항인가요.",
+                "cn": "渺小的抗争。"
+            },
+            "asset": "char_1046_sbell2/CN_028"
+        },
+        {
+            "id": "char_1046_sbell2_CN_029",
+            "title": {
+                "en": "4-star Result",
+                "jp": "高難度作戦クリア",
+                "kr": "고난이도 작전 종료",
+                "cn": "完成高难行动"
+            },
+            "text": {
+                "en": "Karlan has witnessed this victory. O warriors clad in frost and gale, let us return home.",
+                "jp": "聖なる山はこの勝利を見届けました。風雪をまとう戦士たちよ、帰路に就く時です。",
+                "kr": "성스러운 산은 이 승리를 지켜보았습니다. 눈보라를 두른 전사들이여, 귀로에 오를 시간입니다.",
+                "cn": "圣山所见证的胜利。披挂风雪的战士啊，我们即将踏上归途。"
+            },
+            "asset": "char_1046_sbell2/CN_029"
+        },
+        {
+            "id": "char_1046_sbell2_CN_030",
+            "title": {
+                "en": "3-star Result",
+                "jp": "★3で戦闘終了",
+                "kr": "3★ 작전 종료",
+                "cn": "3星结束行动"
+            },
+            "text": {
+                "en": "'After hard work comes a good night's rest.' The Saintess decrees it so.",
+                "jp": "「労作の後はよく眠るべし」――これは、巫女の示す意志です。",
+                "kr": "“힘써 일한 뒤에는 잘 자야 할지니” ……이건 성녀의 뜻입니다.",
+                "cn": "“辛苦劳作之后要好好睡一觉”——这是圣女的旨意。"
+            },
+            "asset": "char_1046_sbell2/CN_030"
+        },
+        {
+            "id": "char_1046_sbell2_CN_031",
+            "title": {
+                "en": "Sub 3-star Result",
+                "jp": "★2以下戦闘終了",
+                "kr": "비 3★ 작전 종료",
+                "cn": "非3星结束行动"
+            },
+            "text": {
+                "en": "…In the end, our gain is greater than our loss. Before the snow hides their footprints, we must discern which bad habits it is time to let go.",
+                "jp": "……利が害を上回る結果と言えます。風雪が足跡を覆い隠す前に、捨て去るべき悪習を見極めましょう。",
+                "kr": "……이득이 손해를 상회하는 결과라고 할 수 있습니다. 눈보라가 발자국을 덮기 전에, 버려야 할 악습을 확인하도록 하죠.",
+                "cn": "......利大于弊的结果。在风雪掩盖行迹之前，我们会分辨出需要扬弃的习惯。"
+            },
+            "asset": "char_1046_sbell2/CN_031"
+        },
+        {
+            "id": "char_1046_sbell2_CN_032",
+            "title": {
+                "en": "Operation Failure",
+                "jp": "作戦失敗",
+                "kr": "작전 실패",
+                "cn": "行动失败"
+            },
+            "text": {
+                "en": "…The snow shall cover our tracks, and grant us the chance to return.",
+                "jp": "……風雪が我らの痕跡を隠し、やり直す機会を与えてくれるでしょう。",
+                "kr": "……눈보라가 우리의 흔적을 감추고, 다시 시작할 기회를 주겠죠.",
+                "cn": "......风雪会隐藏我们的痕迹，给我们重返的机会。"
+            },
+            "asset": "char_1046_sbell2/CN_032"
+        },
+        {
+            "id": "char_1046_sbell2_CN_033",
+            "title": {
+                "en": "Assigned to Facility",
+                "jp": "基地配属",
+                "kr": "시설에 배치",
+                "cn": "进驻设施"
+            },
+            "text": {
+                "en": "Have you widened this place since last time?",
+                "jp": "以前より広くなったのでしょうか？",
+                "kr": "전보다 넓어졌나요?",
+                "cn": "这儿是不是比之前宽敞了一些？"
+            },
+            "asset": "char_1046_sbell2/CN_033"
+        },
+        {
+            "id": "char_1046_sbell2_CN_034",
+            "title": {
+                "en": "Tap",
+                "jp": "タッチ1",
+                "kr": "터치",
+                "cn": "戳一下"
+            },
+            "text": {
+                "en": "'Kjeragandr on high, smite those who play pranks by depriving them of snacks with their afternoon tea.'",
+                "jp": "「我らがイェラガンドに。いたずらっ子がアフタヌーンティーでおやつを食べられなくなるよう、罰をお与えください。」",
+                "kr": "“쉐라간드 신이시여. 장난꾸러기가 오후 티타임에 간식을 먹을 수 없도록 벌을 내려주소서.”",
+                "cn": "“耶拉冈德在上，惩戒恶作剧者下午茶吃不到点心。”"
+            },
+            "asset": "char_1046_sbell2/CN_034"
+        },
+        {
+            "id": "char_1046_sbell2_CN_036",
+            "title": {
+                "en": "Trust Tap",
+                "jp": "信頼タッチ",
+                "kr": "신뢰도 터치",
+                "cn": "信赖触摸"
+            },
+            "text": {
+                "en": "Here, a pat on the head… A blessing? No, this is not the Saintess's blessing, but Pramanix's. It is, in a sense, the rarer of the two.",
+                "jp": "ほら、頭を出してください。よしよし……いいえ、これは巫女としてではなく、プラマニクスとしての祝福です――ある意味では、こちらのほうが貴重なものですよ。",
+                "kr": "자, 머리 내밀어 보세요. 옳지 옳지…… 아뇨, 이건 성녀로서가 아니라 프라마닉스로서의 축복이에요…… 어떤 의미로는 이게 훨씬 더 귀중한 거예요.",
+                "cn": "来，摸摸头，摸摸头......赐福？不，不是圣女的赐福，是初雪的赐福才对——某种意义上来说，这个才更稀有呢。"
+            },
+            "asset": "char_1046_sbell2/CN_036"
+        },
+        {
+            "id": "char_1046_sbell2_CN_037",
+            "title": {
+                "en": "Title",
+                "jp": "タイトルコール",
+                "kr": "타이틀",
+                "cn": "标题"
+            },
+            "text": {
+                "en": "Arknights.",
+                "jp": "アークナイツ。",
+                "kr": "명일방주.",
+                "cn": "明日方舟。"
+            },
+            "asset": "char_1046_sbell2/CN_037"
+        },
+        {
+            "id": "char_1046_sbell2_CN_038",
+            "title": {
+                "en": "New Year's blessing",
+                "jp": "新年",
+                "kr": "새해",
+                "cn": "新年祝福"
+            },
+            "text": {
+                "en": "Happy New Year, Doctor. Old Kjerag custom dictates that I spend the entire night atop Mount Karlan praying for Kjeragandr's blessings, but… It's a rare day off for me, so let's not speak of work today, shall we? Hm?",
+                "jp": "新年明けましておめでとうございます、ドクター。イェラグの往年の伝統に則るならば、今頃私はカランドで夜通し祈りを捧げているのですが……今は貴重な休暇中ですので、こんな時に仕事の話なんてしませんよね？ねえ？",
+                "kr": "새해 복 많이 받으세요, 박사님. 쉐라그의 오랜 전통에 따르면, 지금쯤 저는 카란 성산에서 밤새 기도를 드려야 하지만…… 지금은 귀중한 휴가 중이라서요. 이럴 때 일 얘기 같은 건 안 하시겠죠? 그렇죠?",
+                "cn": "新年快乐，博士。按照往年谢拉格的习惯，我现在应该正在圣山上彻夜祈福，但......现在是我难得的假期，你应该不会在这个时候和我谈工作吧？嗯？"
+            },
+            "asset": "char_1046_sbell2/CN_038"
+        },
+        {
+            "id": "char_1046_sbell2_CN_042",
+            "title": {
+                "en": "Greeting",
+                "jp": "挨拶",
+                "kr": "인사",
+                "cn": "问候"
+            },
+            "text": {
+                "en": "The same arrangement as last time. You don't tell anyone I'm here, and you provide me with a blanket… Oh, this one's my favorite. You actually remembered…? Haha… It's like we're of one mind, when it comes to sneaking away for a nap.",
+                "jp": "いつも通り、私がここにいることは他言無用でお願いします。それと、毛布を一枚……あっ、一番お気に入りの毛布。気付いてくれたのですか？……ふぅ……確かに、「サボり」については常々気が合いますものね。",
+                "kr": "늘 그랬듯, 제가 여기 있다는 건 다른 사람에게 말하지 말아 주시기 바랍니다. 그리고 담요 한 장도…… 아, 가장 좋아하는 담요, 눈치채셨군요? ……후우…… 확실히, '땡땡이'에 관해서는 항상 마음이 잘 맞네요.",
+                "cn": "老规矩。别告诉任何人我在你这儿，然后给我一条毛毯......啊，这是我最喜欢的一条，你注意到了？......哈......确实，我们在偷空休息这方面一直都很默契。"
+            },
+            "asset": "char_1046_sbell2/CN_042"
+        },
+        {
+            "id": "char_1046_sbell2_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": "I expect the gifts you receive will be enough to fill a small dormitory, so… Hold out your hand. The first snowflake to descend upon Rhodes Island shall fall into your palm. Before it melts away, it shall be my gift to you.",
+                "jp": "噂に聞く限り、あなた宛てのプレゼントは宿舎を埋め尽くさんばかりの量になるようですから……手を出してください。ロドスに降り注ぐ最初の雪が、あなたの手に舞い落ちます。溶けてしまうまでの間、それはずっとあなたのものですよ。",
+                "kr": "들리는 소문으로는, 당신 앞으로 온 선물이 숙소를 가득 채울 정도라고 하니까…… 손을 내밀어 보세요. 자, 로도스 아일랜드에 내리는 첫눈이 당신 손에 내립니다. 녹아버리기 전까지 그건 계속 당신 것이에요.",
+                "cn": "按照我知道的情况，写着你名字的礼物都足够堆满一个小宿舍了，所以......把手伸出来吧，罗德岛的第一片雪花会落在你手上。在融化之前，它都是属于你的礼物。"
+            },
+            "asset": "char_1046_sbell2/CN_043"
+        },
+        {
+            "id": "char_1046_sbell2_CN_044",
+            "title": {
+                "en": "Anniversary Celebration",
+                "jp": "周年",
+                "kr": "애니버서리",
+                "cn": "周年庆典"
+            },
+            "text": {
+                "en": "The snow atop the Matterhorn's peak did not fall in a single day. The road ahead is much the same. Rhodes Island has been following this path for so long, what could possibly be left to bar your way? Forge ahead. My blessing shall be with you forevermore.",
+                "jp": "マッターホルンの山雪が一日にして積もったものではないように、前方に伸びる道もまたそうであるのでしょう。ロドスは、長きにわたってこの道を進んできましたが、今日ここに至って、あなた方の歩みを止められるものなどありましょうか？どうか進み続けてください。私の祝福は、常にあなた方と共に在ります。",
+                "kr": "마터호른봉의 눈이 하루아침에 쌓인 것이 아니듯, 앞에 뻗은 길 또한 그렇겠죠. 로도스 아일랜드는 오랜 세월에 걸쳐 이 길을 걸어왔습니다만, 오늘 여기에 이르러 당신들의 발걸음을 멈출 수 있는 것이 있을까요? 부디 계속 나아가세요. 제 축복은 언제나 당신들과 함께 있습니다.",
+                "cn": "马特洪峰的积雪不是一日落成的，向前延伸的路途也一样。罗德岛已经在这条路上行过许久，时至今日，还有什么能够阻拦你们的脚步呢？继续前行吧，我的祝福会永远伴随你们。"
+            },
+            "asset": "char_1046_sbell2/CN_044"
+        }
+    ],
+    "actors": {
+        "en": {
+            "native": "Ashleigh Haddad",
+            "global": "Ashleigh Haddad"
+        },
+        "cn": {
+            "native": "乔璐雨",
+            "global": "Luyu Qiao"
+        },
+        "jp": {
+            "native": "早見沙織",
+            "global": "Saori Hayami"
+        },
+        "kr": {
+            "native": "천송이",
+            "global": "Chun Song-e"
+        }
+    },
+    "availability": [
+        "en",
+        "cn",
+        "jp",
+        "kr"
+    ]
+}

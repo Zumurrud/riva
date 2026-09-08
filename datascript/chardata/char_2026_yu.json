@@ -33,7 +33,7 @@
                 "cn": "交谈1"
             },
             "text": {
-                "en": "Doctor, I don't know what Nian told you, but I must emphasize this: I. Don't. Cook. Without good reason. A chef must be particular in his prepara... Wai-wai-wai-wait, That bag of snacks is your lunch? Tch, aiya... stop eating that, I'll whip something up for you.",
+                "en": "Doctor, I don't know what Nian told you, but I must emphasize this: I. Don't. Cook. Without good reason. A chef must be particular in his prepara... Wai-wai-wai-wait, that bag of snacks is your lunch? Tch, aiya... stop eating that, I'll whip something up for you.",
                 "jp": "ドクター、ニェン姉ちゃんに何を吹き込まれたかは知らないけど、もう一度言っとくよ。私の腕は安売りしないんだ。料理人ってのは、火を起こすのにも、包丁を握るのにもこだわりがあるん――ちょっと、まさか昼ご飯をこのお菓子で済ませようとしてるの？まったく、何か作ってきてあげるよ。すぐできるからそこにいて。",
                 "kr": "박사, 니엔 누나가 무슨 소리를 했는지 모르겠지만, 내가 다시 한번 말하는데, 난 아무한테나 막 이것저것 요리해주지 않아. 요리사는 불을 피우는 것도, 칼을 쥐는 것도 자기만의 방식이 있는 법이거든…… 잠깐, 너 설마 그 과자로 점심을 때울 생각이야? 참 나. 있어 봐, 뭐라도 만들어 올게. 금방이면 되니까 기다려.",
                 "cn": "博士，不管年姐和你说了什么，我都要再强调一遍，我可不是随随便便就会下厨的。一个厨师，开灶动刀都有讲究——欸，你午饭就用这包零食打发了？唉，我去给你做两个菜去，马上就好。"
@@ -626,6 +626,10 @@
             "native": "卢晓彤",
             "global": "Thea"
         },
+        "cn_topolect": {
+            "native": "卢晓彤",
+            "global": "Thea"
+        },
         "jp": {
             "native": "大谷育江",
             "global": "Ikue Otani"
@@ -633,17 +637,13 @@
         "kr": {
             "native": "김아롱",
             "global": "Kim Arong"
-        },
-        "cn_topolect": {
-            "native": "卢晓彤",
-            "global": "Thea"
         }
     },
     "availability": [
         "en",
         "cn",
+        "cn_topolect",
         "jp",
-        "kr",
-        "cn_topolect"
+        "kr"
     ]
 }

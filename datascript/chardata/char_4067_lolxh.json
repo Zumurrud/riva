@@ -561,7 +561,7 @@
                 "cn": "新年祝福"
             },
             "text": {
-                "en": "UNUSED",
+                "en": "Happy New Year, Doctor. This is for you. It's lou mei from Ah Gen, since he wanted to thank everyone for treating us so well the past year.",
                 "jp": "あけましておめでとう！ドクター、これあげる。アグンが持たせてくれたルーウェイだよ。一年間お世話になったから、そのお礼に、だって。",
                 "kr": "새해 복 많이 받아! 박사, 이거 줄게. 아근이 너희에게 가져다주라고 했던 루웨이야. 지난 1년 동안 돌봐준 답례야.",
                 "cn": "新年好，博士，这个给你，是阿根让我给你们带的卤味，来谢谢大家去年对我们的照顾。"
@@ -609,7 +609,7 @@
                 "cn": "周年庆典"
             },
             "text": {
-                "en": "UNUSED",
+                "en": "Doctor, I... I'm really going to treasure all the time we've spent together. And if I ever go back one day, I'll never forget you.",
                 "jp": "僕、ドクターとの思い出はちゃんと大切にするからね。いつか元の世界に戻っても、絶対ドクターのこと忘れたりしないよ。",
                 "kr": "박사, 나…… 박사와의 추억을 정말 잘 간직할게. 언젠가 원래의 세계로 돌아가더라도, 절대 박사를 잊지 않을 거야.",
                 "cn": "博士，我......会好好珍惜和你在一起的经历。有天回去了，也不会忘记你的。"
@@ -624,7 +624,7 @@
         },
         "jp": {
             "native": "花澤香菜&山新",
-            "global": "Kana Hanazawa"
+            "global": "Kana Hanazawa, Shanxin"
         }
     },
     "availability": [

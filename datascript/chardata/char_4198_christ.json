@@ -618,10 +618,6 @@
         }
     ],
     "actors": {
-        "en": {
-            "native": "-",
-            "global": "-"
-        },
         "cn": {
             "native": "-",
             "global": "-"
@@ -629,16 +625,10 @@
         "jp": {
             "native": "-",
             "global": "-"
-        },
-        "kr": {
-            "native": "-",
-            "global": "-"
         }
     },
     "availability": [
-        "en",
         "cn",
-        "jp",
-        "kr"
+        "jp"
     ]
 }

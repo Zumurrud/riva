@@ -594,7 +594,7 @@
             },
             "text": {
                 "en": "As every child has a birthday, it gives me hope that maturity will come to them. Age will overtake me, like it or not, and I can only hope they'll still live safely after I am gone. You're still growing too, Doctor. Happy birthday.",
-                "jp": "每一个孩子过生日的时候，我都企盼他能够更快地成长。衰老总会追上我，而我离去之后的岁月，但愿他们仍能安然度过。你也还在成长，博士，生日快乐。",
+                "jp": "子供たちが誕生日を迎えるたびに、私は彼らがもっと早く成長できることを願っている。歳による衰えはいずれこの身に訪れるが、私がいなくなった後も、彼らが穏やかな生活を送れれば、それ以上の望みはない。ドクター、貴殿もまだまだ成長の途中だ。誕生日おめでとう。",
                 "kr": "난 아이들이 생일을 맞이할 때마다 이 아이들이 더 빨리 성장하길 바란다네. 나의 몸을 믿고 있긴 하네만, 결국 세월은 이길 수 없는 것 아니겠나. 난 이 아이들이 내가 떠난 후에도 무탈하게 잘 지내길 바랄 뿐이야. 박사도 작년의 자신보다 크고, 강하게 성장하게나, 생일 축하하네.",
                 "cn": "每一个孩子过生日的时候，我都企盼他能够更快地成长。衰老总会追上我，而我离去之后的岁月，但愿他们仍能安然度过。你也还在成长，博士，生日快乐。"
             },
@@ -634,7 +634,7 @@
             "native": "시영준",
             "global": "Si Young-jun"
         },
-        "rus": {
+        "ru": {
             "native": "Denis Nekrasov",
             "global": "Denis Nekrasov"
         }
@@ -644,6 +644,6 @@
         "cn",
         "jp",
         "kr",
-        "rus"
+        "ru"
     ]
 }

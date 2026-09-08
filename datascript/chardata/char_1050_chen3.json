@@ -1,0 +1,649 @@
+{
+    "charid": "char_1050_chen3",
+    "nameid": "chen3",
+    "names": {
+        "en": "Ch'en the Dawnstreak",
+        "jp": "赤刃明霄チェン",
+        "kr": "첸 더 던스트릭",
+        "cn": "赤刃明霄陈"
+    },
+    "voices": [
+        {
+            "id": "char_1050_chen3_CN_001",
+            "title": {
+                "en": "Appointed as Assistant",
+                "jp": "秘書任命",
+                "kr": "어시스턴트 임명",
+                "cn": "任命助理"
+            },
+            "text": {
+                "en": "So, do you want a bodyguard, or a cop to watch you work 24/7? Just joking. I haven't forgotten how you do things here.",
+                "jp": "護衛がいいか？それとも、常に仕事を監督してくれる上官の方がいいか？……冗談だ。別に過去の職務を忘れてはないぞ。",
+                "kr": "호위가 좋나? 아니면, 항상 일을 감독하는 상관 쪽이 좋나? ……농담이다. 딱히 과거의 직무를 잊은 건 아니야.",
+                "cn": "你想要一个护卫，还是一个随时督促你工作的长官？开个玩笑，过去的工作我没忘记。"
+            },
+            "asset": "char_1050_chen3/CN_001"
+        },
+        {
+            "id": "char_1050_chen3_CN_002",
+            "title": {
+                "en": "Talk 1",
+                "jp": "会話1",
+                "kr": "대화 1",
+                "cn": "交谈1"
+            },
+            "text": {
+                "en": "It's Rhodes Island's visitor logs? Swire, Hoshiguma, and Lin too… Right, assuming they're always asking about me, but there's no way they're coming this much for—Hm. I know a lot of people are waiting for me. It's not too bad, being on someone's mind.",
+                "jp": "ロドスの来訪者記録か？どれどれ……スワイヤー、ホシグマ、そしてリンまで……ふむ、三人が時々私の様子を聞きに来ているというのは一応信じておくが、この頻度となるとさすがに毎回私だけのためってわけ……ああ、たくさんの人が私を待っているのは分かっている。気にかけてくれる者がいるというのは、悪くない感覚だ。",
+                "kr": "로도스 아일랜드 방문자 기록 말인가? 어디 보자…… 스와이어, 호시구마, 그리고 린까지…… 흠, 세 사람이 가끔 내 안부를 물으러 온다는 건 일단 믿겠지만, 이 정도 빈도라면 아무래도 매번 나 때문만이라고는…… 아아, 많은 사람이 나를 기다리고 있다는 건 알고 있어. 신경 써 주는 사람이 있다는 건, 나쁘지 않은 느낌이군.",
+                "cn": "罗德岛的访客记录？诗怀雅，星熊，还有林......好，我姑且相信她们会经常来过问我的近况，可是这个频率，总不能每次都是因为——嗯，我知道很多人都在等着我，有人记挂的感觉，不坏。"
+            },
+            "asset": "char_1050_chen3/CN_002"
+        },
+        {
+            "id": "char_1050_chen3_CN_003",
+            "title": {
+                "en": "Talk 2",
+                "jp": "会話2",
+                "kr": "대화 2",
+                "cn": "交谈2"
+            },
+            "text": {
+                "en": "Worried about my health? Guess we ought to be checking up on each other, Doctor. I've been through a lot these past few years, time sure does fly. The more you experience, the easier it is to fall into confusion and helplessness. Sometimes I do need a reminder… my time is not infinite.",
+                "jp": "私の病状を心配しているのか？どうやらお互いに定期検診を怠らないよう、監督し合う必要がありそうだな、ドクター。ここ数年の私は、時間を忘れるほどに充実していたと言えるが、見聞を重ねるほど、かえって迷いやすくなるものだ。時には私も思い出す必要があるんだ。時間は迫っているのだと。",
+                "kr": "내 병세를 걱정하고 있는 건가? 아무래도 서로 정기 검진을 소홀히 하지 않도록 감독할 필요가 있겠군, 박사. 지난 몇 년간 나는 시간을 잊을 정도로 충실했다고 말할 수 있지만, 견문을 쌓을수록 오히려 헤매기 쉬워지는 법이다. 가끔은 나도 떠올릴 필요가 있어. 시간이 많지 않다는 것을.",
+                "cn": "在意我的病情？看来我们要互相监督按时体检了，博士。这些年的经历的确算得上充实，几乎让我忘了时间。可所见越多，越容易陷入不知所措的迷茫。有时候我也需要被提醒......时间紧张。"
+            },
+            "asset": "char_1050_chen3/CN_003"
+        },
+        {
+            "id": "char_1050_chen3_CN_004",
+            "title": {
+                "en": "Talk 3",
+                "jp": "会話3",
+                "kr": "대화 3",
+                "cn": "交谈3"
+            },
+            "text": {
+                "en": "Oh, you've noticed my blade? I was told it can erase history's mistakes, but that's practically half of whatever's been archived in the last thousand years, and there's no way a single blade could clean that all up. Let's look to the future instead—the ideals we seek still lie ahead.",
+                "jp": "ああ、この剣に気づいたか。これを私に託した人物は、歴史の誤りを抹消できると言っていた。だが、千年にも上る積み重ねのうち大半は誤りで構成されている。たった一本の剣でそれを綺麗に拭い去ることなどできはしない。前を見よう、私たちの求める理想は、過去ではなく未来にあるんだ。",
+                "kr": "아아, 이 검을 눈치챘나. 이걸 내게 맡긴 사람은 역사의 오류를 말소할 수 있다고 했다. 하지만, 천 년에 걸쳐 쌓인 것 중 태반은 오류로 구성되어 있어. 그저 검 한 자루로 그것을 말끔하게 씻어낼 수 있을 리 없지. 앞을 보자. 우리가 추구하는 이상은 과거가 아닌 미래에 있어.",
+                "cn": "哦，你注意到这把剑了。把它交给我的那个人说，它可以用来抹除历史的错误。可这上千年的故纸堆，一大半都是用错误写就的，靠一把剑怎么能抹得干净呢。向前看吧，我们要找的理想不在身后。"
+            },
+            "asset": "char_1050_chen3/CN_004"
+        },
+        {
+            "id": "char_1050_chen3_CN_005",
+            "title": {
+                "en": "Talk after Promotion 1",
+                "jp": "昇進後会話1",
+                "kr": "1차 정예화 후 대화",
+                "cn": "晋升后交谈1"
+            },
+            "text": {
+                "en": "I followed her and Reunion to many places, and saw many sacrifices made. The people went from being lost and fragmented to becoming united and awakened—on that long and winding road. Many of them were left behind in the huge blaze in Deity Grypherburg, yet it was this very fire that ignited their hope.",
+                "jp": "私は彼女やレユニオンを追い、多くの場所を訪れた。その中で、無数の犠牲を目にした。人々が迷い、戸惑い、やがて団結し、奮起する。その過程は、長く曲がりくねった道だ。多くの人がサンクト・グリファーブルグの火の中に留まった。だが新たな希望を灯したのもまた、火なんだ。",
+                "kr": "나는 그녀와 리유니온을 쫓아 많은 곳을 다녔다. 그리고 그 안에서 무수한 희생을 봤지. 사람들은 헤매고 망설이다가, 마침내 단결해 들고 일어난다. 그 과정은 길고 굴곡이 많은 길이야. 많은 사람이 디에티 그라이퍼부르크의 불 속에 남겨졌어. 하지만, 새로운 희망을 밝힌 것 또한 불이다.",
+                "cn": "我跟随她还有整合运动的行踪又去过很多地方，也见证了无数牺牲。人们从迷失、犹豫，到团结、觉醒，那是一条蜿蜒曲折的路。很多人留在了圣骏堡的那场大火里，但也是火，点燃了希望。"
+            },
+            "asset": "char_1050_chen3/CN_005"
+        },
+        {
+            "id": "char_1050_chen3_CN_006",
+            "title": {
+                "en": "Talk after Promotion 2",
+                "jp": "昇進後会話2",
+                "kr": "2차 정예화 후 대화",
+                "cn": "晋升后交谈2"
+            },
+            "text": {
+                "en": "We're a long way from a place where everyone is treated equally, and I have no clue if I'm any nearer to this goal. But I've never doubted the equality I envision is real, for when we step up to rage against the injustice we see, we prove it exists.",
+                "jp": "すべての人に公正な場所は、今も遠くにある理想だ。そこに近づけたのかどうか、自分でもわからない。だが、私が理想とする公正の存在を疑ったことはない。目の前の不正に怒りを覚えたり、立ち上がろうとする心がある限り、それは確かに存在する。",
+                "kr": "모든 사람에게 공정한 곳은, 지금도 먼 이상이다. 그곳에 가까워졌는지 어떤지는 나 자신도 잘 몰라. 하지만, 내가 이상으로 삼는 공정의 존재 자체를 의심한 적은 없어. 눈앞의 부정에 분노를 느끼거나 맞서 일어서려고 하는 마음이 있는 한, 그건 분명하게 존재한다.",
+                "cn": "一个对所有人都公正的地方，依然是遥远的理想，我也不知道自己是否离它近了一些。我从不怀疑理想中的公正是否存在，当我们为所见的不公愤怒时，当我们想要挺身而出时，它就是存在的。"
+            },
+            "asset": "char_1050_chen3/CN_006"
+        },
+        {
+            "id": "char_1050_chen3_CN_007",
+            "title": {
+                "en": "Talk after Trust Increase 1",
+                "jp": "信頼上昇後会話1",
+                "kr": "신뢰도 상승 후 대화 1",
+                "cn": "信赖提升后交谈1"
+            },
+            "text": {
+                "en": "I've been back to Lungmen a few times. Other than the loss of my favorite cheongfun shop, the changes are nice to see. There are fewer L.G.D. patrols on the streets, and you hear less talk of the slums… There's no lying to myself and pretending I don't care for the city.",
+                "jp": "あの後、何度か龍門に戻ったことがある。よく通っていた腸粉の店がなくなったのは残念だったが、それ以外はどれも良い変化ばかりだった。街で近衛局の連中を見かけることは少ないし、人々の口から「スラム」という言葉も消えつつある……やはり、私はこの街を気にせずにはいられないらしい。",
+                "kr": "그 뒤, 몇 번인가 용문에 돌아간 적이 있어. 자주 가던 창펀집이 없어진 건 유감이었지만, 그것 말고는 다 좋은 변화뿐이었다. 거리에서 근위국 녀석들을 보는 일도 적고, 사람들 입에서 '슬럼가'라는 말도 사라지고 있어…… 역시, 나는 이 도시를 신경 쓰지 않을 수는 없는 것 같다.",
+                "cn": "后来我回过龙门几次，除了最熟悉的肠粉店不见了，其他都是令人欣喜的变化。街上的近卫局成员越来越少，从人们口中也渐渐听不到贫民区这个词了......我没法骗自己不在意这座城市。"
+            },
+            "asset": "char_1050_chen3/CN_007"
+        },
+        {
+            "id": "char_1050_chen3_CN_008",
+            "title": {
+                "en": "Talk after Trust Increase 2",
+                "jp": "信頼上昇後会話2",
+                "kr": "신뢰도 상승 후 대화 2",
+                "cn": "信赖提升后交谈2"
+            },
+            "text": {
+                "en": "I asked that man why my mother and sister had to suffer, and unsurprisingly, I didn't get the answer I was looking for. It's too bad Chi Xiao can't sever blood ties, and this writing knife can't scrape away recorded history either. There's no granting any forgiveness in their stead, no one is worth sacrificing for any 'greater good', ever.",
+                "jp": "私はあの人に、母と姉の悲劇の原因を問いただした。だが案の定、望む答えは得られなかった。赤霄では血の繋がりを断てないし、この書刀も過去を消せやしない。私は彼女たちの代わりに許すことはできない。「大義」の名の下に誰かが犠牲になるなど、あってはならないんだ。",
+                "kr": "나는 그 사람에게 어머니와 언니의 비극에 대한 원인을 추궁했어. 하지만 예상했던 대로, 원하는 답은 얻지 못했다. 적소로는 혈연을 끊을 수 없고, 이 서도도 과거를 지울 수는 없어. 나는 두 사람을 대신해서 그 사람을 용서할 수는 없다. '대의'라는 이름 아래 누군가가 희생되는 일 따위, 있어서는 안 돼.",
+                "cn": "我向那个人追问母亲与姐姐悲剧的缘由，不出所料地，没有得到想要的答案。可惜赤霄剑斩不断血脉，这柄书刀也无法抹除过往。我不能代替她们去原谅，没有人该成为“大义”的代价，绝对没有。"
+            },
+            "asset": "char_1050_chen3/CN_008"
+        },
+        {
+            "id": "char_1050_chen3_CN_009",
+            "title": {
+                "en": "Talk after Trust Increase 3",
+                "jp": "信頼上昇後会話3",
+                "kr": "신뢰도 상승 후 대화 3",
+                "cn": "信赖提升后交谈3"
+            },
+            "text": {
+                "en": "When things calm down, it would be nice to take you around Yan. Not just Lungmen, and not for any investigations either. Just a trip to watch the people make something from nothing in that beautiful land. There's nowhere else like it. You won't have to pack anything either. A sword and a boat. That's all we'll need.",
+                "jp": "落ち着いたら、キミを炎国に案内したいと思っている。行き先は龍門だけではないし、調査研究や視察のためでもない。ただ山河の風景を眺めたり、順風満帆とはいかぬ日々の中でも、懸命に生きる人々を見るんだ。どちらも他にはない景色だからな。特別な準備もいらない。剣一本と小舟一艘、それで十分だ。",
+                "kr": "조금 한가해지면, 너를 염국으로 안내해 보려고 생각하고 있어. 행선지가 용문만 있는 것도 아니고, 조사 연구나 시찰을 위해서도 아니야. 그냥 강산의 풍경을 구경하거나, 순탄하다고는 할 수 없는 나날 속에서도 현명하게 살아가고 있는 사람들을 보는 거다. 어느 쪽도 다른 곳에는 없는 경치니까. 특별한 준비도 필요 없어. 검 한 자루와 작은 배 한 척, 그거면 충분하다.",
+                "cn": "等闲下来，真想带你一起去炎国看看。不仅是龙门，也无关调研考察。只是去看看山河形胜，还有筚路蓝缕却生生不息的人，都是独一无二的风景。也用不着做什么准备，一把剑，一叶小舟，足矣。"
+            },
+            "asset": "char_1050_chen3/CN_009"
+        },
+        {
+            "id": "char_1050_chen3_CN_010",
+            "title": {
+                "en": "Idle",
+                "jp": "放置",
+                "kr": "방치",
+                "cn": "闲置"
+            },
+            "text": {
+                "en": "Need a break, but can't sleep? Yeah, you have a lot of pressure on your shoulders. Sit up straight. I'll teach you some Yanese breathing exercises.",
+                "jp": "休みたいのに眠れない？かなりストレスが溜まっているようだな。座れ、炎国に伝わる呼吸法を教えてやろう。",
+                "kr": "쉬고 싶은데 잠을 못 자나? 꽤 스트레스가 쌓인 모양이군. 앉아라, 염국에 전해지는 호흡법을 알려 주지.",
+                "cn": "想休息但睡不着？你也积累了不少压力啊。坐好，教你一套炎国特有的吐纳功法。"
+            },
+            "asset": "char_1050_chen3/CN_010"
+        },
+        {
+            "id": "char_1050_chen3_CN_011",
+            "title": {
+                "en": "Onboard",
+                "jp": "入職会話",
+                "kr": "오퍼레이터 입사",
+                "cn": "干员报到"
+            },
+            "text": {
+                "en": "Long time no see, Doctor. I know things have gotten pretty serious, so I'm back to lend a hand. In case you need a reminder, I'm still with Rhodes Island.",
+                "jp": "ドクター、久しぶりだな。ロドスの現状が楽観視できないのは知っている。必要な時はこちらに戻って力を貸そう。私は今でもロドスの一員だということを忘れてもらったら困るしな。",
+                "kr": "박사, 오랜만이군. 로도스 아일랜드의 현황이 낙관적이지 않다는 것은 알고 있다. 필요할 때는 여기 돌아와 힘을 보태도록 하지. 내가 지금도 로도스 아일랜드의 일원이라는 것을 잊으면 곤란하니까.",
+                "cn": "博士，好久不见。我知道罗德岛当前的状况不容乐观，我会回来提供一份助力。也以防你忘记，我依然是罗德岛的一员。"
+            },
+            "asset": "char_1050_chen3/CN_011"
+        },
+        {
+            "id": "char_1050_chen3_CN_012",
+            "title": {
+                "en": "Watching Battle Record",
+                "jp": "経験値上昇",
+                "kr": "작전기록 학습",
+                "cn": "观看作战记录"
+            },
+            "text": {
+                "en": "This battle… Rhodes Island was there too?",
+                "jp": "この戦場……そうか、あの時ロドスもいたのか。",
+                "kr": "이 전장…… 그런가. 저 때 로도스 아일랜드도 있었나.",
+                "cn": "这里的战场......原来当时罗德岛也在？"
+            },
+            "asset": "char_1050_chen3/CN_012"
+        },
+        {
+            "id": "char_1050_chen3_CN_013",
+            "title": {
+                "en": "Promotion 1",
+                "jp": "昇進Ⅰ",
+                "kr": "1차 정예화 (승진)",
+                "cn": "精英化晋升1"
+            },
+            "text": {
+                "en": "You have a lot of people who trust in your command, and depend on you to direct them… that's important to keep in mind.",
+                "jp": "多くの者がキミの指揮を信じ、その導きを頼りにしている……これは大きなことだ。",
+                "kr": "많은 이가 네 지휘를 믿고, 그 인도에 의지하고 있군…… 이건 중요한 일이다.",
+                "cn": "许多人信赖你的指挥，也会倚靠你指引的方向......这很重要。"
+            },
+            "asset": "char_1050_chen3/CN_013"
+        },
+        {
+            "id": "char_1050_chen3_CN_014",
+            "title": {
+                "en": "Promotion 2",
+                "jp": "昇進Ⅱ",
+                "kr": "2차 정예화 (승진)",
+                "cn": "精英化晋升2"
+            },
+            "text": {
+                "en": "I spent a long time mastering Chi Xiao's techniques, but the answer I got was different from the lessons I was taught. Chi Xiao has seen my determination, and when you need it, it will never waver.",
+                "jp": "長い時間を赤霄剣技の研鑽に費やしたが、得られた答えはこれまで教わってきたもののどれとも違っていた。赤霄は私の決意の証だ。キミがこの剣を必要とする時、躊躇うことなく応じよう。",
+                "kr": "적소 검법 연구에 오랜 시간을 썼지만, 얻어낸 답은 지금까지 배워온 어느 것과도 달랐어. 적소는 내 결의의 증표다. 네가 이 검을 필요로 할 때, 주저 없이 응하지.",
+                "cn": "我花了很长时间来参悟赤霄剑法，但得出的答案不同于以往接受的任何教导。赤霄见证了我的决心，当你需要这把剑的时候，它不会有任何迟疑。"
+            },
+            "asset": "char_1050_chen3/CN_014"
+        },
+        {
+            "id": "char_1050_chen3_CN_017",
+            "title": {
+                "en": "Added to Squad",
+                "jp": "編成",
+                "kr": "팀 배치",
+                "cn": "编入队伍"
+            },
+            "text": {
+                "en": "Doesn't feel too unfamiliar yet.",
+                "jp": "仲間との連携はまだ鈍っていないぞ。",
+                "kr": "동료들과의 연계는 아직 무뎌지지 않았다고.",
+                "cn": "还不算生疏。"
+            },
+            "asset": "char_1050_chen3/CN_017"
+        },
+        {
+            "id": "char_1050_chen3_CN_018",
+            "title": {
+                "en": "Appointed as Squad Leader",
+                "jp": "隊長任命",
+                "kr": "팀장 임명",
+                "cn": "任命队长"
+            },
+            "text": {
+                "en": "Don't worry, I wasn't always on my own these past few years.",
+                "jp": "安心しろ、この数年、私は常に独りで行動していたわけではない。",
+                "kr": "안심해. 지난 몇 년간 내가 항상 혼자서 움직였던 건 아니야.",
+                "cn": "放心，这些年我不总是独行。"
+            },
+            "asset": "char_1050_chen3/CN_018"
+        },
+        {
+            "id": "char_1050_chen3_CN_019",
+            "title": {
+                "en": "Depart",
+                "jp": "作戦準備",
+                "kr": "작전 출발",
+                "cn": "行动出发"
+            },
+            "text": {
+                "en": "Move out. I'll make sure no one gets left behind.",
+                "jp": "出発だ。誰一人欠けさせはしない。",
+                "kr": "출발이다. 누구 하나 낙오하게 두지는 않겠어.",
+                "cn": "出发，我会确保没有人掉队。"
+            },
+            "asset": "char_1050_chen3/CN_019"
+        },
+        {
+            "id": "char_1050_chen3_CN_020",
+            "title": {
+                "en": "Begin Operation",
+                "jp": "戦闘開始",
+                "kr": "작전 개시",
+                "cn": "行动开始"
+            },
+            "text": {
+                "en": "Suppression by force isn't an option on this field.",
+                "jp": "これは暴力による排斥を目的とした戦いではない。",
+                "kr": "이건 폭력에 의한 배척을 목적으로 하는 싸움이 아니야.",
+                "cn": "这不是一场旨在暴力倾轧的战斗。"
+            },
+            "asset": "char_1050_chen3/CN_020"
+        },
+        {
+            "id": "char_1050_chen3_CN_021",
+            "title": {
+                "en": "Selecting Operator 1",
+                "jp": "選択時1",
+                "kr": "오퍼레이터 선택 1",
+                "cn": "选中干员1"
+            },
+            "text": {
+                "en": "Fear not the power of this blade.",
+                "jp": "この剣の力を恐れる必要はない。",
+                "kr": "이 검의 힘을 두려워할 필요는 없어.",
+                "cn": "不必畏惧这把剑的力量。"
+            },
+            "asset": "char_1050_chen3/CN_021"
+        },
+        {
+            "id": "char_1050_chen3_CN_022",
+            "title": {
+                "en": "Selecting Operator 2",
+                "jp": "選択時2",
+                "kr": "오퍼레이터 선택 2",
+                "cn": "选中干员2"
+            },
+            "text": {
+                "en": "I know very well why I draw this sword.",
+                "jp": "抜刀する理由ははっきりしている。",
+                "kr": "검을 뽑는 이유는 명확하다.",
+                "cn": "我很清楚拔剑的理由。"
+            },
+            "asset": "char_1050_chen3/CN_022"
+        },
+        {
+            "id": "char_1050_chen3_CN_023",
+            "title": {
+                "en": "Deployment 1",
+                "jp": "配置1",
+                "kr": "배치 1",
+                "cn": "部署1"
+            },
+            "text": {
+                "en": "I'll stop all evil in its tracks.",
+                "jp": "あらゆる悪を、ここで止める。",
+                "kr": "모든 악을 여기서 멈추겠다.",
+                "cn": "我会阻止一切恶行。"
+            },
+            "asset": "char_1050_chen3/CN_023"
+        },
+        {
+            "id": "char_1050_chen3_CN_024",
+            "title": {
+                "en": "Deployment 2",
+                "jp": "配置2",
+                "kr": "배치 2",
+                "cn": "部署2"
+            },
+            "text": {
+                "en": "Chi Xiao, unsheath—",
+                "jp": "――赤霄、抜刀。",
+                "kr": "……적소, 발도.",
+                "cn": "赤霄，拔刀——"
+            },
+            "asset": "char_1050_chen3/CN_024"
+        },
+        {
+            "id": "char_1050_chen3_CN_025",
+            "title": {
+                "en": "In Battle 1",
+                "jp": "作戦中1",
+                "kr": "작전 중 1",
+                "cn": "作战中1"
+            },
+            "text": {
+                "en": "As move unsheathing blade, cleave now as cleft.",
+                "jp": "抜刀の技、破るに当たりて即ち破る。",
+                "kr": "발도의 기술, 부숴야 할 땐 부숴야 하느니.",
+                "cn": "拔刀之招，当破即破。"
+            },
+            "asset": "char_1050_chen3/CN_025"
+        },
+        {
+            "id": "char_1050_chen3_CN_026",
+            "title": {
+                "en": "In Battle 2",
+                "jp": "作戦中2",
+                "kr": "작전 중 2",
+                "cn": "作战中2"
+            },
+            "text": {
+                "en": "As move at teardrop's point, once known be deft.",
+                "jp": "涙鋒の技、断つに当たりて即ち断つ……",
+                "kr": "누봉의 기술, 잘라야 할 땐 잘라야 하느니……",
+                "cn": "泪锋之招，当断即断......"
+            },
+            "asset": "char_1050_chen3/CN_026"
+        },
+        {
+            "id": "char_1050_chen3_CN_027",
+            "title": {
+                "en": "In Battle 3",
+                "jp": "作戦中3",
+                "kr": "작전 중 3",
+                "cn": "作战中3"
+            },
+            "text": {
+                "en": "As sword of stratus rent, once stood stand fast!",
+                "jp": "雲裂の剣、立つるに当たりて則ち立つ！",
+                "kr": "운렬의 검, 세워야 할 땐 세워야 하느니!",
+                "cn": "云裂之剑，当立则立！"
+            },
+            "asset": "char_1050_chen3/CN_027"
+        },
+        {
+            "id": "char_1050_chen3_CN_028",
+            "title": {
+                "en": "In Battle 4",
+                "jp": "作戦中4",
+                "kr": "작전 중 4",
+                "cn": "作战中4"
+            },
+            "text": {
+                "en": "As sword of heaven's plaint, bid dawn as cast.",
+                "jp": "天喟の剣、明くるに当たりて即ち明く。",
+                "kr": "천위의 검, 밝혀야 할 땐 밝혀야 하느니.",
+                "cn": "天喟之剑，当明则明。"
+            },
+            "asset": "char_1050_chen3/CN_028"
+        },
+        {
+            "id": "char_1050_chen3_CN_029",
+            "title": {
+                "en": "4-star Result",
+                "jp": "高難度作戦クリア",
+                "kr": "고난이도 작전 종료",
+                "cn": "完成高难行动"
+            },
+            "text": {
+                "en": "Nicely done, Doctor… you're mistaken. That light in the sky wasn't from my swordplay.",
+                "jp": "無事に終わったな、ドクター……違うぞ、あの光は私の剣が放ったものではない。",
+                "kr": "무사히 끝났군, 박사…… 아니, 저 빛은 내 검에서 나온 게 아니야.",
+                "cn": "顺利结束，博士......你看错了，那道天光不是来自我的剑法。"
+            },
+            "asset": "char_1050_chen3/CN_029"
+        },
+        {
+            "id": "char_1050_chen3_CN_030",
+            "title": {
+                "en": "3-star Result",
+                "jp": "★3で戦闘終了",
+                "kr": "3★ 작전 종료",
+                "cn": "3星结束行动"
+            },
+            "text": {
+                "en": "One day, we won't have to make right with might.",
+                "jp": "いつかきっと、刃先で正義を求めずに済む日が来るだろう。",
+                "kr": "언젠가 분명, 칼끝으로 정의를 구하지 않아도 되는 날이 오겠지.",
+                "cn": "总有一天，我们可以不用在剑锋上寻找公义。"
+            },
+            "asset": "char_1050_chen3/CN_030"
+        },
+        {
+            "id": "char_1050_chen3_CN_031",
+            "title": {
+                "en": "Sub 3-star Result",
+                "jp": "★2以下戦闘終了",
+                "kr": "비 3★ 작전 종료",
+                "cn": "非3星结束行动"
+            },
+            "text": {
+                "en": "They'd best take this chance to repent.",
+                "jp": "連中が悔い改める機会を無駄にしないといいな。",
+                "kr": "놈들이 회개할 기회를 낭비하지 않았으면 좋겠군.",
+                "cn": "他们最好珍惜悔过的机会。"
+            },
+            "asset": "char_1050_chen3/CN_031"
+        },
+        {
+            "id": "char_1050_chen3_CN_032",
+            "title": {
+                "en": "Operation Failure",
+                "jp": "作戦失敗",
+                "kr": "작전 실패",
+                "cn": "行动失败"
+            },
+            "text": {
+                "en": "Come on, don't lose heart over one setback.",
+                "jp": "気を落とすな。この程度の挫折でへこたれるキミではないだろう。",
+                "kr": "낙심하지 마라. 이 정도 좌절로 주저앉을 네가 아니잖아.",
+                "cn": "打起精神，你不该因为这点挫折丧气。"
+            },
+            "asset": "char_1050_chen3/CN_032"
+        },
+        {
+            "id": "char_1050_chen3_CN_033",
+            "title": {
+                "en": "Assigned to Facility",
+                "jp": "基地配属",
+                "kr": "시설에 배치",
+                "cn": "进驻设施"
+            },
+            "text": {
+                "en": "Furnishings haven't changed. Nice.",
+                "jp": "インテリアは以前と変わらないな。悪くない。",
+                "kr": "인테리어는 예전과 다름없군. 나쁘지 않아.",
+                "cn": "布置和原来一样，不错。"
+            },
+            "asset": "char_1050_chen3/CN_033"
+        },
+        {
+            "id": "char_1050_chen3_CN_034",
+            "title": {
+                "en": "Tap",
+                "jp": "タッチ1",
+                "kr": "터치",
+                "cn": "戳一下"
+            },
+            "text": {
+                "en": "Doctor, careful you don't poke yourself with the end of my blade.",
+                "jp": "ドクター、刃先に気をつけろ。",
+                "kr": "박사, 칼끝을 조심해라.",
+                "cn": "博士，当心剑锋。"
+            },
+            "asset": "char_1050_chen3/CN_034"
+        },
+        {
+            "id": "char_1050_chen3_CN_036",
+            "title": {
+                "en": "Trust Tap",
+                "jp": "信頼タッチ",
+                "kr": "신뢰도 터치",
+                "cn": "信赖触摸"
+            },
+            "text": {
+                "en": "You don't have to ask—I'm the same old Ch'en, haven't changed one bit.",
+                "jp": "確かめる必要はない。私は私だ。何も変わっていない。",
+                "kr": "확인할 필요 없어. 나는 나다. 아무것도 변하지 않았어.",
+                "cn": "不用确认了，我还是我，一点没变。"
+            },
+            "asset": "char_1050_chen3/CN_036"
+        },
+        {
+            "id": "char_1050_chen3_CN_037",
+            "title": {
+                "en": "Title",
+                "jp": "タイトルコール",
+                "kr": "타이틀",
+                "cn": "标题"
+            },
+            "text": {
+                "en": "Arknights.",
+                "jp": "アークナイツ。",
+                "kr": "명일방주.",
+                "cn": "明日方舟。"
+            },
+            "asset": "char_1050_chen3/CN_037"
+        },
+        {
+            "id": "char_1050_chen3_CN_038",
+            "title": {
+                "en": "New Year's blessing",
+                "jp": "新年",
+                "kr": "새해",
+                "cn": "新年祝福"
+            },
+            "text": {
+                "en": "I've seen many different kinds of new years. Once, I watched a group take shelter under huge Originium clusters, promising each other everything would get better while they clinked muddy cups of water together, silently waiting for the sunrise… it's nothing, Doctor. This day only comes once a year, so let's go celebrate with the others.",
+                "jp": "私は様々な新年を見てきた。巨大な源石クラスターの下で雨をしのぎ、濁った泥水で乾杯し、互いに「これからすべてが良くなる」と告げてから、静かに朝日を待つ者もいた……いや、何でもない。せっかくのめでたい日だ。皆と祝いに行こう、ドクター。",
+                "kr": "난 여러 곳의 새해를 봤다. 거대한 오리지늄 결정 군집 밑에서 비를 피하고, 흙탕물로 건배하며, 서로에게 “이제부터 다 좋아질 거야”라고 말한 뒤, 조용히 아침 해를 기다리는 사람도 있었지…… 아니, 아무것도 아니야. 모처럼 축제 날이다. 함께 축하하러 가지, 박사.",
+                "cn": "我见过不同地方的新年，有人会在巨大的源石晶簇下避雨，用浑浊的泥水碰杯，告诉彼此一切都会好的，然后沉默着等待太阳升起......没什么，博士。难得的节日，去和大家一起庆祝吧。"
+            },
+            "asset": "char_1050_chen3/CN_038"
+        },
+        {
+            "id": "char_1050_chen3_CN_042",
+            "title": {
+                "en": "Greeting",
+                "jp": "挨拶",
+                "kr": "인사",
+                "cn": "问候"
+            },
+            "text": {
+                "en": "Doctor, you haven't changed one bit.",
+                "jp": "相変わらずだな、ドクター。",
+                "kr": "변함없군, 박사.",
+                "cn": "博士，一点都没变呢。"
+            },
+            "asset": "char_1050_chen3/CN_042"
+        },
+        {
+            "id": "char_1050_chen3_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": "Perfect timing, Doctor. Here's a Bolívarian wood carving, a Victorian tea set, and an Ursine... I'm not asking you to choose, they're all for you. It's been a few years since we've seen each other, so I owe you a few birthday presents. Don't be shy. Happy birthday, Doctor.",
+                "jp": "ドクター、ちょうどいいところに来た。これはボリバルの木彫り、こっちはヴィクトリアの茶器、それとウルサスの……いや、選ばなくていい。全部キミへの贈り物だ。何年も会っていなかったから、遅れた分もまとめて渡そう。誕生日おめでとう、ドクター。",
+                "kr": "박사, 마침 딱 좋을 때 왔군. 이건 볼리바르의 나무 조각, 이쪽은 빅토리아의 다기, 그리고 우르수스의…… 아니, 고르지 않아도 돼. 전부 다 네게 주는 선물이다. 몇 년 못 만났으니까, 밀린 선물도 한꺼번에 주지. 생일 축하한다, 박사.",
+                "cn": "博士，你来得正好。这里有玻利瓦尔的木雕、维多利亚的茶具，还有乌萨斯的......不是让你选，都是送你的。几年没见，欠着的礼物也一起补给你，不用客气。生日快乐，博士。"
+            },
+            "asset": "char_1050_chen3/CN_043"
+        },
+        {
+            "id": "char_1050_chen3_CN_044",
+            "title": {
+                "en": "Anniversary Celebration",
+                "jp": "周年",
+                "kr": "애니버서리",
+                "cn": "周年庆典"
+            },
+            "text": {
+                "en": "I remember the first time I collaborated with Rhodes Island. A difficult fight, but a single Black Snake is nothing to worry about. What's scary is the countless villains out there who use despair to force people into doing their bidding. There's no winning our fights with brute force alone, so we have to keep improving ourselves.",
+                "jp": "最初にロドスと手を組んだ時のことを思い出す。あれは本当に過酷な戦いだった。黒蛇一人だけなら恐るるに足らない。が、本当に恐ろしいのは大地を覆わんとする無数の人々の絶望だ。今、我々が相対している敵は武力で倒せるものではない。私たちは、より多くを成し遂げねばならないんだ。",
+                "kr": "처음 로도스 아일랜드와 손잡았던 때가 생각나는군. 그건 정말 가혹한 싸움이었다. 검은 뱀 혼자였다면 두려워할 것 없지. 하지만, 진짜 두려운 것은 대지를 덮으려고 하는 무수한 사람들의 절망이다. 지금 우리가 상대하고 있는 적은 무력으로 쓰러뜨릴 수 있는 것이 아니야. 우리는 더 많은 것을 해내야만 한다.",
+                "cn": "我想起了第一次与罗德岛合作的时候，那真是一场艰难的战斗。只是一条黑蛇并不可怕，可怕的是还有无数用绝望来裹挟这片大地的人。如今我们面对的敌人并非武力可以战胜，我们必须做得更好。"
+            },
+            "asset": "char_1050_chen3/CN_044"
+        }
+    ],
+    "actors": {
+        "en": {
+            "native": "Amy Lennox",
+            "global": "Amy Lennox"
+        },
+        "cn": {
+            "native": "虫虫",
+            "global": "Jen Zhang"
+        },
+        "cn_topolect": {
+            "native": "包少爷",
+            "global": "Sunny So"
+        },
+        "jp": {
+            "native": "石上静香",
+            "global": "Shizuka Ishigami"
+        },
+        "kr": {
+            "native": "정유정",
+            "global": "Chung Yu-joung"
+        }
+    },
+    "availability": [
+        "en",
+        "cn",
+        "cn_topolect",
+        "jp",
+        "kr"
+    ]
+}

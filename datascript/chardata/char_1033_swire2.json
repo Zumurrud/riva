@@ -145,7 +145,7 @@
                 "cn": "信赖提升后交谈3"
             },
             "text": {
-                "en": "Is this the last document you have? Alright! You really kept me waiting this time, but finally, time for supper! I know this new place that's not so bad. It's on me tonigh—Oh, You don't want me spending money?  Umm... alright, then it's on you. I know some other places.",
+                "en": "Is this the last document you have? Alright! You really kept me waiting this time, but finally, time for supper! I know this new place that's not so bad. It's on me tonigh—Oh, You don't want me spending money? Umm... alright, then it's on you. I know some other places.",
                 "jp": "これが最後のファイルね、お疲れ様！待ちくたびれたわ。やっと仕事とおさらばしてご飯に行けるわね～。新しくオープンした良い店を知ってるから、アタシのおごりで――これ以上、気を遣わせたくないって言うの？そう……じゃあ、おごられてあげてもいいわよ。もう一軒おすすめがあるから行きましょ。",
                 "kr": "이게 마지막 파일이지? 오케이, 기다려줘서 고마워! 드디어 퇴근하고 밥 먹으러 갈 수 있겠네. 아, 새로 오픈한 괜찮은 레스토랑을 하나 알고 있는데, 내가 쏠 테니까 같이…… 더 이상 돈 쓰게 하고 싶지 않다고? 흐음…… 그럼 네가 쏘는 거지? 다른 가게도 괜찮은 데 있으니까 거기로 가자.",
                 "cn": "这是最后一份文件了吧，好！等了这么久，终于可以下班去吃饭了。我知道有家新开的店还不错，我请客——不想再让我破费？唔......那让你请客也行，我还知道另一家店。"
@@ -209,7 +209,7 @@
                 "cn": "精英化晋升1"
             },
             "text": {
-                "en": "Exceptional talents earn exceptional rewards. That's how things should be.",
+                "en": "Exceptional talents earn exceptional rewards. That's just how things should be.",
                 "jp": "優秀な人材が表彰をされる、まったくもって当たり前ね！",
                 "kr": "우수한 인재가 표창을 받는 건 당연한 일이지!",
                 "cn": "优秀的人才得到嘉奖，这是理所应当的。"
@@ -449,7 +449,7 @@
                 "cn": "3星结束行动"
             },
             "text": {
-                "en": "Don't get cocky. This is just barely a pass mark by L.G.D. standards, but if you manage to keep this up, I guess I could still commend you.",
+                "en": "Don't get cocky. This is barely a pass mark by L.G.D. standards, but if you manage to keep this up, I guess I could still commend you.",
                 "jp": "得意にならないでね。近衛局の求める基準からすると、ギリギリ合格ってところだから。でも、もしこれを維持できるっていうなら、アンタを褒めてあげなくもないわよ。",
                 "kr": "우쭐대지 마. 근위국이 요구하는 기준에서 보자면 아슬아슬하게 합격인 수준이니까. 그래도 지금 이 상태를 계속 유지한다면 칭찬 정도는 해줄게.",
                 "cn": "别骄傲，以近卫局的要求勉强是及格分吧。但如果能保持的话，也不是不能表扬你一下。"
@@ -593,7 +593,7 @@
                 "cn": "生日"
             },
             "text": {
-                "en": "Happy birthday, Doctor! Over the last two years, I've come to realize more and more that only shallow friendships need all that shallow pretense to maintain, so I didn't get you anything this year. Doctor, take a day off. If there's anything you want to do or anywhere you want to go, I'll come with you.",
+                "en": "Happy birthday, Doctor! Over the last two years, I've come to realize more and more that only shallow friendships need all that shallow pretense to maintain, so I didn't get you anything this year. Doctor, take the day off. If there's anything you want or anywhere you want to go, I'll keep you company.",
                 "jp": "誕生日おめでとう、ドクター！ここ数年ね、薄っぺらい関係であればあるほど、小手先のもので関係維持をするんだって感じるのよね。だから今年はプレゼントを用意してないわよ。ドクター、今日は休みを取ったらどう？行きたい場所とか、やりたい遊びがあったら、何でも付き合ってあげるわよ。",
                 "kr": "생일 축하해, 박사! 요즘 들어 느끼는 건데, 가벼운 관계일수록 시간과 에너지를 더 써야 유지할 수 있는 것 같아. 그래서 올해는 생일 선물을 따로 준비하지 않았어. 그 대신 박사, 오늘은 하루 쉬는 게 어때? 가고 싶은 곳이나 하고 싶은 게 있다면 내가 함께해 줄게.",
                 "cn": "生日快乐博士！这两年逐渐觉得，越是泛泛之交，才越需要表面功夫维系关系，所以今年没有准备礼物哦。博士，给自己放一天假吧，有什么想去的地方或是想玩的，我陪你去。"
@@ -609,7 +609,7 @@
                 "cn": "周年庆典"
             },
             "text": {
-                "en": "The relationships you build on the battlefield are not something you can fake. Hoshiguma is pretty worried about that stuff, though, always beating around the bush. Next time, I'll drag her to Rhodes Island to join the parties. Avoiding suspicion? I'm the chief of the L.G.D. Who am I supposed to avoid looking suspicious to?",
+                "en": "The relationships you build on the battlefield are not something you can fake. Hoshiguma seems pretty concerned about your relationship with the L.G.D., but I know why she's beating around the bush. Hehe, next time, I'll drag her to Rhodes Island to join the parties.",
                 "jp": "共に戦場で肩を並べた絆っていうのは、本物なの。なのにホシグマったら、どう見たって参加したがってるのに、無駄にカッコつけちゃって。次は絶対アイツを引っ張ってきてロドスでパーティーするわよ……不用意な行動は避けた方がいい？アタシが局長なんだけど。局長のアタシが誰に遠慮するのよ？",
                 "kr": "전장에서 함께 쌓아 올린 유대감은 거짓이 아니야. 근데 호시구마 그 녀석은 누가 봐도 끼고 싶어 하는 눈치인데도 엄청 사양한다니까. 다음엔 꼭 그 녀석을 끌고 와서라도 로도스 아일랜드에서 파티할 거야…… 괜한 행동은 하지 말라고? 내가 국장인데, 국장인 내가 남의 눈치를 봐야 하냐고!",
                 "cn": "一起上过战场的交情做不了假，反倒是星熊那家伙，明明在意得很，就是要遮遮掩掩的，下次一定拉着她来罗德岛开派对......避嫌？我都已经是局长了，我向谁避嫌？"
@@ -626,6 +626,10 @@
             "native": "谢莹",
             "global": "Ying Xie"
         },
+        "cn_topolect": {
+            "native": "东东",
+            "global": "Qiantong Wu"
+        },
         "jp": {
             "native": "徳井青空",
             "global": "Sora Tokui"
@@ -633,17 +637,13 @@
         "kr": {
             "native": "김율",
             "global": "Kim Yul"
-        },
-        "cn_topolect": {
-            "native": "东东",
-            "global": "Qiantong Wu"
         }
     },
     "availability": [
         "en",
         "cn",
+        "cn_topolect",
         "jp",
-        "kr",
-        "cn_topolect"
+        "kr"
     ]
 }

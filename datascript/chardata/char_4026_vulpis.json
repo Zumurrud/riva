@@ -634,7 +634,7 @@
             "native": "전해리",
             "global": "Jeon Hae-ri"
         },
-        "ita": {
+        "it": {
             "native": "Virginia Astarita",
             "global": "Virginia Astarita"
         }
@@ -644,6 +644,6 @@
         "cn",
         "jp",
         "kr",
-        "ita"
+        "it"
     ]
 }

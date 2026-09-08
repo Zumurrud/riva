@@ -624,7 +624,7 @@
         },
         "cn": {
             "native": "陆泊云",
-            "global": "Lu Boyun"
+            "global": "Boyun Lu"
         },
         "jp": {
             "native": "寺島惇太",
@@ -634,7 +634,7 @@
             "native": "김동현",
             "global": "Kim Dong-hyun"
         },
-        "ita": {
+        "it": {
             "native": "Ezio Vivolo",
             "global": "Ezio Vivolo"
         }
@@ -644,6 +644,6 @@
         "cn",
         "jp",
         "kr",
-        "ita"
+        "it"
     ]
 }

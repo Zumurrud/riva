@@ -634,7 +634,7 @@
             "native": "이주은",
             "global": "Lee Ju-eun"
         },
-        "rus": {
+        "ru": {
             "native": "Anna Gorkina",
             "global": "Anna Gorkina"
         }
@@ -644,6 +644,6 @@
         "cn",
         "jp",
         "kr",
-        "rus"
+        "ru"
     ]
 }

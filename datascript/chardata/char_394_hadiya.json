@@ -1,0 +1,644 @@
+{
+    "charid": "char_394_hadiya",
+    "nameid": "hadiya",
+    "names": {
+        "en": "Hadiya",
+        "jp": "ハディヤ",
+        "kr": "하디야",
+        "cn": "哈蒂娅"
+    },
+    "voices": [
+        {
+            "id": "char_394_hadiya_CN_001",
+            "title": {
+                "en": "Appointed as Assistant",
+                "jp": "秘書任命",
+                "kr": "어시스턴트 임명",
+                "cn": "任命助理"
+            },
+            "text": {
+                "en": "Doctor, would you like to study the languages and lifestyles of tribal Sargon with me? It'll be harder than combat training, for sure.",
+                "jp": "ドクター、一緒にサルゴンの部族に伝わる文字とかライフスタイルを勉強してみない？戦闘訓練よりもよっぽど手ごわいよ。",
+                "kr": "박사, 같이 사르곤 부족에 전해지는 문자나 생활 방식을 공부해 보지 않을래? 전투 훈련보단 훨씬 까다로워.",
+                "cn": "博士，要来跟我一起学习一下萨尔贡部族的文字和生活方式吗？比起战斗训练，这些可难多了。"
+            },
+            "asset": "char_394_hadiya/CN_001"
+        },
+        {
+            "id": "char_394_hadiya_CN_002",
+            "title": {
+                "en": "Talk 1",
+                "jp": "会話1",
+                "kr": "대화 1",
+                "cn": "交谈1"
+            },
+            "text": {
+                "en": "I bear a duty to my tribe, and I will see it through to the end. Tribal heritage is a pretty distant thing to a girl who grew up in Columbia, but the doubts of a few lords ameer won't discourage me!",
+                "jp": "部族復興の責任を担ったからには、最後までやり抜く覚悟だよ。部族の伝承なんてクルビア育ちの私には正直ちょっとピンとこない話だけど、首長たちから資質を疑われたくらいじゃ折れないんだから！",
+                "kr": "부족 부흥의 책임을 짊어졌으니까, 끝까지 완수할 각오를 하고 있어. 부족의 전승 같은 거, 컬럼비아에서 자란 나한테는 솔직히 잘 와닿지 않는 이야기지만, 아미르들한테 자질을 의심받은 정도로는 꺾이지 않으니까!",
+                "cn": "我身负了部族的责任，就一定会履行到底。所谓的部族传承，对在哥伦比亚长大的我来说其实有些遥远，但是我不会因为受到几个王酋的质疑就轻言放弃！"
+            },
+            "asset": "char_394_hadiya/CN_002"
+        },
+        {
+            "id": "char_394_hadiya_CN_003",
+            "title": {
+                "en": "Talk 2",
+                "jp": "会話2",
+                "kr": "대화 2",
+                "cn": "交谈2"
+            },
+            "text": {
+                "en": "Isn't Kestrel's weapon just awesome? The way she wields it is so different from any other weapon. I'd love to spar with her, to learn her style, when I get the chance.",
+                "jp": "ケストレルの武器って超クールじゃない！？振り方も力の入れ方も普通の武器とは全然違うんだ。機会があったらじっくり手合わせしたいな。",
+                "kr": "케스트럴의 무기, 완전 멋지지 않아?! 휘두르는 방법도 힘을 주는 방식도 보통 무기하고는 아예 다르더라. 기회가 있다면 제대로 겨뤄보고 싶네.",
+                "cn": "你不觉得红隼姐手里的那把武器超级酷吗？！它的挥砍方式和着力点跟一般武器完全不一样，有机会我要找她多讨教几次。"
+            },
+            "asset": "char_394_hadiya/CN_003"
+        },
+        {
+            "id": "char_394_hadiya_CN_004",
+            "title": {
+                "en": "Talk 3",
+                "jp": "会話3",
+                "kr": "대화 3",
+                "cn": "交谈3"
+            },
+            "text": {
+                "en": "Uh… thank you. I'm having a hard time getting used to this Sargonian alcohol. I miss Columbian kale soda.",
+                "jp": "うわ……気持ちは嬉しいんだけど、サルゴンのこういうアルコールたっぷりの「ドリンク」は今でもやっぱり苦手なんだよね。あーあ、クルビアのケールソーダが恋しいよ。",
+                "kr": "으음…… 마음은 고맙지만, 이렇게 알코올이 잔뜩 들어간 사르곤 '음료'는 지금도 역시 영 적응이 안 돼서 말이지. 아아~ 컬럼비아의 케일 소다가 그리워.",
+                "cn": "呃......感谢你的好意，萨尔贡这些富含酒精的“饮料”我到现在还是完全喝不惯，真怀念哥伦比亚的羽衣甘蓝气泡水。"
+            },
+            "asset": "char_394_hadiya/CN_004"
+        },
+        {
+            "id": "char_394_hadiya_CN_005",
+            "title": {
+                "en": "Talk after Promotion 1",
+                "jp": "昇進後会話1",
+                "kr": "1차 정예화 후 대화",
+                "cn": "晋升后交谈1"
+            },
+            "text": {
+                "en": "That's true. I've lost a few fights with those ameeri guards, and sometimes it wasn't even close. But there's still time, I'll get my chance.",
+                "jp": "そうだね。前に首長お付きの戦士に挑んでた時は勝ったり負けたりだったし、反撃の糸口すら掴めなかったこともあるよ。でも全然平気。私にはまだまだ時間もチャンスもたっぷり残ってるんだから。",
+                "kr": "맞아, 예전에 아미르 근위병에게 도전했을 땐 이기기도 지기도 했고, 반격의 실마리조차 잡지 못한 적도 있었어. 그래도 괜찮아. 나한테는 아직 시간도 기회도 충분히 남아 있으니까.",
+                "cn": "没错，之前向那些王酋亲兵挑战的时候，我并不能每次都胜过他们，有好几次甚至没机会还击。不过没什么关系，我还有时间和机会。"
+            },
+            "asset": "char_394_hadiya/CN_005"
+        },
+        {
+            "id": "char_394_hadiya_CN_006",
+            "title": {
+                "en": "Talk after Promotion 2",
+                "jp": "昇進後会話2",
+                "kr": "2차 정예화 후 대화",
+                "cn": "晋升后交谈2"
+            },
+            "text": {
+                "en": "The padishahs and local warriors look down on Columbian composite swords, just because they're designed for urban combat. But I'll show them the potential of combining modern technology with traditional tactics someday.",
+                "jp": "クルビアのコンバインド・ソードは市街戦を想定してデザインされてるから、パーディシャーとかサルゴンの戦士たちには鼻で笑われちゃうんだ。でも、現代のテクノロジーと伝統的な戦術は融合させられるってこと、あの人たちにも絶対証明してみせるよ！",
+                "kr": "컬럼비아의 컴바인드 소드는 시가전을 상정해서 디자인된 거라, 파디샤나 사르곤 전사들에게는 비웃음을 당하곤 해. 하지만 현대 기술과 전통적인 전술은 융합할 수 있다는 걸, 그 사람들한테도 반드시 증명해 보일 거야!",
+                "cn": "哥伦比亚的组合剑是专为城市作战设计的，所以帕夏和当地的战士们会看不起这样的武器。不过，总有一天我会向他们证明，现代科技和传统战术也有融合的可能！"
+            },
+            "asset": "char_394_hadiya/CN_006"
+        },
+        {
+            "id": "char_394_hadiya_CN_007",
+            "title": {
+                "en": "Talk after Trust Increase 1",
+                "jp": "信頼上昇後会話1",
+                "kr": "신뢰도 상승 후 대화 1",
+                "cn": "信赖提升后交谈1"
+            },
+            "text": {
+                "en": "Remember, it's vital to stay hydrated, Doctor. Once you spend a whole month in the wilds of Sargon, during the dry season, without seeing so much as the mirage of an oasis… you'll get it.",
+                "jp": "ドクター、水はこまめに飲むようにね。体の水分を維持するのってほんとに大事なことなんだよ。いつか乾季のサルゴンの荒野に行って、何十日も水源が見つからなかったら、私が口を酸っぱく言ってた理由もきっと分かるからさ。",
+                "kr": "박사, 물은 자주 마시도록 해. 몸의 수분을 유지하는 건 정말 중요한 일이야. 언젠가 건기의 사르곤 황야에 갔을 때 수십 일 동안 수원지를 못 찾게 된다면, 내가 입이 닳도록 말했던 이유를 분명 알게 될 테니까.",
+                "cn": "博士，记得平常多喝点水，保持体内水分充足是很重要的。等到去了萨尔贡的旱季荒野，几十天都找不到水源的时候，你就知道为什么我这么在乎这件事了。"
+            },
+            "asset": "char_394_hadiya/CN_007"
+        },
+        {
+            "id": "char_394_hadiya_CN_008",
+            "title": {
+                "en": "Talk after Trust Increase 2",
+                "jp": "信頼上昇後会話2",
+                "kr": "신뢰도 상승 후 대화 2",
+                "cn": "信赖提升后交谈2"
+            },
+            "text": {
+                "en": "At first, there weren't many tribes who believed I'm actually descended from the Qarnsayf. Can't blame them, considering how the legend has faded from history. You believed me from the start? Oh… I mean, thank you…",
+                "jp": "最初はね、私がカルンサイフの末裔だって言っても、信じてくれる部族なんて荒野のどこにもなかったんだ。まあ部族の伝説が風化しちゃったのも遠い昔の話だし、無理もないけどさ。ドクターは初めから信じてたって？えっと……あの……ありがとう……",
+                "kr": "처음에는 내가 카른사이프의 후예라고 말해도, 황야 어디에도 믿어주는 부족이 없었어. 뭐, 부족의 전설이 잊힌 지도 오래전 이야기니까 당연한 거겠지만. 박사는 처음부터 믿었다고? 어…… 그…… 고마워……",
+                "cn": "起初，荒野上几乎没有部族愿意相信我就是剑角的后裔。毕竟传说已经消逝了那么多年，他们那样做也无可厚非。一开始你就相信我是？啊......我的意思是......谢谢......"
+            },
+            "asset": "char_394_hadiya/CN_008"
+        },
+        {
+            "id": "char_394_hadiya_CN_009",
+            "title": {
+                "en": "Talk after Trust Increase 3",
+                "jp": "信頼上昇後会話3",
+                "kr": "신뢰도 상승 후 대화 3",
+                "cn": "信赖提升后交谈3"
+            },
+            "text": {
+                "en": "My dream is to host a martial arts tournament in Sargon, and gather all the warriors from all the lands, so they can share in the glory of the Qarnsayf. You should come too, and bring the best of Rhodes Island with you! Yeah, it's a promise, Doctor!",
+                "jp": "私、サルゴンで闘技大会を開くのが夢なんだ。テラ中の戦士をカルンサイフに集めて、私たちの栄光を一緒に分かち合うの。もしほんとに開けたら、ドクターもロドスの強者たちを連れて参加してね！よし、約束だよ！",
+                "kr": "나, 사르곤에서 무술 대회를 여는 게 꿈이야. 테라의 전사들을 카른사이프에 모아서, 우리의 영광을 함께 나누는 거지. 만약 진짜 열게 된다면, 박사도 로도스 아일랜드의 강자들을 데리고 참가해 줘! 좋아, 약속이야!",
+                "cn": "我的梦想是在萨尔贡举行一场比武大会，让大地上的战士们齐聚剑角部族，共享我们的荣耀。博士，到时候也请你带上这里的好手，一起来参与盛会！嗯，一言为定！"
+            },
+            "asset": "char_394_hadiya/CN_009"
+        },
+        {
+            "id": "char_394_hadiya_CN_010",
+            "title": {
+                "en": "Idle",
+                "jp": "放置",
+                "kr": "방치",
+                "cn": "闲置"
+            },
+            "text": {
+                "en": "You can rest safely here. We're not in the wilds.",
+                "jp": "荒野にいるわけじゃないし、気を張らずにゆっくり休んでね。",
+                "kr": "황야에 있는 것도 아니니까, 안심하고 푹 쉬어.",
+                "cn": "这里不是荒野，放心休息吧。"
+            },
+            "asset": "char_394_hadiya/CN_010"
+        },
+        {
+            "id": "char_394_hadiya_CN_011",
+            "title": {
+                "en": "Onboard",
+                "jp": "入職会話",
+                "kr": "오퍼레이터 입사",
+                "cn": "干员报到"
+            },
+            "text": {
+                "en": "Hello, Doctor. I'm Hadiya, descendant of the Sargonian Qarnsayf tribe. I've come to study at Rhodes Island in order to overcome the challenges that the wilds have set for me.",
+                "jp": "はじめましてドクター。私はハディヤ、「カルンサイフ」っていうサルゴン部族の末裔だよ。荒野が与えてくれた試練を乗り越えるために、ロドスに修行しに来たんだ。",
+                "kr": "만나서 반가워, 박사. 나는 하디야, '카른사이프'라는 사르곤 부족의 후예야. 황야가 준 시련을 극복하기 위해, 로도스 아일랜드에 수행하러 왔어.",
+                "cn": "博士你好，我是哈蒂娅，萨尔贡的剑角部族的后裔，为了完成荒野给我的挑战，前来罗德岛进行学习。"
+            },
+            "asset": "char_394_hadiya/CN_011"
+        },
+        {
+            "id": "char_394_hadiya_CN_012",
+            "title": {
+                "en": "Watching Battle Record",
+                "jp": "経験値上昇",
+                "kr": "작전기록 학습",
+                "cn": "观看作战记录"
+            },
+            "text": {
+                "en": "Sargon warriors say that combat is the way to grow, but I can learn in this way too. Let's get started.",
+                "jp": "サルゴンの戦士たちはいつも戦いの中で成長しろって言うけど、私はこういう勉強法でも大丈夫。よし、さっそく始めよう。",
+                "kr": "사르곤의 전사들은 항상 싸움 속에서 성장하라고 말하지만, 나는 이런 공부법도 괜찮아. 좋아, 바로 시작하자.",
+                "cn": "那些萨尔贡战士总说要在战斗中成长，但我用这样的方式也能学习，开始吧。"
+            },
+            "asset": "char_394_hadiya/CN_012"
+        },
+        {
+            "id": "char_394_hadiya_CN_013",
+            "title": {
+                "en": "Promotion 1",
+                "jp": "昇進Ⅰ",
+                "kr": "1차 정예화 (승진)",
+                "cn": "精英化晋升1"
+            },
+            "text": {
+                "en": "I'm still a very long way from my goal, but please accept my gratitude.",
+                "jp": "目標の大きさを考えれば、私の成し遂げられたことはまだまだ小さいと思ってる。だけど、こういう場を設けてくれたこと、本当に感謝してるよ。",
+                "kr": "목표의 크기를 생각하면, 내가 이룬 건 아직 작다고 생각해. 그래도, 이런 자리를 마련해 줘서 정말 고마워.",
+                "cn": "相比起我的目标，我做到的事还微不足道，不过请接受我的谢意。"
+            },
+            "asset": "char_394_hadiya/CN_013"
+        },
+        {
+            "id": "char_394_hadiya_CN_014",
+            "title": {
+                "en": "Promotion 2",
+                "jp": "昇進Ⅱ",
+                "kr": "2차 정예화 (승진)",
+                "cn": "精英化晋升2"
+            },
+            "text": {
+                "en": "You honor my tribe when you honor me. Thank you for the recognition.",
+                "jp": "私が賜った栄誉はつまり部族の栄誉だよ。ドクター、認めてくれてありがとう。",
+                "kr": "내가 받은 영예는 곧 부족의 영예야. 박사, 인정해 줘서 고마워.",
+                "cn": "我的荣誉即是部族的荣誉。博士，感谢你的认可。"
+            },
+            "asset": "char_394_hadiya/CN_014"
+        },
+        {
+            "id": "char_394_hadiya_CN_017",
+            "title": {
+                "en": "Added to Squad",
+                "jp": "編成",
+                "kr": "팀 배치",
+                "cn": "编入队伍"
+            },
+            "text": {
+                "en": "An opportunity to try out some new moves.",
+                "jp": "こないだ覚えた技を試してみよう。",
+                "kr": "얼마 전에 익힌 기술을 시험해 볼까.",
+                "cn": "该试试之前学到的新招式了。"
+            },
+            "asset": "char_394_hadiya/CN_017"
+        },
+        {
+            "id": "char_394_hadiya_CN_018",
+            "title": {
+                "en": "Appointed as Squad Leader",
+                "jp": "隊長任命",
+                "kr": "팀장 임명",
+                "cn": "任命队长"
+            },
+            "text": {
+                "en": "Like the wilds of Sargon, the battlefield is more dangerous than it looks. Make sure you know what you're doing.",
+                "jp": "どこの戦場もサルゴンの荒野と同じで、見た目以上にずっと危険なんだよ。みんな無暗に行動しないようにね。",
+                "kr": "어떤 전장이든 사르곤의 황야처럼, 보기보다 훨씬 위험해. 다들 함부로 행동하지 마.",
+                "cn": "很多战场和萨尔贡的荒野一样，实际比看起来要危险得多，记住不要盲目行动。"
+            },
+            "asset": "char_394_hadiya/CN_018"
+        },
+        {
+            "id": "char_394_hadiya_CN_019",
+            "title": {
+                "en": "Depart",
+                "jp": "作戦準備",
+                "kr": "작전 출발",
+                "cn": "行动出发"
+            },
+            "text": {
+                "en": "Is your equipment ready? It all comes down to this—time to fight!",
+                "jp": "装備の確認はバッチリ？じゃあいよいよ――戦いの時間だ！",
+                "kr": "장비 확인은 제대로 했어? 자 이제 드디어…… 싸울 시간이다!",
+                "cn": "装备都确认好了？那接下来就是——战斗时间！"
+            },
+            "asset": "char_394_hadiya/CN_019"
+        },
+        {
+            "id": "char_394_hadiya_CN_020",
+            "title": {
+                "en": "Begin Operation",
+                "jp": "戦闘開始",
+                "kr": "작전 개시",
+                "cn": "行动开始"
+            },
+            "text": {
+                "en": "Which weapon would you like to be on the receiving end of?",
+                "jp": "今回はどっちの武器で懲らしめてあげようかな！",
+                "kr": "이번엔 어느 쪽 무기로 혼내줄까!",
+                "cn": "这次用哪只手的武器来教训你们呢！"
+            },
+            "asset": "char_394_hadiya/CN_020"
+        },
+        {
+            "id": "char_394_hadiya_CN_021",
+            "title": {
+                "en": "Selecting Operator 1",
+                "jp": "選択時1",
+                "kr": "오퍼레이터 선택 1",
+                "cn": "选中干员1"
+            },
+            "text": {
+                "en": "My turn, finally.",
+                "jp": "やっと出番だね。",
+                "kr": "드디어 내 차례네.",
+                "cn": "终于到我了。"
+            },
+            "asset": "char_394_hadiya/CN_021"
+        },
+        {
+            "id": "char_394_hadiya_CN_022",
+            "title": {
+                "en": "Selecting Operator 2",
+                "jp": "選択時2",
+                "kr": "오퍼레이터 선택 2",
+                "cn": "选中干员2"
+            },
+            "text": {
+                "en": "What tactics do you want me to use?",
+                "jp": "どういう戦術でいけばいい？",
+                "kr": "어떤 전술로 갈까?",
+                "cn": "需要我用什么战术？"
+            },
+            "asset": "char_394_hadiya/CN_022"
+        },
+        {
+            "id": "char_394_hadiya_CN_023",
+            "title": {
+                "en": "Deployment 1",
+                "jp": "配置1",
+                "kr": "배치 1",
+                "cn": "部署1"
+            },
+            "text": {
+                "en": "I hope it's a worthy foe.",
+                "jp": "挑戦しがいのある強敵だといいな。",
+                "kr": "도전할 만한 가치가 있는 강적이면 좋겠네.",
+                "cn": "但愿是个有挑战价值的强敌。"
+            },
+            "asset": "char_394_hadiya/CN_023"
+        },
+        {
+            "id": "char_394_hadiya_CN_024",
+            "title": {
+                "en": "Deployment 2",
+                "jp": "配置2",
+                "kr": "배치 2",
+                "cn": "部署2"
+            },
+            "text": {
+                "en": "Do you know what these horns signify?",
+                "jp": "この二本の角の示す意味は知ってるかな？",
+                "kr": "이 두 개의 뿔이 의미하는 걸 알고 있으려나?",
+                "cn": "知道这双角代表着什么吗？"
+            },
+            "asset": "char_394_hadiya/CN_024"
+        },
+        {
+            "id": "char_394_hadiya_CN_025",
+            "title": {
+                "en": "In Battle 1",
+                "jp": "作戦中1",
+                "kr": "작전 중 1",
+                "cn": "作战中1"
+            },
+            "text": {
+                "en": "In the name of the Qarnsayf!",
+                "jp": "カルンサイフの名にかけて！",
+                "kr": "카른사이프의 이름을 걸고!",
+                "cn": "以剑角之名！"
+            },
+            "asset": "char_394_hadiya/CN_025"
+        },
+        {
+            "id": "char_394_hadiya_CN_026",
+            "title": {
+                "en": "In Battle 2",
+                "jp": "作戦中2",
+                "kr": "작전 중 2",
+                "cn": "作战中2"
+            },
+            "text": {
+                "en": "In the name of the wilds!",
+                "jp": "荒野の名にかけて！",
+                "kr": "황야의 이름을 걸고!",
+                "cn": "以荒野之名！"
+            },
+            "asset": "char_394_hadiya/CN_026"
+        },
+        {
+            "id": "char_394_hadiya_CN_027",
+            "title": {
+                "en": "In Battle 3",
+                "jp": "作戦中3",
+                "kr": "작전 중 3",
+                "cn": "作战中3"
+            },
+            "text": {
+                "en": "I have more than one weapon.",
+                "jp": "私の武器は一本だけじゃないんだから。",
+                "kr": "내 무기는 하나만 있는 게 아니거든.",
+                "cn": "别忘了我的武器不止一柄。"
+            },
+            "asset": "char_394_hadiya/CN_027"
+        },
+        {
+            "id": "char_394_hadiya_CN_028",
+            "title": {
+                "en": "In Battle 4",
+                "jp": "作戦中4",
+                "kr": "작전 중 4",
+                "cn": "作战中4"
+            },
+            "text": {
+                "en": "Take this!",
+                "jp": "これでも食らえ！",
+                "kr": "이거나 먹어라!",
+                "cn": "尝尝这个！"
+            },
+            "asset": "char_394_hadiya/CN_028"
+        },
+        {
+            "id": "char_394_hadiya_CN_029",
+            "title": {
+                "en": "4-star Result",
+                "jp": "高難度作戦クリア",
+                "kr": "고난이도 작전 종료",
+                "cn": "完成高难行动"
+            },
+            "text": {
+                "en": "I always knew I would win a memorable victory someday.",
+                "jp": "ずっと信じてたんだ。いつかきっと私も、こうやってみんなの記憶に残る戦いに勝利できるんだって。",
+                "kr": "계속 믿고 있었어. 언젠가 나도 이렇게 모두의 기억에 남을 싸움에서 승리할 수 있을 거라고.",
+                "cn": "我一直坚信，早晚有一天我会赢下这样一场令人难以忘怀的战斗。"
+            },
+            "asset": "char_394_hadiya/CN_029"
+        },
+        {
+            "id": "char_394_hadiya_CN_030",
+            "title": {
+                "en": "3-star Result",
+                "jp": "★3で戦闘終了",
+                "kr": "3★ 작전 종료",
+                "cn": "3星结束行动"
+            },
+            "text": {
+                "en": "Victories like these are what Sargonian warriors live for.",
+                "jp": "サルゴンの戦士はまさにこういう勝利を追い求めてるんだ。もちろん私もそのうちの一人だよ。",
+                "kr": "사르곤의 전사는 바로 이런 승리를 추구하고 있어. 물론 나도 그중 한 명이고.",
+                "cn": "萨尔贡战士追求的就是这种胜利，我也不例外。"
+            },
+            "asset": "char_394_hadiya/CN_030"
+        },
+        {
+            "id": "char_394_hadiya_CN_031",
+            "title": {
+                "en": "Sub 3-star Result",
+                "jp": "★2以下戦闘終了",
+                "kr": "비 3★ 작전 종료",
+                "cn": "非3星结束行动"
+            },
+            "text": {
+                "en": "No, I can't be content with the limitations of my sword. For the sake of my tribe.",
+                "jp": "うーん、やっぱりまだまだ私の剣には限界があるみたい。部族のためにも、現状に満足してちゃダメだね。",
+                "kr": "응, 역시 아직 내 검에는 한계가 있는 것 같아. 부족을 위해서라도 지금 상황에 만족하면 안 되겠지.",
+                "cn": "嗯，这把剑还是有局限，为了部族我不应该就此满足。"
+            },
+            "asset": "char_394_hadiya/CN_031"
+        },
+        {
+            "id": "char_394_hadiya_CN_032",
+            "title": {
+                "en": "Operation Failure",
+                "jp": "作戦失敗",
+                "kr": "작전 실패",
+                "cn": "行动失败"
+            },
+            "text": {
+                "en": "Defeat is but the herald of victory. Let's pull back for now.",
+                "jp": "失敗の後にはきっと勝利が待ってる。だから今は一旦退こう。",
+                "kr": "실패 다음에는 분명 승리가 기다리고 있어. 그러니까 지금은 일단 물러나자.",
+                "cn": "失败之后肯定会有胜利。现在，暂且退后吧。"
+            },
+            "asset": "char_394_hadiya/CN_032"
+        },
+        {
+            "id": "char_394_hadiya_CN_033",
+            "title": {
+                "en": "Assigned to Facility",
+                "jp": "基地配属",
+                "kr": "시설에 배치",
+                "cn": "进驻设施"
+            },
+            "text": {
+                "en": "Ah… It's been a long time since I've had a solid roof over my head.",
+                "jp": "こうやって屋根に守られてる感じ、懐かしいなぁ。",
+                "kr": "이렇게 지붕 아래서 보호받는 느낌, 그립네.",
+                "cn": "这种有屋檐庇护的感觉，真令人怀念。"
+            },
+            "asset": "char_394_hadiya/CN_033"
+        },
+        {
+            "id": "char_394_hadiya_CN_034",
+            "title": {
+                "en": "Tap",
+                "jp": "タッチ1",
+                "kr": "터치",
+                "cn": "戳一下"
+            },
+            "text": {
+                "en": "Be careful, or my horns might hurt you.",
+                "jp": "角で一突きされたくなかったら、気をつけなよ。",
+                "kr": "뿔에 받히고 싶지 않으면, 조심하는 게 좋을 거야.",
+                "cn": "如果不想被我的角戳痛的话，那可要小心了。"
+            },
+            "asset": "char_394_hadiya/CN_034"
+        },
+        {
+            "id": "char_394_hadiya_CN_036",
+            "title": {
+                "en": "Trust Tap",
+                "jp": "信頼タッチ",
+                "kr": "신뢰도 터치",
+                "cn": "信赖触摸"
+            },
+            "text": {
+                "en": "Curious about my sword? Here, try it out. Oh, and be careful about the spring blade in the staff.",
+                "jp": "このコンバインド・ソードの仕組みが気になる？はい、いじっていいよ。そうだ、杖の方からは刃が飛び出すから気をつけてね。",
+                "kr": "이 컴바인드 소드의 구조가 신경 쓰여? 자, 만져봐도 돼. 맞다, 스태프 쪽에서는 칼날이 튀어나오니까 조심해.",
+                "cn": "对我这把剑的构造很好奇？给，拿去试试吧。哦，记得小心战杖里弹出来的刀刃。"
+            },
+            "asset": "char_394_hadiya/CN_036"
+        },
+        {
+            "id": "char_394_hadiya_CN_037",
+            "title": {
+                "en": "Title",
+                "jp": "タイトルコール",
+                "kr": "타이틀",
+                "cn": "标题"
+            },
+            "text": {
+                "en": "Arknights.",
+                "jp": "アークナイツ。",
+                "kr": "명일방주.",
+                "cn": "明日方舟。"
+            },
+            "asset": "char_394_hadiya/CN_037"
+        },
+        {
+            "id": "char_394_hadiya_CN_038",
+            "title": {
+                "en": "New Year's blessing",
+                "jp": "新年",
+                "kr": "새해",
+                "cn": "新年祝福"
+            },
+            "text": {
+                "en": "Happy New Year, Doctor. How would you like to celebrate the holiday? Are we going with Sargonian tradition, or Columbian custom, or do you have some other arrangement in mind? Either way, I'm with you.",
+                "jp": "ハッピーニューイヤー、ドクター。今年はどんなふうに新年を過ごしたい？サルゴンの伝統に則ったやつ？クルビア式？それとも、他に何かする予定？どうやって過ごすにしても、ドクターと一緒にいるつもりだよ。",
+                "kr": "새해 복 많이 받아, 박사. 올해는 새해를 어떻게 보내고 싶어? 사르곤 전통식? 컬럼비아식? 아니면, 따로 뭔가 할 예정? 어떻게 보내든, 박사랑 함께 있을 생각이야.",
+                "cn": "博士，祝你新年快乐。你想怎样庆祝这个节日，是遵循萨尔贡的传统，还是按照哥伦比亚的习惯，或者你还有别的安排？无论如何，我都愿意陪你一起度过。"
+            },
+            "asset": "char_394_hadiya/CN_038"
+        },
+        {
+            "id": "char_394_hadiya_CN_042",
+            "title": {
+                "en": "Greeting",
+                "jp": "挨拶",
+                "kr": "인사",
+                "cn": "问候"
+            },
+            "text": {
+                "en": "What challenge do you have for me today, Doctor?",
+                "jp": "ハロードクター、今日はどんなチャレンジを用意してくれたの？",
+                "kr": "안녕, 박사~! 오늘은 어떤 도전을 준비했어?",
+                "cn": "你好博士，今天为我准备了什么样的挑战？"
+            },
+            "asset": "char_394_hadiya/CN_042"
+        },
+        {
+            "id": "char_394_hadiya_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": "Today is your birthday, and I think it would do you good to set work aside for a while and go out for a walk. The landscapes of Sargon are spectacular, but you didn't seem to have time for them. Come, consider today's excursion my gift to you.",
+                "jp": "せっかくの誕生日だし、仕事のことは忘れて一緒にお出かけしようよ。サルゴンの景色はあんなに素敵なのに、これまで全然楽しむ余裕もなかったみたいだしさ。今日のお出かけは、私からのプレゼントってことで。",
+                "kr": "이왕 생일이니까, 일은 잊어버리고 같이 외출하자. 사르곤 경치가 이렇게 멋진데, 지금까지 전혀 즐길 여유가 없었던 것 같아서. 오늘 외출은 내가 주는 선물인 걸로 해.",
+                "cn": "今天是你的生日，我觉得是时候带你放下这些工作，去外面走一走了。萨尔贡的风景很不错，但似乎之前你都无心欣赏。今天的外出，就当做是我送给你的礼物吧。"
+            },
+            "asset": "char_394_hadiya/CN_043"
+        },
+        {
+            "id": "char_394_hadiya_CN_044",
+            "title": {
+                "en": "Anniversary Celebration",
+                "jp": "周年",
+                "kr": "애니버서리",
+                "cn": "周年庆典"
+            },
+            "text": {
+                "en": "Looks like we're both a step closer to our goal. Let's celebrate this with a Columbian high-five! We've got a long way to go in the days to come.",
+                "jp": "ドクター、お互い自分の目標にまた一歩近づけたみたいだね。じゃあクルビア式のハイタッチでお祝いしよ！これからも一緒に頑張っていこうね！",
+                "kr": "박사, 각자 목표에 한 발짝 더 다가간 것 같네. 그럼 컬럼비아식 하이파이브로 축하하자! 앞으로도 같이 힘내는 거야!",
+                "cn": "博士，看起来我们彼此都离目标更进一步了。那为了庆祝，来一个哥伦比亚式的击掌吧！接下来的日子，也一起努力！"
+            },
+            "asset": "char_394_hadiya/CN_044"
+        }
+    ],
+    "actors": {
+        "en": {
+            "native": "Katiana Sarkissian",
+            "global": "Katiana Sarkissian"
+        },
+        "cn": {
+            "native": "孙艳琦",
+            "global": "Yanqi Sun"
+        },
+        "jp": {
+            "native": "阿保まりあ",
+            "global": "Maria Abo"
+        },
+        "kr": {
+            "native": "이지선",
+            "global": "Lee Ji-sun"
+        }
+    },
+    "availability": [
+        "en",
+        "cn",
+        "jp",
+        "kr"
+    ]
+}

@@ -626,6 +626,10 @@
             "native": "吕书君",
             "global": "Lv ShuJun"
         },
+        "cn_topolect": {
+            "native": "碌斌",
+            "global": "Lost"
+        },
         "jp": {
             "native": "日野聡",
             "global": "Satoshi Hino"
@@ -633,17 +637,13 @@
         "kr": {
             "native": "최낙윤",
             "global": "Choi Na-kyoon"
-        },
-        "cn_topolect": {
-            "native": "碌斌",
-            "global": "Lost"
         }
     },
     "availability": [
         "en",
         "cn",
+        "cn_topolect",
         "jp",
-        "kr",
-        "cn_topolect"
+        "kr"
     ]
 }

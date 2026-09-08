@@ -594,7 +594,7 @@
             },
             "text": {
                 "en": "Leader, c'mere, c'mon! Welcome to your birthday party! Turn out the lights and blow out your candles! Oh, but remember, even as the candles go out, my halo will shine on you in the dark. Never worry that you'll lose your way—the angel's Blessings will be forever at your side.",
-                "jp": "老板，快来快来，欢迎来到你的生日派对！把灯关上吹蜡烛吧~即便蜡烛熄灭，天使的光环也会为您照亮此方黑暗。您不必担心失去方向，天使的祝福将会永伴您的左右。",
+                "jp": "リーダー、こっちこっち！バースデーパーティーへようこそ～！あたしが明かりを消したら、キャンドルを吹き消してね。こほん……蝋燭の火が消えても、この天使の光輪が広がる闇を晴らします。その祝福は永久にあなたと共にあり、道に迷うことなきように照らし続けることでしょう。",
                 "kr": "리더, 빨리 와, 빨리. 짜잔~ 너의 생일 파티에 온 것을 환영해! 불 끄고 촛불을 불어~ 촛불은 꺼져도 천사의 광륜은 어둠을 밝혀줄 거야. 길을 잃을 걱정은 하지 마, 천사의 축복이 늘 함께 할 테니까.",
                 "cn": "老板，快来快来，欢迎来到你的生日派对！把灯关上吹蜡烛吧~即便蜡烛熄灭，天使的光环也会为您照亮此方黑暗。您不必担心失去方向，天使的祝福将会永伴您的左右。"
             },
@@ -647,6 +647,6 @@
         "old_en"
     ],
     "audio_path_override": {
-        "old_en": "https://raw.githubusercontent.com/PseudoMon/arknights-audio/cb13f0369f083541c7143cc4bb50b2eb448dc9fc/voice_en"
+        "old_en": "https://raw.githubusercontent.com/Zumurrud/riva-voices/main/old_voices/voice_en/char_103_angel/CN_###.mp3"
     }
 }

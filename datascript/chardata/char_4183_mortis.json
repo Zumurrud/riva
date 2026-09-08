@@ -1,0 +1,629 @@
+{
+    "charid": "char_4183_mortis",
+    "nameid": "mortis",
+    "names": {
+        "en": "Mutsumi Wakaba",
+        "jp": "若葉睦",
+        "kr": "와카바 무츠미",
+        "cn": "若叶睦"
+    },
+    "voices": [
+        {
+            "id": "char_4183_mortis_CN_001",
+            "title": {
+                "en": "Appointed as Assistant",
+                "jp": "秘書任命",
+                "kr": "어시스턴트 임명",
+                "cn": "任命助理"
+            },
+            "text": {
+                "en": "If there's nothing to do, I'll... be here.",
+                "jp": "やることないなら……ここにいる。",
+                "kr": "할 일 없으면…… 여기 있어.",
+                "cn": "没什么事的话……我会在这里安静待着。"
+            },
+            "asset": "char_4183_mortis/CN_001"
+        },
+        {
+            "id": "char_4183_mortis_CN_002",
+            "title": {
+                "en": "Talk 1",
+                "jp": "会話1",
+                "kr": "대화 1",
+                "cn": "交谈1"
+            },
+            "text": {
+                "en": "Since when was I in the Activity Room...? Since... before you came in...",
+                "jp": "いつから、活動室にいたか……？ドクターが来る前から、ずっと……",
+                "kr": "언제부터, 활동실에 있었냐고……? 박사 오기 전부터, 계속……",
+                "cn": "我是什么时候出现的？在你进入活动室之前，我就在了......"
+            },
+            "asset": "char_4183_mortis/CN_002"
+        },
+        {
+            "id": "char_4183_mortis_CN_003",
+            "title": {
+                "en": "Talk 2",
+                "jp": "会話2",
+                "kr": "대화 2",
+                "cn": "交谈2"
+            },
+            "text": {
+                "en": "Vegetables... could grow well here.",
+                "jp": "ここ、野菜……育てやすそう。",
+                "kr": "여기, 야채…… 키우기 좋을 것 같아.",
+                "cn": "这里……很适合种蔬菜。"
+            },
+            "asset": "char_4183_mortis/CN_003"
+        },
+        {
+            "id": "char_4183_mortis_CN_004",
+            "title": {
+                "en": "Talk 3",
+                "jp": "会話3",
+                "kr": "대화 3",
+                "cn": "交谈3"
+            },
+            "text": {
+                "en": "You want me to play the guitar? Okay.",
+                "jp": "ギター弾いてほしいの？わかった。",
+                "kr": "기타 쳐줬으면 해? 알았어.",
+                "cn": "希望我弹吉他吗？知道了。"
+            },
+            "asset": "char_4183_mortis/CN_004"
+        },
+        {
+            "id": "char_4183_mortis_CN_005",
+            "title": {
+                "en": "Talk after Promotion 1",
+                "jp": "昇進後会話1",
+                "kr": "1차 정예화 후 대화",
+                "cn": "晋升后交谈1"
+            },
+            "text": {
+                "en": "I got this fragrance from Perfumer-san. She says Gloria uses it too.",
+                "jp": "このアロマ、パフューマーさんから貰った。グロリアも使ってるって。",
+                "kr": "이 아로마, 퍼퓨머 씨한테 받았어. 글로리아도 쓰고 있다더라고.",
+                "cn": "这是调香师小姐给我的香水。葛罗莉亚也在用的。"
+            },
+            "asset": "char_4183_mortis/CN_005"
+        },
+        {
+            "id": "char_4183_mortis_CN_006",
+            "title": {
+                "en": "Talk after Promotion 2",
+                "jp": "昇進後会話2",
+                "kr": "2차 정예화 후 대화",
+                "cn": "晋升后交谈2"
+            },
+            "text": {
+                "en": "Heheh... It's nice to... meet expectations.",
+                "jp": "ふふ……期待に応えるの、いい感じ。",
+                "kr": "후후…… 기대를 만족시키는 거, 좋은 느낌.",
+                "cn": "嘿嘿……回应了大家的期待的感觉，还不坏。"
+            },
+            "asset": "char_4183_mortis/CN_006"
+        },
+        {
+            "id": "char_4183_mortis_CN_007",
+            "title": {
+                "en": "Talk after Trust Increase 1",
+                "jp": "信頼上昇後会話1",
+                "kr": "신뢰도 상승 후 대화 1",
+                "cn": "信赖提升后交谈1"
+            },
+            "text": {
+                "en": "So you... also waver, and can't make up your mind... I... do that a lot...",
+                "jp": "ドクターも、躊躇って決められないこと、あるんだ……私も、たくさんある……",
+                "kr": "박사도 망설이면서 결정 못 하는 거, 있구나…… 나도, 많이 있어……",
+                "cn": "即使是博士你，也会有犹豫不决的时候吗？我也经常这样......"
+            },
+            "asset": "char_4183_mortis/CN_007"
+        },
+        {
+            "id": "char_4183_mortis_CN_008",
+            "title": {
+                "en": "Talk after Trust Increase 2",
+                "jp": "信頼上昇後会話2",
+                "kr": "신뢰도 상승 후 대화 2",
+                "cn": "信赖提升后交谈2"
+            },
+            "text": {
+                "en": "Saki once said... we're all 'badgers in the same hole'.",
+                "jp": "祥が言ってた……私たちは「同じ穴のムジナ」だって。",
+                "kr": "사키가 그랬어…… 우리는 '공범자'라고.",
+                "cn": "祥说过，我们都是“一丘之貉”……"
+            },
+            "asset": "char_4183_mortis/CN_008"
+        },
+        {
+            "id": "char_4183_mortis_CN_009",
+            "title": {
+                "en": "Talk after Trust Increase 3",
+                "jp": "信頼上昇後会話3",
+                "kr": "신뢰도 상승 후 대화 3",
+                "cn": "信赖提升后交谈3"
+            },
+            "text": {
+                "en": "Here, nobody recognizes... Minami-chan and Ta-kun...",
+                "jp": "ここでは誰も、みなみちゃんやたぁくんを知らない……",
+                "kr": "여기는 아무도, 미나미짱이나 타 군을 몰라……",
+                "cn": "这里，谁都不认识森南和阿隆……"
+            },
+            "asset": "char_4183_mortis/CN_009"
+        },
+        {
+            "id": "char_4183_mortis_CN_010",
+            "title": {
+                "en": "Idle",
+                "jp": "放置",
+                "kr": "방치",
+                "cn": "闲置"
+            },
+            "text": {
+                "en": "Did I wake you up? Sorry.",
+                "jp": "起こした？ごめん。",
+                "kr": "깨웠어? 미안.",
+                "cn": "你起来了？抱歉。"
+            },
+            "asset": "char_4183_mortis/CN_010"
+        },
+        {
+            "id": "char_4183_mortis_CN_011",
+            "title": {
+                "en": "Onboard",
+                "jp": "入職会話",
+                "kr": "오퍼레이터 입사",
+                "cn": "干员报到"
+            },
+            "text": {
+                "en": "Mutsumi Wakaba... Nice to meet you.",
+                "jp": "若葉睦……よろしくお願いします。",
+                "kr": "와카바 무츠미…… 잘 부탁드립니다.",
+                "cn": "若叶睦……请多多指教。"
+            },
+            "asset": "char_4183_mortis/CN_011"
+        },
+        {
+            "id": "char_4183_mortis_CN_012",
+            "title": {
+                "en": "Watching Battle Record",
+                "jp": "経験値上昇",
+                "kr": "작전기록 학습",
+                "cn": "观看作战记录"
+            },
+            "text": {
+                "en": "I can tell... this isn't just for show. These people, they really died.",
+                "jp": "わかってる……これはパフォーマンスじゃない。この人たち、本当に死んだんだ。",
+                "kr": "알고 있어…… 이건 퍼포먼스가 아냐. 이 사람들, 진짜 죽은 거야.",
+                "cn": "我看得出来，这些不是表演，它们真的死掉了。"
+            },
+            "asset": "char_4183_mortis/CN_012"
+        },
+        {
+            "id": "char_4183_mortis_CN_013",
+            "title": {
+                "en": "Promotion 1",
+                "jp": "昇進Ⅰ",
+                "kr": "1차 정예화 (승진)",
+                "cn": "精英化晋升1"
+            },
+            "text": {
+                "en": "I need... more practice...",
+                "jp": "もっと、練習が必要……",
+                "kr": "더, 연습이 필요해……",
+                "cn": "还需要，更加努力地练习……"
+            },
+            "asset": "char_4183_mortis/CN_013"
+        },
+        {
+            "id": "char_4183_mortis_CN_014",
+            "title": {
+                "en": "Promotion 2",
+                "jp": "昇進Ⅱ",
+                "kr": "2차 정예화 (승진)",
+                "cn": "精英化晋升2"
+            },
+            "text": {
+                "en": "You're... praising me...",
+                "jp": "私の評価……",
+                "kr": "내 평가……",
+                "cn": "这是......对我的认可吗？"
+            },
+            "asset": "char_4183_mortis/CN_014"
+        },
+        {
+            "id": "char_4183_mortis_CN_017",
+            "title": {
+                "en": "Added to Squad",
+                "jp": "編成",
+                "kr": "팀 배치",
+                "cn": "编入队伍"
+            },
+            "text": {
+                "en": "Okay.",
+                "jp": "わかった。",
+                "kr": "알았어.",
+                "cn": "好的。"
+            },
+            "asset": "char_4183_mortis/CN_017"
+        },
+        {
+            "id": "char_4183_mortis_CN_018",
+            "title": {
+                "en": "Appointed as Squad Leader",
+                "jp": "隊長任命",
+                "kr": "팀장 임명",
+                "cn": "任命队长"
+            },
+            "text": {
+                "en": "I think... Saki should be better...",
+                "jp": "祥に、任せたほうが……",
+                "kr": "사키한테, 맡기는 게……",
+                "cn": "祥比我更合适。"
+            },
+            "asset": "char_4183_mortis/CN_018"
+        },
+        {
+            "id": "char_4183_mortis_CN_019",
+            "title": {
+                "en": "Depart",
+                "jp": "作戦準備",
+                "kr": "작전 출발",
+                "cn": "行动出发"
+            },
+            "text": {
+                "en": "Let's get started.",
+                "jp": "はじめるよ。",
+                "kr": "시작한다.",
+                "cn": "开始吧。"
+            },
+            "asset": "char_4183_mortis/CN_019"
+        },
+        {
+            "id": "char_4183_mortis_CN_020",
+            "title": {
+                "en": "Begin Operation",
+                "jp": "戦闘開始",
+                "kr": "작전 개시",
+                "cn": "行动开始"
+            },
+            "text": {
+                "en": "Enemies... they're coming.",
+                "jp": "来るよ……敵。",
+                "kr": "온다…… 적이.",
+                "cn": "它们在靠近。"
+            },
+            "asset": "char_4183_mortis/CN_020"
+        },
+        {
+            "id": "char_4183_mortis_CN_021",
+            "title": {
+                "en": "Selecting Operator 1",
+                "jp": "選択時1",
+                "kr": "오퍼레이터 선택 1",
+                "cn": "选中干员1"
+            },
+            "text": {
+                "en": "I'm... ready.",
+                "jp": "準備、できた。",
+                "kr": "준비, 됐어.",
+                "cn": "准备好了。"
+            },
+            "asset": "char_4183_mortis/CN_021"
+        },
+        {
+            "id": "char_4183_mortis_CN_022",
+            "title": {
+                "en": "Selecting Operator 2",
+                "jp": "選択時2",
+                "kr": "오퍼레이터 선택 2",
+                "cn": "选中干员2"
+            },
+            "text": {
+                "en": "I'm prepared.",
+                "jp": "覚悟はできてる。",
+                "kr": "각오는 돼 있어.",
+                "cn": "我已经做好觉悟。"
+            },
+            "asset": "char_4183_mortis/CN_022"
+        },
+        {
+            "id": "char_4183_mortis_CN_023",
+            "title": {
+                "en": "Deployment 1",
+                "jp": "配置1",
+                "kr": "배치 1",
+                "cn": "部署1"
+            },
+            "text": {
+                "en": "I've got no... choice...",
+                "jp": "やるしか、ない……",
+                "kr": "할 수밖에, 없어……",
+                "cn": "只能这样了……"
+            },
+            "asset": "char_4183_mortis/CN_023"
+        },
+        {
+            "id": "char_4183_mortis_CN_024",
+            "title": {
+                "en": "Deployment 2",
+                "jp": "配置2",
+                "kr": "배치 2",
+                "cn": "部署2"
+            },
+            "text": {
+                "en": "I can't... fail.",
+                "jp": "失敗、できない。",
+                "kr": "실패할 수는, 없어.",
+                "cn": "一定不能出错。"
+            },
+            "asset": "char_4183_mortis/CN_024"
+        },
+        {
+            "id": "char_4183_mortis_CN_025",
+            "title": {
+                "en": "In Battle 1",
+                "jp": "作戦中1",
+                "kr": "작전 중 1",
+                "cn": "作战中1"
+            },
+            "text": {
+                "en": "I'll try...",
+                "jp": "やってみる……",
+                "kr": "해 볼게……",
+                "cn": "我会试试……"
+            },
+            "asset": "char_4183_mortis/CN_025"
+        },
+        {
+            "id": "char_4183_mortis_CN_026",
+            "title": {
+                "en": "In Battle 2",
+                "jp": "作戦中2",
+                "kr": "작전 중 2",
+                "cn": "作战中2"
+            },
+            "text": {
+                "en": "These enemies aren't all that scary.",
+                "jp": "ここの敵、そんなに怖くない。",
+                "kr": "여기 적, 그렇게 안 무서워.",
+                "cn": "这些敌人也没有那么恐怖。"
+            },
+            "asset": "char_4183_mortis/CN_026"
+        },
+        {
+            "id": "char_4183_mortis_CN_027",
+            "title": {
+                "en": "In Battle 3",
+                "jp": "作戦中3",
+                "kr": "작전 중 3",
+                "cn": "作战中3"
+            },
+            "text": {
+                "en": "Just don't... think at all...",
+                "jp": "何も、考えなければ……",
+                "kr": "아무것도, 생각하지 않으면……",
+                "cn": "只要什么都不去想……"
+            },
+            "asset": "char_4183_mortis/CN_027"
+        },
+        {
+            "id": "char_4183_mortis_CN_028",
+            "title": {
+                "en": "In Battle 4",
+                "jp": "作戦中4",
+                "kr": "작전 중 4",
+                "cn": "作战中4"
+            },
+            "text": {
+                "en": "Just do it like I practiced.",
+                "jp": "訓練通りにやるだけ。",
+                "kr": "훈련대로 할 뿐.",
+                "cn": "就像训练的那样。"
+            },
+            "asset": "char_4183_mortis/CN_028"
+        },
+        {
+            "id": "char_4183_mortis_CN_029",
+            "title": {
+                "en": "4-star Result",
+                "jp": "高難度作戦クリア",
+                "kr": "고난이도 작전 종료",
+                "cn": "完成高难行动"
+            },
+            "text": {
+                "en": "Thank goodness.",
+                "jp": "よかった。",
+                "kr": "다행이다.",
+                "cn": "太好了。"
+            },
+            "asset": "char_4183_mortis/CN_029"
+        },
+        {
+            "id": "char_4183_mortis_CN_030",
+            "title": {
+                "en": "3-star Result",
+                "jp": "★3で戦闘終了",
+                "kr": "3★ 작전 종료",
+                "cn": "3星结束行动"
+            },
+            "text": {
+                "en": "I didn't... fail this time.",
+                "jp": "今回は……失敗しなかった。",
+                "kr": "이번에는…… 실패하지 않았어.",
+                "cn": "这次，没有失败了。"
+            },
+            "asset": "char_4183_mortis/CN_030"
+        },
+        {
+            "id": "char_4183_mortis_CN_031",
+            "title": {
+                "en": "Sub 3-star Result",
+                "jp": "★2以下戦闘終了",
+                "kr": "비 3★ 작전 종료",
+                "cn": "非3星结束行动"
+            },
+            "text": {
+                "en": "Thank you for... covering for me...",
+                "jp": "助けてくれて、ありがとう……",
+                "kr": "도와줘서, 고마워……",
+                "cn": "多谢你的帮助……"
+            },
+            "asset": "char_4183_mortis/CN_031"
+        },
+        {
+            "id": "char_4183_mortis_CN_032",
+            "title": {
+                "en": "Operation Failure",
+                "jp": "作戦失敗",
+                "kr": "작전 실패",
+                "cn": "行动失败"
+            },
+            "text": {
+                "en": "I... messed things up again...",
+                "jp": "また、ダメにしちゃった……",
+                "kr": "또, 망쳐버렸어……",
+                "cn": "我又把事情搞砸了……"
+            },
+            "asset": "char_4183_mortis/CN_032"
+        },
+        {
+            "id": "char_4183_mortis_CN_033",
+            "title": {
+                "en": "Assigned to Facility",
+                "jp": "基地配属",
+                "kr": "시설에 배치",
+                "cn": "进驻设施"
+            },
+            "text": {
+                "en": "I'll be... right here.",
+                "jp": "私、ここにいる。",
+                "kr": "나, 여기 있어.",
+                "cn": "我会待在这里。"
+            },
+            "asset": "char_4183_mortis/CN_033"
+        },
+        {
+            "id": "char_4183_mortis_CN_034",
+            "title": {
+                "en": "Tap",
+                "jp": "タッチ1",
+                "kr": "터치",
+                "cn": "戳一下"
+            },
+            "text": {
+                "en": "What is it?",
+                "jp": "どうしたの？",
+                "kr": "무슨 일?",
+                "cn": "怎么了？"
+            },
+            "asset": "char_4183_mortis/CN_034"
+        },
+        {
+            "id": "char_4183_mortis_CN_036",
+            "title": {
+                "en": "Trust Tap",
+                "jp": "信頼タッチ",
+                "kr": "신뢰도 터치",
+                "cn": "信赖触摸"
+            },
+            "text": {
+                "en": "I'm practicing.",
+                "jp": "今、練習中。",
+                "kr": "지금, 연습 중.",
+                "cn": "我正在练习。"
+            },
+            "asset": "char_4183_mortis/CN_036"
+        },
+        {
+            "id": "char_4183_mortis_CN_037",
+            "title": {
+                "en": "Title",
+                "jp": "タイトルコール",
+                "kr": "타이틀",
+                "cn": "标题"
+            },
+            "text": {
+                "en": "Arknights.",
+                "jp": "アークナイツ。",
+                "kr": "명일방주.",
+                "cn": "明日方舟。"
+            },
+            "asset": "char_4183_mortis/CN_037"
+        },
+        {
+            "id": "char_4183_mortis_CN_038",
+            "title": {
+                "en": "New Year's blessing",
+                "jp": "新年",
+                "kr": "새해",
+                "cn": "新年祝福"
+            },
+            "text": {
+                "en": "I was on stage just now... No, not Ave Mujica. The Rhodes Island play. I was a tree.",
+                "jp": "さっき、舞台に出た……ううん、Ave Mujicaじゃなくて、ロドスの劇。木の役だった。",
+                "kr": "아까, 무대에 섰어…… 아니, Ave Mujica가 아니라 로도스 아일랜드의 연극. 나무 역할이었어.",
+                "cn": "刚才我在舞台上参加了表演。不，并不是Ave Mujica的演出，是罗德岛大家一起的戏剧。扮演了一棵树。"
+            },
+            "asset": "char_4183_mortis/CN_038"
+        },
+        {
+            "id": "char_4183_mortis_CN_042",
+            "title": {
+                "en": "Greeting",
+                "jp": "挨拶",
+                "kr": "인사",
+                "cn": "问候"
+            },
+            "text": {
+                "en": "Doctor. I didn't have any nightmares, last night... What about you?",
+                "jp": "ドクター。私、昨日は悪い夢、見なかった……ドクターは？",
+                "kr": "박사. 나, 어제는 악몽을 꾸지 않았어…… 박사는?",
+                "cn": "博士。昨晚我没做噩梦，您呢？"
+            },
+            "asset": "char_4183_mortis/CN_042"
+        },
+        {
+            "id": "char_4183_mortis_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": "Happy... birthday. This is… your present.",
+                "jp": "誕生日、おめでとう。これ……プレゼント。",
+                "kr": "생일, 축하해. 이거…… 선물.",
+                "cn": "生日快乐。这是……礼物。"
+            },
+            "asset": "char_4183_mortis/CN_043"
+        },
+        {
+            "id": "char_4183_mortis_CN_044",
+            "title": {
+                "en": "Anniversary Celebration",
+                "jp": "周年",
+                "kr": "애니버서리",
+                "cn": "周年庆典"
+            },
+            "text": {
+                "en": "It's so lively outside. Are you sure you're not going...? You're staying in? Okay.",
+                "jp": "外、賑やかだよ。行かなくていいの？……ここにいる？そうなんだ。",
+                "kr": "밖에, 떠들썩해. 안 가봐도 돼? ……여기 있을 거야? 그렇구나.",
+                "cn": "外面很热闹，你不去加入他们吗？你就在这里？......好的。"
+            },
+            "asset": "char_4183_mortis/CN_044"
+        }
+    ],
+    "actors": {
+        "linkage": {
+            "native": "渡瀬結月",
+            "global": "Yuzuki Watase"
+        }
+    },
+    "availability": [
+        "linkage"
+    ]
+}

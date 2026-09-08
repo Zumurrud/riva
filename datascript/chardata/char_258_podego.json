@@ -17,7 +17,7 @@
                 "cn": "任命助理"
             },
             "text": {
-                "en": "Ehehe~ Oh, Doctor, is your day going well?",
+                "en": "Hm… Hmm… Hmmm… Oh, Doctor, is your day going well?",
                 "jp": "うふふ～あ、ドクター。今日の気分はどうですか？",
                 "kr": "우후후~ 아, 박사님. 오늘 기분은 어떠신가요?",
                 "cn": "嗯哼哼~啊，博士，今天过得还愉快吗？"
@@ -33,7 +33,7 @@
                 "cn": "交谈1"
             },
             "text": {
-                "en": "This is a floral tea that I made myself! Doctor, come try a cup, I promise you'll feel cozy all day!",
+                "en": "This is a floral tea that I made myself, Doctor. Come try a cup, I promise you'll feel cozy all day.",
                 "jp": "私の手作りハーブティーです。ドクターも一杯どうぞ！一日中スッキリしますよ！",
                 "kr": "제가 손수 만든 허브티예요. 박사님도 한 잔 드셔 보세요! 하루 종일 상쾌할 거예요!",
                 "cn": "这是我亲手做的花茶！博士来一杯吧，会让你一整天都心情舒畅哦！"
@@ -49,7 +49,7 @@
                 "cn": "交谈2"
             },
             "text": {
-                "en": "The sunlight in the greenhouse is so comfortable. Even though I'm an operator, it sometimes makes me want to slack.",
+                "en": "The sunlight in the greenhouse is so comfy. Even if I'm in charge here, it sometimes makes me want to sit down and relax for a bit.",
                 "jp": "温室で浴びる陽射しはいつもあったかいですね。管理人の私でも、たまに手を休めてぼーっとしたくなります。",
                 "kr": "온실에서 쬐는 햇볕은 언제나 따뜻하네요. 관리인인 저도 가끔은 쉬면서 멍하니 있고 싶어요.",
                 "cn": "温室里的阳光总是暖洋洋的，就算我是管理员，有时候也想偷个懒呢。"
@@ -65,7 +65,7 @@
                 "cn": "交谈3"
             },
             "text": {
-                "en": "Use the fruits of your labor to make everyone forget about their sorrows and worries. That's probably the tenet of all gardeners, don't you think~?",
+                "en": "Use the fruits of your labor to make everyone forget their sorrows and worries. That's probably a gardener's primary objective, don't you think?",
                 "jp": "自分の頑張った成果で、みなさんに憂いや悩みを忘れさせてあげたい。これがガーデナーたちみんなの願いかもしれませんね。",
                 "kr": "자신이 노력한 성과로 모두의 근심과 걱정을 잊게 해주고 싶다는 것, 이게 정원사 모두의 바람일지도 모르겠네요.",
                 "cn": "用自己的劳动成果，来让大家忘掉忧愁和烦恼，这大概就是花匠们的愿望吧~"
@@ -81,7 +81,7 @@
                 "cn": "晋升后交谈1"
             },
             "text": {
-                "en": "I much rather prefer growing things to destroying them. But as long as I think about how I can help everyone, I can muster up my courage.",
+                "en": "I much prefer gardening to fighting. But as long as I think about how I'm helping everyone, I can muster up the courage to go into combat.",
                 "jp": "戦闘は植物の栽培ほど得意じゃないですが……みなさんの力になれると思うと、勇気が湧いてきます。",
                 "kr": "전투는 식물 재배만큼 잘하진 못하지만…… 모두의 힘이 될 거라 생각하면 용기가 생겨요.",
                 "cn": "比起栽培来说，战斗并不是我擅长的事。但是只要一想到能帮到大家，我就充满了勇气。"
@@ -97,7 +97,7 @@
                 "cn": "晋升后交谈2"
             },
             "text": {
-                "en": "These bottles? Inside are all the pollen and seeds that I've been collecting. I usually wear a gas mask and gloves before handling them, or I might get poisoned.",
+                "en": "These bottles? They're the pollen and seeds I've been collecting. I usually put on a gas mask and gloves before handling them, to protect me from poison.",
                 "jp": "この小瓶？私が時間をかけて集めた花粉と種がそれぞれ中に入っています。いじる時はガスマスクと手袋をするんですよ。でないと毒にやられちゃうかもしれませんから。",
                 "kr": "이 작은 병이요? 이 병엔 각각 제가 시간을 들여 모은 꽃가루랑 씨앗이 안에 들어있어요. 만질 때는 가스 마스크랑 장갑을 끼셔야 해요. 안 그러면 독에 중독될 수도 있으니까요.",
                 "cn": "这些瓶子？里面都是我收集了好久的花粉和种子。我摆弄它们的时候一般会戴上防毒面具，再戴上手套，不然可能会中毒的。"
@@ -113,8 +113,8 @@
                 "cn": "信赖提升后交谈1"
             },
             "text": {
-                "en": "Umm, everyone seems to be a bit weary these days. But, I'm sure they'll cheer right back up when they see the flowers I've planted!",
-                "jp": "うぅ、最近みなさんお疲れの様子ですね……。でも、私が手入れしたお花を見れば、きっと元気になれますよ！",
+                "en": "Hm, everyone seems a bit weary these days. But, when they see the flowers I've planted, I'm sure they'll cheer right up.",
+                "jp": "うぅ、最近みなさんお疲れの様子ですね……でも、私が手入れしたお花を見れば、きっと元気になれますよ！",
                 "kr": "음…… 요즘 다들 피곤해 보이네요…… 그래도 제가 가꾼 꽃을 보면 분명 기운이 날 거예요!",
                 "cn": "唔，这几天好像大家都有点疲惫呢。不过，只要大家看到我种的花，一定会打起精神来的！"
             },
@@ -129,7 +129,7 @@
                 "cn": "信赖提升后交谈2"
             },
             "text": {
-                "en": "Doctor, Doctor! Are you coming to the greenhouse today? It seems like everyone's been really busy the last few days... If nobody comes by the greenhouse, the blooming season's going to pass right by. Wouldn't that be a darn shame?",
+                "en": "Doctor, Doctor! Are you coming to the greenhouse today? Everyone's been awfully busy the last few days… If nobody comes by the greenhouse, they're going to miss the blooming season. And wouldn't that be a terrible shame?",
                 "jp": "ドクタードクター、今日は温室に来てくれますか？ここのところみんな忙しそうで……ほら、誰も来ないまま花期が過ぎてお花が散ってしまったら、もったいないでしょう？",
                 "kr": "박사님 박사님! 오늘은 온실에 와주실 건가요? 요즘 다들 바쁘신 거 같아서…… 그래도, 아무도 안 오는데 개화 시기가 지나서 꽃이 져버리면 아깝잖아요?",
                 "cn": "博士博士，今天要来温室吗？好像大家这几天都很忙啊......不过如果没人来温室，白白让花期过去的话，也太可惜了吧？"
@@ -145,7 +145,7 @@
                 "cn": "信赖提升后交谈3"
             },
             "text": {
-                "en": "Tending to the greenhouse is really hard. But, as long as I can make others smile with the flowers I grow, all my hard work will be worth it!",
+                "en": "Tending the greenhouse is really hard. But, as long as the flowers I grow can make people smile, all my hard work will be worth it!",
                 "jp": "確かに温室の管理は大変です。でも自分が育てた花で人を笑顔にできれば、この仕事もやり甲斐があるんですよ！",
                 "kr": "확실히 온실 관리는 힘들죠. 그래도 자기가 키운 꽃으로 사람을 미소 짓게 할 수 있다면, 이 일도 하는 보람이 있어요!",
                 "cn": "照管温室确实很辛苦。但是，只要我种的花能让别人露出笑容，我的工作就有价值了吧！"
@@ -161,7 +161,7 @@
                 "cn": "闲置"
             },
             "text": {
-                "en": "Doctor? Oh, you're asleep... I hope the fragrance of these petals can drift over to your dreams.",
+                "en": "Doctor? Oh, you're asleep… May the flowery fragrance waft over your dreams.",
                 "jp": "ドクター？寝ちゃいましたか……どうかお花の香りが、夢の中まで届きますように。",
                 "kr": "박사님? 잠드셨나요…… 부디 꽃향기가 꿈속까지 닿을 수 있기를.",
                 "cn": "博士？睡着了......希望花朵的芬芳，能够飘进你的梦中哦。"
@@ -177,7 +177,7 @@
                 "cn": "干员报到"
             },
             "text": {
-                "en": "Doctor, this is Podenco, here to say hi! If you have time, I'd love if you could come by the greenhouse!",
+                "en": "Doctor, it's Podenco, here to say hi! If you have time, I'd love for you to come by the greenhouse!",
                 "jp": "こんにちはドクター、ポデンコです！お時間があったら、ドクターも温室に来てください！",
                 "kr": "안녕하세요 박사님, 포덴코라고 해요! 나중에 시간 되시면 박사님도 온실에 한 번 들러주세요!",
                 "cn": "博士，波登可向你问好！有空的话，博士也来温室坐坐吧！"
@@ -193,7 +193,7 @@
                 "cn": "观看作战记录"
             },
             "text": {
-                "en": "Aw, I thought this was a video about gardening techniques.",
+                "en": "Oh… I was expecting a video about gardening.",
                 "jp": "あれ、栽培技術についての映像かと思いました。",
                 "kr": "어라? 재배 기술에 관한 영상인 줄 알았어요.",
                 "cn": "啊，我还以为是关于栽培技巧的录像呢。"
@@ -209,7 +209,7 @@
                 "cn": "精英化晋升1"
             },
             "text": {
-                "en": "Artist? N-n-no, I'm just a normal gardener.",
+                "en": "Artist? N-N-No, I'm not that talented. I'm just a normal gardener.",
                 "jp": "芸術家？いえいえ、そんな大層なものじゃありませんよ、私なんかただのガーデナーですから。",
                 "kr": "예술가라고요? 아뇨 아뇨, 그렇게 대단한 건 아니에요. 전 그냥 평범한 정원사일 뿐이니까요.",
                 "cn": "艺术家？不不不，我没有那么厉害啦，我只是一个普通的花匠而已。"
@@ -225,7 +225,7 @@
                 "cn": "精英化晋升2"
             },
             "text": {
-                "en": "Look, Doctor! The new varieties I've been tending to for so long have finally started to bloom! Aren't they so pretty?",
+                "en": "Look, Doctor! These are the new varieties I've been tending for so long. They've finally started to bloom! Aren't they gorgeous?",
                 "jp": "見てくださいドクター！すごく時間をかけて育てた新しい品種のお花です、やっと咲いてくれました！どうですか、綺麗ですよね？",
                 "kr": "봐주세요 박사님! 한참 시간을 들여 기른 새로운 품종의 꽃인데, 드디어 꽃이 피었네요! 어때요, 예쁘죠?",
                 "cn": "博士你看！我培育了好久的新品种终于绽放了。是不是很好看呢？"
@@ -241,7 +241,7 @@
                 "cn": "编入队伍"
             },
             "text": {
-                "en": "Hm? Am I coming along as well?",
+                "en": "Hm? Am I going too?",
                 "jp": "ん？私も任務に参加するんですか？",
                 "kr": "어? 저도 임무에 참가하는 건가요?",
                 "cn": "嗯？我也要一起行动吗！"
@@ -257,7 +257,7 @@
                 "cn": "任命队长"
             },
             "text": {
-                "en": "Ah... I only have experience in tending a greenhouse. Is there anything I can do?",
+                "en": "Um, I've only ever tended a greenhouse. Can I really help with this…?",
                 "jp": "あの……温室管理しかやったことないですが、大丈夫でしょうか？",
                 "kr": "저…… 온실 관리밖에 못 해봤는데, 정말 괜찮으세요?",
                 "cn": "啊......我只有照管温室的经验，能帮上忙吗？"
@@ -273,7 +273,7 @@
                 "cn": "行动出发"
             },
             "text": {
-                "en": "I see the enemy! Everyone, let's go!",
+                "en": "I see the enemy! Let's go!",
                 "jp": "敵を確認しました。みなさん、行きましょう！",
                 "kr": "적을 확인했습니다. 여러분, 가시죠!",
                 "cn": "看到敌人了，大家一起上吧！"
@@ -289,7 +289,7 @@
                 "cn": "行动开始"
             },
             "text": {
-                "en": "Everyone, make sure to take care of yourselves!",
+                "en": "Everybody, look after yourselves!",
                 "jp": "みなさん、くれぐれも気をつけてくださいね！",
                 "kr": "여러분, 부디 조심해 주세요!",
                 "cn": "一定要照顾好自己啊，各位！"
@@ -305,7 +305,7 @@
                 "cn": "选中干员1"
             },
             "text": {
-                "en": "Hmm?",
+                "en": "Yes?",
                 "jp": "はい？",
                 "kr": "네?",
                 "cn": "嗯？"
@@ -353,7 +353,7 @@
                 "cn": "部署2"
             },
             "text": {
-                "en": "I'll do as you say.",
+                "en": "I'll do it.",
                 "jp": "言う通りにしますね。",
                 "kr": "말씀대로 할게요.",
                 "cn": "我会照办的。"
@@ -369,7 +369,7 @@
                 "cn": "作战中1"
             },
             "text": {
-                "en": "The pollen is allergenic~",
+                "en": "Careful, this pollen is allergenic.",
                 "jp": "花粉アレルギーに気をつけてね。",
                 "kr": "꽃가루 알레르기에는 주의를 기울여 주세요.",
                 "cn": "小心花粉过敏哦。"
@@ -385,7 +385,7 @@
                 "cn": "作战中2"
             },
             "text": {
-                "en": "Ah, I'll take care of them.",
+                "en": "Okay, I'll handle this.",
                 "jp": "はい、私がなんとかします。",
                 "kr": "네, 제가 어떻게든 해볼게요.",
                 "cn": "啊，把他们交给我吧。"
@@ -433,7 +433,7 @@
                 "cn": "完成高难行动"
             },
             "text": {
-                "en": "Phew, is it safe already? Good job, everyone!",
+                "en": "Phew, are we safe already? Good job, everyone!",
                 "jp": "ふぅ、もう大丈夫ですか？みなさんお疲れ様でした！",
                 "kr": "후우, 이제 괜찮은 거죠? 여러분, 수고하셨어요!",
                 "cn": "呼，已经安全了吗？各位辛苦了！"
@@ -465,7 +465,7 @@
                 "cn": "非3星结束行动"
             },
             "text": {
-                "en": "Doctor, everyone is awaiting your next orders.",
+                "en": "Doctor, everyone is waiting for your next orders.",
                 "jp": "ドクター、みなさん次の指示を待っていますよ。",
                 "kr": "박사님, 다들 다음 지시를 기다리고 있어요.",
                 "cn": "博士，大家都在等你的下一步指令哦。"
@@ -481,8 +481,8 @@
                 "cn": "行动失败"
             },
             "text": {
-                "en": "Ah... I never thought things could become like this...",
-                "jp": "あぁ……まさかこんなことになってしまうなんて……。",
+                "en": "Ah… I never thought it would turn out like this…",
+                "jp": "あぁ……まさかこんなことになってしまうなんて……",
                 "kr": "아아…… 설마 이렇게 될 줄이야……",
                 "cn": "啊......会变成这个样子，可真是没想到啊......"
             },
@@ -497,7 +497,7 @@
                 "cn": "进驻设施"
             },
             "text": {
-                "en": "Shall we plant some flowers over here?",
+                "en": "Should we plant some flowers over here?",
                 "jp": "ここにもお花を植えましょうか？",
                 "kr": "여기에도 꽃을 심을까요?",
                 "cn": "要不要在这里，种上花呢？"
@@ -561,7 +561,7 @@
                 "cn": "新年祝福"
             },
             "text": {
-                "en": "Back home, most flowers would already have withered by now. But just thinking about how spring will be here soon... fills my heart with hope. Doctor, let's find the first flower that blooms in the greenhouse together!",
+                "en": "Back home, most flowers would already have withered by now. But just thinking about how spring will be here soon… fills my heart with hope. Doctor, let's find the first flower that blooms in the greenhouse together!",
                 "jp": "故郷にいた頃、毎年この時期になると、お花はもうほとんど枯れています。でもすぐにまた春がやって来るのだと思うと、心が希望に満ちていくんです。ドクター、今年一番に咲いたお花を探しに、温室に行きましょう！",
                 "kr": "제 고향에선, 이맘때면 많은 꽃들이 시들었어요. 그래도 조금 있으면 곧 봄이 찾아올 거라고 생각하니 희망이 벅차오르네요. 박사님, 같이 온실로 가서 새해에 피어난 첫 꽃을 찾아보지 않으실래요?",
                 "cn": "在老家，这个时候许多花都已经凋谢了，但是想到春天很快就要到来，心里又充满了希望。博士，我们去温室里找一找在新的一年开的第一朵花吧！"
@@ -593,8 +593,8 @@
                 "cn": "生日"
             },
             "text": {
-                "en": "Doctor, happy birthday! Please, try this floral tea! I made it the way Miss Lena taught me, and if you really savor it, you can taste a hint of cake flavor! Eh? You can't? Let me try... Oh... Sorry, Doctor. I... I think I forgot the honey…",
-                "jp": "博士，生日快乐！请尝尝这杯花茶吧！这是我用莱娜姐姐的技术做的茶，仔细品尝的话会有蛋糕的味道呢！欸，喝不出来吗？我来试试......对不起博士，我好像，忘记放花蜜了......",
+                "en": "Doctor, happy birthday! Please, try this floral tea! I made it the way Miss Lena taught me, and if you really savor it, you can taste a hint of cake flavor! Eh? You can't? Let me try… Oh… Sorry, Doctor. I… I think I forgot the honey…",
+                "jp": "ドクター、お誕生日おめでとうございます！ハーブティーをどうぞ！ラナお姉さんに教わったやり方で淹れてみました。じっくり味わえば、ケーキの味がほんのり感じられるんですよ！えっ、そんな味はしない？ちょっと失礼します……うーん、ごめんなさいドクター、私、お花の蜜を入れ忘れてしまったかもしれません……",
                 "kr": "박사님, 생일 축하드려요! 이 꽃차 한잔 마셔보세요! 레나 언니 기술로 만든 차인데, 잘 음미해 보시면 은은한 케이크 맛이 난답니다! 앗, 안 난다고요? 제가 한 번 마셔볼게요…… 죄송해요, 박사님. 꿀 넣는 걸 깜빡한 것 같아요……",
                 "cn": "博士，生日快乐！请尝尝这杯花茶吧！这是我用莱娜姐姐的技术做的茶，仔细品尝的话会有蛋糕的味道呢！欸，喝不出来吗？我来试试......对不起博士，我好像，忘记放花蜜了......"
             },
@@ -609,7 +609,7 @@
                 "cn": "周年庆典"
             },
             "text": {
-                "en": "I've been all over with Rhodes Island. Does that mean I've spread flowery fragrance to just as many places? Hehe... I may still have lots of room for improvement, compared to Miss Lena, but I'll do my best to make Rhodes Island an even warmer place!",
+                "en": "I've been all over with Rhodes Island. Does that mean I've spread flowery fragrance to just as many places? Hehe… I may still have lots of room for improvement, compared to Miss Lena, but I'll do my best to make Rhodes Island an even warmer place!",
                 "jp": "ロドスに来てから、いろんな場所に行きました。これってお花の香りを大地に広めたことになりませんか？へへ……ラナお姉さんに比べれば、私はまだまだ一人前には程遠いですが、ロドスをもっと温もり溢れる場所にできるように頑張ります！",
                 "kr": "로도스 아일랜드를 따라 많은 곳을 다녔으니, 꽃향기도 대지 곳곳에 퍼뜨렸다고 볼 수 있겠죠? 헤헤…… 레나 언니에 비하면 아직 여러모로 부족하지만, 로도스 아일랜드를 더 따뜻하고 아늑한 곳으로 만들기 위해 최선을 다할게요!",
                 "cn": "跟着罗德岛走过了许多地方，是不是也算将花香散播到大地各处了呢？嘿嘿......虽然和莱娜姐姐比起来，我还有许多不成熟的地方，但我会尽力让罗德岛变成一个更温馨的地方！"
@@ -618,6 +618,10 @@
         }
     ],
     "actors": {
+        "en": {
+            "native": "Lourdes Arruti",
+            "global": "Lourdes Arruti"
+        },
         "cn": {
             "native": "富贵",
             "global": "Rachel"
@@ -632,6 +636,7 @@
         }
     },
     "availability": [
+        "en",
         "cn",
         "jp",
         "kr"

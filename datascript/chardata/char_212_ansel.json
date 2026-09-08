@@ -66,7 +66,7 @@
             },
             "text": {
                 "en": "Good grief... Doctor, you need to take care of yourself. You can't make us do it for you.",
-                "jp": "まったくもう……。ドクター、自分の身はちゃんと自分で守らないといけないんですよ。",
+                "jp": "まったくもう……ドクター、自分の身はちゃんと自分で守らないといけないんですよ。",
                 "kr": "정말이지…… 박사님, 자기 몸은 자기가 지켜야 한다고요.",
                 "cn": "真是的......博士，自己的身体，只有自己才能保护得好哦。"
             },
@@ -130,7 +130,7 @@
             },
             "text": {
                 "en": "I know everyone does what they can. But I heard from Dr. Kal'tsit that Steward and Melantha's conditions aren't looking too good... My job is to make their lives as easy as possible. Doctor, let's redouble our efforts, together.",
-                "jp": "本当にみんなよく頑張っています……ただケルシー先生によると、スチュワードさんも、メランサさんも、あまり芳しくない状況のようです……。できるだけみんなを安心させるのが私の仕事です。ドクターも一緒に頑張りましょう。",
+                "jp": "本当にみんなよく頑張っています……ただケルシー先生によると、スチュワードさんも、メランサさんも、あまり芳しくない状況のようです……できるだけみんなを安心させるのが私の仕事です。ドクターも一緒に頑張りましょう。",
                 "kr": "사실은 다들 참 열심히 하고 있어요…… 다만 켈시 선생님 말씀에 따르면, 스튜어드 씨도 멜란사 씨도, 그다지 좋은 상황이 아니라고 해요…… 최대한 모두를 안심시키는 게 제 일이에요. 박사님도 같이 힘내자고요!",
                 "cn": "其实大家真的很努力了。不过听凯尔希老师说，史都华德和玫兰莎的状况都不太好......我的工作就是尽可能让他们没有后顾之忧。博士，一起加油吧。"
             },
@@ -146,7 +146,7 @@
             },
             "text": {
                 "en": "Adnachiel, could you ask Cardigan to settle down for a moment? The Doctor is resting.",
-                "jp": "チッ！アドナキエルさん！カーディを大人しくさせてくれませんか？ドクターがお休みです……。",
+                "jp": "チッ！アドナキエルさん！カーディを大人しくさせてくれませんか？ドクターがお休みです……",
                 "kr": "쯧! 아드나키엘 씨! 카디건 좀 얌전히 시켜줄 수 있을까요? 박사님 주무시잖아요…… ",
                 "cn": "安德切尔，能让卡缇稍微安静一下吗？博士休息了。"
             },
@@ -370,7 +370,7 @@
             },
             "text": {
                 "en": "Phew, thank goodness I brought enough medicine. Please don't worry.",
-                "jp": "ふぅ……。薬を十分に用意しておいてよかったです。皆さん、安心してください。",
+                "jp": "ふぅ……薬を十分に用意しておいてよかったです。皆さん、安心してください。",
                 "kr": "후우…… 약을 충분히 준비해두길 잘했네요. 다들, 안심해주세요.",
                 "cn": "呼——还好药品带够了。各位，请安心。"
             },
@@ -547,7 +547,7 @@
             "text": {
                 "en": "I only came to Rhodes Island at first because no other place would accept my resume. It seems more like a kind of destiny now. All of A4 are maturing, and I can't fall behind, Doctor. The good news is, test results show my health condition has gotten a lot better over the last year.",
                 "jp": "私がロドスに来たのは、ここしか採用してくれなかったからですが、今になってみると、これも一種の縁ですよね。A4はみんな成長しているので、私も負けてはいられません。ドクター、健診の結果によると、この一年で私もずいぶんと健康になりましたよ。",
-                "kr": "로도스 아일랜드에 오게 된 건 사실 제 이력서를 받아 준 곳이 이곳뿐이었기 때문이에요. 근데 지금 와서 생각해보면 이것도 인연이었네요. 예비 작전팀 A4의 모두는 지금도 꾸준히 성장하고 있고, 저도 뒤처질 수는 없죠. 박사님, 저 건강 검진 결과를 확인해봤는데요, 지난 일 년 동안 많이 건강해졌더라고요!",
+                "kr": "로도스 아일랜드에 오게 된 건 사실 제 이력서를 받아 준 곳이 이곳뿐이었기 때문이에요. 근데 지금 와서 생각해보면 이것도 인연이었네요. 예비작전팀 A4의 모두는 지금도 꾸준히 성장하고 있고, 저도 뒤처질 수는 없죠. 박사님, 저 건강 검진 결과를 확인해봤는데요, 지난 일 년 동안 많이 건강해졌더라고요!",
                 "cn": "虽然最初来到罗德岛，是因为只有这里通过了我的简历，现在看来更像是一种缘分呢。A4小队的大家都在成长，我也不能落下。博士，体检报告显示，过去一年里，我的身体健康了很多哦。"
             },
             "asset": "char_212_ansel/CN_044"

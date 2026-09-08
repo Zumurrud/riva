@@ -530,7 +530,7 @@
             },
             "text": {
                 "en": "Happy birthday, Doctor! I guess getting old isn't something you should feel optimistic about, but it's still worth commemorating the day a new life was born. Gimme a minute, let's celebrate with something from my secret snack cache.",
-                "jp": "博士生日快乐——嗯，长大了一岁，其实不是件轻松的事吧，但是作为纪念生命诞生的日子，还是非常值得庆贺的！稍等一下，我去拿点我珍藏的零食，一起来庆祝吧。",
+                "jp": "ドクター、誕生日おめでとう！一つ大きくなるのってさ、ホント色々苦労するよね。でも誕生を記念する日だから、祝う価値は十分にあるよ！ちょっと待ってて、あたしのとっておきのお菓子を持ってくるからさ、一緒に祝おうよ。",
                 "kr": "박사 생일 축하해~ 흐음, 한 살 더 먹는 것도 마냥 쉬운 일은 아니야, 그렇지? 그래도 한 생명의 탄생을 기념하는 날이니, 축하는 필수지! 잠깐만 기다려, 내가 아끼고 아껴온 비장의 간식을 가져올 테니까 오늘은 같이 즐기는 거야!",
                 "cn": "博士生日快乐——嗯，长大了一岁，其实不是件轻松的事吧，但是作为纪念生命诞生的日子，还是非常值得庆贺的！稍等一下，我去拿点我珍藏的零食，一起来庆祝吧。"
             },
@@ -583,6 +583,6 @@
         "old_cn"
     ],
     "audio_path_override": {
-        "old_cn": "https://raw.githubusercontent.com/PseudoMon/arknights-audio/5e1b475f1a8ac48144c1a790224ee8bc8ac130b0/voice_cn"
+        "old_cn": "https://raw.githubusercontent.com/Zumurrud/riva-voices/main/old_voices/voice_cn/char_282_catap/CN_###.mp3"
     }
 }

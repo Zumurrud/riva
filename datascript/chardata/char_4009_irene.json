@@ -633,12 +633,17 @@
         "kr": {
             "native": "사문영",
             "global": "Sa Moon-young"
+        },
+        "es": {
+            "native": "Gracia Comitre",
+            "global": "Gracia Comitre"
         }
     },
     "availability": [
         "en",
         "cn",
         "jp",
-        "kr"
+        "kr",
+        "es"
     ]
 }

@@ -1,0 +1,644 @@
+{
+    "charid": "char_4056_titi",
+    "nameid": "titi",
+    "names": {
+        "en": "Titi",
+        "jp": "ティティ",
+        "kr": "티티",
+        "cn": "缇缇"
+    },
+    "voices": [
+        {
+            "id": "char_4056_titi_CN_001",
+            "title": {
+                "en": "Appointed as Assistant",
+                "jp": "秘書任命",
+                "kr": "어시스턴트 임명",
+                "cn": "任命助理"
+            },
+            "text": {
+                "en": "Help you with work? Sure. Does that mean I can set Rhodes Island's course? There's a tribe nearby just about to hold an unusual ceremony, and I was thinking of going to see—I can't? Why not…? It'll barely be a detour…",
+                "jp": "仕事を手伝ってほしいって？いいわよ。それじゃあロドスのこれからの航行計画を立ててもいい？ちょうど近くでとある部族の特別な儀式がそろそろ始まるから、見に行きたいんだけど――え、進路を適当に変えちゃダメ？そんなつもりじゃないけど。通り道でもダメなの……",
+                "kr": "일을 도와줬으면 한다고? 좋아. 그러면 로도스 아일랜드의 앞으로의 항행 계획을 세워도 돼? 마침 근처에서 어떤 부족의 특별한 의식이 곧 시작되니까, 보러 가고 싶은데…… 엣, 진로를 마음대로 바꾸면 안 돼? 그럴 생각은 아니었는데. 지나가는 길이어도 안 돼?",
+                "cn": "帮你工作？也行。我能规划罗德岛之后的行程吗？正好附近有个部落即将举行特别的仪式，我想去看看——不能乱开？没有呀，顺路都不行吗......"
+            },
+            "asset": "char_4056_titi/CN_001"
+        },
+        {
+            "id": "char_4056_titi_CN_002",
+            "title": {
+                "en": "Talk 1",
+                "jp": "会話1",
+                "kr": "대화 1",
+                "cn": "交谈1"
+            },
+            "text": {
+                "en": "This thing on my bangs? Yes, it's a relic. Its original use was most likely as a buckle. It was just sitting there in my family's storehouse with nobody to see it, so I took a page out of the Columbians' book and stuck it in my hair like sunglasses. See, even antiques can be fashionable.",
+                "jp": "私の前髪についてるこれ？文化財で間違いないわよ。元々はバックルだったはずだけど、家の倉庫に眠らせてても誰も見れないし、クルビア人がサングラスを頭に乗せるみたいに髪につけてみたの。ほら、古董品だってオシャレに使えるでしょ？",
+                "kr": "내 앞머리에 달린 이거? 유물 맞아. 원래는 버클이었을 테지만, 집 창고에 묵혀두면 아무도 못 보니까, 컬럼비아인이 선글라스를 머리에 얹어두는 것처럼 머리카락에 달아봤어. 봐봐, 골동품이라도 스타일리쉬하게 쓸 수 있지?",
+                "cn": "我刘海上的装饰？是文物没错。本来的用途嘛，应该是带扣吧。在家里的仓库放着也没人能看到，我就学哥伦比亚人往脑门上架墨镜的样子别头发上了。看，古董也可以很时髦吧？"
+            },
+            "asset": "char_4056_titi/CN_002"
+        },
+        {
+            "id": "char_4056_titi_CN_003",
+            "title": {
+                "en": "Talk 2",
+                "jp": "会話2",
+                "kr": "대화 2",
+                "cn": "交谈2"
+            },
+            "text": {
+                "en": "Historical relics aren't the only thing the museum puts on display. As long as an exhibit broadens the visitors' horizons, it's a good exhibit, right? You nodded! Good, because I've got this proposal for you—drumroll please: The Life of a Sarkaz Boiler Worker! If you see no problem with it, then sign here!",
+                "jp": "博物館に展示するのって、必ずしも貴重な文化財じゃなくてもいいと思うの。展示って、見た人が自分の知らない物事を知れればそれで充分でしょう。よし、今頷いたわね！実はちょうど一つ提案があるの――サルカズボイラーマンの生活展、どう？問題がなければ許可をちょうだい！",
+                "kr": "박물관에 전시하는 게 꼭 귀중한 유물일 필요는 없다고 생각해. 전시라는 건, 보는 사람이 자기가 몰랐던 걸 알게 되는 것만으로도 충분하잖아. 좋아, 방금 고개 끄덕였지! 사실 살짝 제안하고 싶은 게 하나 있거든…… 살카즈 보일러공 생활전, 어때? 문제없으면 허가해 줘!",
+                "cn": "博物馆展出的未必得是贵重的文物，展览嘛，只要能让人看到认知以外的事物就可以，对吧。你点头了！好，我这里正好有个提案——萨卡兹锅炉工生活展，你看看没问题就给我通过吧！"
+            },
+            "asset": "char_4056_titi/CN_003"
+        },
+        {
+            "id": "char_4056_titi_CN_004",
+            "title": {
+                "en": "Talk 3",
+                "jp": "会話3",
+                "kr": "대화 3",
+                "cn": "交谈3"
+            },
+            "text": {
+                "en": "Psychology, architecture, artifact appraisal and restoration, exhibit design and crowd dynamics… Museum studies require me to understand these things, and I do. But I'm not a master of any of them? Well, sure, but a decent understanding is enough for my work, and I'm also always learning new things…",
+                "jp": "心理学、建築学、文化財鑑定と修復、展示企画に動線設計……博物館学に必要な知識は一通りあるわ。でもどれも専門ってほどじゃない？いいじゃない、使えれば充分でしょ。それに新しいことはずっと学んでるわよ……",
+                "kr": "심리학, 건축학, 유물 감정과 복원, 전시 기획에 동선 설계…… 박물관학에 필요한 지식은 얼추 다 갖추고 있어. 그런데 다 전문이라고 할 정도는 아니라고? 왜, 쓸 수 있으면 충분하잖아. 게다가, 새로운 것도 계속 배우고 있다구……",
+                "cn": "心理学、建筑学、文物鉴定与修复、布展策划与动线设计......研究博物馆学要了解的这些我都会——但是都不太精通？怎么了嘛，够用就好，而且我一直有在学新的东西呀......"
+            },
+            "asset": "char_4056_titi/CN_004"
+        },
+        {
+            "id": "char_4056_titi_CN_005",
+            "title": {
+                "en": "Talk after Promotion 1",
+                "jp": "昇進後会話1",
+                "kr": "1차 정예화 후 대화",
+                "cn": "晋升后交谈1"
+            },
+            "text": {
+                "en": "My family's fortunes had waned by the time my father's generation came around, so we're nowhere near as illustrious as Pepe or Anat's families. Now I see that as a blessing. I could have gone to study in Columbia, as I wanted, just as I've come to Rhodes Island. If you need me to do anything, just say it straight, no need to beat around the bush like you do with those two.",
+                "jp": "私の家は父の代で没落したから、ペペやアナトみたいに華やかな家柄じゃないの。でも今思えば気楽でよかったわ。クルビアに留学したいと思えば行けたし、ロドスに来たいと思えば自由に来られたから。だからドクター、何か頼みたいことがあるなら遠慮なく言って。あの二人相手の時みたいに気を使う必要はないから。",
+                "kr": "우리 집은 아버지 대에서 몰락했으니까, 페페나 아나트처럼 화려한 가문은 아니야. 그래도 지금 생각해 보면 홀가분해서 좋았어. 컬럼비아로 유학하고 싶으면 갈 수 있었고, 로도스 아일랜드로 오고 싶으면 자유롭게 올 수 있잖아. 그러니까 박사, 뭐 부탁하고 싶은 거 있으면 사양하지 말고 말해. 그 두 사람을 상대할 때처럼 신경 쓸 필요는 없으니까.",
+                "cn": "我家传到父亲那一代就没落了，我的家世没有佩佩和阿娜特那么显赫。现在想来也是好事，我想去哥伦比亚留学就去，想来罗德岛看看就来。你想让我做什么可以直接说，不用跟面对她们一样有顾虑。"
+            },
+            "asset": "char_4056_titi/CN_005"
+        },
+        {
+            "id": "char_4056_titi_CN_006",
+            "title": {
+                "en": "Talk after Promotion 2",
+                "jp": "昇進後会話2",
+                "kr": "2차 정예화 후 대화",
+                "cn": "晋升后交谈2"
+            },
+            "text": {
+                "en": "'In Sargon, Padishahs are as numerous as the stars in the sky; anyone who feels like it can reach out and grab one.' That's my favorite quote from the Thieving Padishah Merit—No, no, I'm not saying I want to be one, I just think her 'I want it so I'll go do it' attitude is super-cool, you know?",
+                "jp": "「サルゴンにパーディシャーは星の数ほどいる。意志さえあれば、誰でも機会を掴める。」これは私のすごく好きな盗賊のパーディシャー・メリトの言葉で――違う違う、別に私がパーディシャーになりたいってわけじゃないわよ。ただね、彼女の欲しいものをまっすぐ掴みに行く気概がかっこいいと思うのよ。ドクターもそう思わない？",
+                "kr": "“사르곤에 파디샤는 별의 수만큼 많다. 의지만 있다면, 누구라도 기회를 잡을 수 있다.” 이건 내가 아주 좋아하는 도적 파디샤 메리트의 말인데…… 아니 아니, 딱히 내가 파디샤가 되고 싶은 건 아냐. 그냥, 갖고 싶은 것을 바로 가지러 가는 기개가 멋있다고 생각할 뿐이야. 박사도 그렇게 생각하지 않아?",
+                "cn": "“萨尔贡的帕夏多如繁星，只要有心，谁都能找到机会。”这是我很喜欢的盗贼帕夏梅里特说过的话——不不，我不是说自己要做帕夏，只是觉得她这种想要就去做到的态度很帅，你不觉得吗？"
+            },
+            "asset": "char_4056_titi/CN_006"
+        },
+        {
+            "id": "char_4056_titi_CN_007",
+            "title": {
+                "en": "Talk after Trust Increase 1",
+                "jp": "信頼上昇後会話1",
+                "kr": "신뢰도 상승 후 대화 1",
+                "cn": "信赖提升后交谈1"
+            },
+            "text": {
+                "en": "Doctor! DOCTOR! Quick, there's no time to explain! Help me write a description for this artifact from the South Sargon Marshland Tribal Customs exhibit! Huh? You can't describe something you know nothing about? Whoa… So there <i>are</i> things you don't know… Alright, new plan, I do the writing now, and you check if what I've written makes sense.",
+                "jp": "ドクタードクター、時間がないの！このサルゴン南部沼地部族民俗展の文化財解説、書いてくれないかしら！え、詳しく知らないから無理？うそ、ドクターにも知らないことがあるんだ……分かった、じゃここで私が書くから、終わったら一度読んで確認してちょうだい。",
+                "kr": "박사 박사, 시간 없어! 이 사르곤 남부 습지 부족 민속전의 유물 해설, 써주지 않을래? 엣, 자세히 모르니까 무리라고? 우와, 박사도 모르는 게 있구나…… 알았어. 그럼 여기서 내가 쓸 테니까, 끝나면 한번 읽고 확인해 줘.",
+                "cn": "博士博士，来不及了！帮我把这个萨尔贡南部沼泽部落民俗展的文物说明写了吧！啊？你不清楚写不了？呜哇，还有你不知道的事......好吧，那我在你这里写，写完你先帮我读一遍。"
+            },
+            "asset": "char_4056_titi/CN_007"
+        },
+        {
+            "id": "char_4056_titi_CN_008",
+            "title": {
+                "en": "Talk after Trust Increase 2",
+                "jp": "信頼上昇後会話2",
+                "kr": "신뢰도 상승 후 대화 2",
+                "cn": "信赖提升后交谈2"
+            },
+            "text": {
+                "en": "I know Mio's no ordinary Feline Beast Steward… and you're no ordinary human either, Doctor. That's all right. You can keep hiding your identities, I'll still be friends with you both. Of course, if you ever feel like sharing your 'secrets', I'd be happy to lend you an ear.",
+                "jp": "ミオが普通のフェリーンの獣眷じゃないのは知ってるわよ……ドクターだって普通の人じゃないでしょ。でも平気。あなたたちがどんなに正体を隠しても、私は友達でいられるから。もちろんあなたが「秘密」を話してくれるって言うなら、喜んで聞くわよ。",
+                "kr": "미오가 평범한 필라인 비스트 스튜어드가 아닌 건 알고 있어…… 박사도 평범한 사람은 아니잖아. 그래도 괜찮아. 당신들이 아무리 정체를 숨겨도, 난 친구로 지낼 수 있으니까. 물론, 당신이 '비밀'을 말해 주겠다고 한다면, 기꺼이 들을게.",
+                "cn": "我知道米奥不是普通的菲林兽亲呀......博士你自己也不是什么普通人嘛。没关系，你们再掩饰身份，我也能和你们做朋友。当然，博士你要是愿意说说自己的“秘密”，我很乐意好好听。"
+            },
+            "asset": "char_4056_titi/CN_008"
+        },
+        {
+            "id": "char_4056_titi_CN_009",
+            "title": {
+                "en": "Talk after Trust Increase 3",
+                "jp": "信頼上昇後会話3",
+                "kr": "신뢰도 상승 후 대화 3",
+                "cn": "信赖提升后交谈3"
+            },
+            "text": {
+                "en": "Close your eyes, get in the car, and come with me! It's hot? Enough complaining. Okay, you can open your eyes now. Look at this desert expanse. This is where the Shah set out on his expedition. Who knows? The wind might uncover some of the footprints he left behind. Don't speak, Doctor, or you'll disturb the flow of time…",
+                "jp": "目を閉じて、車に乗って、行くわよ！なんか暑い？質問は禁止ね――はい、もう目を開けていいわよ。この果てしない砂漠を見てちょうだい。シャアはここから征伐を始めたの。もしかしたら風が当時の足跡を砂の上に描き出すかも。ドクター、喋らないで。流れていく時間を驚かせないように……",
+                "kr": "눈 감고, 차에 타. 출발! 왠지 덥다고? 질문은 금지야…… 자, 이제 눈 떠도 돼. 이 끝없는 사막을 봐. 샤는 여기서부터 정벌을 시작했어. 어쩌면 바람이 당시의 발자취를 모래 위에 그려낼지도 몰라. 박사, 말하지 마. 흘러가는 시간을 놀래키지 않게……",
+                "cn": "闭眼，上车，跟我走！热？别问那么多——好了，睁眼吧。看看这片无垠的沙漠，沙阿就是从这里开始征伐，说不定哪阵风还能吹出当年的脚印。别说话，博士，别惊扰流过我们的时间......"
+            },
+            "asset": "char_4056_titi/CN_009"
+        },
+        {
+            "id": "char_4056_titi_CN_010",
+            "title": {
+                "en": "Idle",
+                "jp": "放置",
+                "kr": "방치",
+                "cn": "闲置"
+            },
+            "text": {
+                "en": "Nothing to do… Hmm… Why not try to sleep standing up like I hear Pallas can…? Zzz… Zzz… Ow! My head! That hurts!",
+                "jp": "何もしなくていいの……うーん……じゃあ噂で聞いたパラスさんの立ち寝をやってみようかな。すぅ……すぅ……いたっ！頭ぶつけた、痛い！",
+                "kr": "아무것도 안 해도 되나…… 으음~ ……그럼 소문으로 듣던 팔라스 씨의 서서 잠들기를 해볼까나. 새근…… 새근…… 아야! 머리 부딪혔어, 아파!",
+                "cn": "什么都不用做吗......唔......要不学学帕拉斯小姐，听说她可以站着睡觉......？呼......呼......啊！磕到头了，好痛！"
+            },
+            "asset": "char_4056_titi/CN_010"
+        },
+        {
+            "id": "char_4056_titi_CN_011",
+            "title": {
+                "en": "Onboard",
+                "jp": "入職会話",
+                "kr": "오퍼레이터 입사",
+                "cn": "干员报到"
+            },
+            "text": {
+                "en": "Hello, Doctor, my name is rather tricky, so you may call me Titi, like all my friends do—but what you call me isn't important. I'm here to prepare my museum's new special exhibit. Are you and Rhodes Island interested in participating?",
+                "jp": "こんにちは、ドクター。私の名前すごく長いから、みんなと同じようにティティって呼んでくれて大丈夫――呼び方はどうでもいいの。今、博物館で新しい特別展を準備しているのだけど、ロドスも出展に興味はない？",
+                "kr": "안녕, 박사. 내 이름은 엄청 기니까, 다른 사람들처럼 티티라고 불러도 괜찮아…… 부르는 방법은 뭐가 됐든 상관없어. 지금 박물관에서 새 특별전을 준비하고 있는데, 로도스 아일랜드도 출품할 생각 없어?",
+                "cn": "你好，博士，我的名字很长，你可以跟朋友们一样叫我缇缇——称呼不重要，我在为我的博物馆筹备新的特展，不知道你和罗德岛有没有兴趣参与？"
+            },
+            "asset": "char_4056_titi/CN_011"
+        },
+        {
+            "id": "char_4056_titi_CN_012",
+            "title": {
+                "en": "Watching Battle Record",
+                "jp": "経験値上昇",
+                "kr": "작전기록 학습",
+                "cn": "观看作战记录"
+            },
+            "text": {
+                "en": "Hmm, these are something like the artifact restoration tutorials I watched in Columbia. It looks easy when someone else does it, but the moment you try it yourself, you realize you have no idea where to even start.",
+                "jp": "うーん、クルビアで見た文化財修復の教材映像みたい――人がやってるのを見れば簡単そうなのに、いざ自分でやると、何から手をつければいいか分からなくなるのよね。",
+                "kr": "으음, 컬럼비아에서 봤던 유물 복원 교재 영상 같네…… 다른 사람이 하고 있는 걸 보면 간단해 보이는데, 막상 내가 하면 뭐부터 손대야 할지 모르겠단 말이지.",
+                "cn": "唔，有点像我在哥伦比亚看的文物修复的教学片——看别人做似乎很简单，但真自己去试，会发现根本不知道要从哪儿入手。"
+            },
+            "asset": "char_4056_titi/CN_012"
+        },
+        {
+            "id": "char_4056_titi_CN_013",
+            "title": {
+                "en": "Promotion 1",
+                "jp": "昇進Ⅰ",
+                "kr": "1차 정예화 (승진)",
+                "cn": "精英化晋升1"
+            },
+            "text": {
+                "en": "This is a Rhodes Island promotion? Using ancient investiture ceremonies in modern business management… Fascinating. I could try something like this in my museum.",
+                "jp": "これがロドスの昇進？古代の叙勲儀式を現代の企業管理に応用するなんて……面白いわ。うちの博物館でもやってみようかしら。",
+                "kr": "이게 로도스 아일랜드의 승진? 고대의 서훈 의식을 현대의 기업 관리에 응용하다니…… 재밌네. 우리 박물관에서도 해볼까.",
+                "cn": "这就是罗德岛的升职？把古老的授勋仪式应用在现代的企业管理中......有趣，在我的博物馆里也可以推行试试。"
+            },
+            "asset": "char_4056_titi/CN_013"
+        },
+        {
+            "id": "char_4056_titi_CN_014",
+            "title": {
+                "en": "Promotion 2",
+                "jp": "昇進Ⅱ",
+                "kr": "2차 정예화 (승진)",
+                "cn": "精英化晋升2"
+            },
+            "text": {
+                "en": "I feel like I could go even higher from here—Wait, what do you mean this is the peak?",
+                "jp": "まだ上に行けると思うけど――え、もう一番上？",
+                "kr": "더 위로 갈 수 있을 것 같은데…… 엣? 이미 맨 위라고?",
+                "cn": "我觉得我还可以再往上晋升——啊，这就已经升到顶了？"
+            },
+            "asset": "char_4056_titi/CN_014"
+        },
+        {
+            "id": "char_4056_titi_CN_017",
+            "title": {
+                "en": "Added to Squad",
+                "jp": "編成",
+                "kr": "팀 배치",
+                "cn": "编入队伍"
+            },
+            "text": {
+                "en": "There's some new artifacts that need to go into storage, shall we go see?",
+                "jp": "また新しい文化財が入ったの。一緒に見に行かない？",
+                "kr": "또 새로운 유물이 들어왔어. 같이 보러 갈래?",
+                "cn": "又有新的文物要入库，一起去看看？"
+            },
+            "asset": "char_4056_titi/CN_017"
+        },
+        {
+            "id": "char_4056_titi_CN_018",
+            "title": {
+                "en": "Appointed as Squad Leader",
+                "jp": "隊長任命",
+                "kr": "팀장 임명",
+                "cn": "任命队长"
+            },
+            "text": {
+                "en": "Okay, everyone have a look at the plan—It's different from yesterday's? Well, I just now got a new idea. So? Any issues?",
+                "jp": "いいけど、まずは私のプランを見て――昨日言った内容と違う？うん、さっき急に新しいアイデアが浮かんだの。なあに、問題でもある？",
+                "kr": "좋아, 하지만 먼저 내 플랜을 봐 줘…… 어제 말한 내용이랑 다르다고? 응, 아까 갑자기 새로운 아이디어가 떠올랐거든. 왜, 문제라도 있어?",
+                "cn": "好的，先来看看我的规划——跟昨天说的不一样？嗯，刚才我突然有了个新点子。怎么了？有什么问题吗？"
+            },
+            "asset": "char_4056_titi/CN_018"
+        },
+        {
+            "id": "char_4056_titi_CN_019",
+            "title": {
+                "en": "Depart",
+                "jp": "作戦準備",
+                "kr": "작전 출발",
+                "cn": "行动出发"
+            },
+            "text": {
+                "en": "Let's go, time to see what new stories this round of relics has to tell us.",
+                "jp": "行きましょ。今回の文化財がどんな新しい物語を運んできてくれるか楽しみね。",
+                "kr": "가자. 이번 유물이 또 어떤 새로운 이야기를 가져다줄지 기대되네.",
+                "cn": "走吧，看看这次的文物能带来什么新的故事。"
+            },
+            "asset": "char_4056_titi/CN_019"
+        },
+        {
+            "id": "char_4056_titi_CN_020",
+            "title": {
+                "en": "Begin Operation",
+                "jp": "戦闘開始",
+                "kr": "작전 개시",
+                "cn": "行动开始"
+            },
+            "text": {
+                "en": "We're in the storeroom, so everyone tread a little lightly, okay?",
+                "jp": "倉庫に入ったら、動きはそっとね。",
+                "kr": "창고에 들어가면, 움직임은 작게 해.",
+                "cn": "进了库房，动作就得轻一点啦。"
+            },
+            "asset": "char_4056_titi/CN_020"
+        },
+        {
+            "id": "char_4056_titi_CN_021",
+            "title": {
+                "en": "Selecting Operator 1",
+                "jp": "選択時1",
+                "kr": "오퍼레이터 선택 1",
+                "cn": "选中干员1"
+            },
+            "text": {
+                "en": "Cleaning, conservation, repairing, restoration, I can do it all.",
+                "jp": "清掃、手入れ、矯正、修復、全部できるわよ。",
+                "kr": "청소, 손질, 교정, 복원, 전부 할 수 있어.",
+                "cn": "清洁、保养、矫形、修复，这些我都会哦。"
+            },
+            "asset": "char_4056_titi/CN_021"
+        },
+        {
+            "id": "char_4056_titi_CN_022",
+            "title": {
+                "en": "Selecting Operator 2",
+                "jp": "選択時2",
+                "kr": "오퍼레이터 선택 2",
+                "cn": "选中干员2"
+            },
+            "text": {
+                "en": "Just relax and leave it to me.",
+                "jp": "安心して任せて。",
+                "kr": "안심하고 맡겨 줘.",
+                "cn": "就放心交给我吧。"
+            },
+            "asset": "char_4056_titi/CN_022"
+        },
+        {
+            "id": "char_4056_titi_CN_023",
+            "title": {
+                "en": "Deployment 1",
+                "jp": "配置1",
+                "kr": "배치 1",
+                "cn": "部署1"
+            },
+            "text": {
+                "en": "Remember, patience makes perfect.",
+                "jp": "焦らないことが大事よ。",
+                "kr": "서두르지 않는 게 중요해.",
+                "cn": "要有耐心才是。"
+            },
+            "asset": "char_4056_titi/CN_023"
+        },
+        {
+            "id": "char_4056_titi_CN_024",
+            "title": {
+                "en": "Deployment 2",
+                "jp": "配置2",
+                "kr": "배치 2",
+                "cn": "部署2"
+            },
+            "text": {
+                "en": "Easy does it.",
+                "jp": "ゆっくり、ね。",
+                "kr": "천천히.",
+                "cn": "慢慢来。"
+            },
+            "asset": "char_4056_titi/CN_024"
+        },
+        {
+            "id": "char_4056_titi_CN_025",
+            "title": {
+                "en": "In Battle 1",
+                "jp": "作戦中1",
+                "kr": "작전 중 1",
+                "cn": "作战中1"
+            },
+            "text": {
+                "en": "Brush off the dirt, revealing the rich tones of the pottery glaze.",
+                "jp": "埃を払い清めて、陶器の釉薬の美しさを浮かび上がらせる。",
+                "kr": "먼지를 깨끗이 닦아내서, 도자기 유약의 아름다움을 드러내.",
+                "cn": "拂扫尘垢，让陶器的色釉展露华彩。"
+            },
+            "asset": "char_4056_titi/CN_025"
+        },
+        {
+            "id": "char_4056_titi_CN_026",
+            "title": {
+                "en": "In Battle 2",
+                "jp": "作戦中2",
+                "kr": "작전 중 2",
+                "cn": "作战中2"
+            },
+            "text": {
+                "en": "Remove the mold, restoring the flexibility of the fabric.",
+                "jp": "カビを分解して、織物のしなやかさを取り戻す。",
+                "kr": "곰팡이를 분해해서, 직물의 부드러움을 되찾아.",
+                "cn": "分解霉斑，令织物恢复柔韧。"
+            },
+            "asset": "char_4056_titi/CN_026"
+        },
+        {
+            "id": "char_4056_titi_CN_027",
+            "title": {
+                "en": "In Battle 3",
+                "jp": "作戦中3",
+                "kr": "작전 중 3",
+                "cn": "作战中3"
+            },
+            "text": {
+                "en": "Clear away the crust, returning the marble sculpture to its full glory.",
+                "jp": "表面の石灰質を取り除いて、大理石の彫刻に荘厳さを蘇らせる。",
+                "kr": "표면의 석회질을 제거해서, 대리석 조각에 장엄함을 되돌려.",
+                "cn": "清除表面钙化，使大理石雕塑重现壮美。"
+            },
+            "asset": "char_4056_titi/CN_027"
+        },
+        {
+            "id": "char_4056_titi_CN_028",
+            "title": {
+                "en": "In Battle 4",
+                "jp": "作戦中4",
+                "kr": "작전 중 4",
+                "cn": "作战中4"
+            },
+            "text": {
+                "en": "Phew! No new ceramic artifacts coming in? Not much for me to do, then.",
+                "jp": "ふぅ！新しい器種はもうないの？じゃあ私の出番なしね。",
+                "kr": "후우! 새로운 기형은 이제 더 없어? 그럼 내가 나설 일은 없겠네.",
+                "cn": "呼！就没有新的器型了吗？那都用不着我出手。"
+            },
+            "asset": "char_4056_titi/CN_028"
+        },
+        {
+            "id": "char_4056_titi_CN_029",
+            "title": {
+                "en": "4-star Result",
+                "jp": "高難度作戦クリア",
+                "kr": "고난이도 작전 종료",
+                "cn": "完成高难行动"
+            },
+            "text": {
+                "en": "This is from a much older period than we thought. You sometimes find a major discovery like this when tidying up the storeroom. Let's celebrate with a big cup of tangerine sahlab!",
+                "jp": "予想よりずっと古い年代のものね。倉庫整理もたまにはこういう大発見があるのよ。みかんサフラブでも飲んでお祝いしましょうか！",
+                "kr": "예상보다 훨씬 오래전 시대의 물건이네. 창고 정리도 가끔은 이런 대발견이 있다니까. 귤 살렙이라도 마시면서 축하할까!",
+                "cn": "年代比预估的要久远许多呢，整理库房偶尔也是能有这种大发现的，去喝杯橘子萨拉布庆祝一下吧！"
+            },
+            "asset": "char_4056_titi/CN_029"
+        },
+        {
+            "id": "char_4056_titi_CN_030",
+            "title": {
+                "en": "3-star Result",
+                "jp": "★3で戦闘終了",
+                "kr": "3★ 작전 종료",
+                "cn": "3星结束行动"
+            },
+            "text": {
+                "en": "And that's storage sorted. If we made a themed exhibit out of these items, the tourists would be happy to queue for at least two hours.",
+                "jp": "入庫完了。これで企画展を組めば、最低でも二時間待ちの行列ができるんじゃない？",
+                "kr": "입고 완료. 이걸로 기획전을 구성하면, 적어도 2시간짜리 대기열은 생기겠지?",
+                "cn": "入库完毕。用这些藏品布置一个主题展，游客至少肯排两小时的队吧。"
+            },
+            "asset": "char_4056_titi/CN_030"
+        },
+        {
+            "id": "char_4056_titi_CN_031",
+            "title": {
+                "en": "Sub 3-star Result",
+                "jp": "★2以下戦闘終了",
+                "kr": "비 3★ 작전 종료",
+                "cn": "非3星结束行动"
+            },
+            "text": {
+                "en": "It's fine. I'll help you mend it with epoxy and touch up the seam. You won't even notice.",
+                "jp": "大丈夫、エポキシ樹脂で接着して、継ぎ目に色を塗ってあげる。そうすれば分からないから。",
+                "kr": "괜찮아. 에폭시 수지로 접착하고 이음매에 색을 칠해 줄게. 그러면 감쪽같을 거니까.",
+                "cn": "没事的，我帮你用环氧树脂粘一粘，在接缝上补个色，看不出来。"
+            },
+            "asset": "char_4056_titi/CN_031"
+        },
+        {
+            "id": "char_4056_titi_CN_032",
+            "title": {
+                "en": "Operation Failure",
+                "jp": "作戦失敗",
+                "kr": "작전 실패",
+                "cn": "行动失败"
+            },
+            "text": {
+                "en": "I was exhausted the moment I got out the door. Today's really not a good day for work. I'll do it tomorrow.",
+                "jp": "出かける時から眠かったし、やっぱり今日は作業の日じゃなかったな。明日また来よっと。",
+                "kr": "나올 때부터 졸리기도 했고, 역시 오늘은 작업할 날이 아니었네. 내일 다시 와야지.",
+                "cn": "出门的时候就觉得困困的，今天果然不适合干活。明天再来好啦。"
+            },
+            "asset": "char_4056_titi/CN_032"
+        },
+        {
+            "id": "char_4056_titi_CN_033",
+            "title": {
+                "en": "Assigned to Facility",
+                "jp": "基地配属",
+                "kr": "시설에 배치",
+                "cn": "进驻设施"
+            },
+            "text": {
+                "en": "You have much more… <i>intriguing</i> furniture than I thought. Is there some sort of theming to it all?",
+                "jp": "意外と不思議なインテリアが多いのね。どんなテーマで配置したの？",
+                "kr": "의외로 신기한 인테리어가 많네. 어떤 테마로 배치한 거야?",
+                "cn": "奇妙的家具意外地多呢，你是以什么为主题布置的？"
+            },
+            "asset": "char_4056_titi/CN_033"
+        },
+        {
+            "id": "char_4056_titi_CN_034",
+            "title": {
+                "en": "Tap",
+                "jp": "タッチ1",
+                "kr": "터치",
+                "cn": "戳一下"
+            },
+            "text": {
+                "en": "Hey, I saw that. Your itchy finger was trying to pull my straps.",
+                "jp": "見えちゃったわよ、こっそり私の服の白い帯を引っ張ろうとしたの。",
+                "kr": "딱 걸렸어. 몰래 내 옷의 흰 띠를 잡아당기려고 했잖아.",
+                "cn": "我看到了哦，你偷偷摸摸想要拉我衣服带子的手。"
+            },
+            "asset": "char_4056_titi/CN_034"
+        },
+        {
+            "id": "char_4056_titi_CN_036",
+            "title": {
+                "en": "Trust Tap",
+                "jp": "信頼タッチ",
+                "kr": "신뢰도 터치",
+                "cn": "信赖触摸"
+            },
+            "text": {
+                "en": "You want me to go shopping with you? Alright, I'll have a mango and carob slushie, with crushed nuts on top. Oh, and a hibiscus juice too. And it's on you, right?",
+                "jp": "買い物に誘ってくれるの？いいわね。じゃあマンゴーとキャロブ味のかき氷に、ナッツを増し増しで。あとムクゲジュースも。全部おごりでよろしくね。",
+                "kr": "쇼핑하러 가자고? 좋아. 그럼 망고랑 캐럽맛 빙수에 견과류 듬뿍 올려서. 그리고 무궁화 주스도. 전부 당신이 사는 걸로 부탁해.",
+                "cn": "找我去逛街？好呀，那我要吃芒果和角豆口味的冰沙，加大份坚果碎。再来一杯木槿汁，拜托你都要请客哦。"
+            },
+            "asset": "char_4056_titi/CN_036"
+        },
+        {
+            "id": "char_4056_titi_CN_037",
+            "title": {
+                "en": "Title",
+                "jp": "タイトルコール",
+                "kr": "타이틀",
+                "cn": "标题"
+            },
+            "text": {
+                "en": "Arknights.",
+                "jp": "アークナイツ。",
+                "kr": "명일방주.",
+                "cn": "明日方舟。"
+            },
+            "asset": "char_4056_titi/CN_037"
+        },
+        {
+            "id": "char_4056_titi_CN_038",
+            "title": {
+                "en": "New Year's blessing",
+                "jp": "新年",
+                "kr": "새해",
+                "cn": "新年祝福"
+            },
+            "text": {
+                "en": "Happy New Year. Want to try some fermented carrot cakes? All the rage in southern Rim Billiton. A Cautus patient in the infirmary gave me some, said it's how they celebrate the new year. Don't want one? It smells weird? Eh, a little I guess, but that's no reason not to try it.",
+                "jp": "あけましておめでとう、ドクター。レム・ビリトンの南の方で流行ってるニンジンふわもちパンケーキ、食べてみる？医務室でコータスの患者さんが分けてくれたの。彼の地元では新年はこれを食べて祝うそうよ。嫌？匂いが変？うーん、そうかも。でも一口くらい試してみてもいいじゃない。",
+                "kr": "새해 복 많이 받아, 박사. 림 빌리턴 남쪽에서 유행하는 당근 폭신 쫀득 팬케이크, 먹어볼래? 의무실에서 카우투스 환자분이 나눠줬어. 그분 고향에서는 새해에 이걸 먹으면서 축하한대. 싫어? 냄새가 이상해? 음, 그럴지도. 그래도 한 입 정도는 먹어봐도 되잖아.",
+                "cn": "新年快乐。博士，要不要试试雷姆必拓南方流行的萝卜发酵饼？在医务室一位卡特斯病人分我的，他说他们新年都吃这个来庆祝。不要？气味很怪？唔，有点，但还是可以试试的嘛。"
+            },
+            "asset": "char_4056_titi/CN_038"
+        },
+        {
+            "id": "char_4056_titi_CN_042",
+            "title": {
+                "en": "Greeting",
+                "jp": "挨拶",
+                "kr": "인사",
+                "cn": "问候"
+            },
+            "text": {
+                "en": "Oh, Doctor. Did you also come to this corner of the bridge for a view of the city? Come, stand right here, this angle's spectacular!",
+                "jp": "あ、ドクター。ブリッジの隅っこに来たってことは、前にあるあの都市を見渡したいんでしょ？なら私の方に来て、ここの角度が一番いいの！",
+                "kr": "아, 박사. 함교 구석으로 왔다는 건, 앞에 있는 저 도시를 보고 싶어서지? 그럼 내 쪽으로 와. 이쪽 각도가 제일 좋아!",
+                "cn": "啊，博士。你来舰桥的这个角落，也是要看前面那座城市的全景吗？到我这里来，我这个角度特别好！"
+            },
+            "asset": "char_4056_titi/CN_042"
+        },
+        {
+            "id": "char_4056_titi_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": "Happy birthday, Doctor. Here, I found this while tidying up the family storeroom. It used to be an ornament for a chariot, but you can take it to keep your hood buckled, no matter how hard the wind blows. The moment I saw it, I knew it was meant for you.",
+                "jp": "お誕生日おめでとう、ドクター。これはこの前に家の倉庫で見つけたもので、元は戦車の装飾なんだけど、フードの留め具に使えると思うわ。これならどれだけ風が強くてもフードがめくれることはないでしょ。見た瞬間、あなたにぴったりだと思ったの。",
+                "kr": "생일 축하해, 박사. 이건 얼마 전에 집 창고에서 발견한 건데, 원래는 전차에 쓰는 장식이었지만 후드 고정용으로 쓸 수 있을 것 같아. 이러면 아무리 바람이 강해도 후드가 벗겨질 일은 없을 거야. 보는 순간, 당신에게 딱 맞겠다고 생각했어.",
+                "cn": "生日快乐，博士。这是我前阵子整理我家仓库发现的，本来是战车上的配饰，你可以拿去当搭扣用，这样就算风再大，兜帽也不会被吹开。我看到时就觉得特别适合你。"
+            },
+            "asset": "char_4056_titi/CN_043"
+        },
+        {
+            "id": "char_4056_titi_CN_044",
+            "title": {
+                "en": "Anniversary Celebration",
+                "jp": "周年",
+                "kr": "애니버서리",
+                "cn": "周年庆典"
+            },
+            "text": {
+                "en": "The wear and tear on an artifact are proof that its former owner once lived. We're the same… So long as our brains are running and limbs moving, we'll leave our own marks on the land. Those who come after will bear witness.",
+                "jp": "文化財にある使用された痕跡は、かつての持ち主たちが生きていた証よ。私たちも同じ……考えて、動いている限り、この大地に必ず痕跡を残す。未来の人たちも、きっとそれを見つけられるはずよ。",
+                "kr": "유물에 남은 사용감은, 예전 그 물건의 주인들이 살아있었다는 증거야. 우리도 마찬가지로…… 생각하고 움직이는 한, 이 대지에 반드시 흔적을 남기게 돼. 미래의 사람들도 분명 그걸 발견할 수 있을 거야.",
+                "cn": "所有文物上的使用痕迹，都是它们的主人曾经活着的证明。我们也一样......只要我们还在思考，在行动，我们就必然会在这片大地上留下痕迹。以后的人，也会看得到。"
+            },
+            "asset": "char_4056_titi/CN_044"
+        }
+    ],
+    "actors": {
+        "en": {
+            "native": "Christina Costello",
+            "global": "Christina Costello"
+        },
+        "cn": {
+            "native": "木子橙",
+            "global": "Zichen Mu"
+        },
+        "jp": {
+            "native": "五十嵐裕美",
+            "global": "Hiromi Igarashi"
+        },
+        "kr": {
+            "native": "손정민",
+            "global": "Son Jeong-min"
+        }
+    },
+    "availability": [
+        "en",
+        "cn",
+        "jp",
+        "kr"
+    ]
+}

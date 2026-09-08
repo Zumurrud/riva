@@ -1,0 +1,644 @@
+{
+    "charid": "char_4212_nasti",
+    "nameid": "nasti",
+    "names": {
+        "en": "Nasti",
+        "jp": "ナスティ",
+        "kr": "내스티",
+        "cn": "娜斯提"
+    },
+    "voices": [
+        {
+            "id": "char_4212_nasti_CN_001",
+            "title": {
+                "en": "Appointed as Assistant",
+                "jp": "秘書任命",
+                "kr": "어시스턴트 임명",
+                "cn": "任命助理"
+            },
+            "text": {
+                "en": "Here, construction project plans and data reconciliation sheet. Why the face? I share the same twenty four hours a day that you do, so there's no reason I should work for you alone.",
+                "jp": "ほら、工事計画書とデータの照合表だ。なぜそんな顔をしている？私の一日と君の一日は同じ長さだ。私が一方的に君のために働く理由はない。",
+                "kr": "자, 시공계획서와 명세표야. 왜 그런 표정이지? 내 하루와 네 하루의 길이는 같아. 내가 일방적으로 널 위해 일할 이유는 없어.",
+                "cn": "给，施工计划书和数据核对表。为什么这副表情？我的一天不比你的长，没理由单方面替你干活。"
+            },
+            "asset": "char_4212_nasti/CN_001"
+        },
+        {
+            "id": "char_4212_nasti_CN_002",
+            "title": {
+                "en": "Talk 1",
+                "jp": "会話1",
+                "kr": "대화 1",
+                "cn": "交谈1"
+            },
+            "text": {
+                "en": "Please grab these 'branches'… good. I've obtained your height, weight, and bone density. In ten minutes, a robot will deliver safety equipment tailored to you. Why the surprise? Were you not planning to follow me to the construction site?",
+                "jp": "ここにある数本の「枝」を握ってくれ……よし。君の身長、体重、骨密度のデータは取れた。十分後に、君専用に調整した安全装備をロボットに届けさせる。なぜ驚く。私と一緒に現場に入るんじゃなかったのか？",
+                "kr": "여기 있는 '나뭇가지' 몇 개를 쥐어 봐…… 좋아. 너의 신장, 체중, 골밀도 데이터를 확보했어. 10분 후에, 너에게 맞춰서 조정된 안전 장비를 로봇이 전달할 거야. 뭘 놀라고 있어. 나와 같이 현장에 들어가는 거 아니었나?",
+                "cn": "请握住这几节“树枝”......很好，我已掌握你的身高、体重和骨密度数据。十分钟后，机器人会送来为你量身定做的安全设备。惊讶什么，你没打算跟我进施工现场？"
+            },
+            "asset": "char_4212_nasti/CN_002"
+        },
+        {
+            "id": "char_4212_nasti_CN_003",
+            "title": {
+                "en": "Talk 2",
+                "jp": "会話2",
+                "kr": "대화 2",
+                "cn": "交谈2"
+            },
+            "text": {
+                "en": "Ho'olheyak? A K'uk'ulkan not even trying to hide her probes and provocations. She has a talent for making trouble. She calls herself my friend… Yes, I'm aware of such rumors. I will temper my hate for her as long as she doesn't interfere with my work, and the same goes for you, Doctor.",
+                "jp": "ホルハイヤか？探究と挑発を顔に書いたククルカンで、他人に迷惑をかけるのが得意だ。彼女が私の友人であると自称していると……その噂は聞いたことはある。そうだな。私の仕事の邪魔をしない限り、彼女を嫌うことはない。君も同じだ、ドクター。",
+                "kr": "오올헤약? 탐구와 도발을 얼굴에 써 붙인 쿠쿨칸인데, 타인에게 폐를 끼치는 게 특기지. 오올헤약이 내 친구라 자칭하고 있다라…… 그 소문은 들어본 적 있어. 그래도, 내 일을 방해하지 않는 한 오올헤약을 싫어할 일은 없어. 너도 마찬가지야, 박사.",
+                "cn": "霍尔海雅？一个将探究和挑衅写在脸上的羽蛇，给人添麻烦是她的特长。她自称是我的朋友......我听到过这样的传言。只要不耽误我工作，我不会讨厌她。你也一样，博士。"
+            },
+            "asset": "char_4212_nasti/CN_003"
+        },
+        {
+            "id": "char_4212_nasti_CN_004",
+            "title": {
+                "en": "Talk 3",
+                "jp": "会話3",
+                "kr": "대화 3",
+                "cn": "交谈3"
+            },
+            "text": {
+                "en": "I won't join Rhodes Island's engineering optimization efforts—no, you wouldn't manage to steal Rhine Lab's tech either way, but as a fellow engineer, I know the look on that Vampire's face when she stays up all night drawing blueprints. This is no prime-time Trimounts home renovation show, and I have no interest in commentating on someone else's home.",
+                "jp": "私はロドスの工事計画の最適化に関わるつもりはない――いや、君たちにライン生命の技術を盗まれることを危惧しているわけではない。ただ、同じエンジニアとして、例のブラッドブルードが夜通し施工図を描く時の心境を理解している。これはトリマウンツの夜八時に流れる建築リアリティショーではないんだ。他人の家を講評する気はないというだけだ。",
+                "kr": "나는 로도스 아일랜드의 공사 계획 최적화에 관여할 생각은 없어…… 아니, 너희에게 라인 랩의 기술을 도둑맞을까 봐 걱정하는 건 아니야. 다만 같은 엔지니어로서, 그 뱀파이어가 밤새 시공도를 그릴 때의 심정을 이해하고 있지. 이건 트리마운츠에서 저녁 8시에 방영되는 건축 리얼리티 쇼가 아니라고. 타인의 집을 품평할 생각이 없을 뿐이야.",
+                "cn": "我拒绝参与罗德岛的工程优化——不，莱茵的技术你们偷不走。只是同为工程师，我知道那位血魔熬夜画施工图的时候是什么心情，这不是特里蒙八点档的建筑真人秀，我没兴趣点评别人的家。"
+            },
+            "asset": "char_4212_nasti/CN_004"
+        },
+        {
+            "id": "char_4212_nasti_CN_005",
+            "title": {
+                "en": "Talk after Promotion 1",
+                "jp": "昇進後会話1",
+                "kr": "1차 정예화 후 대화",
+                "cn": "晋升后交谈1"
+            },
+            "text": {
+                "en": "The so-called 'Rhine Lab Ten' seldom came together, even when Kristen was still around, so the few empty seats at the round table now do not imply much of a crisis. As Director of Engineering, I know how much longer this machine we call 'Rhine Lab' can operate.",
+                "jp": "クリステンがいた頃でさえ、「十傑」と呼ばれる者たちが全員揃うことは稀だった。今、あの円卓に空席ができたとしても、それが大きな危機を意味するわけではない。私はエンジニア課の者だ。この「ライン生命」という名の機械が、あとどれだけ動き続けられるかを知っている。",
+                "kr": "크리스틴이 있던 때조차도, 'TOP 10 엘리트'라고 불리는 이들이 다 모이는 일은 극히 드물었어. 지금, 저 원탁에 공석이 생겼다고 해도 그게 큰 위기를 의미하는 것은 아니지. 나는 엔지니어링과 사람이야. 이 '라인 랩'이라고 하는 이름의 기계가, 앞으로 얼마나 더 움직일 수 있는지 알고 있어.",
+                "cn": "哪怕克丽斯腾还在的时候，所谓的“十杰”也很少聚齐，所以现在那张圆桌上空了一些位置，并不意味着多大的危机。我在工程科，我很清楚这台名为“莱茵”的机器还能运作多久。"
+            },
+            "asset": "char_4212_nasti/CN_005"
+        },
+        {
+            "id": "char_4212_nasti_CN_006",
+            "title": {
+                "en": "Talk after Promotion 2",
+                "jp": "昇進後会話2",
+                "kr": "2차 정예화 후 대화",
+                "cn": "晋升后交谈2"
+            },
+            "text": {
+                "en": "Correct. Countless Columbians bore witness to the fall, and the spectacle left them disheartened. Was there a need to cool their fervor? I have no interest in discussing this, Doctor… Fowlbeasts learn to fly by falling, and one day Kazdel <i>will</i> float in the sky.",
+                "jp": "そうだ、無数のクルビア人があの墜落を目撃した。あまりにも壮観で、心を挫くほどの光景だった。ドクター、熱狂の流れに冷や水を浴びせる必要があるかどうかなど、議論したくない……羽獣は墜落する途中で飛ぶ術を学ぶのだ。いつの日か、カズデルは空に浮かぶことになる。",
+                "kr": "그래, 무수히 많은 컬럼비아인이 그 추락을 목격했지. 너무나도 장관이고, 마음이 꺾일 정도의 광경이었어. 박사, 열광의 트렌드에 찬물을 끼얹을 필요가 있는지 따위는 논하고 싶지 않아…… 파울비스트는 추락하는 도중에 나는 법을 배우는 거야. 언젠가, 카즈델은 하늘에 떠오르게 될 거다.",
+                "cn": "没错，万千哥伦比亚人旁观了那场坠落，它壮观得令人灰心。我不想讨论为一股狂热的潮流降温是否有必要，博士......羽兽在坠落中学会飞翔，终有一日，卡兹戴尔将悬于天顶。"
+            },
+            "asset": "char_4212_nasti/CN_006"
+        },
+        {
+            "id": "char_4212_nasti_CN_007",
+            "title": {
+                "en": "Talk after Trust Increase 1",
+                "jp": "信頼上昇後会話1",
+                "kr": "신뢰도 상승 후 대화 1",
+                "cn": "信赖提升后交谈1"
+            },
+            "text": {
+                "en": "I invited you to dance on the sky bridge yesterday? *sigh* I see Muelsyse has taken to this impersonation game. Doctor, I will, for now, take it you failed to recognize that was a water clone, so—who is it you do not know well enough—Muelsyse or myself?",
+                "jp": "私が昨日、ブリッジで君を踊りに誘った？……やれやれ、どうやらミュルジスは本当に真似っこ遊びが気に入ったらしいな。ドクター、ひとまず君が水の分身を見抜けなかったと信じよう。ならば、君はミュルジスに対する理解が不足しているのか、それとも私に対する理解が不足しているのか、どちらだ？",
+                "kr": "내가 어제, 브릿지에서 네게 춤을 추자고 했다고? ……이거 참, 아무래도 뮤엘시스는 정말로 흉내내기 놀이가 마음에 든 모양이군. 박사, 일단 네가 물의 분신을 간파하지 못했다고 믿도록 할게. 그렇다면, 너는 뮤엘시스에 대한 이해가 부족한 걸까, 아니면 나에 대한 이해가 부족한 걸까, 어느 쪽이지?",
+                "cn": "我昨天在廊桥上邀请你跳舞？唉，看来缪尔赛思真的喜欢上了这种模仿游戏。博士，我权且相信你没有认出那是水分身，所以，你是不够了解缪尔赛思，还是不够了解我？"
+            },
+            "asset": "char_4212_nasti/CN_007"
+        },
+        {
+            "id": "char_4212_nasti_CN_008",
+            "title": {
+                "en": "Talk after Trust Increase 2",
+                "jp": "信頼上昇後会話2",
+                "kr": "신뢰도 상승 후 대화 2",
+                "cn": "信赖提升后交谈2"
+            },
+            "text": {
+                "en": "You must have misheard, I was not singing—if you take the Logos you know as a reference, I am no qualified Banshee, nor do I belong to the Convallis any longer. Though elegies still mean the same to me. You're tired? If you're unused to falling asleep to the rumbling of construction noise, I can write you a curse.",
+                "jp": "聞き間違いだ。私は歌ってなどいない――君はロゴスを知っているだろう、彼と比べれば私はバンシーとしては落第ものだ。もはや河谷に属してすらいない。だが挽歌が私にとって持つ意味は変わっていないよ。疲れたのか？工事の騒音で眠れないのなら、呪文で助けてやろう。",
+                "kr": "잘못 들은 거다. 난 노래 따위 부르지 않아…… 넌 로고스를 알고 있을 텐데. 그에 비하면 나는 밴시로서는 낙제점이야. 이제는 협곡에 속해 있지도 않고. 하지만 엘레지가 내게 가지는 의미는 변하지 않았어. 피곤한가? 공사 소음 때문에 잠을 못 자는 거라면, 주문으로 도와주지.",
+                "cn": "你听错了，我没有唱歌——你认识逻各斯，以他为参照，我是个不合格的女妖，也已经不属于河谷。但挽歌于我的意义并未改变。累了？如果不习惯在施工的背景噪音里入睡，我可以用咒言帮你。"
+            },
+            "asset": "char_4212_nasti/CN_008"
+        },
+        {
+            "id": "char_4212_nasti_CN_009",
+            "title": {
+                "en": "Talk after Trust Increase 3",
+                "jp": "信頼上昇後会話3",
+                "kr": "신뢰도 상승 후 대화 3",
+                "cn": "信赖提升后交谈3"
+            },
+            "text": {
+                "en": "Look at the barrier above our heads. Do you think it's out of our reach? Or perhaps I should be asking if you know how it was formed, how to break it down? Kristen absolutely believed her choice held meaning, while I will see it through. Where do you stand on this, Doctor?",
+                "jp": "頭上の阻隔層を見ろ。それが遥かに手の届かぬものに思えるか？それとも、その成り立ちと解体する術を理解しているのだろうか？クリステンは自分の選択に意味があると信じた。そして私はその意味を必ず成立させる。ドクター、私は君の立場がどういったものであるかを知りたい。",
+                "kr": "머리 위 차단층을 봐. 그게 아득하고 손 닿을 수 없는 것으로 보이나? 아니면, 그 구조와 해체 방법을 이해하고 있는 건가? 크리스틴은 자신의 선택에 의미가 있다고 믿었지. 그리고 나는 그 의미를 반드시 성립시킬 거다. 박사, 나는 너의 입장이 어떤지 알고 싶어.",
+                "cn": "看看我们头顶的阻隔层，你觉得它遥不可及吗？还是说，你清楚其形成的原理和解构它的手段？克丽斯腾笃信她的选择是有意义的，而我会确保这份意义成立。博士，我在意你的立场。"
+            },
+            "asset": "char_4212_nasti/CN_009"
+        },
+        {
+            "id": "char_4212_nasti_CN_010",
+            "title": {
+                "en": "Idle",
+                "jp": "放置",
+                "kr": "방치",
+                "cn": "闲置"
+            },
+            "text": {
+                "en": "At last, the muddled dream is about to settle…",
+                "jp": "ようやく、混沌の夢が沈む……",
+                "kr": "드디어, 혼돈의 꿈이 가라앉는군……",
+                "cn": "终于，浑浊的梦要沉淀了......"
+            },
+            "asset": "char_4212_nasti/CN_010"
+        },
+        {
+            "id": "char_4212_nasti_CN_011",
+            "title": {
+                "en": "Onboard",
+                "jp": "入職会話",
+                "kr": "오퍼레이터 입사",
+                "cn": "干员报到"
+            },
+            "text": {
+                "en": "So we meet. Nasti Lunorey, Director of Engineering at Rhine Lab. I've heard a lot about you from some of my colleagues. Pleased to make your acquaintance.",
+                "jp": "初めまして、ライン生命エンジニア課主任、ナスティだ。君のことをよく話題に出す同僚が何人もいる。会えて嬉しい。",
+                "kr": "처음 보는군. 라인 랩 엔지니어링과 주임 내스티다. 너에 대한 화제를 종종 꺼내는 동료가 몇 명 있더군. 만나서 반가워.",
+                "cn": "初次见面，莱茵生命工程科主任，娜斯提。我有好几位同事经常提起你，幸会。"
+            },
+            "asset": "char_4212_nasti/CN_011"
+        },
+        {
+            "id": "char_4212_nasti_CN_012",
+            "title": {
+                "en": "Watching Battle Record",
+                "jp": "経験値上昇",
+                "kr": "작전기록 학습",
+                "cn": "观看作战记录"
+            },
+            "text": {
+                "en": "Rewind three seconds. The terminal on the left was displaying incorrect data… Alright, problem solved.",
+                "jp": "三秒巻き戻せ。左の映像表示端末、出力データに誤りがある……よし、解決した。",
+                "kr": "3초 돌려봐. 왼쪽 영상 표시 단말, 출력 데이터에 오차가 있어…… 좋아, 해결했어.",
+                "cn": "倒退三秒，左边显像终端的数据输出有误......好了，问题解决。"
+            },
+            "asset": "char_4212_nasti/CN_012"
+        },
+        {
+            "id": "char_4212_nasti_CN_013",
+            "title": {
+                "en": "Promotion 1",
+                "jp": "昇進Ⅰ",
+                "kr": "1차 정예화 (승진)",
+                "cn": "精英化晋升1"
+            },
+            "text": {
+                "en": "Are you expecting a speech…? Sorry, abstract topics only leave me feeling hollow.",
+                "jp": "皆の前でコメントするのか……悪いが、抽象的な話題を語るのは虚しさを覚えるんだ。",
+                "kr": "모두의 앞에서 한 마디 해야 하나…… 미안하지만, 추상적인 화제를 얘기하는 데엔 공허함을 느껴서 말이야.",
+                "cn": "我需要发表演讲吗......抱歉，讨论抽象的话题会让我觉得虚无。"
+            },
+            "asset": "char_4212_nasti/CN_013"
+        },
+        {
+            "id": "char_4212_nasti_CN_014",
+            "title": {
+                "en": "Promotion 2",
+                "jp": "昇進Ⅱ",
+                "kr": "2차 정예화 (승진)",
+                "cn": "精英化晋升2"
+            },
+            "text": {
+                "en": "I'd like to thank Rhodes Island and you for the recognition, Doctor. Our cooperative efforts have been reassuring.",
+                "jp": "君とロドスの信頼に感謝する、ドクター。我々の協力の成果は心強いものだ。",
+                "kr": "너와 로도스 아일랜드의 신뢰에 감사를 표하지, 박사. 우리 협력의 성과는 든든할 따름이야.",
+                "cn": "感谢你与罗德岛的认可，博士。我们合作取得的成果令人安心。"
+            },
+            "asset": "char_4212_nasti/CN_014"
+        },
+        {
+            "id": "char_4212_nasti_CN_017",
+            "title": {
+                "en": "Added to Squad",
+                "jp": "編成",
+                "kr": "팀 배치",
+                "cn": "编入队伍"
+            },
+            "text": {
+                "en": "Rhodes Island's many Operators working multiple jobs is a common sight at Rhine Lab as well.",
+                "jp": "ロドスの多くの者は複数の職務を兼任している。ライン生命と似ているな。",
+                "kr": "로도스 아일랜드의 많은 이들은 여러 직무를 겸임하고 있지. 라인 랩과 비슷하군.",
+                "cn": "罗德岛的许多干员都身兼数职，跟莱茵的情况很像。"
+            },
+            "asset": "char_4212_nasti/CN_017"
+        },
+        {
+            "id": "char_4212_nasti_CN_018",
+            "title": {
+                "en": "Appointed as Squad Leader",
+                "jp": "隊長任命",
+                "kr": "팀장 임명",
+                "cn": "任命队长"
+            },
+            "text": {
+                "en": "Saria. She will break through the enemy's encirclement; and Muelsyse will manage any mediation efforts as necessary. Both are indispensable.",
+                "jp": "サリアには敵陣突破を、ミュルジスには必要な交渉を担ってもらう。二人は欠かせない。",
+                "kr": "사리아에게는 적진 돌파를, 뮤엘시스에게는 필요한 교섭을 맡기도록 하지. 그 둘은 못 빼.",
+                "cn": "塞雷娅负责突破敌方包围，缪尔赛思负责必要的谈判斡旋，她们缺一不可。"
+            },
+            "asset": "char_4212_nasti/CN_018"
+        },
+        {
+            "id": "char_4212_nasti_CN_019",
+            "title": {
+                "en": "Depart",
+                "jp": "作戦準備",
+                "kr": "작전 출발",
+                "cn": "行动出发"
+            },
+            "text": {
+                "en": "Silent words work all the same.",
+                "jp": "声なき言葉もまた効力を持つ。",
+                "kr": "소리 없는 말 또한 효력을 가진다.",
+                "cn": "无声的言语，同样奏效。"
+            },
+            "asset": "char_4212_nasti/CN_019"
+        },
+        {
+            "id": "char_4212_nasti_CN_020",
+            "title": {
+                "en": "Begin Operation",
+                "jp": "戦闘開始",
+                "kr": "작전 개시",
+                "cn": "行动开始"
+            },
+            "text": {
+                "en": "Ensure the construction site is safe before we begin.",
+                "jp": "工事現場周辺の安全は確保しなければならない。",
+                "kr": "공사 현장 주변의 안전을 반드시 확보해야 한다.",
+                "cn": "必须确保施工现场的环境安全。"
+            },
+            "asset": "char_4212_nasti/CN_020"
+        },
+        {
+            "id": "char_4212_nasti_CN_021",
+            "title": {
+                "en": "Selecting Operator 1",
+                "jp": "選択時1",
+                "kr": "오퍼레이터 선택 1",
+                "cn": "选中干员1"
+            },
+            "text": {
+                "en": "If the plan is too vague, I will revise it.",
+                "jp": "計画の綿密さが足りない時には、私が修正する。",
+                "kr": "계획의 치밀함이 부족할 땐 내가 수정하겠다.",
+                "cn": "要是计划不够精准，我会修正。"
+            },
+            "asset": "char_4212_nasti/CN_021"
+        },
+        {
+            "id": "char_4212_nasti_CN_022",
+            "title": {
+                "en": "Selecting Operator 2",
+                "jp": "選択時2",
+                "kr": "오퍼레이터 선택 2",
+                "cn": "选中干员2"
+            },
+            "text": {
+                "en": "An error message? Nothing out of the norm.",
+                "jp": "プロセスエラー？よくあることだ。",
+                "kr": "프로세스 에러? 흔한 일이지.",
+                "cn": "工程报错？常事。"
+            },
+            "asset": "char_4212_nasti/CN_022"
+        },
+        {
+            "id": "char_4212_nasti_CN_023",
+            "title": {
+                "en": "Deployment 1",
+                "jp": "配置1",
+                "kr": "배치 1",
+                "cn": "部署1"
+            },
+            "text": {
+                "en": "You don't have to reiterate the project goals. Work has already begun.",
+                "jp": "施工目標の再確認は不要だ。すでに作業を始めている。",
+                "kr": "시공 목표의 재확인은 필요 없다. 이미 작업을 시작했어.",
+                "cn": "不用重申施工目标，我已经开始工作了。"
+            },
+            "asset": "char_4212_nasti/CN_023"
+        },
+        {
+            "id": "char_4212_nasti_CN_024",
+            "title": {
+                "en": "Deployment 2",
+                "jp": "配置2",
+                "kr": "배치 2",
+                "cn": "部署2"
+            },
+            "text": {
+                "en": "Don't trip on my tape.",
+                "jp": "テープに足を取られないようにな。",
+                "kr": "테이프에 발이 걸리지 않도록 해.",
+                "cn": "别被纸带绊倒。"
+            },
+            "asset": "char_4212_nasti/CN_024"
+        },
+        {
+            "id": "char_4212_nasti_CN_025",
+            "title": {
+                "en": "In Battle 1",
+                "jp": "作戦中1",
+                "kr": "작전 중 1",
+                "cn": "作战中1"
+            },
+            "text": {
+                "en": "Listen again. Did you think it was just construction noise?",
+                "jp": "よく聞け、これはただの工事の騒音なのか？",
+                "kr": "잘 들어라. 이건 그저 공사 소음일 뿐인가?",
+                "cn": "再听听，这只是施工的杂音？"
+            },
+            "asset": "char_4212_nasti/CN_025"
+        },
+        {
+            "id": "char_4212_nasti_CN_026",
+            "title": {
+                "en": "In Battle 2",
+                "jp": "作戦中2",
+                "kr": "작전 중 2",
+                "cn": "作战中2"
+            },
+            "text": {
+                "en": "A confession? All I hear is the babbling of souls.",
+                "jp": "懺悔？私には魂の乱数しか聞こえない。",
+                "kr": "참회? 내게는 혼의 난수밖에 들리지 않아.",
+                "cn": "忏悔？我只听见灵魂的乱码。"
+            },
+            "asset": "char_4212_nasti/CN_026"
+        },
+        {
+            "id": "char_4212_nasti_CN_027",
+            "title": {
+                "en": "In Battle 3",
+                "jp": "作戦中3",
+                "kr": "작전 중 3",
+                "cn": "作战中3"
+            },
+            "text": {
+                "en": "'Elegies are no final respite.'",
+                "jp": "「挽歌は万物の死の終着ではない。」",
+                "kr": "“엘레지는 만물의 죽음의 종착점이 아니다.”",
+                "cn": "“挽歌并非万物死亡之归宿。”"
+            },
+            "asset": "char_4212_nasti/CN_027"
+        },
+        {
+            "id": "char_4212_nasti_CN_028",
+            "title": {
+                "en": "In Battle 4",
+                "jp": "作戦中4",
+                "kr": "작전 중 4",
+                "cn": "作战中4"
+            },
+            "text": {
+                "en": "'The realm has naught for your perch.'",
+                "jp": "「この世に君が足を休める場所はない。」",
+                "kr": "“이 세상에 네가 발 뻗고 쉴 장소는 없다.”",
+                "cn": "“世间无处供你栖脚。”"
+            },
+            "asset": "char_4212_nasti/CN_028"
+        },
+        {
+            "id": "char_4212_nasti_CN_029",
+            "title": {
+                "en": "4-star Result",
+                "jp": "高難度作戦クリア",
+                "kr": "고난이도 작전 종료",
+                "cn": "完成高难行动"
+            },
+            "text": {
+                "en": "Project done. Good work, everyone.",
+                "jp": "竣工だ、皆ご苦労。",
+                "kr": "준공이다. 다들 수고했어.",
+                "cn": "竣工，各位辛苦。"
+            },
+            "asset": "char_4212_nasti/CN_029"
+        },
+        {
+            "id": "char_4212_nasti_CN_030",
+            "title": {
+                "en": "3-star Result",
+                "jp": "★3で戦闘終了",
+                "kr": "3★ 작전 종료",
+                "cn": "3星结束行动"
+            },
+            "text": {
+                "en": "Do another round of checks… 'Perfect' to us is but a standard to reach.",
+                "jp": "仕上げにもう一度確認をしておこう……我々にとって「完璧」とは、単なる合格にすぎない。",
+                "kr": "마무리를 한 번 더 확인해 두지…… 우리에게 '완벽'이라는 건 단순한 합격 정도에 지나지 않아.",
+                "cn": "再补充一轮检查......对我们来说，“完美”只是合格。"
+            },
+            "asset": "char_4212_nasti/CN_030"
+        },
+        {
+            "id": "char_4212_nasti_CN_031",
+            "title": {
+                "en": "Sub 3-star Result",
+                "jp": "★2以下戦闘終了",
+                "kr": "비 3★ 작전 종료",
+                "cn": "非3星结束行动"
+            },
+            "text": {
+                "en": "'Expectations' met. Expand on that? We always leave room for improvement.",
+                "jp": "「予測通り」だな。要は、我々は改善の余地を残したということだ。",
+                "kr": "'예측대로'로군. 요컨대, 우리는 개선의 여지를 남겨뒀다는 거야.",
+                "cn": "达成“预期”。怎么说？我们给自己保留了改进空间。"
+            },
+            "asset": "char_4212_nasti/CN_031"
+        },
+        {
+            "id": "char_4212_nasti_CN_032",
+            "title": {
+                "en": "Operation Failure",
+                "jp": "作戦失敗",
+                "kr": "작전 실패",
+                "cn": "行动失败"
+            },
+            "text": {
+                "en": "Angry? Why? Would you like to guess how many Rhine Lab blueprints I've had to revise before they were officially greenlit?",
+                "jp": "なぜ私が怒る？ライン生命の各プロジェクトが正式に始動する前に、私が同僚の施工図を何度修正しなければならないのか、君には想像できるか？",
+                "kr": "내가 왜 화를 내야 하지? 라인 랩의 각 프로젝트가 정식으로 시작하기 전에 내가 동료의 시공도를 몇 번이나 수정해야 하는지 상상할 수 있어?",
+                "cn": "为什么要生气？你猜莱茵的各个项目正式动工前，我要为同事改多少遍施工图？"
+            },
+            "asset": "char_4212_nasti/CN_032"
+        },
+        {
+            "id": "char_4212_nasti_CN_033",
+            "title": {
+                "en": "Assigned to Facility",
+                "jp": "基地配属",
+                "kr": "시설에 배치",
+                "cn": "进驻设施"
+            },
+            "text": {
+                "en": "The elevator bulb was loose, so I changed it.",
+                "jp": "エレベーターの照明が接触不良だったから、替えておいた。",
+                "kr": "엘리베이터 조명이 접촉 불량이라 바꿔 뒀어.",
+                "cn": "电梯间的灯泡接触不良，我换了。"
+            },
+            "asset": "char_4212_nasti/CN_033"
+        },
+        {
+            "id": "char_4212_nasti_CN_034",
+            "title": {
+                "en": "Tap",
+                "jp": "タッチ1",
+                "kr": "터치",
+                "cn": "戳一下"
+            },
+            "text": {
+                "en": "'Stasis'—I consider this legitimate self-defense.",
+                "jp": "「停滞」――これは正当防衛だ。",
+                "kr": "“정체”…… 이건 정당방위다.",
+                "cn": "“静滞”——这算正当防卫。"
+            },
+            "asset": "char_4212_nasti/CN_034"
+        },
+        {
+            "id": "char_4212_nasti_CN_036",
+            "title": {
+                "en": "Trust Tap",
+                "jp": "信頼タッチ",
+                "kr": "신뢰도 터치",
+                "cn": "信赖触摸"
+            },
+            "text": {
+                "en": "Don't pull on the mechanical leaf… Fine, I'll teach you to whistle Mother's melody.",
+                "jp": "ロボットの葉っぱを引っ張るな……わかった、私の母が作ったあの曲の吹き方を教えてやろう。",
+                "kr": "로봇의 잎사귀를 잡아당기지 마…… 알았어. 우리 어머니가 만든 그 곡을 연주하는 방법을 알려주지.",
+                "cn": "别揪机器人的叶子......知道了，我会教你吹母亲作的那首曲子。"
+            },
+            "asset": "char_4212_nasti/CN_036"
+        },
+        {
+            "id": "char_4212_nasti_CN_037",
+            "title": {
+                "en": "Title",
+                "jp": "タイトルコール",
+                "kr": "타이틀",
+                "cn": "标题"
+            },
+            "text": {
+                "en": "Arknights.",
+                "jp": "アークナイツ。",
+                "kr": "명일방주.",
+                "cn": "明日方舟。"
+            },
+            "asset": "char_4212_nasti/CN_037"
+        },
+        {
+            "id": "char_4212_nasti_CN_038",
+            "title": {
+                "en": "New Year's blessing",
+                "jp": "新年",
+                "kr": "새해",
+                "cn": "新年祝福"
+            },
+            "text": {
+                "en": "One last cable, and three, two, one, go… Times like these, the researchers would excitedly scramble over to the cable sparks and call them 'fireworks', but you seem quite calm still—Happy New Year, Doctor. We won't make it to the celebrations back on the island.",
+                "jp": "最後のケーブルを接続して、三、二、一、起動。この瞬間はいつも、研究員たちは飛び散る火花を見て「花火だー」とはしゃぐ。だが君は落ち着いているな――新年おめでとう、ドクター。どうやら君も私も戻って他の者たちと祝う時間はなさそうだ。",
+                "kr": "마지막 케이블을 연결하고, 3, 2, 1, 기동. 이 순간에 연구원들은 항상, 흩날리는 불꽃을 보면서 “불꽃놀이다!”라고 떠들곤 해. 하지만 넌 차분하군…… 새해 복 많이 받아라, 박사. 아무래도 너나 나나 돌아가서 다른 사람들과 축하할 시간은 없는 것 같군.",
+                "cn": "接上最后一根电缆，三、二、一，启动......每到这种时候，研究员们都会冲着四溅的电火花兴奋地喊“烟花”，你倒是很平静——新年快乐，博士，我们来不及回去和其他人庆祝了。"
+            },
+            "asset": "char_4212_nasti/CN_038"
+        },
+        {
+            "id": "char_4212_nasti_CN_042",
+            "title": {
+                "en": "Greeting",
+                "jp": "挨拶",
+                "kr": "인사",
+                "cn": "问候"
+            },
+            "text": {
+                "en": "You bumped into my 'branches'.",
+                "jp": "ドクター、私の「枝」にぶつかっている。",
+                "kr": "박사, 내 '나뭇가지'에 부딪쳤어.",
+                "cn": "你撞到我的“树枝”了。"
+            },
+            "asset": "char_4212_nasti/CN_042"
+        },
+        {
+            "id": "char_4212_nasti_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": "You're still alive, so leaves are more suitable than bone for the whistle. A melody I know…? No, the Mama John's jingle wouldn't fit… Once upon a time, a group of Pioneers lying on a scaffold hummed a tune to the setting sun to welcome a Banshee into their group. Would you like to hear it?",
+                "jp": "君が生きている以上、骨笛よりも木の葉の方が相応しい。私のよく知っている曲でいい？いや、ママジョンズのコマーシャルソングはこの場に不適切だ……かつて開拓者たちは足場に腰掛け、夕陽に向かって曲を口ずさみ、あるバンシーの加入を祝っていた。聴いてみるか？",
+                "kr": "넌 아직 살아있으니, 골피리보단 나뭇잎이 어울리겠지. 내가 잘 아는 곡으로 괜찮나? 아니, 마마존스의 광고 노래는 이 장소에 어울리지 않아…… 한때 개척자들은 발판에 걸터앉아 석양을 향해 노래를 흥얼거리며, 어느 밴시의 합류를 축하했었지. 들어보겠어?",
+                "cn": "你还活着，树叶就是比骨哨应景的乐器。我熟悉的旋律？不，约翰老妈的广告曲不太合适......曾经，有一群拓荒者瘫坐在脚手架上，对着夕阳哼起一首歌，欢迎一位女妖的加入。听听看？"
+            },
+            "asset": "char_4212_nasti/CN_043"
+        },
+        {
+            "id": "char_4212_nasti_CN_044",
+            "title": {
+                "en": "Anniversary Celebration",
+                "jp": "周年",
+                "kr": "애니버서리",
+                "cn": "周年庆典"
+            },
+            "text": {
+                "en": "A Banshee does not forget the Convallis that nurtured her, while a Pioneer will not forget the barrens she trekked through—it was how I joined Rhine Lab, and the antecedent to my future. Doctor, what does Rhodes Island mean to you, and how will you guide it? Our cooperation will continue.",
+                "jp": "バンシーは自分を育んだ河谷を忘れない。開拓者もまた、自分が歩んだ荒野を忘れない――これが私がライン生命に加わった道筋であり、私の未来でもある。ドクター、ロドスは君にとって何を意味する？君はロドスをどんなふうに導いていく？いずれにせよ、我々の協力は続くだろう。",
+                "kr": "밴시는 자신을 키운 협곡을 잊지 않아. 개척자 또한 자신이 걸어온 황야를 잊지 않지…… 이게 내가 라인 랩에 들어온 발걸음이자, 내 미래이기도 해. 박사, 로도스 아일랜드는 너에게 무엇을 의미하지? 너는 로도스 아일랜드를 어떻게 이끌어 갈 건가? 어찌 됐든, 우리의 협력은 계속될 거다.",
+                "cn": "女妖不会忘记养育她的河谷，拓荒者不会忘记她跋涉过的荒野——这是我加入莱茵生命的来路，也是我的未来。博士，罗德岛对你而言意味着什么，你又将给予它怎样的指引？我们的合作将继续。"
+            },
+            "asset": "char_4212_nasti/CN_044"
+        }
+    ],
+    "actors": {
+        "en": {
+            "native": "Hayden Daviau",
+            "global": "Hayden Daviau"
+        },
+        "cn": {
+            "native": "叶佳怡",
+            "global": "Yvette"
+        },
+        "jp": {
+            "native": "福原綾香",
+            "global": "Ayaka Fukuhara"
+        },
+        "kr": {
+            "native": "장희라",
+            "global": "Jang Hee-ra"
+        }
+    },
+    "availability": [
+        "en",
+        "cn",
+        "jp",
+        "kr"
+    ]
+}

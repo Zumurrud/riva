@@ -50,7 +50,7 @@
             },
             "text": {
                 "en": "D-Doctor, I was a little idle, and went to make myself useful at HR, and by carelessness glimpsed at a few operator files, and by chance… Er, by no means do I intend to pry into a fellow operator's privacy, Doctor, but could that FEater be the very star of 'Fiends of the Gods Reincarnated Immortal' herself? Truly? Could I go get an autograph?",
-                "jp": "ド、ドクターよ、先ほど暇を持て余して人事部に手伝いに行ったら、うっかり何人かのオペレーターのプロファイルを見てしまったのだが…。あ、あのエフイーターってもしかして『萌えよ危機一髪の生存遊戯』の主演の？まことに？サインをもらいに行っても大丈夫かな？",
+                "jp": "ド、ドクターよ、先ほど暇を持て余して人事部に手伝いに行ったら、うっかり何人かのオペレーターのプロファイルを見てしまったのだが……あ、あのエフイーターってもしかして『萌えよ危機一髪の生存遊戯』の主演の？まことに？サインをもらいに行っても大丈夫かな？",
                 "kr": "바, 박사…… 좀 전에 너무 한가해서 잠깐 인사부 일을 도와주러 갔다가, 무심~코 몇몇 오퍼레이터의 프로필을 보고 말았는데…… 그, 그…… 에프이터라는 분은 혹시…… 《타올라라, 위기일발의 생존유희》에서 주연을 맡았던…… 참말인가? 사인을 받으러 가도 괜찮겠나?",
                 "cn": "博、博士啊，我先前闲来无事，去人事部那块帮忙，不小心瞥见了几位干员的档案，那、那个食铁兽就是那个《神鬼玄奇之天蚕不死身》的主演？真的？我能要签名吗？"
             },
@@ -594,7 +594,7 @@
             },
             "text": {
                 "en": "Ah, Doctor, I've rustled up a divination for you, the grams are written here on this fan. They signify this fresh year ahead of you will be a smooth sail, with waves and winds both on your side... You don't believe me? Not unless I give you a performance with this fan? I'd be put at a loss, you know, given my mere modest speck of kickboxing artistry. But you are the boss, your word is the law.",
-                "jp": "博士啊，我给您占了一卦，卦辞我写在这扇子上了，意思是您新的一岁将会顺风顺水......您不信？除非我拿扇子给您表演一段？咳，我这点拳脚功夫真不好意思献丑。但您是老板，您说了算。",
+                "jp": "ドクター、貴殿のために占ってみたんだ。結果はこの扇子に書き記してあるよ。新しい歳では物事がすべて順調に運ぶとのことだ……やや、私がこの扇子で一芸を披露しないと信じない？コホンッ、私程度の技量ではさすがに恥ずかしいけれど、ご主人様だからね、ご命令の通りにするさ。",
                 "kr": "박사, 내가 박사를 위해 점을 쳐봤다네. 점괘의 풀이는 이 부채에 써 두었지. 새로운 한 해에는 모든 일이 순조롭고 더욱 승승장구하게 될 거라고 나왔는데…… 믿지 못하겠다는 겐가? 내가 부채를 들고 공연이라도 해야 믿을 수 있겠다고? 크흠, 내 무술 실력은 어디서 선보이기 부끄러울 수준이긴 하다만, 그래도 박사가 주인이니 박사의 말대로 해보겠네.",
                 "cn": "博士啊，我给您占了一卦，卦辞我写在这扇子上了，意思是您新的一岁将会顺风顺水......您不信？除非我拿扇子给您表演一段？咳，我这点拳脚功夫真不好意思献丑。但您是老板，您说了算。"
             },
@@ -626,6 +626,10 @@
             "native": "刘飞",
             "global": "Flynn Liu"
         },
+        "cn_topolect": {
+            "native": "刘飞",
+            "global": "Flynn Liu"
+        },
         "jp": {
             "native": "諏訪部順一",
             "global": "Junichi Suwabe"
@@ -633,17 +637,13 @@
         "kr": {
             "native": "임채헌",
             "global": "Lim Chae-heon"
-        },
-        "cn_topolect": {
-            "native": "刘飞",
-            "global": "Flynn Liu"
         }
     },
     "availability": [
         "en",
         "cn",
+        "cn_topolect",
         "jp",
-        "kr",
-        "cn_topolect"
+        "kr"
     ]
 }

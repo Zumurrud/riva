@@ -626,6 +626,10 @@
             "native": "赵岭",
             "global": "Ling Zhao"
         },
+        "cn_topolect": {
+            "native": "贾邱",
+            "global": "Bill"
+        },
         "jp": {
             "native": "関俊彦",
             "global": "Toshihiko Seki"
@@ -633,17 +637,13 @@
         "kr": {
             "native": "구자형",
             "global": "Koo Ja-hyoung"
-        },
-        "cn_topolect": {
-            "native": "贾邱",
-            "global": "Bill"
         }
     },
     "availability": [
         "en",
         "cn",
+        "cn_topolect",
         "jp",
-        "kr",
-        "cn_topolect"
+        "kr"
     ]
 }

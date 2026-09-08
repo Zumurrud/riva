@@ -1,0 +1,629 @@
+{
+    "charid": "char_4186_tmoris",
+    "nameid": "tmoris",
+    "names": {
+        "en": "Umiri Yahata",
+        "jp": "八幡海鈴",
+        "kr": "야하타 우미리",
+        "cn": "八幡海铃"
+    },
+    "voices": [
+        {
+            "id": "char_4186_tmoris_CN_001",
+            "title": {
+                "en": "Appointed as Assistant",
+                "jp": "秘書任命",
+                "kr": "어시스턴트 임명",
+                "cn": "任命助理"
+            },
+            "text": {
+                "en": "You can leave that paperwork, I handled it already. Any issues, Doctor?",
+                "jp": "こちらの仕事、片付けておきましたよ。ドクター、何か問題でも？",
+                "kr": "이쪽 일, 처리해 뒀어요. 박사님, 무슨 문제라도?",
+                "cn": "这部分的工作应该已经处理好了，博士，有什么问题吗？"
+            },
+            "asset": "char_4186_tmoris/CN_001"
+        },
+        {
+            "id": "char_4186_tmoris_CN_002",
+            "title": {
+                "en": "Talk 1",
+                "jp": "会話1",
+                "kr": "대화 1",
+                "cn": "交谈1"
+            },
+            "text": {
+                "en": "I've noticed Rhodes Island's ops don't tend to hold back on strength or personality. But nobody clashes with anyone. They're all able to treat each other with respect. I don't know what to make of it, honestly.",
+                "jp": "ロドスのオペレーターの皆さんは、実力と個性を兼ね備えているようですね。それでもオペレーター同士で衝突することなく、互いを尊敬して接することができています。正直、意外でした。",
+                "kr": "로도스 아일랜드의 오퍼레이터 분들은 실력과 개성을 겸비하고 있는 것 같군요. 그럼에도 오퍼레이터끼리 충돌하지 않고, 서로 존경하면서 접하는 것이 가능합니다. 솔직히, 의외였네요.",
+                "cn": "罗德岛的干员们看起来都十分强大且个性十足，但是干员之间却少有冲突，都能彼此真诚相待，真是让人意想不到。"
+            },
+            "asset": "char_4186_tmoris/CN_002"
+        },
+        {
+            "id": "char_4186_tmoris_CN_003",
+            "title": {
+                "en": "Talk 2",
+                "jp": "会話2",
+                "kr": "대화 2",
+                "cn": "交谈2"
+            },
+            "text": {
+                "en": "Vigna invited me to see her perform live. She's got impressive guitar skills. I'm really looking forward to it.",
+                "jp": "ヴィグナさんから、ライブ観覧の招待を頂きました。彼女のギターの腕前は大したものですから、非常に興味があります。",
+                "kr": "비그나 씨에게 라이브 관람 초대를 받았어요. 비그나 씨 기타 실력은 뛰어나서, 상당히 흥미가 있습니다.",
+                "cn": "红豆的吉他也弹得不错啊，她还邀请我去参观她的乐队表演。嗯，我很有兴趣。"
+            },
+            "asset": "char_4186_tmoris/CN_003"
+        },
+        {
+            "id": "char_4186_tmoris_CN_004",
+            "title": {
+                "en": "Talk 3",
+                "jp": "会話3",
+                "kr": "대화 3",
+                "cn": "交谈3"
+            },
+            "text": {
+                "en": "No need for concern. Practice time and rest time are both fully blocked out on my schedule, and I've given myself plenty of leeway in my work hours. I'm never going to collapse.",
+                "jp": "安心してください、ドクター。練習と休憩の時間はしっかりスケジューリング済みですし、仕事の時間にも十分に余裕を持たせていますので、体調管理は万全です。",
+                "kr": "안심하세요, 박사님. 연습과 휴식 시간은 제대로 스케줄링해뒀고 일하는 시간도 충분히 여유를 두고 있어서, 컨디션 관리는 만전을 기하고 있어요.",
+                "cn": "博士请放心，我不会因为忙于工作而让自己的身体状态变差。我的休息时间和锻炼时间都已经规划好了，我也给工作留好了足够的缓冲时间。"
+            },
+            "asset": "char_4186_tmoris/CN_004"
+        },
+        {
+            "id": "char_4186_tmoris_CN_005",
+            "title": {
+                "en": "Talk after Promotion 1",
+                "jp": "昇進後会話1",
+                "kr": "1차 정예화 후 대화",
+                "cn": "晋升后交谈1"
+            },
+            "text": {
+                "en": "As long as Rhodes Island is going to look after me, I owe it to your people to help you out.",
+                "jp": "しばらくロドスでお世話になる以上、ここの方々を助けるのは当たり前です。",
+                "kr": "잠시나마 로도스 아일랜드에서 신세 지는 이상, 여기 분들을 돕는 건 당연한 일이에요.",
+                "cn": "我只是做了我理所应当做的事情，既然暂居罗德岛，帮助罗德岛上的大家也无可厚非。"
+            },
+            "asset": "char_4186_tmoris/CN_005"
+        },
+        {
+            "id": "char_4186_tmoris_CN_006",
+            "title": {
+                "en": "Talk after Promotion 2",
+                "jp": "昇進後会話2",
+                "kr": "2차 정예화 후 대화",
+                "cn": "晋升后交谈2"
+            },
+            "text": {
+                "en": "The relationship between you and Amiya-san is a good influence on everyone else. Just one of those Rhodes things. The people here all think of each other as family. I'm just as honored to be able to contribute.",
+                "jp": "さすがはロドスですね。ドクターとアーミヤさんの関係性が、皆さんに良い影響を与えている。ここの人たちは、お互いを家族のように思っているんでしょう。私も光栄です、このロドスに貢献できて。",
+                "kr": "역시 로도스 아일랜드네요. 박사님과 아미야 씨의 관계성이, 모든 분들에게 좋은 영향을 주고 있어요. 여기 사람들은 서로를 가족처럼 생각하고 있는 거겠죠. 저 역시 영광입니다. 여기 로도스 아일랜드에 공헌할 수 있어서요.",
+                "cn": "不愧是罗德岛，一定是阿米娅和博士的真诚感染了大家。我现在相信这里的大家都是真的把彼此当作家人看待了，能为这里出一份力是我的荣幸。"
+            },
+            "asset": "char_4186_tmoris/CN_006"
+        },
+        {
+            "id": "char_4186_tmoris_CN_007",
+            "title": {
+                "en": "Talk after Trust Increase 1",
+                "jp": "信頼上昇後会話1",
+                "kr": "신뢰도 상승 후 대화 1",
+                "cn": "信赖提升后交谈1"
+            },
+            "text": {
+                "en": "These honey biscuits Ceobe-san likes are good. It's hard to stop eating them.",
+                "jp": "ケオべさんの好きなはちみつクッキー、美味しいですね。いくらでも食べられそうです。",
+                "kr": "케오베 씨가 좋아하는 벌꿀 쿠키, 맛있군요. 얼마든지 먹을 수 있을 것 같아요.",
+                "cn": "小刻喜欢吃的蜜饼果然很好吃，吃多少都没问题。"
+            },
+            "asset": "char_4186_tmoris/CN_007"
+        },
+        {
+            "id": "char_4186_tmoris_CN_008",
+            "title": {
+                "en": "Talk after Trust Increase 2",
+                "jp": "信頼上昇後会話2",
+                "kr": "신뢰도 상승 후 대화 2",
+                "cn": "信赖提升后交谈2"
+            },
+            "text": {
+                "en": "I know everyone at Rhodes Island has their own troubles, but they all prop each other up through whatever they're going through. I really owe a lot to them, especially you, Doctor. I'm very thankful.",
+                "jp": "ロドスの皆さんも悩みを抱えているはずですが、それぞれが支え合って生きている。私も、皆さんには本当に助けられましたし、特にドクターにはずいぶんお世話になりました。感謝しています。",
+                "kr": "로도스 아일랜드 분들에게도 고민이 있겠지만, 각자 서로 의지하면서 살고 있군요. 저도 여러분들에게 정말 많은 도움을 받기도 했고, 특히 박사님에게는 상당히 신세를 졌습니다. 감사하고 있어요.",
+                "cn": "明明罗德岛上的大家也都有自己的困扰，但还是会毫无保留地帮助彼此，我们因此受了很多人的照顾，尤其是博士你，十分感谢。"
+            },
+            "asset": "char_4186_tmoris/CN_008"
+        },
+        {
+            "id": "char_4186_tmoris_CN_009",
+            "title": {
+                "en": "Talk after Trust Increase 3",
+                "jp": "信頼上昇後会話3",
+                "kr": "신뢰도 상승 후 대화 3",
+                "cn": "信赖提升后交谈3"
+            },
+            "text": {
+                "en": "A boatloads of squads requested for me to help them out with things again. I'll work through each task one by one for everyone at Rhodes Island.",
+                "jp": "またたくさんの小隊から協力を頼まれてしまいました。ロドスの皆さんのためにも一つ一つ仕事をこなしていきます。",
+                "kr": "또 많은 소대에게서 협력을 부탁받았어요. 로도스 아일랜드 여러분들을 위해서라도 하나하나 처리해 나가겠습니다.",
+                "cn": "不知不觉好像又有十多个小队需要我去帮忙。不过，我很珍惜在罗德岛的这每一份工作。"
+            },
+            "asset": "char_4186_tmoris/CN_009"
+        },
+        {
+            "id": "char_4186_tmoris_CN_010",
+            "title": {
+                "en": "Idle",
+                "jp": "放置",
+                "kr": "방치",
+                "cn": "闲置"
+            },
+            "text": {
+                "en": "Hmm... Doctor, I see you're still working at it. Here, a chocolate panna cotta to keep you going.",
+                "jp": "ふむ……ドクター、まだ忙しいようですね。どうぞ、差し入れのチョコレートパンナコッタです。",
+                "kr": "흠…… 박사, 아직 바쁘신 모양이군요. 자, 간식 초콜릿 판나코타입니다.",
+                "cn": "嗯......博士还在忙吗，这盒巧克力奶冻就给博士吧。"
+            },
+            "asset": "char_4186_tmoris/CN_010"
+        },
+        {
+            "id": "char_4186_tmoris_CN_011",
+            "title": {
+                "en": "Onboard",
+                "jp": "入職会話",
+                "kr": "오퍼레이터 입사",
+                "cn": "干员报到"
+            },
+            "text": {
+                "en": "Umiri Yahata. If you need anything, just ask.",
+                "jp": "八幡海鈴です。ご要望がありましたら、いつでもどうぞ。",
+                "kr": "야하타 우미리입니다. 요청하실 일이 있다면, 언제든지.",
+                "cn": "我是八幡海铃，有什么需要我做的吗？"
+            },
+            "asset": "char_4186_tmoris/CN_011"
+        },
+        {
+            "id": "char_4186_tmoris_CN_012",
+            "title": {
+                "en": "Watching Battle Record",
+                "jp": "経験値上昇",
+                "kr": "작전기록 학습",
+                "cn": "观看作战记录"
+            },
+            "text": {
+                "en": "I like the efficiency. I'm taking notes.",
+                "jp": "効率の良いやり方ですね。勉強になります。",
+                "kr": "효율 좋은 방법이네요. 공부가 되겠군요.",
+                "cn": "嗯，果然是高效的手法，我会学习的。"
+            },
+            "asset": "char_4186_tmoris/CN_012"
+        },
+        {
+            "id": "char_4186_tmoris_CN_013",
+            "title": {
+                "en": "Promotion 1",
+                "jp": "昇進Ⅰ",
+                "kr": "1차 정예화 (승진)",
+                "cn": "精英化晋升1"
+            },
+            "text": {
+                "en": "I'm just doing what I'm supposed to.",
+                "jp": "やるべきことをやっただけです。",
+                "kr": "해야 할 일을 했을 뿐이에요.",
+                "cn": "我只是做了分内的事而已。"
+            },
+            "asset": "char_4186_tmoris/CN_013"
+        },
+        {
+            "id": "char_4186_tmoris_CN_014",
+            "title": {
+                "en": "Promotion 2",
+                "jp": "昇進Ⅱ",
+                "kr": "2차 정예화 (승진)",
+                "cn": "精英化晋升2"
+            },
+            "text": {
+                "en": "I'm happy that everyone at Rhodes Island has accepted me. Perhaps they might even be able to fulfill my wishes too, don't you think?",
+                "jp": "ロドスの皆さんが私を受け入れてくださっていること、嬉しく思います。皆さんなら、私の望みにも応えてくれるかもしれませんね。",
+                "kr": "로도스 아일랜드 분들이 저를 받아들여 주고 계시는 것, 기쁘게 생각해요. 여러분들이라면 제 바람에 부응해 주실지도 모르겠군요.",
+                "cn": "罗德岛的大家愿意接纳和信任我，真是件高兴的事。那么，大家也能回应我的期望吧？"
+            },
+            "asset": "char_4186_tmoris/CN_014"
+        },
+        {
+            "id": "char_4186_tmoris_CN_017",
+            "title": {
+                "en": "Added to Squad",
+                "jp": "編成",
+                "kr": "팀 배치",
+                "cn": "编入队伍"
+            },
+            "text": {
+                "en": "Got it.",
+                "jp": "分かりました。",
+                "kr": "알겠어요.",
+                "cn": "嗯，我知道了。"
+            },
+            "asset": "char_4186_tmoris/CN_017"
+        },
+        {
+            "id": "char_4186_tmoris_CN_018",
+            "title": {
+                "en": "Appointed as Squad Leader",
+                "jp": "隊長任命",
+                "kr": "팀장 임명",
+                "cn": "任命队长"
+            },
+            "text": {
+                "en": "You want me to lead? Understood.",
+                "jp": "指揮ですか？承知しました。",
+                "kr": "지휘인가요? 알겠습니다.",
+                "cn": "要我来做指挥吗？行吧。"
+            },
+            "asset": "char_4186_tmoris/CN_018"
+        },
+        {
+            "id": "char_4186_tmoris_CN_019",
+            "title": {
+                "en": "Depart",
+                "jp": "作戦準備",
+                "kr": "작전 출발",
+                "cn": "行动出发"
+            },
+            "text": {
+                "en": "Let's get going.",
+                "jp": "出発しましょうか。",
+                "kr": "출발하실까요.",
+                "cn": "我们出发。"
+            },
+            "asset": "char_4186_tmoris/CN_019"
+        },
+        {
+            "id": "char_4186_tmoris_CN_020",
+            "title": {
+                "en": "Begin Operation",
+                "jp": "戦闘開始",
+                "kr": "작전 개시",
+                "cn": "行动开始"
+            },
+            "text": {
+                "en": "I expected this. Let's go.",
+                "jp": "予想通りですね。行きましょう。",
+                "kr": "예상대로네요. 가시죠.",
+                "cn": "跟预想的一样，我们上吧。"
+            },
+            "asset": "char_4186_tmoris/CN_020"
+        },
+        {
+            "id": "char_4186_tmoris_CN_021",
+            "title": {
+                "en": "Selecting Operator 1",
+                "jp": "選択時1",
+                "kr": "오퍼레이터 선택 1",
+                "cn": "选中干员1"
+            },
+            "text": {
+                "en": "Here.",
+                "jp": "はい。",
+                "kr": "네.",
+                "cn": "是。"
+            },
+            "asset": "char_4186_tmoris/CN_021"
+        },
+        {
+            "id": "char_4186_tmoris_CN_022",
+            "title": {
+                "en": "Selecting Operator 2",
+                "jp": "選択時2",
+                "kr": "오퍼레이터 선택 2",
+                "cn": "选中干员2"
+            },
+            "text": {
+                "en": "Hmm? Need me?",
+                "jp": "呼びましたか？",
+                "kr": "부르셨나요?",
+                "cn": "叫我吗？"
+            },
+            "asset": "char_4186_tmoris/CN_022"
+        },
+        {
+            "id": "char_4186_tmoris_CN_023",
+            "title": {
+                "en": "Deployment 1",
+                "jp": "配置1",
+                "kr": "배치 1",
+                "cn": "部署1"
+            },
+            "text": {
+                "en": "In position.",
+                "jp": "位置に着きました。",
+                "kr": "위치에 도착했습니다.",
+                "cn": "就位。"
+            },
+            "asset": "char_4186_tmoris/CN_023"
+        },
+        {
+            "id": "char_4186_tmoris_CN_024",
+            "title": {
+                "en": "Deployment 2",
+                "jp": "配置2",
+                "kr": "배치 2",
+                "cn": "部署2"
+            },
+            "text": {
+                "en": "Right on target.",
+                "jp": "誤差、ありません。",
+                "kr": "오차, 없습니다.",
+                "cn": "没有任何偏差。"
+            },
+            "asset": "char_4186_tmoris/CN_024"
+        },
+        {
+            "id": "char_4186_tmoris_CN_025",
+            "title": {
+                "en": "In Battle 1",
+                "jp": "作戦中1",
+                "kr": "작전 중 1",
+                "cn": "作战中1"
+            },
+            "text": {
+                "en": "Leave it to me.",
+                "jp": "任せてください。",
+                "kr": "맡겨주시죠.",
+                "cn": "交给我吧！"
+            },
+            "asset": "char_4186_tmoris/CN_025"
+        },
+        {
+            "id": "char_4186_tmoris_CN_026",
+            "title": {
+                "en": "In Battle 2",
+                "jp": "作戦中2",
+                "kr": "작전 중 2",
+                "cn": "作战中2"
+            },
+            "text": {
+                "en": "This is easy.",
+                "jp": "容易いことです。",
+                "kr": "쉬운 일이죠.",
+                "cn": "并不是什么难事。"
+            },
+            "asset": "char_4186_tmoris/CN_026"
+        },
+        {
+            "id": "char_4186_tmoris_CN_027",
+            "title": {
+                "en": "In Battle 3",
+                "jp": "作戦中3",
+                "kr": "작전 중 3",
+                "cn": "作战中3"
+            },
+            "text": {
+                "en": "Hrnph!",
+                "jp": "ふん！",
+                "kr": "흠!",
+                "cn": "哼！"
+            },
+            "asset": "char_4186_tmoris/CN_027"
+        },
+        {
+            "id": "char_4186_tmoris_CN_028",
+            "title": {
+                "en": "In Battle 4",
+                "jp": "作戦中4",
+                "kr": "작전 중 4",
+                "cn": "作战中4"
+            },
+            "text": {
+                "en": "Excuse me.",
+                "jp": "失礼します。",
+                "kr": "실례합니다.",
+                "cn": "打扰了。"
+            },
+            "asset": "char_4186_tmoris/CN_028"
+        },
+        {
+            "id": "char_4186_tmoris_CN_029",
+            "title": {
+                "en": "4-star Result",
+                "jp": "高難度作戦クリア",
+                "kr": "고난이도 작전 종료",
+                "cn": "完成高难行动"
+            },
+            "text": {
+                "en": "Mission complete. Couldn't have done it without you all.",
+                "jp": "任務完了。皆さんのおかげです。",
+                "kr": "임무 완료. 여러분 덕분이에요.",
+                "cn": "任务完成，多亏了大家。"
+            },
+            "asset": "char_4186_tmoris/CN_029"
+        },
+        {
+            "id": "char_4186_tmoris_CN_030",
+            "title": {
+                "en": "3-star Result",
+                "jp": "★3で戦闘終了",
+                "kr": "3★ 작전 종료",
+                "cn": "3星结束行动"
+            },
+            "text": {
+                "en": "That was some nice leadership, Doctor.",
+                "jp": "ドクターの指揮、素晴らしかったですね。",
+                "kr": "박사님의 지휘, 대단했죠.",
+                "cn": "博士的指挥真是厉害。"
+            },
+            "asset": "char_4186_tmoris/CN_030"
+        },
+        {
+            "id": "char_4186_tmoris_CN_031",
+            "title": {
+                "en": "Sub 3-star Result",
+                "jp": "★2以下戦闘終了",
+                "kr": "비 3★ 작전 종료",
+                "cn": "非3星结束行动"
+            },
+            "text": {
+                "en": "That was a close call. We need more practice under our belt.",
+                "jp": "ギリギリでした。練習が足りていませんね。",
+                "kr": "아슬아슬했어요. 연습이 부족하군요.",
+                "cn": "勉勉强强，练习量还不够啊。"
+            },
+            "asset": "char_4186_tmoris/CN_031"
+        },
+        {
+            "id": "char_4186_tmoris_CN_032",
+            "title": {
+                "en": "Operation Failure",
+                "jp": "作戦失敗",
+                "kr": "작전 실패",
+                "cn": "行动失败"
+            },
+            "text": {
+                "en": "Let's hustle. We're not going to leave anyone behind.",
+                "jp": "急ぎましょう。誰一人見捨てたりはしません。",
+                "kr": "서두르죠. 누구 하나 버리지 않을 겁니다.",
+                "cn": "快走吧，我们不能放弃任何一个人。"
+            },
+            "asset": "char_4186_tmoris/CN_032"
+        },
+        {
+            "id": "char_4186_tmoris_CN_033",
+            "title": {
+                "en": "Assigned to Facility",
+                "jp": "基地配属",
+                "kr": "시설에 배치",
+                "cn": "进驻设施"
+            },
+            "text": {
+                "en": "So this is the area I can freely utilize? Where's the training room then?",
+                "jp": "ここは自由に使っていいんですか。訓練室はどこに？",
+                "kr": "여기는 자유롭게 써도 되나요? 훈련실은 어디죠?",
+                "cn": "哦，这里就是自由活动的房间吗，请问训练室在哪里？"
+            },
+            "asset": "char_4186_tmoris/CN_033"
+        },
+        {
+            "id": "char_4186_tmoris_CN_034",
+            "title": {
+                "en": "Tap",
+                "jp": "タッチ1",
+                "kr": "터치",
+                "cn": "戳一下"
+            },
+            "text": {
+                "en": "Eh?",
+                "jp": "え？",
+                "kr": "네?",
+                "cn": "嗯？"
+            },
+            "asset": "char_4186_tmoris/CN_034"
+        },
+        {
+            "id": "char_4186_tmoris_CN_036",
+            "title": {
+                "en": "Trust Tap",
+                "jp": "信頼タッチ",
+                "kr": "신뢰도 터치",
+                "cn": "信赖触摸"
+            },
+            "text": {
+                "en": "Yes. I'm here.",
+                "jp": "ええ、ここにいます。",
+                "kr": "네, 여기 있어요.",
+                "cn": "嗯，我在。"
+            },
+            "asset": "char_4186_tmoris/CN_036"
+        },
+        {
+            "id": "char_4186_tmoris_CN_037",
+            "title": {
+                "en": "Title",
+                "jp": "タイトルコール",
+                "kr": "타이틀",
+                "cn": "标题"
+            },
+            "text": {
+                "en": "Arknights.",
+                "jp": "アークナイツ。",
+                "kr": "명일방주.",
+                "cn": "明日方舟。"
+            },
+            "asset": "char_4186_tmoris/CN_037"
+        },
+        {
+            "id": "char_4186_tmoris_CN_038",
+            "title": {
+                "en": "New Year's blessing",
+                "jp": "新年",
+                "kr": "새해",
+                "cn": "新年祝福"
+            },
+            "text": {
+                "en": "Doctor. Happy New Year. I'm looking forward to our new journey ahead.",
+                "jp": "ドクター、あけましておめでとうございます。では、今年もよろしくお願いします。",
+                "kr": "박사님, 새해 복 많이 받으세요. 그럼, 올해도 잘 부탁드립니다.",
+                "cn": "你好博士，新年快乐，今后也请你多多关照。"
+            },
+            "asset": "char_4186_tmoris/CN_038"
+        },
+        {
+            "id": "char_4186_tmoris_CN_042",
+            "title": {
+                "en": "Greeting",
+                "jp": "挨拶",
+                "kr": "인사",
+                "cn": "问候"
+            },
+            "text": {
+                "en": "Hello, Doctor. Want to head to training?",
+                "jp": "こんにちは、ドクター。訓練に行きませんか？",
+                "kr": "안녕하세요, 박사님. 훈련하러 가지 않으실래요?",
+                "cn": "你好，博士，要一起去练习吗？"
+            },
+            "asset": "char_4186_tmoris/CN_042"
+        },
+        {
+            "id": "char_4186_tmoris_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": "There you are. Doctor, happy birthday. Here's your cake and your present. I guarantee it'll be good. I've had that store's cake before.",
+                "jp": "ここでしたか。ドクター、お誕生日おめでとうございます。こちら、ケーキとプレゼントです。味は保証しますよ。このお店のケーキ、食べたことがありますので。",
+                "kr": "여기 계셨군요. 박사님, 생일 축하합니다. 여기, 케이크랑 선물이에요. 맛은 보증하죠. 이 가게 케이크는 먹어 본 적이 있으니까요.",
+                "cn": "博士，我终于找到你了。生日快乐，这是我给你买的蛋糕和礼物。这家店的蛋糕的口味我已经亲自确认过了，非常美味。"
+            },
+            "asset": "char_4186_tmoris/CN_043"
+        },
+        {
+            "id": "char_4186_tmoris_CN_044",
+            "title": {
+                "en": "Anniversary Celebration",
+                "jp": "周年",
+                "kr": "애니버서리",
+                "cn": "周年庆典"
+            },
+            "text": {
+                "en": "You know. Little by little I've opened up, here at Rhodes Island. Now I can put my own thoughts out there without worrying what others think of me. I have the people of Rhodes Island to thank for that, as well as you. So thank you, Doctor.",
+                "jp": "気づいたんです。ロドスでも、少しずつ、周りを恐れず自分の意見を伝えられるようになったと。ロドスの皆さんと、あなたのおかげです。ありがとうございます、ドクター。",
+                "kr": "깨달았어요. 로도스 아일랜드에서도, 조금씩 주변을 두려워하지 않고 자신의 의견을 전할 수 있게 됐다고요. 로도스 아일랜드 여러분들과, 당신 덕분이에요. 감사합니다, 박사님.",
+                "cn": "在罗德岛的经历，让我慢慢变得不再害怕向身边的人表露自己的真实想法。谢谢你，博士。"
+            },
+            "asset": "char_4186_tmoris/CN_044"
+        }
+    ],
+    "actors": {
+        "linkage": {
+            "native": "岡田夢以",
+            "global": "Mei Okada"
+        }
+    },
+    "availability": [
+        "linkage"
+    ]
+}

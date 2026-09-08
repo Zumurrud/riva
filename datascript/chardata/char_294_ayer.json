@@ -17,7 +17,7 @@
                 "cn": "任命助理"
             },
             "text": {
-                "en": "Before you leave, I am responsible for protecting you.",
+                "en": "Before you leave, I'm responsible for protecting you.",
                 "jp": "アンタがここにいる間は、俺が護衛役だ。",
                 "kr": "네가 여기에 있는 동안 내가 호위를 맡겠다.",
                 "cn": "在你离开之前，我负责你的护卫工作。"
@@ -33,7 +33,7 @@
                 "cn": "交谈1"
             },
             "text": {
-                "en": "Doctor, I'm looking for a way to quickly increase the charge my body can carry. Look for an operator who uses electricity? That makes sense, I'll try it.",
+                "en": "Doctor, I'd like to quickly increase the charge my body can carry. An operator who uses electricity? I'll give it a crack.",
                 "jp": "ドクター、身体に帯びた電荷を素早く増やす方法を知らないか。電気を扱うオペレーターに聞け？確かに一理あるな。ちょっと聞いてくる。",
                 "kr": "박사, 몸에 전하량을 빠르게 늘리는 방법은 모르나? 전기를 다루는 오퍼레이터한테 물어보라고? 확실히 일리가 있군. 잠깐 물어보고 오겠다.",
                 "cn": "博士，有没有那种快速增加身体携带电荷的方法。找会用电的干员？有道理，我去试试。"
@@ -49,7 +49,7 @@
                 "cn": "交谈2"
             },
             "text": {
-                "en": "Go to Leonhardt if you need ore identified. I'm no good at this.",
+                "en": "Ore identification? Try Leonhardt. Not my wheelhouse, I'm afraid.",
                 "jp": "鉱石の鑑定はレオンハルトに頼め。俺は得意じゃない。",
                 "kr": "광석 감정은 레온하르트한테 부탁해라. 나는 잘 못 하니까.",
                 "cn": "矿石鉴别找莱恩哈特去，我不擅长这个。"
@@ -65,7 +65,7 @@
                 "cn": "交谈3"
             },
             "text": {
-                "en": "The boss lady of Rhine Lab frowned when she saw me, as if I was some kind of pest. What a pain. When did I ever do anything to her?",
+                "en": "The boss at Rhine Lab frowned every time she saw me, like I was a pest. What a bother. When did I do anything to her?",
                 "jp": "ライン生命のお偉いさんは俺を見ると眉をひそめるんだ。まるで害獣に出くわしたみたいにな。いったいいつ目を付けられたんだか、面倒だな。",
                 "kr": "라인 랩의 그 높으신 분들은 나를 보기만 하면 눈살을 찌푸렸다. 마치 해로운 짐승이라도 만난 것처럼. 대체 언제 눈 밖에 난 거지. 성가시게.",
                 "cn": "莱茵的大人物见我就拧着眉头，好像遇到什么害兽一样。我什么时候惹到她的，真是麻烦。"
@@ -81,7 +81,7 @@
                 "cn": "晋升后交谈1"
             },
             "text": {
-                "en": "My ears are standing up? Don't worry, *bzzt*, it's just the static, and it actually feels pretty good. It'll, *bzzt*, come down on its own after a while.",
+                "en": "My ears perked up? No worries. Just a zap. Not too bad, honestly. It'll settle down soon enough.",
                 "jp": "俺の耳が立っている？気にするな、っ……ただ電気が、気持ちよくてな。しばらくすれば、っ……元に戻るさ。",
                 "kr": "내 귀가 서 있다고? 신경 쓰지 마. 읏…… 그냥 전기가 기분이 좋아서 말이야. 조금 있으면, 읏…… 원래대로 돌아갈 거다.",
                 "cn": "耳朵竖起来了？没关系，嘶，只是被电得......有点舒服。一会，嘶，一会就会垂下去了。"
@@ -97,7 +97,7 @@
                 "cn": "晋升后交谈2"
             },
             "text": {
-                "en": "It took me two years of scrouging and going into debt to buy this baby. If not for its value, the Cautus profiteers on the black market would've thrown me away onto some mining ship. The fact that I can have a comfortable life today is all due to this little electricity-leaking guy.",
+                "en": "This beauty cost me two years of scraping by and a load of debt, but worth every coin. Without it, those Cautus black market profiteers would've dumped me on some mining ship. Living the good life now is all thanks to my sparky friend here.",
                 "jp": "こいつを買うために二年分の貯金をはたいて借金まで背負ったんだ。こいつが値段以上の代物じゃなかったら、俺はとっくに闇市のコータス悪徳商人に採鉱船に入れられてどっかに飛ばされてたよ。今でも心地よい日々を過ごせているのは、この漏電する相棒のおかげさ。",
                 "kr": "이 녀석을 사겠답시고 2년 치 적금을 쏟아붓고 빚까지 졌었지. 이 녀석이 제값 이상 하는 물건이 아니었다면 암시장에 있는 카우투스 악덕 상인이 진작에 날 채굴선에 실어 어딘가로 보냈을 거다. 지금도 마음 편히 지낼 수 있는 건 바로 이 전기를 뿌리는 파트너 덕분이라 할 수 있지.",
                 "cn": "买这宝贝花了我两年的积蓄外加一笔借款。要不是它物超所值，黑市的卡特斯奸商早就把我丢矿船里运走了。能有今天的舒坦日子，全靠这会漏电的好家伙。"
@@ -113,7 +113,7 @@
                 "cn": "信赖提升后交谈1"
             },
             "text": {
-                "en": "Oh, there you are. How about a fresh, chilled piece of salted edamame? Don't want it? You've gotta learn to appreciate this kind of food. Here, eat it.",
+                "en": "Oh, there you are. Got these fresh, ice-cold salted edamame, fancy a nibble? Not even a bite? You've gotta appreciate food like this. Just give it a go.",
                 "jp": "ああ、アンタか。塩漬けの冷やし枝豆だ、アンタも食べるか？いらない？アンタさ、こういう食べ物の良さを覚えてみたらどうだ。ほら、食べてみろ。",
                 "kr": "아아, 너구나. 소금에 절인 차가운 풋콩이다. 같이 먹겠나? 필요 없다고? 너 말이야, 이런 음식의 매력을 좀 알아두는 게 어때. 자, 먹어보라니까.",
                 "cn": "哦，你在啊，新鲜冰镇盐渍毛豆，来一根？不用？你要学会理解这种食物，拿着，吃。"
@@ -129,7 +129,7 @@
                 "cn": "信赖提升后交谈2"
             },
             "text": {
-                "en": "Leonhardt's too noisy and causes too much trouble. I prefer hanging out with you. What? He got surrounded by the Medical Department staff for pulling too many pranks on them? He just doesn't know what's pushing it too far, and I don't think he's ever going to learn. Tsk, I'm going to take a look. Doctor, want to come with me if you're free?",
+                "en": "Leonhardt's a noisy drama magnet. Much calmer here with you. What? He's gotten himself cornered by Medical over some dodgy jokes? That guy never learns. Guess I gotta defuse this mess. Doctor, want to come along?",
                 "jp": "レオンハルトはうるさすぎるし、面倒も多い。やはりアンタのところが一番くつろげるな。なに？あいつが医療部の奴をからかって今囲まれてる？度が過ぎれば困るのは自分ってことをあいつはいつまで経っても覚えないんだ。チッ、俺が収めてくる。ドクターもよければ来てくれるか？",
                 "kr": "레온하르트는 너무 시끄러워, 성가신 일도 많고 말이야. 역시 네가 있는 곳이 가장 편해. 뭐? 그 녀석이 의료부 녀석을 놀려대서 지금 둘러싸여 있다고? 도가 지나치면 자기만 곤란해진다는 걸 대체 왜 모르는 걸까. 칫, 내가 정리하고 오지. 박사도 괜찮으면 같이 가 주겠나?",
                 "cn": "莱恩哈特太吵了，事又多，还是你这里消停。什么？他和医疗部的人开玩笑被围住了？掌握不好分寸会要人命，他就是学不会，啧。我去圆个场，博士你方便一起来吗？"
@@ -145,7 +145,7 @@
                 "cn": "信赖提升后交谈3"
             },
             "text": {
-                "en": "I protect Wright because we've been together ever since we were little. Something happens to him, I pay it back, and vice versa. But as for us, we haven't had such a long and stable relationship. Don't think you can get close to me just because you helped bandage my wounds, got it? ...I said the same thing last time? Tsk, damn it.",
+                "en": "I look out for Leon because we've been like that since we were kids. If he's in a bind, I sort it out, and he does the same for me. But the two of us, we don't know each other like that. Just because you bandage my wounds doesn't mean we're close, got it? ...I said the same thing last time? Tsk, damn it.",
                 "jp": "俺がレオンハルトを守るのは、小さい頃からそうしてるからというだけだ。あいつが揉め事を起こして、俺が収める、逆もまたしかりだ。だが俺とアンタはそこまで長い付き合いじゃない。俺に絆創膏を貼ってくれたくらいで親しくなれるとは思うな、分かったか。前にも俺が同じことを言った？チッ、しまった。",
                 "kr": "내가 레온하르트를 지키는 건 어렸을 때부터 그렇게 해와서일 뿐이야. 그 녀석이 실랑이를 벌이면 내가 정리한다. 그 반대도 마찬가지지. 하지만 나와 넌 그렇게까지 오래된 사이가 아니야. 내게 반창고를 붙여준 정도로 친해질 수 있을 거라곤 생각하지 마라. 알았나. 전에도 내가 같은 말을 했다고? 쳇, 실수했군.",
                 "cn": "我保护莱特，只是因为我们从小就是这样过来的。他出事，我摆平，反之也一样，但我和你可没那么长久稳定的关系，别以为帮我贴创可贴就能套近乎，明白了吗。上次我也是这么说的？啧，完了。"
@@ -161,7 +161,7 @@
                 "cn": "闲置"
             },
             "text": {
-                "en": "Huh?! Oh... it's you. It's nothing, I'm just lying here to recuperate. If you want to rest as well, I'll make space for you.",
+                "en": "Huh?! Oh, it's you. I'm good, just… catching my breath for a bit. If you wanna join me, I can shift over.",
                 "jp": "なんだっ！？ああ……アンタか。なんでもない、寝転がって英気を養っていただけだ。ここで休みたいなら、場所を空けるよ。",
                 "kr": "뭐야?! 아아…… 너였구나. 아무것도 아니야. 드러누워 기운을 좀 보충하고 있었을 뿐이다. 여기서 쉬고 싶다면 자리를 비워주지.",
                 "cn": "嗯？！嗯......是你啊。没什么，我就躺会回回力气。你要想在这休息，我把位置让给你。"
@@ -177,7 +177,7 @@
                 "cn": "干员报到"
             },
             "text": {
-                "en": "Catastrophe Messenger bodyguard, Ayerscarpe. Pleased to meet you.",
+                "en": "Catastrophe Messenger bodyguard, Ayerscarpe. Good to meet you.",
                 "jp": "天災トランスポーターの護衛、エアースカーペだ。よろしく頼む。",
                 "kr": "재앙정보전달자의 호위, 에이어스카르페다. 잘 부탁한다.",
                 "cn": "天灾信使护卫，断崖。 合作愉快。"
@@ -193,7 +193,7 @@
                 "cn": "观看作战记录"
             },
             "text": {
-                "en": "Very professional. Worth learning from.",
+                "en": "Impressive. Professional. I'll take note.",
                 "jp": "専門的な戦い方だ、学ぶ価値はある。",
                 "kr": "전문적인 전투 방식이군. 배울 가치는 있겠어.",
                 "cn": "很专业，值得学习。"
@@ -209,7 +209,7 @@
                 "cn": "精英化晋升1"
             },
             "text": {
-                "en": "Haven't I been getting overpaid recently? A promotion? Oh, I see. Thank you.",
+                "en": "I think I've been overpaid recently. A promotion? Got it. Thanks.",
                 "jp": "最近給料を間違えて多く支給してないか？昇進？ああそうか、わかった、感謝する。",
                 "kr": "최근 급여를 실수로 많이 지급하지 않았나? 승진? 아아, 그런가. 알았다. 고맙다.",
                 "cn": "最近的薪水是不是给多了？升职？啊，好的，谢谢。"
@@ -225,7 +225,7 @@
                 "cn": "精英化晋升2"
             },
             "text": {
-                "en": "Being a bodyguard is not about defense, but rather control. Control the space around the target and eliminate all threats. Shall I prove it to you?",
+                "en": "Being a bodyguard isn't a matter of defense. It's about control. Controlling the space around your target and neutralizing threats. Want me to demonstrate?",
                 "jp": "護衛は防御ではなく、支配だ。護衛する者の周囲の空間を支配し、全ての脅威を取り除くのが仕事だ。証明して見せてもいいが、どうだ？",
                 "kr": "호위는 방어가 아니라 지배다. 호위하는 자의 주위 공간을 지배해 모든 위협을 제거하는 것이 일이지. 증명해 보일 수도 있는데, 어때?",
                 "cn": "护卫不是防御，是掌控。掌控保护者周边的空间，扫除一切威胁。我证明给你看，如何？"
@@ -241,7 +241,7 @@
                 "cn": "编入队伍"
             },
             "text": {
-                "en": "Squad joined, awaiting deployment.",
+                "en": "Squad assembled, awaiting deployment.",
                 "jp": "編成に加わった。任務の割り当てを。",
                 "kr": "팀에 가담했다. 임무를 분담해 줘.",
                 "cn": "入队，等待部署任务。"
@@ -273,7 +273,7 @@
                 "cn": "行动出发"
             },
             "text": {
-                "en": "No abnormal changes detected. The squad can begin moving.",
+                "en": "No anomalies detected. Squad good to go.",
                 "jp": "周囲に異常なし、出撃可能だ。",
                 "kr": "주위 이상 무. 출격 가능하다.",
                 "cn": "周围没有异动，小队可以出发。"
@@ -289,7 +289,7 @@
                 "cn": "行动开始"
             },
             "text": {
-                "en": "Target located. Move out!",
+                "en": "Target located. Move out.",
                 "jp": "目標発見、行くぞ！",
                 "kr": "목표 발견. 간다!",
                 "cn": "发现目标，上了！"
@@ -305,7 +305,7 @@
                 "cn": "选中干员1"
             },
             "text": {
-                "en": "Ah.",
+                "en": "Righto.",
                 "jp": "ああ。",
                 "kr": "그래.",
                 "cn": "啊。"
@@ -369,7 +369,7 @@
                 "cn": "作战中1"
             },
             "text": {
-                "en": "It's over!",
+                "en": "It's over.",
                 "jp": "遅い！",
                 "kr": "느려!",
                 "cn": "晚了！"
@@ -417,7 +417,7 @@
                 "cn": "作战中4"
             },
             "text": {
-                "en": "There is no winning or losing. Only life or death.",
+                "en": "This isn't win or lose. This is life and death.",
                 "jp": "勝敗など関係ない、生きるか死ぬかだ。",
                 "kr": "승패 따윈 상관없어. 죽느냐 사느냐다.",
                 "cn": "只有生死，无关胜负。"
@@ -433,7 +433,7 @@
                 "cn": "完成高难行动"
             },
             "text": {
-                "en": "Good job controlling the entire situation. Hmph. Congratulations.",
+                "en": "You handled that impressively. Hmph. Congratulations.",
                 "jp": "何もかもうまくいった。フンッ、おめでとうと言っておこう。",
                 "kr": "전부 잘 풀렸군. 흥. 축하한다고 해두지.",
                 "cn": "一切都掌握得不错，哼，恭喜。"
@@ -449,7 +449,7 @@
                 "cn": "3星结束行动"
             },
             "text": {
-                "en": "We made good time. We should get going.",
+                "en": "Perfect timing. We should get going.",
                 "jp": "時間ぴったりだ、帰るぞ。",
                 "kr": "시간이 딱 맞았군. 돌아간다.",
                 "cn": "时间正好，该走了。"
@@ -465,7 +465,7 @@
                 "cn": "非3星结束行动"
             },
             "text": {
-                "en": "I'm willing to believe that letting that person through was part of your plans.",
+                "en": "I'm willing to believe those escapees were on purpose.",
                 "jp": "逃がした奴も計画の内、そう理解していいよな？",
                 "kr": "놓친 녀석도 계획의 일부라고…… 그렇게 이해해도 되겠지?",
                 "cn": "脱离的人在你计划之内，我可以这么认为吧。"
@@ -481,7 +481,7 @@
                 "cn": "行动失败"
             },
             "text": {
-                "en": "Don't worry about my injuries. Just make sure you get back safely.",
+                "en": "Don't worry about me. Just make sure you get back okay.",
                 "jp": "俺の傷は気にするようなものじゃない、アンタが無事に戻れればそれでいい。",
                 "kr": "내 상처는 신경 안 써도 돼. 네가 무사히 돌아갈 수 있으면 그걸로 충분하다.",
                 "cn": "我身上的伤没什么好在意的，只要你安全回去就好。"
@@ -529,7 +529,7 @@
                 "cn": "信赖触摸"
             },
             "text": {
-                "en": "You look troubled. What's on your mind?",
+                "en": "Is something bothering you? You can tell me.",
                 "jp": "なにか困りごとがありそうだな。言ってみろ、どうしたんだ。",
                 "kr": "뭔가 곤란한 일이라도 있는 모양이군. 말해 봐, 무슨 일이지.",
                 "cn": "你看上去很困扰。说吧，有什么事。"
@@ -593,8 +593,8 @@
                 "cn": "生日"
             },
             "text": {
-                "en": "Here, salted edamame. What are you looking at? You think I shelled them for you? I eat pre-shelled ones sometimes, too. It's a different texture... Why do I still eat entire pods? Just a force of habit. Get to eating yours. Happy birthday.",
-                "jp": "喏，盐水毛豆，看什么？以为是专门给你剥的？想什么呢，我偶尔也会吃剥好的，两种口感而已......我为什么还在吃整根的？顺手罢了。吃你的就行了，生日快乐。",
+                "en": "Here, salted edamame. What are you staring at? You think I shelled them just for you? I eat pre-shelled ones sometimes too, it's a different texture… Why am I still eating whole pods? Just force of habit. Eat yours. Happy birthday.",
+                "jp": "ほら、枝豆の塩漬けだ。なんだその目は？アンタのためにわざわざ剥いたとでも思ったのか？考えすぎだ。俺だってたまには剥いてあるものを食べるさ、違う食感を味わえるからな……ならどうしてまださやごと食べてるのかって？いつもの癖だから気にするな。そんなことよりさっさと食べろ。それと誕生日おめでとう。",
                 "kr": "응, 소금에 절인 풋콩이다. 무슨 문제 있나? 널 위해 껍질을 벗기는 줄 알았다고? 뭔 생각하는 거지, 나도 가끔은 껍질 벗긴 걸 먹는다. 두 가지의 식감을 모두 즐기는 것뿐…… 근데 왜 계속 껍질째로 먹냐고? 손 가는 대로 먹는 거지 뭐. 넌 네 거 먹으면 돼. 그리고 생일 축하한다.",
                 "cn": "喏，盐水毛豆，看什么？以为是专门给你剥的？想什么呢，我偶尔也会吃剥好的，两种口感而已......我为什么还在吃整根的？顺手罢了。吃你的就行了，生日快乐。"
             },
@@ -609,7 +609,7 @@
                 "cn": "周年庆典"
             },
             "text": {
-                "en": "I've saved up quite a bit of money this year. Since coming to Rhodes Island, Leon and I have more stable incomes. He hasn't said anything, but it's a while since I got him anything. No point letting the money sit there. What should I buy? Doctor, do you have any suggestions?",
+                "en": "I've saved up quite a bit of money this year. Since coming to Rhodes Island, Leon and I have more stable incomes. He hasn't mentioned it, but it's been a while since I got him anything. No point letting the money sit there. What should I buy? Doctor, do you have any suggestions?",
                 "jp": "今年もかなり貯金が増えたな。ロドスに来てから俺とレオンハルトの収入は随分と安定した。あいつは何も言ってこないが、ここしばらくはあいつに物を買っていない。ふむ……ずっと貯めておいても特に使い道はないし、何か買うとするか。ドクター、おすすめの物はあるか？",
                 "kr": "로도스 아일랜드에 온 이후로 나랑 레온하르트의 수입이 많이 안정되어서, 올해도 돈을 꽤 많이 모을 수 있었다. 물론 그도 뭐라 한 적은 없지만, 생각해 보니 나도 한동안 레온하르트한테 무언가를 사 준 적이 없더군. 으음…… 돈을 계속 쌓아둬 봤자 소용도 없고, 뭔가 사는 게 좋을 거 같은데. 박사, 추천할 거라도 있나?",
                 "cn": "今年也存下了不少钱，来罗德岛之后我和莱特的收入都稳定了不少。虽然他没说，但我已经有一阵没给他买过东西了。嗯......继续存着也没什么用处，买点什么呢？博士，有什么好的建议吗？"
@@ -618,6 +618,10 @@
         }
     ],
     "actors": {
+        "en": {
+            "native": "Ethan McHale",
+            "global": "Ethan McHale"
+        },
         "cn": {
             "native": "黄进泽",
             "global": "Jinze Huang"
@@ -632,6 +636,7 @@
         }
     },
     "availability": [
+        "en",
         "cn",
         "jp",
         "kr"

@@ -1,0 +1,644 @@
+{
+    "charid": "char_4134_cetsyr_epoque#50",
+    "nameid": "cetsyr-epoque",
+    "names": {
+        "en": "Civilight Eterna EPOQUE",
+        "jp": "シヴィライト・エテルナ EPOQUE",
+        "kr": "시빌라이트 에테르나 EPOQUE",
+        "cn": "魔王 EPOQUE"
+    },
+    "voices": [
+        {
+            "id": "char_4134_cetsyr_epoque#50_CN_001",
+            "title": {
+                "en": "Appointed as Assistant",
+                "jp": "秘書任命",
+                "kr": "어시스턴트 임명",
+                "cn": "任命助理"
+            },
+            "text": {
+                "en": "A palace of memory, its structure more elaborate than a Leithanian instrument, its contents more incoherent than revenant rambling. Supporting this palace is perhaps as simple as enjoying a spoonful of soup—well, I'd say it is woven of thread rather than built of brick…",
+                "jp": "記憶は殿堂となる。その構造はリターニア人の楽器よりも精巧で、レヴァナントの囁きよりも理解しがたいものでしょう。建物全体を支える柱は、いつも口にしているスープの味わいかもしれない。そしてこの殿堂は、石と煉瓦で築かれていると言うよりも、糸で丹念に織られていると言った方が正しいわ……",
+                "kr": "기억은 전당이 돼. 그 구조는 라이타니엔인의 악기보다도 정교하고, 레버넌트의 속삭임보다도 이해하기 어려울 거야. 건물 전체를 지탱하는 기둥은, 늘 먹던 수프 맛일지도 몰라. 그리고 이 전당은 돌과 벽돌로 지어졌다고 하기보단, 실로 정성껏 짜여있다고 말하는 편이 맞겠지……",
+                "cn": "记忆化作殿堂，结构会比莱塔尼亚人的乐器还要精巧，比死魂灵的呓语更难解。支撑起整座殿堂的梁柱，也许只是一口汤的味道。而这座殿堂，与其说是砖石垒成，不如说是丝线织就......"
+            },
+            "asset": "char_4134_cetsyr_epoque#50/CN_001"
+        },
+        {
+            "id": "char_4134_cetsyr_epoque#50_CN_002",
+            "title": {
+                "en": "Talk 1",
+                "jp": "会話1",
+                "kr": "대화 1",
+                "cn": "交谈1"
+            },
+            "text": {
+                "en": "It's strange to perform a Deep Dive into Theresa's memory. It has lived within me since my beginning, but when I search these memories… I feel like a mere reader. It's very strange… I won't show you these Deep Dive records, Doctor.",
+                "jp": "テレジアの記憶に深く潜るというのは、不思議な感覚だわ。すべてもとから私の中に存在しているものなのに、こうして記憶を探るのは……まるで読者になっている気分。ええ、本当に不思議な感覚よ……このディープダイブの記録は、あなたに見せるつもりはないわ、ドクター。",
+                "kr": "테레시아의 기억에 깊이 들어간다는 건 신기한 감각이야. 다 원래부터 내 안에 존재하던 것들인데, 이런 식으로 기억을 탐색하는 건…… 마치 독자가 된 기분. 그래, 정말 신기한 감각이야…… 이 딥다이브의 기록을 당신에게 보여줄 생각은 없어, 박사.",
+                "cn": "在特蕾西娅的记忆中深潜是一件古怪的事。这一切早已存在于我之中，但我探索这些记忆......就像一个读者。这很古怪......这份深潜记录，我是不会对你开放的，博士。"
+            },
+            "asset": "char_4134_cetsyr_epoque#50/CN_002"
+        },
+        {
+            "id": "char_4134_cetsyr_epoque#50_CN_003",
+            "title": {
+                "en": "Talk 2",
+                "jp": "会話2",
+                "kr": "대화 2",
+                "cn": "交谈2"
+            },
+            "text": {
+                "en": "Defending one's land turns a clothesmaker into a hero, and a hero into a King of Sarkaz... yes, this is where it all began: Theresis thumped on the door, and Theresa set down her scissors. Only when the door opened that evening, did she realize the heavy rain outside.",
+                "jp": "護国戦争は、一介の仕立て屋を英雄足らしめ、またその英雄を魔王とした……そう、ここがその始まり――夕暮れ時に、テレシスが戸を叩き、テレジアはハサミを置いた。扉を開くと、暗くなった空から激しい雨が降っていることに気付いた。",
+                "kr": "호국 전쟁은 일개 재봉사를 영웅으로 만들었고, 또 그 영웅을 마왕으로 만들었지……. 그래, 여기가 그 시작……. 해 질 녘에 테레시스가 문을 두드렸고, 테레시아는 가위를 내려놓았어. 문을 열어보니, 어두워진 하늘에서 거센 비가 내리고 있다는 걸 깨달았지.",
+                "cn": "卫国战争，它让一个衣匠成了英雄，又让英雄成了魔王......嗯，这里就是开端：特雷西斯捶响房门，特蕾西娅放下了剪刀。打开门发现，傍晚下起了暴雨。"
+            },
+            "asset": "char_4134_cetsyr_epoque#50/CN_003"
+        },
+        {
+            "id": "char_4134_cetsyr_epoque#50_CN_004",
+            "title": {
+                "en": "Talk 3",
+                "jp": "会話3",
+                "kr": "대화 3",
+                "cn": "交谈3"
+            },
+            "text": {
+                "en": "Only when the Goliath rushed out of the city gates that day and beheaded a Gaulish officer did we finally breathe easy. He brought back a Gaulish coat, but only handed me a piece of candy from its pocket, asking that I give it to a wounded soldier… But I couldn't do it, and I couldn't bring myself to tell him why.",
+                "jp": "あの日、かのゴリアテが城門を飛び出し、ガリア軍の士官を斬ったことで、ようやく私たちは一息つけた。彼はその士官の外套を持ち帰ったけれど、ポケットを探って一粒の飴を取り出しただけだった。それをある負傷兵に届けてほしいと私に頼んだの……でも結局私は届けられなかったし、彼に真実を告げることもできなかったわ。",
+                "kr": "그날, 그 골리앗이 성문을 뛰쳐나가서 가울군 장교를 벤 덕분에, 우리는 겨우 한숨을 돌릴 수 있었어. 골리앗은 그 장교의 외투를 가지고 돌아왔지만, 주머니를 뒤져 사탕 한 알을 꺼냈을 뿐이었지. 그걸 어느 부상병에게 전해 달라고 내게 부탁했어……. 하지만 결국 나는 전해주지 못했고, 그 골리앗에게 진실을 말해주지도 못했어.",
+                "cn": "那天，那位歌利亚冲出城门斩首了一个高卢军官，我们才缓了口气。他拿回了高卢人的外套，但只是从侧兜里掏出一块糖，让我带给一个伤兵......可我没能送到，也没能忍心告诉他这件事。"
+            },
+            "asset": "char_4134_cetsyr_epoque#50/CN_004"
+        },
+        {
+            "id": "char_4134_cetsyr_epoque#50_CN_005",
+            "title": {
+                "en": "Talk after Promotion 1",
+                "jp": "昇進後会話1",
+                "kr": "1차 정예화 후 대화",
+                "cn": "晋升后交谈1"
+            },
+            "text": {
+                "en": "We took the only opportunity we had. Kal'tsit did not originally plan to kill Yliš, she merely wanted to strip the black crown from the Sarkaz, but the 'Feeble King' still had a plan to thwart hers, and thus the war dragged on… until Theresis brandished his blade.",
+                "jp": "私たちは、唯一の勝機を掴んだ。ケルシーはもともとイレーシュを殺すつもりはなかったの。黒き冠をサルカズの継承の流れから引き剥がそうとしたけど、あの「臆病な魔王」が唯一の手段でそれを邪魔した。そうして戦争は延びた……テレシスが剣を振り下ろしたあの瞬間まで。",
+                "kr": "우리는 유일한 승기를 붙잡았어. 켈시는 원래 일리스를 죽일 생각은 없었지. 검은 왕관을 살카즈의 전승에서 떼어놓으려고 했지만, 그 '겁쟁이 마왕'이 유일하게 남은 수단으로 그걸 방해한 거야. 그렇게 전쟁은 늘어졌어…… 테레시스가 검을 휘두른 그 순간까지.",
+                "cn": "我们抓住了唯一的胜机。凯尔希本不打算杀死以勒什，她想将黑冠从萨卡兹的传承中剥离，而“懦弱的魔王”以仅有的方法阻挠了她。战争就这样被延长了......直到特雷西斯得以挥出那一剑。"
+            },
+            "asset": "char_4134_cetsyr_epoque#50/CN_005"
+        },
+        {
+            "id": "char_4134_cetsyr_epoque#50_CN_006",
+            "title": {
+                "en": "Talk after Promotion 2",
+                "jp": "昇進後会話2",
+                "kr": "2차 정예화 후 대화",
+                "cn": "晋升后交谈2"
+            },
+            "text": {
+                "en": "When Kal'tsit was born anew from the 'cocoon', I hesitated for a moment. But the look in her eyes was familiar. After wearing the black crown, I would occasionally see my… I thought, perhaps we didn't have to become enemies. I'm glad I considered the notion.",
+                "jp": "ケルシーが「繭」から蘇った瞬間、私も迷っていたわ。だけど彼女の眼差しにどこか馴染み深いものがあったの。黒き冠を戴いてから、時折鏡で見た自分の目と同じ……私たちは、必ずしも敵である必要はない。そう思えたことを、今でも良かったと思っているの。",
+                "kr": "켈시가 '고치'에서 되살아난 순간, 나도 망설였어. 하지만 켈시의 눈빛에는 어딘가 아주 익숙한 것이 있었지. 검은 왕관을 쓴 뒤로 가끔 거울에서 보던 내 눈과 같은…… 우리가 반드시 적일 필요는 없어. 그렇게 생각할 수 있었던 걸, 지금도 다행이라고 생각해.",
+                "cn": "凯尔希从“茧”中重生的那一刻，我也犹豫过，但她的眼神竟有些熟悉。戴上黑冠后，我时而见到......我想，也许我们不是必须成为敌人。我很庆幸我那么想了。"
+            },
+            "asset": "char_4134_cetsyr_epoque#50/CN_006"
+        },
+        {
+            "id": "char_4134_cetsyr_epoque#50_CN_007",
+            "title": {
+                "en": "Talk after Trust Increase 1",
+                "jp": "信頼上昇後会話1",
+                "kr": "신뢰도 상승 후 대화 1",
+                "cn": "信赖提升后交谈1"
+            },
+            "text": {
+                "en": "Bertha wasn't young anymore then, and my mentor didn't think she'd return. She smiled as she said it didn't matter if she died in Kazdel, for her sharp-tongued disciple had no way out. We laughed over many jokes together, but this is the only one I dislike…",
+                "jp": "あの時のバーサはもう若くなかったし、彼女が来るとは思わなかったと先生が言っていた。でもバーサは笑って言ったの、どうせあの口の減らない弟子はもう逃げられないんだから、たとえ自分がカズデルで死んでも構わないって。彼女はたくさん冗談を言っていたけど、これだけは、私はちっとも好きになれなかった……",
+                "kr": "그때의 베르사는 이미 젊지 않았고, 선생님도 베르사가 올 줄은 생각 못 했다고 했어. 하지만 베르사는 웃으며 말했지. 어차피 그 입만 산 제자는 이제 도망칠 수 없으니, 설령 자신이 카즈델에서 죽어도 상관없다고. 베르사는 농담을 많이 했지만, 난 이 농담만큼은 전혀 좋아할 수 없었어……",
+                "cn": "那时贝尔莎已经不年轻了，老师说没想到她会来。贝尔莎笑着说，反正她那个牙尖嘴利的学徒跑不了了，就算她死在卡兹戴尔也没关系。她和我们开过那么多玩笑，我唯独，不喜欢这一个......"
+            },
+            "asset": "char_4134_cetsyr_epoque#50/CN_007"
+        },
+        {
+            "id": "char_4134_cetsyr_epoque#50_CN_008",
+            "title": {
+                "en": "Talk after Trust Increase 2",
+                "jp": "信頼上昇後会話2",
+                "kr": "신뢰도 상승 후 대화 2",
+                "cn": "信赖提升后交谈2"
+            },
+            "text": {
+                "en": "I've kept this secret for so long… When the guards changed shifts, my mentor's cloth got caught on the horn of a Caprinae, causing him to trip and fall. I didn't laugh. Really. Well… Until I told Amiya about it. She'd find out eventually, after all.",
+                "jp": "この秘密はずっと隠していたの。守備交替の時、先生の包帯があるキャプリニーの角に絡まっていて、それで転んだの。私は笑わなかったわ。本当よ。そうね……アーミヤに話すまでは。どうせあの子はいずれ知ってしまうから。",
+                "kr": "이건 계속 숨겨왔던 비밀이야. 수비를 교대할 때, 선생님의 붕대가 어떤 카프리니의 뿔에 엉켜서 넘어진 적이 있어. 나는 안 웃었어. 진짜야. 그…… 아미야한테 말하기 전까지는. 어차피 그 아이는 언젠가 알게 될 거였으니까.",
+                "cn": "这个秘密我保守了很久......那次换防，老师的布条缠在了一个卡普里尼脑袋的角上，他绊了一跤。我没有笑。真的没有。嗯......直到我告诉了阿米娅。反正她总会知道的。"
+            },
+            "asset": "char_4134_cetsyr_epoque#50/CN_008"
+        },
+        {
+            "id": "char_4134_cetsyr_epoque#50_CN_009",
+            "title": {
+                "en": "Talk after Trust Increase 3",
+                "jp": "信頼上昇後会話3",
+                "kr": "신뢰도 상승 후 대화 3",
+                "cn": "信赖提升后交谈3"
+            },
+            "text": {
+                "en": "Theresis was never the type to smile. I'd poke his forehead so many times, but he never wavered. Though… on our day of victory, when we thought it was all over, when we could finally go home, I saw a smile on his face. The very next moment, that tiny crown hovered between us.",
+                "jp": "テレシスはいっつも仏頂面でね。何度も眉間を突っついてみたけれど、頑なに変えやしなかったわ。だけど……勝利したあの日、ついに戦争が終わって、故郷に帰れると思ったその時、私は見たのよ、彼の笑顔を。そして次の瞬間、小さな王冠が私たちのあいだに浮かんでいたの。",
+                "kr": "테레시스는 늘 무뚝뚝한 표정이어서 말이야. 미간을 몇 번이나 찔러봤는데도, 끝까지 바꿀 수 없었지. 하지만…… 승리했던 그날, 드디어 전쟁이 끝나고 고향에 돌아갈 수 있다고 생각했던 그때, 나는 봤어, 테레시스가 웃는 걸. 그리고 다음 순간, 작은 왕관이 우리 사이에 떠올랐지.",
+                "cn": "特雷西斯总是不笑。我戳过他的眉头那么多次，他就是改不了。但......胜利的那一天，我们以为终于结束了，终于能回家了的时候，我看到他笑了。下一刻，那顶小小的王冠浮在了我们中间。"
+            },
+            "asset": "char_4134_cetsyr_epoque#50/CN_009"
+        },
+        {
+            "id": "char_4134_cetsyr_epoque#50_CN_010",
+            "title": {
+                "en": "Idle",
+                "jp": "放置",
+                "kr": "방치",
+                "cn": "闲置"
+            },
+            "text": {
+                "en": "One time, I stayed awake for sixty hours straight, and Laqeramaline sang a lullaby to compel me to sleep… that was the first time I heard a Banshee sing something that wasn't an elegy, even if I only got to hear a verse and a half before I drifted off…",
+                "jp": "ある時、私が六十時間も眠らずにいたら、ラケラマリンが無理やり寝かしつけるために歌を歌ってくれたの……バンシーが挽歌以外を歌うのを初めて聞いたわ。もっとも、ほんの少し聴いたらすぐ眠ってしまったけれど……",
+                "kr": "한번은 내가 60시간이나 잠을 못 자고 있으니까, 라케라말린이 억지로 재우겠다며 노래를 불러줬었지…… 밴시가 엘레지 이외의 노래를 부르는 건 처음 들었어. 애초에 아주 조금 듣고 바로 잠들어 버렸지만……",
+                "cn": "有一次，我六十个小时没有合眼，菈玛莲为了强迫我睡觉，给我唱了一支歌......那是我第一次听到女妖除了挽歌之外的歌声。虽然，我只听了一句半就睡着了......"
+            },
+            "asset": "char_4134_cetsyr_epoque#50/CN_010"
+        },
+        {
+            "id": "char_4134_cetsyr_epoque#50_CN_011",
+            "title": {
+                "en": "Onboard",
+                "jp": "入職会話",
+                "kr": "오퍼레이터 입사",
+                "cn": "干员报到"
+            },
+            "text": {
+                "en": "These Deep Dive records belong only to me. They are distant to you, and that includes the you from 'before'. This is a story from two centuries ago, the past of a Theresa from Terra. Yet, if one were to imagine a travel companion…",
+                "jp": "このディープダイブの記録は、私だけのもの。あなたからは遠いし、「あの時よりも前のあなた」であっても同じよ。これは二百年前の物語で、テラに生きたテレジアの過去よ。だけど、仮にこの旅に伴がいるとすれば……",
+                "kr": "이 딥다이브의 기록은 나만의 것. 당신과는 거리가 멀고, '그때보다 더 전의 당신'이라도 마찬가지야. 이건 200년 전의 이야기, 테라에 살던 테레시아의 과거야. 하지만 혹시 이 여행에 동행이 있다면……",
+                "cn": "这份深潜记录只属于我。它们离你很遥远，甚至离“那之前”的你也是。这是两百年前的故事，是泰拉的特蕾西娅的过去。但如果设想有一位旅伴......"
+            },
+            "asset": "char_4134_cetsyr_epoque#50/CN_011"
+        },
+        {
+            "id": "char_4134_cetsyr_epoque#50_CN_012",
+            "title": {
+                "en": "Watching Battle Record",
+                "jp": "経験値上昇",
+                "kr": "작전기록 학습",
+                "cn": "观看作战记录"
+            },
+            "text": {
+                "en": "Close-combat fights on the battlefield are a rare sight, despite having walked corridors built by war. Of course, she had no desire to engrave those onto her memories.",
+                "jp": "……戦争で作り上げられた回廊をいくら歩いても、血の匂いのする戦場の光景は、意外と出てこない。きっと、彼女が記憶に留めたかったのは、それではなかったのね。",
+                "kr": "……전쟁으로 만들어진 회랑을 아무리 걸어도, 의외로 피 냄새나는 전장의 광경은 떠오르지 않아. 분명 테레시아가 기억에 담아두고 싶었던 건 그런 게 아니었겠지.",
+                "cn": "......即使走过战争筑造的回廊，也很少见到战场厮杀的画面。当然，她想要铭记的不会是那些。"
+            },
+            "asset": "char_4134_cetsyr_epoque#50/CN_012"
+        },
+        {
+            "id": "char_4134_cetsyr_epoque#50_CN_013",
+            "title": {
+                "en": "Promotion 1",
+                "jp": "昇進Ⅰ",
+                "kr": "1차 정예화 (승진)",
+                "cn": "精英化晋升1"
+            },
+            "text": {
+                "en": "If this is simply a journey through memory, it should be a delightful one… the hardest, strongest, and brightest threads are always tied to hope, trust, and love. I understand her wish. Of course I do.",
+                "jp": "もしもこれが、ただの記憶を巡る旅だったなら、喜びに満ちたものであるべき……ここで最も強く、柔らかく、輝いている糸は、いつだって希望と信頼、それと愛に関係しているの。彼女の気持ちは理解できるわ。ええ、私にはできるの。",
+                "kr": "만약 이게 그저 기억을 더듬는 여행이었다면, 기쁨으로 가득해야겠지……. 여기에서 가장 강하고, 부드럽고, 빛나는 실타래는, 항상 희망과 신뢰 그리고 사랑과 관련되어 있어. 테레시아의 마음이 이해돼. 응, 나는 이해할 수 있어.",
+                "cn": "如果这只是一段探索记忆的旅程，它该是愉快的......这里最坚固、柔韧、光洁的丝线，总是与希望、信任和爱有关。我明白她的意思。我当然能。"
+            },
+            "asset": "char_4134_cetsyr_epoque#50/CN_013"
+        },
+        {
+            "id": "char_4134_cetsyr_epoque#50_CN_014",
+            "title": {
+                "en": "Promotion 2",
+                "jp": "昇進Ⅱ",
+                "kr": "2차 정예화 (승진)",
+                "cn": "精英化晋升2"
+            },
+            "text": {
+                "en": "These precious, pleasant memories… the more I see, the more I feel a sort of emotion. I think it's called 'grief'. I'm grieving for… her.",
+                "jp": "大切にされた記憶、幸せな記憶、そういったものを見れば見るほど、私の奥に別の感情が浮かび上がってくる。それが何であるか知っているわ。「哀悼」よ。私は……彼女を、悼んでいるの。",
+                "kr": "소중한 기억, 행복한 기억, 그런 것들을 보면 볼수록 내 안에서 다른 감정이 떠올라. 그게 무엇인지 알고 있어. '애도'야. 나는…… 그녀를, 애도하고 있어.",
+                "cn": "所有这些被珍重的记忆，愉快的记忆，看得越多，越使我感受到另一种情感。这种情感该是叫做“哀悼”。我哀悼......她。"
+            },
+            "asset": "char_4134_cetsyr_epoque#50/CN_014"
+        },
+        {
+            "id": "char_4134_cetsyr_epoque#50_CN_017",
+            "title": {
+                "en": "Added to Squad",
+                "jp": "編成",
+                "kr": "팀 배치",
+                "cn": "编入队伍"
+            },
+            "text": {
+                "en": "I know. We can't rest just yet.",
+                "jp": "分かってる。まだ休んでなんていられないわ。",
+                "kr": "알고 있어. 아직 쉴 수는 없지.",
+                "cn": "我知道。还没到能休息的时候。"
+            },
+            "asset": "char_4134_cetsyr_epoque#50/CN_017"
+        },
+        {
+            "id": "char_4134_cetsyr_epoque#50_CN_018",
+            "title": {
+                "en": "Appointed as Squad Leader",
+                "jp": "隊長任命",
+                "kr": "팀장 임명",
+                "cn": "任命队长"
+            },
+            "text": {
+                "en": "Well then, be sure to follow my commands.",
+                "jp": "そういうなら、私の指揮に従ってもらわないとね。",
+                "kr": "그렇다면, 내 지휘를 따라 줘야겠어.",
+                "cn": "那么，一定要服从我的指挥。"
+            },
+            "asset": "char_4134_cetsyr_epoque#50/CN_018"
+        },
+        {
+            "id": "char_4134_cetsyr_epoque#50_CN_019",
+            "title": {
+                "en": "Depart",
+                "jp": "作戦準備",
+                "kr": "작전 출발",
+                "cn": "行动出发"
+            },
+            "text": {
+                "en": "News of reinforcements? How's the Goliath doing on his end?",
+                "jp": "援軍の知らせはある？ゴリアテの方はどうしてるかしら？",
+                "kr": "지원군 소식은 있어? 골리앗 쪽은 어떻게 됐지?",
+                "cn": "有增援的消息吗？歌利亚那边怎么样了？"
+            },
+            "asset": "char_4134_cetsyr_epoque#50/CN_019"
+        },
+        {
+            "id": "char_4134_cetsyr_epoque#50_CN_020",
+            "title": {
+                "en": "Begin Operation",
+                "jp": "戦闘開始",
+                "kr": "작전 개시",
+                "cn": "行动开始"
+            },
+            "text": {
+                "en": "We have no other choice but to go against them. It's fine, we'll find our chance.",
+                "jp": "……もうこれでやるしかないわね。大丈夫、必ず突破口は見つけられる。",
+                "kr": "……이젠 이렇게 할 수밖에 없겠네. 괜찮아, 돌파구는 반드시 찾을 수 있어.",
+                "cn": "......只能这样上了。没关系，我们会找到机会的。"
+            },
+            "asset": "char_4134_cetsyr_epoque#50/CN_020"
+        },
+        {
+            "id": "char_4134_cetsyr_epoque#50_CN_021",
+            "title": {
+                "en": "Selecting Operator 1",
+                "jp": "選択時1",
+                "kr": "오퍼레이터 선택 1",
+                "cn": "选中干员1"
+            },
+            "text": {
+                "en": "Is this the Patriarch's transfer order? Understood.",
+                "jp": "宗主の指令ね？了解。",
+                "kr": "종장의 명령이야? 알겠어.",
+                "cn": "是宗长的调令？明白了。"
+            },
+            "asset": "char_4134_cetsyr_epoque#50/CN_021"
+        },
+        {
+            "id": "char_4134_cetsyr_epoque#50_CN_022",
+            "title": {
+                "en": "Selecting Operator 2",
+                "jp": "選択時2",
+                "kr": "오퍼레이터 선택 2",
+                "cn": "选中干员2"
+            },
+            "text": {
+                "en": "The vampires are on their way? Very well, I'll hold the line here.",
+                "jp": "ブラッドブルードの援軍がこちらに向かってる？分かった、ここをしっかり守るわ。",
+                "kr": "뱀파이어 지원군이 이쪽으로 오고 있다고? 알았어, 여기는 제대로 지킬게.",
+                "cn": "血魔已经在路上了？好，我会守住这里。"
+            },
+            "asset": "char_4134_cetsyr_epoque#50/CN_022"
+        },
+        {
+            "id": "char_4134_cetsyr_epoque#50_CN_023",
+            "title": {
+                "en": "Deployment 1",
+                "jp": "配置1",
+                "kr": "배치 1",
+                "cn": "部署1"
+            },
+            "text": {
+                "en": "Capture the high ground ahead. We need the Gargoyles to repair the fort.",
+                "jp": "前方の高地を確保して。アンズーリシックに、この防衛施設の施工を急がせて。",
+                "kr": "전방의 고지를 확보해. 가고일에게 이 방위 시설 시공을 서두르라고 하고.",
+                "cn": "占领前方高地，必须让石翼魔修好这段工事。"
+            },
+            "asset": "char_4134_cetsyr_epoque#50/CN_023"
+        },
+        {
+            "id": "char_4134_cetsyr_epoque#50_CN_024",
+            "title": {
+                "en": "Deployment 2",
+                "jp": "配置2",
+                "kr": "배치 2",
+                "cn": "部署2"
+            },
+            "text": {
+                "en": "No more retreating. I'll stay here while you… contact Bertha.",
+                "jp": "これ以上の後退は許されない。私が残るから、あなたたちはバーサに伝えて。",
+                "kr": "이 이상 후퇴는 용납할 수 없어. 내가 남을 테니까, 너희는 베르사에게 전해.",
+                "cn": "不能再后退了。我留下，你们去通知贝尔莎。"
+            },
+            "asset": "char_4134_cetsyr_epoque#50/CN_024"
+        },
+        {
+            "id": "char_4134_cetsyr_epoque#50_CN_025",
+            "title": {
+                "en": "In Battle 1",
+                "jp": "作戦中1",
+                "kr": "작전 중 1",
+                "cn": "作战中1"
+            },
+            "text": {
+                "en": "Theresis, kill them. Intruders have no right to brandish their blades here.",
+                "jp": "テレシス、彼らを殺して。侵略者にここで剣を掲げる資格はない。",
+                "kr": "테레시스, 저들을 죽여. 침략자에게 여기서 검을 들 자격은 없어.",
+                "cn": "特雷西斯，杀死他们。入侵者没有权利在这里举剑。"
+            },
+            "asset": "char_4134_cetsyr_epoque#50/CN_025"
+        },
+        {
+            "id": "char_4134_cetsyr_epoque#50_CN_026",
+            "title": {
+                "en": "In Battle 2",
+                "jp": "作戦中2",
+                "kr": "작전 중 2",
+                "cn": "作战中2"
+            },
+            "text": {
+                "en": "Laqeramaline, I will silence them. Outsiders will no longer disturb your songs with their music.",
+                "jp": "ラケラマリン、私が彼らを黙らせるわ。異邦人の旋律が、あなたの歌を邪魔することはもうない。",
+                "kr": "라케라말린, 내가 저들을 침묵시키겠어. 더 이상 이방인의 선율이 네 노래를 방해할 일은 없을 거야.",
+                "cn": "菈玛莲，我会让他们沉默。异邦人的乐音不会再干扰你的歌声。"
+            },
+            "asset": "char_4134_cetsyr_epoque#50/CN_026"
+        },
+        {
+            "id": "char_4134_cetsyr_epoque#50_CN_027",
+            "title": {
+                "en": "In Battle 3",
+                "jp": "作戦中3",
+                "kr": "작전 중 3",
+                "cn": "作战中3"
+            },
+            "text": {
+                "en": "You… are the ones who do not belong.",
+                "jp": "ここにいるのが、そもそも間違いだったのよ。",
+                "kr": "애초에 여기 있는 게 잘못된 거야.",
+                "cn": "是你们不该出现在这里。"
+            },
+            "asset": "char_4134_cetsyr_epoque#50/CN_027"
+        },
+        {
+            "id": "char_4134_cetsyr_epoque#50_CN_028",
+            "title": {
+                "en": "In Battle 4",
+                "jp": "作戦中4",
+                "kr": "작전 중 4",
+                "cn": "作战中4"
+            },
+            "text": {
+                "en": "What did you expect to extract from Kazdel?",
+                "jp": "何を求めて、カズデルに来たの？",
+                "kr": "무엇을 바라고 카즈델에 온 거야?",
+                "cn": "你们以为能从卡兹戴尔得到什么？"
+            },
+            "asset": "char_4134_cetsyr_epoque#50/CN_028"
+        },
+        {
+            "id": "char_4134_cetsyr_epoque#50_CN_029",
+            "title": {
+                "en": "4-star Result",
+                "jp": "高難度作戦クリア",
+                "kr": "고난이도 작전 종료",
+                "cn": "完成高难行动"
+            },
+            "text": {
+                "en": "After that, the flags of the coalition army retreated like a deluge, revealing the ravaged Kazdel to the sun. Just how many died in that flood? But we knew that day, nothing could have sunk our city.",
+                "jp": "あの日、連合軍の旗は引き潮のように退き、太陽の下にひび割れたカズデルが現れた。多くの命が濁流に呑まれたけれど、私たちはその時に分かったの。何ものも、この都市を飲み込むことはできないと。",
+                "kr": "그날 연합군의 깃발은 썰물처럼 물러났고, 태양 아래에 갈라진 카즈델이 나타났지. 수많은 생명이 탁류에 휩쓸려갔지만, 그때 우리는 깨달았어. 어떤 것도 이 도시를 삼킬 순 없다는 걸.",
+                "cn": "那之后，联军的旗帜如流水一样退去，露出阳光下皴裂的卡兹戴尔。多少人死在了洪潮之中。但那一天我们知道，没有什么能淹没我们的城市。"
+            },
+            "asset": "char_4134_cetsyr_epoque#50/CN_029"
+        },
+        {
+            "id": "char_4134_cetsyr_epoque#50_CN_030",
+            "title": {
+                "en": "3-star Result",
+                "jp": "★3で戦闘終了",
+                "kr": "3★ 작전 종료",
+                "cn": "3星结束行动"
+            },
+            "text": {
+                "en": "Someone must have considered what comes after victory. But, as Theresa set down her scissors, she did not yet realize who would take the crown.",
+                "jp": "……勝利のその先を、誰かが考えなければならなかった。でも、テレジアがハサミを置いた時には、まさか自分がその「誰か」になるなんて、思ってもみなかったのよ。",
+                "kr": "……누군가는 승리한 그다음을 생각해야만 했어. 하지만 테레시아가 가위를 놓았을 때는, 설마 자신이 그 '누군가'가 될 거라고는 생각도 못 했지.",
+                "cn": "......必须有人思考，胜利之后又将怎样。只是，放下剪刀的时候，特蕾西娅还没有察觉，谁将成为这个人。"
+            },
+            "asset": "char_4134_cetsyr_epoque#50/CN_030"
+        },
+        {
+            "id": "char_4134_cetsyr_epoque#50_CN_031",
+            "title": {
+                "en": "Sub 3-star Result",
+                "jp": "★2以下戦闘終了",
+                "kr": "비 3★ 작전 종료",
+                "cn": "非3星结束行动"
+            },
+            "text": {
+                "en": "Total victory does not exist. Trading space for time, retreating to drag on the assault, bleeding dry the western front to gain an inch in the east… Even Theresa began to calculate everything before her as battlefield resources, until… No, total victory does not exist, for every life has worth.",
+                "jp": "完全な勝利なんて存在しないわ。時間を稼ぐために土地を捨て、撤退して攻勢をずらし、西前線の血だまりを代償に、東で一歩前進するの。あのテレジアでさえ、すべてを戦闘のためのリソースとして換算するようになっていた。そしてついに……いいえ、完全勝利なんて存在しない。誰もが、その代償なのよ。",
+                "kr": "완전한 승리 같은 건 존재하지 않아. 땅을 버려서 시간을 벌고, 후퇴해서 공세를 늦추고, 서쪽 전선의 피 웅덩이를 대가로 동쪽에서 한 걸음 나아가는 거야. 그 테레시아조차도, 모든 것을 전투를 위한 자원으로 환산하게 됐지. 그리고 마침내…… 아니, 완전한 승리 같은 건 존재하지 않아. 모두가, 그 대가인 거야.",
+                "cn": "全胜并不存在。用空间换取时间，用后撤拉扯攻势，用西线的血潭交换东线的寸进，即使是特蕾西娅，也开始把一切换算成战斗的资源，直到......不，全胜并不存在，每个人都是代价。"
+            },
+            "asset": "char_4134_cetsyr_epoque#50/CN_031"
+        },
+        {
+            "id": "char_4134_cetsyr_epoque#50_CN_032",
+            "title": {
+                "en": "Operation Failure",
+                "jp": "作戦失敗",
+                "kr": "작전 실패",
+                "cn": "行动失败"
+            },
+            "text": {
+                "en": "As long as we still live, there's a chance.",
+                "jp": "……生きている限り、まだ終わりじゃないの。",
+                "kr": "……살아있는 한, 아직 끝이 아니야.",
+                "cn": "......只要活着，就还没有结束。"
+            },
+            "asset": "char_4134_cetsyr_epoque#50/CN_032"
+        },
+        {
+            "id": "char_4134_cetsyr_epoque#50_CN_033",
+            "title": {
+                "en": "Assigned to Facility",
+                "jp": "基地配属",
+                "kr": "시설에 배치",
+                "cn": "进驻设施"
+            },
+            "text": {
+                "en": "If I stray too far, I'll… hm, I won't. I already know this whole place, after all.",
+                "jp": "……もしも、もっと遠くへ行けたなら、私は……ううん、ないわ。ここにあるものは、最初からすべて知っているのだから。",
+                "kr": "……만약, 더 멀리 갈 수 있었다면, 나는…… 아니, 아냐. 여기에 있는 건, 처음부터 다 알고 있었으니까.",
+                "cn": "......如果走得足够远，我会......唔，不会的。我原本就认识这里的一切。"
+            },
+            "asset": "char_4134_cetsyr_epoque#50/CN_033"
+        },
+        {
+            "id": "char_4134_cetsyr_epoque#50_CN_034",
+            "title": {
+                "en": "Tap",
+                "jp": "タッチ1",
+                "kr": "터치",
+                "cn": "戳一下"
+            },
+            "text": {
+                "en": "I'm not sleeping. So you won't be able to wake me up.",
+                "jp": "私は眠っていないの。だから、あなたに呼ばれても、目覚めることはないわ。",
+                "kr": "난 잠들지 않았어. 그러니까, 당신이 불러도 눈 뜨는 일은 없을 거야.",
+                "cn": "我没有睡着。所以，你也叫不醒我。"
+            },
+            "asset": "char_4134_cetsyr_epoque#50/CN_034"
+        },
+        {
+            "id": "char_4134_cetsyr_epoque#50_CN_036",
+            "title": {
+                "en": "Trust Tap",
+                "jp": "信頼タッチ",
+                "kr": "신뢰도 터치",
+                "cn": "信赖触摸"
+            },
+            "text": {
+                "en": "Actually, I remember the touch of your hands, but you've forgotten mine, haven't you?",
+                "jp": "実はあなたの手の感触をまだ覚えているの。でもあなたは、もう私のを思い出せないのよね？",
+                "kr": "사실은 당신 손의 감촉을 아직 기억하고 있어. 하지만 당신은 이제 내 감촉을 떠올릴 수 없겠지?",
+                "cn": "其实我还记得你的手的触感，不过，你不会记得我的了，对吧？"
+            },
+            "asset": "char_4134_cetsyr_epoque#50/CN_036"
+        },
+        {
+            "id": "char_4134_cetsyr_epoque#50_CN_037",
+            "title": {
+                "en": "Title",
+                "jp": "タイトルコール",
+                "kr": "타이틀",
+                "cn": "标题"
+            },
+            "text": {
+                "en": "Arknights.",
+                "jp": "アークナイツ。",
+                "kr": "명일방주.",
+                "cn": "明日方舟。"
+            },
+            "asset": "char_4134_cetsyr_epoque#50/CN_037"
+        },
+        {
+            "id": "char_4134_cetsyr_epoque#50_CN_038",
+            "title": {
+                "en": "New Year's blessing",
+                "jp": "新年",
+                "kr": "새해",
+                "cn": "新年祝福"
+            },
+            "text": {
+                "en": "The longer one lives, the shorter a year feels. The past grows, while the present shrinks—that's how it is. But truth be told, we're all easily deceived. Today will be the best year ever—will you trust me on this?",
+                "jp": "人は長く生きれば生きるほど、一年がどんどん短くなっていくの。過去はますます重みを増し、現在がどこまでもちっぽけなものに感じられる――理屈の上では、そうなのよ。でも実際には、私たちって簡単に騙されてしまうのよね。今年こそが最高の一年になるわよ。信じてくれるかしら？",
+                "kr": "사람은 오래 살면 살수록 일 년이 점점 짧아져. 과거는 점점 무게를 더하고, 현재는 점점 보잘것없게 느껴지지…… 이론적으로는 그래. 하지만 실제로는, 우린 참 쉽게 속아버려. 올해야말로 최고의 한 해가 될 거야. 믿어줄래?",
+                "cn": "人活得越长，一年就会变得越短，过去会越发庞大，现在会越发渺小——计算上来说，是这样的。但其实我们都很容易被骗哦。今年会是最好的一年，要相信我吗？"
+            },
+            "asset": "char_4134_cetsyr_epoque#50/CN_038"
+        },
+        {
+            "id": "char_4134_cetsyr_epoque#50_CN_042",
+            "title": {
+                "en": "Greeting",
+                "jp": "挨拶",
+                "kr": "인사",
+                "cn": "问候"
+            },
+            "text": {
+                "en": "Done with your break and ready to press on…? Doctor, if you were here, that's what I'd say to you. If you were still here.",
+                "jp": "休憩も終わったし、旅を続けましょうか？……ドクター、あなたがここにいれば、私はこんなふうに声をかけられるのに。あなたが、ここにいてくれたなら。",
+                "kr": "휴식도 끝났으니, 여행을 계속해 볼까? ……박사, 당신이 여기에 있다면, 나는 이렇게 말을 걸 수 있을 텐데. 당신이, 여기에 있다면 말이야.",
+                "cn": "休息好了，继续向前走吗？......博士，如果你在这里，我就可以这样问你。如果你在的话。"
+            },
+            "asset": "char_4134_cetsyr_epoque#50/CN_042"
+        },
+        {
+            "id": "char_4134_cetsyr_epoque#50_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": "Actually, you could've had all that makes up the universe. Heat, light, gravity, space, and the very order of existence. Would you hate me, if we didn't return to our original end? Even so… please accept my gift, whether you possess everything, or nothing at all.",
+                "jp": "本当は、あなたは宇宙の全てを手に入れられるわ。熱も、光も、引力も、空間も、存在の秩序さえも。もし、あなたが本来の終着点に辿り着けなかったとしたら、私を恨むかしら？……それでも、この私からの贈り物を受け取って。たとえあなたが全てを持っていても、あるいは何ひとつ持っていなかったとしても。",
+                "kr": "사실, 당신은 우주의 모든 것을 손에 넣을 수 있어. 열도, 빛도, 인력도, 공간도, 존재의 질서마저도. 만약 당신이 원래의 종착점에 도달하지 못한다면, 나를 원망할까? ……그래도, 이런 내가 주는 선물을 받아 줘. 설령 당신이 모든 것을 가지고 있다 해도, 아니면 무엇 하나 가지고 있지 않더라도.",
+                "cn": "其实，你可以拥有宇宙中的一切的。热，光，引力，空间，存在的次序。如果没有回到原本的终点，你会恨我吗？即使如此......也请收下我的礼物吧，不论你拥有一切，或是一无所有。"
+            },
+            "asset": "char_4134_cetsyr_epoque#50/CN_043"
+        },
+        {
+            "id": "char_4134_cetsyr_epoque#50_CN_044",
+            "title": {
+                "en": "Anniversary Celebration",
+                "jp": "周年",
+                "kr": "애니버서리",
+                "cn": "周年庆典"
+            },
+            "text": {
+                "en": "When I look back on these memories, I realize just how tiny the seeds of those dreams are. Are you the same? Rhodes Island will head towards the future we all hope for, and this time, I will be there with you. Always.",
+                "jp": "記憶を遡っていくとね、夢の種というのは、最初はあんなに小さなものだったんだって気づくの。あなたも同じ？ロドスはきっと、私たちのどちらもが願っていた未来へと進むでしょう。今度は、私がずっとここにいるわ。",
+                "kr": "기억을 거슬러 올라가면 말이야, 꿈의 씨앗이라는 게 처음에는 그렇게나 작은 것이었다는 걸 깨닫게 돼. 당신도 그래? 로도스 아일랜드는 분명, 우리 모두가 바랐던 미래로 나아가겠지. 이번에는, 내가 계속 여기에 있을게.",
+                "cn": "回溯记忆的时候会发现，那些梦的种子在一开始是多么微小。你也是一样吗？罗德岛会驶向我们共同期许的那个未来吧。这一次，我会一直在的。"
+            },
+            "asset": "char_4134_cetsyr_epoque#50/CN_044"
+        }
+    ],
+    "actors": {
+        "en": {
+            "native": "Kari Wahlgren",
+            "global": "Kari Wahlgren"
+        },
+        "cn": {
+            "native": "季冠霖",
+            "global": "Guanlin Ji"
+        },
+        "jp": {
+            "native": "南里侑香",
+            "global": "Yuuka Nanri"
+        },
+        "kr": {
+            "native": "김윤채",
+            "global": "Kim Yun-chae"
+        }
+    },
+    "availability": [
+        "en",
+        "cn",
+        "jp",
+        "kr"
+    ]
+}

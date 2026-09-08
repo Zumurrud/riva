@@ -162,7 +162,7 @@
             },
             "text": {
                 "en": "You're catching some z's, eh? Guess I'll slack off for a bit too. Man, this couch is so fluffy!",
-                "jp": "ドクターも休憩してるし、あたしもちょっとサボっちゃお。ふむふむ……このソファー、柔らかい……。",
+                "jp": "ドクターも休憩してるし、あたしもちょっとサボっちゃお。ふむふむ……このソファー、柔らかい……",
                 "kr": "박사도 쉬고 있고, 나도 농땡이나 좀 쳐야겠다~ 흠흠…… 이 소파, 푹신푹신하네~ ",
                 "cn": "博士在小憩，我也稍微偷个懒好了，唔......沙发......好软......"
             },
@@ -482,7 +482,7 @@
             },
             "text": {
                 "en": "Aw... I just wanna go home and sleep...",
-                "jp": "もうだめ……帰って寝たい……。",
+                "jp": "もうだめ……帰って寝たい……",
                 "kr": "이제 안 되겠어…… 돌아가서 자고 싶어…… ",
                 "cn": "不行......好想回家睡觉......"
             },
@@ -626,6 +626,10 @@
             "native": "辛悦",
             "global": "Yue Xin"
         },
+        "cn_topolect": {
+            "native": "周童",
+            "global": "Atom"
+        },
         "jp": {
             "native": "園崎未恵",
             "global": "Mie Sonozaki"
@@ -633,17 +637,13 @@
         "kr": {
             "native": "송하림",
             "global": "Song Ha-rim"
-        },
-        "cn_topolect": {
-            "native": "周童",
-            "global": "Atom"
         }
     },
     "availability": [
         "en",
         "cn",
+        "cn_topolect",
         "jp",
-        "kr",
-        "cn_topolect"
+        "kr"
     ]
 }

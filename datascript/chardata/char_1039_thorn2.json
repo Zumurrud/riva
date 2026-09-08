@@ -633,12 +633,17 @@
         "kr": {
             "native": "홍범기",
             "global": "Hong Bum-ki"
+        },
+        "es": {
+            "native": "Javier Bañas",
+            "global": "Javier Bañas"
         }
     },
     "availability": [
         "en",
         "cn",
         "jp",
-        "kr"
+        "kr",
+        "es"
     ]
 }

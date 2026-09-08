@@ -1,0 +1,644 @@
+{
+    "charid": "char_4222_taraxa",
+    "nameid": "taraxa",
+    "names": {
+        "en": "Taraxacum",
+        "jp": "タラクサカム",
+        "kr": "타락사쿰",
+        "cn": "风絮"
+    },
+    "voices": [
+        {
+            "id": "char_4222_taraxa_CN_001",
+            "title": {
+                "en": "Appointed as Assistant",
+                "jp": "秘書任命",
+                "kr": "어시스턴트 임명",
+                "cn": "任命助理"
+            },
+            "text": {
+                "en": "You can leave the meeting minutes to me, Doctor. I'm very good at shorthand—You can't read my writing? Oh, sorry. I'll do my best to write neatly.",
+                "jp": "ドクター、議事録の作成は僕に任せてください。速記には自信があるので――ぐにゃぐにゃで読めない？こほん、ごめんなさい。できるだけ綺麗に書くよう心がけます。",
+                "kr": "박사님, 회의록 작성은 저에게 맡겨 주세요. 속기는 자신 있으니까요…… 삐뚤빼뚤해서 읽을 수가 없다고요? 크흠, 죄송합니다. 최대한 깔끔하게 쓰도록 신경 쓰겠습니다.",
+                "cn": "博士，会议记录就交给我吧，我还挺擅长速记的——看不懂我的字？咳，抱歉，我会尽量写得端正些。"
+            },
+            "asset": "char_4222_taraxa/CN_001"
+        },
+        {
+            "id": "char_4222_taraxa_CN_002",
+            "title": {
+                "en": "Talk 1",
+                "jp": "会話1",
+                "kr": "대화 1",
+                "cn": "交谈1"
+            },
+            "text": {
+                "en": "The head of Medical wants to have a chat with my master? That might be difficult… That elderly man—he wanders all around as he practices, so meeting him even once isn't easy. Why do I call him that? He has healing hands, but he's got a haggard face and a stick-thin body, though he'll still give you a kindly look now and then, just like any other elder.",
+                "jp": "医療部の責任者の方がうちの先生と話したがってる？ちょっと難しいかも……老先生は医者として各地を行脚しているので、お目に掛かるだけでも一苦労なんです。はい？そうですよ。万病を除く手を持ちながら、やつれた顔に骨張ったお姿で、時に慈愛に満ちた顔で見つめてくる……まさしく老先生と呼ぶに相応しいでしょう？",
+                "kr": "의료부 책임자분이 저희 선생님과 이야기하고 싶어 하신다고요? 조금 어려울지도요…… 노선생님께서는 의사로서 각지를 떠돌아다니시기 때문에, 한번 마주치는 것도 무척 힘들거든요. 네? 맞아요. 만병을 치료할 수 있는 손을 가지셨으면서도, 여윈 얼굴에 앙상한 모습으로, 때로는 자애로운 얼굴로 바라봐주시니…… 그야말로 노선생님이라고 부르기에 알맞지 않나요?",
+                "cn": "医疗部的负责人想和我的老师谈谈？这可难办了......他老人家行医四方，要碰上一次不容易。嗯？手到病除，但面容憔悴、身形枯瘦，有时还会一脸慈祥地看着你，当然是老人家。"
+            },
+            "asset": "char_4222_taraxa/CN_002"
+        },
+        {
+            "id": "char_4222_taraxa_CN_003",
+            "title": {
+                "en": "Talk 2",
+                "jp": "会話2",
+                "kr": "대화 2",
+                "cn": "交谈2"
+            },
+            "text": {
+                "en": "There's an old saying in Yan: 'A house with ginger, illness won't linger.' Fresh ginger is warming, able to induce sweating that relieves external symptoms while expelling cold from the stomach. Don't be a picky eater, Doctor. You really can't eat it? Well, ginger and jujube tea, ginger cystymilk curd, and ginger honey water will also do. Just wait here while I brew a pot.",
+                "jp": "炎国には「家に姜を備うれば、小病も慌てず」という言葉があります。姜、つまりショウガには発汗を促し寒気を払い、胃腸を温める作用があるんです。ドクター、ぜひ好き嫌いせず摂ってみてください。どうしても苦手？それなら、ナツメ茶に入れたり、絞り汁とミルクでプリンにしたり、ショウガはちみつ湯なんかもいいと思います。淹れてくるので、ちょっと待っててくださいね。",
+                "kr": "염국에는 “집에 강을 준비해 두면, 잔병에도 당황하지 않는다”는 말이 있습니다. 강, 그러니까 생강에는 땀을 내어 한기를 쫓아주며, 위장을 따뜻하게 하는 효능이 있죠. 박사님, 부디 편식하지 말고 드셔 보세요. 어떻게 해도 못 드시겠다고요? 그렇다면 대추차에 넣거나, 즙을 짜내 우유를 섞어 푸딩으로 만들거나, 생강 꿀물 같은 것도 좋을 것 같아요. 타올 테니까 잠시만 기다려 주세요.",
+                "cn": "炎国有句老话，“家里备姜，小病不慌”，生姜性温，能发汗解表、驱寒暖胃，博士，您可不能挑食。实在吃不下？姜枣茶、姜撞奶、姜汁蜂蜜水都行。您等着，我去给您烧上一壶。"
+            },
+            "asset": "char_4222_taraxa/CN_003"
+        },
+        {
+            "id": "char_4222_taraxa_CN_004",
+            "title": {
+                "en": "Talk 3",
+                "jp": "会話3",
+                "kr": "대화 3",
+                "cn": "交谈3"
+            },
+            "text": {
+                "en": "The <i>Shen Jing</i>, <i>Cu Bing</i>, and <i>Zhen Gui</i>. Yes, that's them. Just leave them on my table. Thanks. Why do I bring all these books with me? Go ahead and laugh, Doctor. Despite my many years of medical internship, there are many things in the books which I don't fully understand.",
+                "jp": "『身経』、『卒病』、それから『珍匱』……はい、その三冊で合ってます、僕の机に置いてもらえると助かります。なんでこんなに本が必要か？笑われても仕方ないんですが、もう何年も診療のお手伝いをしているのに、本の知識をまだ全然自分のものにできてなくて。",
+                "kr": "《신경》, 《졸병》, 그리고 《진궤》…… 네, 그 세 권이 맞아요. 제 책상에 놔주시면 좋을 것 같아요. 왜 이렇게 많은 책이 필요하냐고요? 웃으셔도 어쩔 수 없지만, 벌써 몇 년째 진료를 돕고 있는데도, 아직 책 속의 지식을 제 것으로 만들지 못해서요.",
+                "cn": "《身经》《卒病》《珍匮》，对，就是这些，放我桌上就好。为什么要带这么多书？博士，也不怕您笑，虽然已经跟诊多年，但书上的很多东西，我还没能吃透。"
+            },
+            "asset": "char_4222_taraxa/CN_004"
+        },
+        {
+            "id": "char_4222_taraxa_CN_005",
+            "title": {
+                "en": "Talk after Promotion 1",
+                "jp": "昇進後会話1",
+                "kr": "1차 정예화 후 대화",
+                "cn": "晋升后交谈1"
+            },
+            "text": {
+                "en": "My master would always say that late nights are harmful and deplete your qi, and that you must never indulge in them. But… I would often wake in the middle of the night to see him sitting alone by the candle, lost in thought. I believe you and he are very similar.",
+                "jp": "先生はよく「夜更かしは体を痛め、気血を損なうので絶対にしてはならない」と仰います。ですが……夜中にふと目を覚ますと、いつも一人蝋燭に照らされて物憂げな顔をする先生が目に入るんです。ドクター、今なら確信を持って言えます。あなたも先生と同類の人ですよ。",
+                "kr": "선생님께서는 자주 “밤샘은 몸을 상하게 하고, 기혈을 해치니 절대로 해서는 안 된다”고 말씀하세요. 하지만…… 한밤중에 문득 잠에서 깨면, 언제나 홀로 촛불 앞에서 우울한 얼굴을 한 선생님의 모습이 눈에 들어오곤 하죠. 박사님, 이제는 확신을 가지고 말씀드릴 수 있습니다. 당신도 선생님과 같은 부류의 사람이에요.",
+                "cn": "老师常说，熬夜伤身，消耗气血，是万万不该的。但......好几次我半夜醒来，都见他一个人坐在烛光里伤神。博士，我确信，您和他是同类人。"
+            },
+            "asset": "char_4222_taraxa/CN_005"
+        },
+        {
+            "id": "char_4222_taraxa_CN_006",
+            "title": {
+                "en": "Talk after Promotion 2",
+                "jp": "昇進後会話2",
+                "kr": "2차 정예화 후 대화",
+                "cn": "晋升后交谈2"
+            },
+            "text": {
+                "en": "Dandelions have medicinal properties; the Yanese use them to make decoctions, while Columbians make similar tisanes. But their effects would remain obscure without proper research. *sigh* There are countless medicinals out there, and I want to learn about all the wonders they hold, but I… No, there's still my master. He'll be able to do it.",
+                "jp": "タンポポは、炎国では煎じて飲みますし、クルビアでもハーブティのようにして飲まれています。ですが研究されなければ、それが病に効く理由は誰にもわからなかったはずです。はぁ、数え切れない薬材に秘められた全ての謎を解き明かしたいところですが、僕じゃ……いや、まだ先生がいます。先生ならきっとできるはずです。",
+                "kr": "민들레는 염국에서는 달여서 마시고, 컬럼비아에서도 허브티처럼 마셔요. 하지만 연구하지 않았다면, 그것이 병에 효과가 있는 이유는 아무도 알지 못했을 거예요. 하아, 수없이 많은 약재에 숨겨진 모든 수수께끼를 밝혀내고 싶은 마음이지만, 저로서는…… 아니, 아직 선생님이 계십니다. 선생님이라면 분명 해내실 수 있을 거예요.",
+                "cn": "大炎人用蒲公英煎药，哥伦比亚人也用它泡水，可要是不经研究，没人清楚它到底为什么能治病。唉，药材千千万万，我也想穷究其中所有的奥妙，可我......不，还有老师呢。老师能做到的。"
+            },
+            "asset": "char_4222_taraxa/CN_006"
+        },
+        {
+            "id": "char_4222_taraxa_CN_007",
+            "title": {
+                "en": "Talk after Trust Increase 1",
+                "jp": "信頼上昇後会話1",
+                "kr": "신뢰도 상승 후 대화 1",
+                "cn": "信赖提升后交谈1"
+            },
+            "text": {
+                "en": "Look over here, Doctor! Fwoo—Haha, they're dandelions a coworker at the Convalescent Garden sent over. Would you like to try blowing on one? Oh, right, remember to make a wish when you do. Who knows, it might come true in a few days.",
+                "jp": "ドクター、こっち見て！ふぅー……あはは、療養庭園の方が摘んできてくれたタンポポです。ドクターもやってみませんか？そうだ、吹く時はお願い事を念じながらですよ。案外、すぐに叶ったりして。",
+                "kr": "박사님, 여기 보세요! 후우~ ……아하하, 요양정원 분이 꺾어주신 민들레예요. 박사님도 해보지 않으실래요? 맞다, 불 때는 소원을 빌면서 불어야 해요. 의외로 금방 이루어질지도 모르니까요.",
+                "cn": "博士，看这边！呼——哈哈，是疗养庭院的同事送来的蒲公英，您要不要试着吹吹看？哦对，吹的时候记得许个愿，说不定过几天就能实现。"
+            },
+            "asset": "char_4222_taraxa/CN_007"
+        },
+        {
+            "id": "char_4222_taraxa_CN_008",
+            "title": {
+                "en": "Talk after Trust Increase 2",
+                "jp": "信頼上昇後会話2",
+                "kr": "신뢰도 상승 후 대화 2",
+                "cn": "信赖提升后交谈2"
+            },
+            "text": {
+                "en": "I'm not Yanese, I've just followed my master around for a long time, so the way he speaks and lives rubbing off on me was inevitable… My hometown? Why don't you take a guess? A hint? The farthest point these dandelions can fly. That's where my hometown is.",
+                "jp": "実は僕、炎国人じゃないんです。ずっと先生の行脚に同行していたので、話し方とかライフスタイルもどんどん似通ってきて……故郷ですか？当ててみてください。ヒント？このタンポポの綿毛が辿り着くことのできる一番遠い場所。そこが僕の故郷です。",
+                "kr": "사실 저, 염국인이 아니에요. 계속 선생님 여행을 따라다니다 보니까, 말투나 생활 방식도 점점 비슷해져서…… 고향이요? 맞춰 보세요. 힌트요? 이 민들레 솜털이 도달할 수 있는 가장 먼 곳, 그곳이 제 고향이에요.",
+                "cn": "我不是炎国人，只是跟着老师转悠久了，说话方式和生活作派难免都向他老人家靠拢......我的家乡？您要不猜猜？提示？这些蒲公英能飘到的最远的地方，就是我的家乡。"
+            },
+            "asset": "char_4222_taraxa/CN_008"
+        },
+        {
+            "id": "char_4222_taraxa_CN_009",
+            "title": {
+                "en": "Talk after Trust Increase 3",
+                "jp": "信頼上昇後会話3",
+                "kr": "신뢰도 상승 후 대화 3",
+                "cn": "信赖提升后交谈3"
+            },
+            "text": {
+                "en": "These bells on my staff aren't just for show. Our travels often took us through the wastes, and the chime of the bells bring people in arduous straits some measure of hope. 'I vow to save all sentient life from suffering.' This is why my master carries on, and what makes him weary. Me? I don't have such grand aspirations, but I'll do my best to keep up.",
+                "jp": "アーツユニットの鈴？ただの飾りじゃないですよ。仕事柄荒野を横断することが多いんですが、荒野で鈴の音が聞こえてきたら、苦境に陥っている人も希望を取り戻せるはずという先生のお考えです。先生は「普く含霊の苦しみを救わんことを誓願す」という一心で進み続けていて、そのために苦労が絶えないんです。僕ですか？僕にはそれほど立派な抱負はありませんが、置いて行かれないように頑張ります。",
+                "kr": "아츠 스태프의 방울이요? 그냥 장식이 아니에요. 일 때문에 황야를 횡단하는 일이 많은데, 황야에서 방울 소리가 들려오면 곤경에 처한 사람도 희망을 되찾을 수 있을 거라는 선생님의 생각이 있었어요. 선생님께선 “중생의 고통을 널리 구제하기를 서원한다”라는 일념으로 나아가고 계셔서, 그만큼 고생이 끊이지 않죠. 저요? 저는 그렇게 거창한 포부는 없지만, 뒤처지지 않도록 노력하겠습니다.",
+                "cn": "法杖上的铃铛？不止是装饰啦。赶路时常常途经荒野，铃铛声响，身处险境的人就能重拾希望。“誓愿普救含灵之苦”，老师他为此前行，也为此所累。我？我没有那么远大的抱负，但我会努力跟上。"
+            },
+            "asset": "char_4222_taraxa/CN_009"
+        },
+        {
+            "id": "char_4222_taraxa_CN_010",
+            "title": {
+                "en": "Idle",
+                "jp": "放置",
+                "kr": "방치",
+                "cn": "闲置"
+            },
+            "text": {
+                "en": "The decoction worked wonders… It's dandelion season, Doctor, you'll need a little something to clear the sinuses. Rest well, now.",
+                "jp": "この煎じ薬、わかりやすく効くなぁ……タンポポの綿毛もすっかりここに落ち着きました。ドクター、ゆっくり休んでください。",
+                "kr": "이 탕약, 효과가 확실하네…… 민들레 솜털도 완전히 여기에 자리 잡았어요. 박사님, 푹 쉬세요.",
+                "cn": "这副汤药的效果挺明显啊......风絮已定，博士，好生歇息。"
+            },
+            "asset": "char_4222_taraxa/CN_010"
+        },
+        {
+            "id": "char_4222_taraxa_CN_011",
+            "title": {
+                "en": "Onboard",
+                "jp": "入職会話",
+                "kr": "오퍼레이터 입사",
+                "cn": "干员报到"
+            },
+            "text": {
+                "en": "Hello, you can call me Taraxacum. My master sent me here for an exchange study, and also to tell his brothers and sisters that he is well. Me? I am simply his coachman, with a little knowledge of medicine.",
+                "jp": "はじめまして、タラクサカムと呼んでください。先生の勧めで、こちらで交流学習をすることになりました。ついでに、兄弟姉妹の皆さんに先生は元気にしていると伝えるよう言われています。僕ですか？少しだけ医術を心得た、ただの車夫ですよ。",
+                "kr": "처음 뵙겠습니다. 타락사쿰이라고 불러 주세요. 선생님의 권유로 여기서 교류 학습을 하게 되었습니다. 오는 김에 형제자매 여러분께 선생님께선 건강히 잘 계신다고 전해 달라는 말씀을 들었어요. 저요? 의술을 약간 익힌 그냥 마부일 뿐이에요.",
+                "cn": "您好，叫我风絮就行。老师让我来这里交流学习，顺便向他的几个兄弟姐妹报声平安。我？一介车夫，稍微也懂些医术。"
+            },
+            "asset": "char_4222_taraxa/CN_011"
+        },
+        {
+            "id": "char_4222_taraxa_CN_012",
+            "title": {
+                "en": "Watching Battle Record",
+                "jp": "経験値上昇",
+                "kr": "작전기록 학습",
+                "cn": "观看作战记录"
+            },
+            "text": {
+                "en": "No theory without practice, no practice without theory.",
+                "jp": "理論と実践は、どちらも欠かせません。",
+                "kr": "이론과 실천은, 어느 쪽도 빠뜨릴 수 없습니다.",
+                "cn": "观书临证，缺一不可。"
+            },
+            "asset": "char_4222_taraxa/CN_012"
+        },
+        {
+            "id": "char_4222_taraxa_CN_013",
+            "title": {
+                "en": "Promotion 1",
+                "jp": "昇進Ⅰ",
+                "kr": "1차 정예화 (승진)",
+                "cn": "精英化晋升1"
+            },
+            "text": {
+                "en": "A promotion? Does that mean I get to be a master myself? Haha, just kidding. I know I still have a long way to go.",
+                "jp": "昇進ですか？つまり僕も「先生」の仲間入りですか？ははっ、冗談です。自分でもまだまだひよっこだってわかってますから。",
+                "kr": "승진이요? 그러니까 저도 '선생님'의 반열에 들어가는 건가요? 하핫, 농담이에요. 스스로도 아직 햇병아리인 걸 알고 있으니까요.",
+                "cn": "晋升？那我也能算是老师傅了？哈哈，开玩笑啦。我知道，自己还差得远呢。"
+            },
+            "asset": "char_4222_taraxa/CN_013"
+        },
+        {
+            "id": "char_4222_taraxa_CN_014",
+            "title": {
+                "en": "Promotion 2",
+                "jp": "昇進Ⅱ",
+                "kr": "2차 정예화 (승진)",
+                "cn": "精英化晋升2"
+            },
+            "text": {
+                "en": "Another promotion? Doctor, healers should have calm minds and concrete goals, and should not have wants or desires. I don't think I really merit such a—My diligent practice deserves commendation? Well… If that's your logic, then the one who really deserves commendation is you, Doctor.",
+                "jp": "また昇進？ドクター、医者たるもの、心静かに意志を固め、無私無欲であるべきです。こんな風に表彰されたらどうしたらいいか――責務を誠心誠意、全うしているから当然の見返り？なるほど……そういうことなら、本当に表彰されるべきはドクターですよ。",
+                "kr": "또 승진인가요? 박사님, 무릇 의사라면 마땅히 마음을 안정시키고 집중해야 하며, 욕심을 버리고 집착하지 않아야 합니다. 이렇게 표창을 받으면 어찌해야 할지…… 맡은 책임을 성심성의껏 다했으니 당연한 보상이라고요? 그렇군요…… 그런 거라면, 진짜 표창 받아야 할 분은 박사님이세요.",
+                "cn": "又是晋升？博士，医者当安神定志，无欲无求，您这般嘉奖我实在是——尽职尽心便应得嘉奖？欸......这样想来，真正该得到嘉奖的人，是您才对。"
+            },
+            "asset": "char_4222_taraxa/CN_014"
+        },
+        {
+            "id": "char_4222_taraxa_CN_017",
+            "title": {
+                "en": "Added to Squad",
+                "jp": "編成",
+                "kr": "팀 배치",
+                "cn": "编入队伍"
+            },
+            "text": {
+                "en": "I've prepared forty-three common prescriptions. Whatever ails you, I'll have the medicine for it.",
+                "jp": "四十三種の汎用処方はすべて調薬済みです。症状を見て投薬しますね。",
+                "kr": "43종의 범용 처방은 모두 조제 완료입니다. 증상을 보고 투약할게요.",
+                "cn": "常用的四十三副方剂都调配好了，我会对症下药。"
+            },
+            "asset": "char_4222_taraxa/CN_017"
+        },
+        {
+            "id": "char_4222_taraxa_CN_018",
+            "title": {
+                "en": "Appointed as Squad Leader",
+                "jp": "隊長任命",
+                "kr": "팀장 임명",
+                "cn": "任命队长"
+            },
+            "text": {
+                "en": "Everyone, relax. I've already studied the battlefield in detail.",
+                "jp": "戦場の様子はしっかり調査済みです。皆さんご安心を。",
+                "kr": "전장의 상황은 확실히 조사해 두었습니다. 여러분, 안심하시길.",
+                "cn": "我已详勘战场情势，诸位放心。"
+            },
+            "asset": "char_4222_taraxa/CN_018"
+        },
+        {
+            "id": "char_4222_taraxa_CN_019",
+            "title": {
+                "en": "Depart",
+                "jp": "作戦準備",
+                "kr": "작전 출발",
+                "cn": "行动出发"
+            },
+            "text": {
+                "en": "Sickness requires swift treatment.",
+                "jp": "病には速やかな治療を。",
+                "kr": "병에는 신속한 치료를.",
+                "cn": "病宜速救。"
+            },
+            "asset": "char_4222_taraxa/CN_019"
+        },
+        {
+            "id": "char_4222_taraxa_CN_020",
+            "title": {
+                "en": "Begin Operation",
+                "jp": "戦闘開始",
+                "kr": "작전 개시",
+                "cn": "行动开始"
+            },
+            "text": {
+                "en": "'See the suffering of others as if your own'… I know your weak spots. Forgive me.",
+                "jp": "「彼が苦悩を見て、己之れ有るが若く」……あなたの苦しみは僕にもわかります。ごめんなさい。",
+                "kr": "“타인의 고통을 자신의 것처럼 여겨라”…… 당신의 고통은 저도 이해합니다. 미안해요.",
+                "cn": "“见彼苦恼，若己有之”......你的痛处我也明白，对不住了。"
+            },
+            "asset": "char_4222_taraxa/CN_020"
+        },
+        {
+            "id": "char_4222_taraxa_CN_021",
+            "title": {
+                "en": "Selecting Operator 1",
+                "jp": "選択時1",
+                "kr": "오퍼레이터 선택 1",
+                "cn": "选中干员1"
+            },
+            "text": {
+                "en": "The medicines are mixed.",
+                "jp": "処方の準備は整いました。",
+                "kr": "처방 준비가 완료되었습니다.",
+                "cn": "方子已备好。"
+            },
+            "asset": "char_4222_taraxa/CN_021"
+        },
+        {
+            "id": "char_4222_taraxa_CN_022",
+            "title": {
+                "en": "Selecting Operator 2",
+                "jp": "選択時2",
+                "kr": "오퍼레이터 선택 2",
+                "cn": "选中干员2"
+            },
+            "text": {
+                "en": "Medical equipment ready.",
+                "jp": "医療装置、準備完了。",
+                "kr": "의료 장치, 준비 완료.",
+                "cn": "医疗装置已就绪。"
+            },
+            "asset": "char_4222_taraxa/CN_022"
+        },
+        {
+            "id": "char_4222_taraxa_CN_023",
+            "title": {
+                "en": "Deployment 1",
+                "jp": "配置1",
+                "kr": "배치 1",
+                "cn": "部署1"
+            },
+            "text": {
+                "en": "Afraid I can't do much about that tongue of yours.",
+                "jp": "この舌象は……簡単には治りませんね。",
+                "kr": "이 혀 상태는…… 쉽게는 낫지 않겠네요.",
+                "cn": "这舌象，不好治啊。"
+            },
+            "asset": "char_4222_taraxa/CN_023"
+        },
+        {
+            "id": "char_4222_taraxa_CN_024",
+            "title": {
+                "en": "Deployment 2",
+                "jp": "配置2",
+                "kr": "배치 2",
+                "cn": "部署2"
+            },
+            "text": {
+                "en": "Going to need to look up what's wrong with your pulse.",
+                "jp": "この脈象は……本で調べないと手に負えません。",
+                "kr": "이 맥 상태는…… 책에서 찾아보지 않으면 어렵겠네요.",
+                "cn": "这脉象，得翻翻书。"
+            },
+            "asset": "char_4222_taraxa/CN_024"
+        },
+        {
+            "id": "char_4222_taraxa_CN_025",
+            "title": {
+                "en": "In Battle 1",
+                "jp": "作戦中1",
+                "kr": "작전 중 1",
+                "cn": "作战中1"
+            },
+            "text": {
+                "en": "Illness is unpredictable. This will be… tricky.",
+                "jp": "病は千差万別ですが、これは……手強そうです。",
+                "kr": "병은 천차만별입니다만, 이건…… 만만치 않을 것 같아요.",
+                "cn": "病无常形，这情况......棘手。"
+            },
+            "asset": "char_4222_taraxa/CN_025"
+        },
+        {
+            "id": "char_4222_taraxa_CN_026",
+            "title": {
+                "en": "In Battle 2",
+                "jp": "作戦中2",
+                "kr": "작전 중 2",
+                "cn": "作战中2"
+            },
+            "text": {
+                "en": "Prescriptions are adaptive, so let's add an extra ingredient!",
+                "jp": "万病に効く処方はありません。これも足してみましょう！",
+                "kr": "만병에 듣는 처방은 없습니다. 이것도 더 넣어보죠!",
+                "cn": "医无常方，再添上一味如何！"
+            },
+            "asset": "char_4222_taraxa/CN_026"
+        },
+        {
+            "id": "char_4222_taraxa_CN_027",
+            "title": {
+                "en": "In Battle 3",
+                "jp": "作戦中3",
+                "kr": "작전 중 3",
+                "cn": "作战中3"
+            },
+            "text": {
+                "en": "Since it's being stubborn… Let's change how we're administering the meds!",
+                "jp": "こうなったら……投薬方法を変えないと！",
+                "kr": "이렇게 된 이상…… 투약 방법을 바꿔야겠어요!",
+                "cn": "事到如今......该换个给药方式了！"
+            },
+            "asset": "char_4222_taraxa/CN_027"
+        },
+        {
+            "id": "char_4222_taraxa_CN_028",
+            "title": {
+                "en": "In Battle 4",
+                "jp": "作戦中4",
+                "kr": "작전 중 4",
+                "cn": "作战中4"
+            },
+            "text": {
+                "en": "I understand the symptoms now. Don't worry, I won't make even the slightest mistake.",
+                "jp": "症状は見極めました。大丈夫、寸分の狂いもなく処置します。",
+                "kr": "증상은 확실히 파악했습니다. 걱정 마세요, 한 치의 오차도 없이 처치하겠습니다.",
+                "cn": "症状都看清了，放心，不会有纤毫差错。"
+            },
+            "asset": "char_4222_taraxa/CN_028"
+        },
+        {
+            "id": "char_4222_taraxa_CN_029",
+            "title": {
+                "en": "4-star Result",
+                "jp": "高難度作戦クリア",
+                "kr": "고난이도 작전 종료",
+                "cn": "完成高难行动"
+            },
+            "text": {
+                "en": "Most meticulous.",
+                "jp": "精妙この上なく、繊細の極みなり。",
+                "kr": "정교하기 그지없고, 지극히 섬세하네요.",
+                "cn": "至精，至微。"
+            },
+            "asset": "char_4222_taraxa/CN_029"
+        },
+        {
+            "id": "char_4222_taraxa_CN_030",
+            "title": {
+                "en": "3-star Result",
+                "jp": "★3で戦闘終了",
+                "kr": "3★ 작전 종료",
+                "cn": "3星结束行动"
+            },
+            "text": {
+                "en": "What a perfect prescription.",
+                "jp": "まさに「奇効良方」でしたね。",
+                "kr": "그야말로 '탁월한 처방'이었네요.",
+                "cn": "奇效良方。"
+            },
+            "asset": "char_4222_taraxa/CN_030"
+        },
+        {
+            "id": "char_4222_taraxa_CN_031",
+            "title": {
+                "en": "Sub 3-star Result",
+                "jp": "★2以下戦闘終了",
+                "kr": "비 3★ 작전 종료",
+                "cn": "非3星结束行动"
+            },
+            "text": {
+                "en": "Something must have gone wrong with my Medicine Pot… I'll need to ask Engineering for help when we're back.",
+                "jp": "また「薬壺」の不具合かな……帰ったらエンジニア部の方に相談しないと。",
+                "kr": "또 '약단지'에 문제가 생겼나…… 돌아가면 엔지니어링부 분과 상담해 봐야겠어.",
+                "cn": "应该是“药罐”又出问题了......回去得向工程部的同事请教请教。"
+            },
+            "asset": "char_4222_taraxa/CN_031"
+        },
+        {
+            "id": "char_4222_taraxa_CN_032",
+            "title": {
+                "en": "Operation Failure",
+                "jp": "作戦失敗",
+                "kr": "작전 실패",
+                "cn": "行动失败"
+            },
+            "text": {
+                "en": "Let's go back and get some rest, Doctor.",
+                "jp": "ドクター、戻ったら絶対安静ですよ。",
+                "kr": "박사님, 돌아가면 반드시 안정을 취하셔야 해요.",
+                "cn": "博士，回去可得静养。"
+            },
+            "asset": "char_4222_taraxa/CN_032"
+        },
+        {
+            "id": "char_4222_taraxa_CN_033",
+            "title": {
+                "en": "Assigned to Facility",
+                "jp": "基地配属",
+                "kr": "시설에 배치",
+                "cn": "进驻设施"
+            },
+            "text": {
+                "en": "Now where… would Master's siblings be…",
+                "jp": "先生の兄弟姉妹の方々は……どこにいらっしゃるのかな……",
+                "kr": "선생님의 형제자매분들은…… 어디 계실까……",
+                "cn": "老师的那些兄弟姐妹......会在哪里呢......"
+            },
+            "asset": "char_4222_taraxa/CN_033"
+        },
+        {
+            "id": "char_4222_taraxa_CN_034",
+            "title": {
+                "en": "Tap",
+                "jp": "タッチ1",
+                "kr": "터치",
+                "cn": "戳一下"
+            },
+            "text": {
+                "en": "The medicine's just been brewed. Careful not to burn yourself!",
+                "jp": "煎じたての薬です、火傷しないように気をつけてくださいね。",
+                "kr": "방금 달인 약이에요. 화상 입지 않도록 조심하세요.",
+                "cn": "药刚煎好，小心烫伤。"
+            },
+            "asset": "char_4222_taraxa/CN_034"
+        },
+        {
+            "id": "char_4222_taraxa_CN_036",
+            "title": {
+                "en": "Trust Tap",
+                "jp": "信頼タッチ",
+                "kr": "신뢰도 터치",
+                "cn": "信赖触摸"
+            },
+            "text": {
+                "en": "So, Doctor, out of all these medical texts on the table, which do you feel like memorizing first?",
+                "jp": "机いっぱいの医学書、ドクター、どの一冊から暗記しますか？",
+                "kr": "책상 가득한 의학서…… 박사님, 어떤 책부터 외우실 건가요?",
+                "cn": "这满桌的医典，博士，您想先背哪本？"
+            },
+            "asset": "char_4222_taraxa/CN_036"
+        },
+        {
+            "id": "char_4222_taraxa_CN_037",
+            "title": {
+                "en": "Title",
+                "jp": "タイトルコール",
+                "kr": "타이틀",
+                "cn": "标题"
+            },
+            "text": {
+                "en": "Arknights.",
+                "jp": "アークナイツ。",
+                "kr": "명일방주.",
+                "cn": "明日方舟。"
+            },
+            "asset": "char_4222_taraxa/CN_037"
+        },
+        {
+            "id": "char_4222_taraxa_CN_038",
+            "title": {
+                "en": "New Year's blessing",
+                "jp": "新年",
+                "kr": "새해",
+                "cn": "新年祝福"
+            },
+            "text": {
+                "en": "A New Year's custom calls for customized herbal teas. Care for a cup, Doctor? Bitter? No, shouldn't be. Lungmen herbal tea is different from ordinary decoctions… Dried tangerine peel, lotus leaves, and honeysuckle, all steamed to remove the astringency. That sounds like a decoction? It's not! It really is just regular herbal tea!",
+                "jp": "ドクター、新年の始まりに、特製の涼茶はいかがですか？苦い？そんなことないですよ。龍門の涼茶は普通の煎じ薬とは違いますから……陳皮に荷葉、金銀花、どれもしっかり煮て渋みを飛ばしてあるので大丈夫です。煎じ薬そのもの？違いますよ！本当にただの涼茶なんです！",
+                "kr": "박사님, 새해의 시작에 특제 냉차는 어떠세요? 쓰다고요? 그렇지 않아요. 용문의 냉차는 보통 말하는 탕약과 다르니까요…… 진피, 연꽃잎, 금은화 모두 푹 끓여서 떫은맛을 없앴으니까 걱정 안 하셔도 돼요. 그게 탕약이라고요? 아니에요! 진짜 그냥 냉차예요!",
+                "cn": "博士，新年的第一天，要不要来上一杯特制的凉茶？苦？不会啊，龙门的凉茶和普通的汤药还是有些区别的......陈皮、荷叶、金银花，都已经蒸煮去过涩了。就是汤药？不会啊！真只是凉茶！"
+            },
+            "asset": "char_4222_taraxa/CN_038"
+        },
+        {
+            "id": "char_4222_taraxa_CN_042",
+            "title": {
+                "en": "Greeting",
+                "jp": "挨拶",
+                "kr": "인사",
+                "cn": "问候"
+            },
+            "text": {
+                "en": "Would you like something off the grill, Doctor? Though it might be too heaty… Huh?",
+                "jp": "ドクター、串焼き食べませんか！上火するから遠慮しておく、って……ええっ？",
+                "kr": "박사님, 꼬치구이 드실래요? 열독이 오르니까 사양, 이라니…… 네에?",
+                "cn": "博士，想不想吃烧烤！怕上火......欸？"
+            },
+            "asset": "char_4222_taraxa/CN_042"
+        },
+        {
+            "id": "char_4222_taraxa_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": "Sit here, Doctor. No need to be so nervous. Today is your birthday, and I learned some Yanese <i>tui na</i> massage techniques from my master. You're always hunched over your desk, so your back, shoulders and neck must ache a lot. Here, a-and here… Well, how's that? Feels great, doesn't it!",
+                "jp": "ドクター、こちらに座って、肩の力を抜いてください。今日はドクターの誕生日ということで、先生に少し推拿を習ってきたんです。いつも机に向かっているので、背中から肩や首にかけて凝っているところを揉みほぐしますね……ふぅ、どうですか？気持ちいいでしょう！",
+                "kr": "박사님, 여기 앉으시고, 어깨 힘을 빼세요. 오늘이 박사님 생일이라고 해서, 선생님께 조금 추나요법을 배워 왔거든요. 항상 책상에 앉아 계시니까, 등부터 어깨랑 목까지 뭉친 곳을 풀어드릴게요…… 후우, 어떠세요? 기분 좋으시죠!",
+                "cn": "博士您坐这边，不用紧张，今天是您生日，我特意向老师学了几招推拿手法。您常常伏案工作，背部、肩颈难免都会酸痛，我给您按按......嘿，怎么样？很舒服吧！"
+            },
+            "asset": "char_4222_taraxa/CN_043"
+        },
+        {
+            "id": "char_4222_taraxa_CN_044",
+            "title": {
+                "en": "Anniversary Celebration",
+                "jp": "周年",
+                "kr": "애니버서리",
+                "cn": "周年庆典"
+            },
+            "text": {
+                "en": "Don't worry, I've already filed away all the case files. Phew… I hope that one day, there won't be a market for these medicines! Ah, I'm not trying to put a curse on your company or anything. I was just thinking, if there ever comes a day when these cases were gathering dust, wouldn't that mean everyone will be healthy?",
+                "jp": "カルテのファイリングは済んでいるので、ご心配なく。はぁ……いつか薬が一つも売れなくなる日が来ればいいのに！あっ、会社の業績悪化を願ってるわけじゃないですよ。ただ、もし本当にいつか薬箱にホコリが積もる時が来たら、それはみんなが健康になったってことじゃないですか？",
+                "kr": "진료 기록 분류랑 정리는 이미 끝났으니까 걱정하지 마세요. 하아…… 언젠가 약이 하나도 팔리지 않는 날이 오면 좋겠는데 말이죠! 앗, 회사 실적이 나빠지길 바란다는 건 아니에요. 그냥, 정말 언젠가 약상자에 먼지가 쌓이는 날이 온다면, 그건 모두가 건강해졌다는 뜻 아니겠어요?",
+                "cn": "病例都已归档，请您放心。呼......希望有一天，这些药全都卖不出去！啊，我不是在诅咒公司的业绩，只是在想，要真有一天，药盒上都落满了灰，那是不是就意味着大家都健康了呢？"
+            },
+            "asset": "char_4222_taraxa/CN_044"
+        }
+    ],
+    "actors": {
+        "en": {
+            "native": "Benjamin Valic",
+            "global": "Benjamin Valic"
+        },
+        "cn": {
+            "native": "马程未",
+            "global": "Chengwei Ma"
+        },
+        "jp": {
+            "native": "杉浦那由多",
+            "global": "Nayuta Sugiura"
+        },
+        "kr": {
+            "native": "이동윤",
+            "global": "Lee Dong-youn"
+        }
+    },
+    "availability": [
+        "en",
+        "cn",
+        "jp",
+        "kr"
+    ]
+}

@@ -18,7 +18,7 @@
             },
             "text": {
                 "en": "Doctor, have you ever considered some more... practical ornamentation for Rhodes Island? Such as monastery brewing casks, perhaps…?",
-                "jp": "ドクターさん、ロドスに実用的なインテリアを増やそうとか、考えたことはありますか？例えば修道院の酒樽なんかを……。",
+                "jp": "ドクターさん、ロドスに実用的なインテリアを増やそうとか、考えたことはありますか？例えば修道院の酒樽なんかを……",
                 "kr": "박사님, 로도스 아일랜드에 실용적인 인테리어를 늘린다든가…… 하는 걸 생각해보신 적 있으실까요? 예를 들면 수도원의 술통 같은 걸……",
                 "cn": "博士，你是否有考虑过在罗德岛增添一些......实用风格的装饰物？比如修道院酿酒桶之类的......"
             },
@@ -130,7 +130,7 @@
             },
             "text": {
                 "en": "Rhodes Island is a far cry from Laterano, mingling the breadth of diversity in vision and ambition together. It's truly remarkable. Doctor, you must consider coming to the Monastery to teach after you retire. Issues of faith? That'll be no problem! None of us will mind.",
-                "jp": "ロドスはラテラーノとは全く違います。心にそれぞれの景色を抱いた人達を一つにまとめあげることができるのは、本当にすごいと思います。ドクターさん、こちらを引退したら修道院で教鞭を執っていただく件、ぜひご一考くださいね。信仰心の問題？大丈夫ですよ、みんな気にしませんから。",
+                "jp": "ロドスはラテラーノとは全く違います。心にそれぞれの景色を抱いた人たちを一つにまとめあげることができるのは、本当にすごいと思います。ドクターさん、こちらを引退したら修道院で教鞭を執っていただく件、ぜひご一考くださいね。信仰心の問題？大丈夫ですよ、みんな気にしませんから。",
                 "kr": "로도스 아일랜드는 라테라노와 완전히 달라요. 마음에 각기 다른 경치를 품고 있는 분들을 이렇게 하나로 모을 수 있다는 건 정말 대단한 일이죠. 박사님, 여기서 은퇴하시면 수도원에서 교편을 잡으시는 걸 꼭 한 번 고려해 주셨으면 해요. 신앙심이요? 그건 걱정하지 마세요, 다들 신경 안 쓰거든요.",
                 "cn": "罗德岛与拉特兰截然不同，能将心怀不同景色的人们凝聚在一起，这实在是一件非常了不起的事情，博士，请务必考虑一下退休后来修道院任教的事情。信仰问题？没关系没关系，大家不会在意的。"
             },
@@ -386,7 +386,7 @@
             },
             "text": {
                 "en": "Feel the bowstring tremble…",
-                "jp": "弦の振動を感じて……。",
+                "jp": "弦の振動を感じて……",
                 "kr": "활시위의 진동을 느끼면서……",
                 "cn": "感受弓弦的震动......"
             },
@@ -402,7 +402,7 @@
             },
             "text": {
                 "en": "Gospel, gather at my fingertips...",
-                "jp": "福音が指先に集まる……。",
+                "jp": "福音が指先に集まる……",
                 "kr": "복음을 손끝에 모아……",
                 "cn": "福音，停留于指尖......"
             },
@@ -530,7 +530,7 @@
             },
             "text": {
                 "en": "Ah, Doctor, I've been thinking whether I should invite you with me to come see Laterano. Perhaps you'd have more interest in the Monastery then…",
-                "jp": "あ、ドクターさん、ラテラーノの遊覧にお誘いしようか考えていたところです。そうすれば修道院にもっと興味を持っていただけるかと思って……。",
+                "jp": "あ、ドクターさん、ラテラーノの遊覧にお誘いしようか考えていたところです。そうすれば修道院にもっと興味を持っていただけるかと思って……",
                 "kr": "아, 박사님! 안 그래도 라테라노 유람에 박사님을 초대할까 생각하고 있던 참이었어요. 그러면 박사님께서 혹시나 수도원에 더 흥미를 느끼실 수 있지 않을까 해서……",
                 "cn": "啊，博士，我在考虑是不是该邀请您一同去拉特兰游览一番，这样您就会对修道院更有兴趣了呢......"
             },
@@ -594,7 +594,7 @@
             },
             "text": {
                 "en": "Happy birthday, Doctor. This is a special day of great importance, and I offer you my most heartfelt prayers. May the bell sound to hold sickness and misfortune at bay, and may faith light your way. Also, I'd like you to accept this gift from me—an exquisite copy of a business contract, with all to gain and naught to lose!",
-                "jp": "生日快乐，博士，在这个特殊且重要的日子，我会诚心为您祷告。愿钟声驱散病魔与厄运，愿信仰照亮前行的道路。另外，请收下我准备的礼物，一份百利而无一害的精美商业合约！",
+                "jp": "お誕生日おめでとうございます、ドクターさん。特別で大切なこの一日に、あなたのために心よりお祈りを捧げます。鐘の音が病魔と厄運を払い、信仰があなたの行く手を照らさんことを。それと、プレゼントもご用意したのでどうか受け取ってください。百利あって一害なしの、素敵なビジネスの契約書ですよ！",
                 "kr": "생일 축하드려요, 박사님. 이 특별하고 중요한 날에 제가 진심으로 당신만을 위해 기도하겠습니다. 종소리가 병마와 액운을 쫓아내길, 신앙이 앞으로 나아갈 길을 밝혀주기를…… 그리고 이건 제가 준비한 선물인데, 받아주세요! 전혀 해가 되지 않는 아름다운 상업 계약서입니다!",
                 "cn": "生日快乐，博士，在这个特殊且重要的日子，我会诚心为您祷告。愿钟声驱散病魔与厄运，愿信仰照亮前行的道路。另外，请收下我准备的礼物，一份百利而无一害的精美商业合约！"
             },

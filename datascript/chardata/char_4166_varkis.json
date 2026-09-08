@@ -1,0 +1,644 @@
+{
+    "charid": "char_4166_varkis",
+    "nameid": "varkis",
+    "names": {
+        "en": "Varkáris",
+        "jp": "ヴァルカリス",
+        "kr": "바르카리스",
+        "cn": "摆渡人"
+    },
+    "voices": [
+        {
+            "id": "char_4166_varkis_CN_001",
+            "title": {
+                "en": "Appointed as Assistant",
+                "jp": "秘書任命",
+                "kr": "어시스턴트 임명",
+                "cn": "任命助理"
+            },
+            "text": {
+                "en": "This type of work is not my wheelhouse. I'll do my best, if you can explain it. What should I give you for teaching me? Well, my students bring me beans, grapes, and fins. Would any of those be appropriate?",
+                "jp": "俺はこの手の仕事が得意ではない。恐らくあなたに細々と説明を求めることになろうが、持てる力の限りは尽くす所存だ。教えた報酬に何をくれるか？俺の教え子たちは莢豌豆や葡萄、鱗獣を贈ってくれるが、それで良いか？",
+                "kr": "난 이런 종류의 일을 잘하지 못한다. 아마 당신에게 세세하게 설명을 요구하게 될 테지만, 힘닿는 대로 최선을 다할 생각이다. 가르침에 대한 보수로 뭘 줄 수 있냐고? 내 제자들은 완두콩이나 포도, 린수 같은 것을 보내주곤 하는데, 그걸로 괜찮겠나?",
+                "cn": "我并不擅长这类工作，恐怕要请你多做说明，我尽力而为。你教了我，我该给你什么回报？我的学生会送我青扁豆、葡萄和鳞，你想要这些吗？"
+            },
+            "asset": "char_4166_varkis/CN_001"
+        },
+        {
+            "id": "char_4166_varkis_CN_002",
+            "title": {
+                "en": "Talk 1",
+                "jp": "会話1",
+                "kr": "대화 1",
+                "cn": "交谈1"
+            },
+            "text": {
+                "en": "Is it possible for Rhodes Island to adjust course five degrees to the west? Following this river would bring us across a floodplain. It may not affect Rhodes, but the vegetation there is fragile. The river would... no, I would thank you.",
+                "jp": "……ロドスの航路を西に五度ほど修正できるか？このまま川沿いに進むと、前方の蛇行する氾濫平原をかすめる。移動には支障ないが、あの辺りの植生は繊細なものが多い。川が……いや、俺が感謝する。",
+                "kr": "……로도스 아일랜드의 항로를 서쪽으로 5도 정도 수정할 수 있나? 이대로 강을 따라 나아가면, 전방의 굽이진 범람원을 스치게 된다. 이동에는 지장 없지만, 그 근처의 식생은 섬세한 것들이 많아. 강이…… 아니, 내가 감사하지.",
+                "cn": "......罗德岛的航向，能否向西转五度？继续沿河航行，会经过前方曲流的河漫滩，虽然不会影响罗德岛移动，但那上面的植被比较脆弱。河流会......不，我会感谢你。"
+            },
+            "asset": "char_4166_varkis/CN_002"
+        },
+        {
+            "id": "char_4166_varkis_CN_003",
+            "title": {
+                "en": "Talk 2",
+                "jp": "会話2",
+                "kr": "대화 2",
+                "cn": "交谈2"
+            },
+            "text": {
+                "en": "You can come out now, Doctor. The Medical people have left, but I'm sure they'll be back. Why are you avoiding them…? Me? Why bother wasting time treating Oripathy. Every day I still live is a gift.",
+                "jp": "ドクター、もう出てきてもいい。医療部の者たちは去った。だがいずれまた探しに来るだろう。なぜ彼らを避ける？……俺か？俺が患っているのは鉱石病だからな。あえて治療に時間を費やすこともあるまい。今こうして生きる一日一日が、すでに望外の贈り物なのだ。",
+                "kr": "박사, 이제 나와도 된다. 의료부 사람들은 떠났어. 허나, 언젠가 다시 찾으러 오겠지. 왜 그들을 피하나? ……나? 내가 앓고 있는 것은 광석병이니까. 굳이 치료에 시간을 낭비할 필요도 없지. 지금 이렇게 살아가는 하루하루가 이미 과분한 선물이다.",
+                "cn": "博士，可以出来了，医疗部的人已经走了。但他们肯定还会再来，你为什么要躲着他们？......我？我患的是矿石病，何必空费时间治疗。如今活过的每一天，都已是多余的馈赠了。"
+            },
+            "asset": "char_4166_varkis/CN_003"
+        },
+        {
+            "id": "char_4166_varkis_CN_004",
+            "title": {
+                "en": "Talk 3",
+                "jp": "会話3",
+                "kr": "대화 3",
+                "cn": "交谈3"
+            },
+            "text": {
+                "en": "Medjehtiqedti came looking for you. Remember to get back to her... why are you staring at me like that? I know what kind of place Rhodes Island is, and I won't do anything to the Sargonians here. But don't try telling me to 'empty the bottomless cup of hate' or whatever.",
+                "jp": "ドクター、メジェティクティ嬢があなたの不在時に訪ねてきたので、後で連絡を忘れぬようにな……なぜそんな目で見る？ロドスがどういう場所かは理解している。ここでサルゴン人に何かするつもりはない……その代わり、決して「憎しみを捨てろ」とも言わないでくれ。",
+                "kr": "박사, 메제티케티 양이 당신이 자리를 비운 사이에 찾아왔으니, 나중에 연락하는 걸 잊지 않도록…… 왜 그런 눈으로 보지? 로도스 아일랜드가 어떤 곳인지는 이해하고 있어. 여기서 사르곤인에게 무언가 할 생각은 없다…… 대신, 결코 “증오를 버려라” 같은 말도 하지 말아 주게.",
+                "cn": "博士，梅捷缇克缇小姐刚才来找你，记得联系她......为什么这样看我？我知道罗德岛是什么地方，不会在这里对萨尔贡人怎么样......不过，也请别对我说什么“放下仇恨”之类的话。"
+            },
+            "asset": "char_4166_varkis/CN_004"
+        },
+        {
+            "id": "char_4166_varkis_CN_005",
+            "title": {
+                "en": "Talk after Promotion 1",
+                "jp": "昇進後会話1",
+                "kr": "1차 정예화 후 대화",
+                "cn": "晋升后交谈1"
+            },
+            "text": {
+                "en": "If you ever get to visit Athenius, I could take you for a morning cruise on the Delphi Canal. The city is cool and quiet, with few people on the streets and few boats on the rivers. The sun rises over the temple and upon the canal, glimmering in the morning mist… I hope Minos never changes.",
+                "jp": "もしあなたがアテヌスへ行く機会があれば、俺が船にあなたを乗せて、早朝のデルフィ運河を巡ろう。あの時刻の都市は涼やかに静まり、人も船も少ない。朝日が神殿の頂上を越えて照らし、朝霧の中に川面を煌めかせる……俺はただ、あのようなミノスが永く続くことを願う。",
+                "kr": "만약 당신이 아테누스에 갈 기회가 있다면, 내 배에 당신을 태우고 이른 아침의 델피 운하를 둘러보도록 하지. 그 시각의 도시는 서늘할 정도로 조용해지고, 사람도 배도 적어. 아침 해가 신전 정상을 넘어 비추고, 아침 안갯속에서 수면을 빛나게 하지…… 나는 그저, 그런 미노스가 오래 지속되기를 바란다.",
+                "cn": "若你有机会去雅赛努斯，我可以载你在特尔斐运河上早航。那时的城市清凉安宁，行人和行船都少，朝阳越过神殿的顶角，照得河面在晨雾中闪烁......我惟愿这样的米诺斯久久长存。"
+            },
+            "asset": "char_4166_varkis/CN_005"
+        },
+        {
+            "id": "char_4166_varkis_CN_006",
+            "title": {
+                "en": "Talk after Promotion 2",
+                "jp": "昇進後会話2",
+                "kr": "2차 정예화 후 대화",
+                "cn": "晋升后交谈2"
+            },
+            "text": {
+                "en": "Athenius is not my home. The Sargonians destroyed my home. The Delphi Canal is wonderful, undoubtedly. But even the real Delphi River cannot replace the memory of my river back home, the night-veiled water where the fincatching lamps sway with the current… my first river.",
+                "jp": "アテヌスは俺の故郷ではない。故郷はすでにサルゴン人の手によって滅ぼされた。デルフィ運河は確かに美しいが、たとえ本物のデルフィ川であろうと、故郷の川の夕べを、川のせせらぎと共に揺れる漁り火を、俺の記憶から消し去ることはかなわない……あれが俺の初めて見た川だった。",
+                "kr": "아테누스는 내 고향이 아니야. 고향은 이미 사르곤인의 손에 의해 멸망했다. 델피 운하는 분명 아름답지만, 설령 진짜 델피 강이라 한들, 고향 강의 야경을, 강물 소리와 함께 흔들리던 어선의 등불을 내 기억에서 지워 버릴 수는 없어…… 그건 내가 처음 본 강이었다.",
+                "cn": "雅赛努斯城不是我的家乡，我的家乡已经毁于萨尔贡人之手。特尔斐运河当然好，可即使是真正的特尔斐河，也不能让我忘怀故乡河流的夜色，随水摇晃的渔灯......那是我所见第一条河。"
+            },
+            "asset": "char_4166_varkis/CN_006"
+        },
+        {
+            "id": "char_4166_varkis_CN_007",
+            "title": {
+                "en": "Talk after Trust Increase 1",
+                "jp": "信頼上昇後会話1",
+                "kr": "신뢰도 상승 후 대화 1",
+                "cn": "信赖提升后交谈1"
+            },
+            "text": {
+                "en": "—Oh! …Sorry, Doctor. Did you knock the cup over? I'll clean it up. Sorry if I spooked you, it's just the sudden sound provoked me… I'm fine. Just didn't sleep well after hearing armored burdenbeast hooves in my dreams last night.",
+                "jp": "てっ！……すまない、ドクター。うっかりぶつかったカップを割ってしまった？俺が片付けよう。先ほどは突然音がして、つい取り乱した。驚かせてしまったか？……俺は問題ない。昨夜、甲冑をつけた駄獣の蹄の音を夢で聴いて、よく眠れなかっただけだ。",
+                "kr": "헛! ……미안하다, 박사. 실수로 컵을 떨어뜨렸다고? 내가 치우지. 방금은 갑자기 소리가 나서, 그만 당황해 버렸다. 놀라게 했나? ……나는 문제없어. 어젯밤, 꿈에서 갑옷을 두른 버든비스트의 발굽 소리를 듣는 바람에 잠을 설쳤을 뿐이다.",
+                "cn": "——嗬！......抱歉，博士。你不小心碰掉了杯子？我来收拾。刚才突然听到响声，有些失态，可有吓到你？......我没事，只是昨夜梦到了披甲驮兽的蹄声，没有睡好。"
+            },
+            "asset": "char_4166_varkis/CN_007"
+        },
+        {
+            "id": "char_4166_varkis_CN_008",
+            "title": {
+                "en": "Talk after Trust Increase 2",
+                "jp": "信頼上昇後会話2",
+                "kr": "신뢰도 상승 후 대화 2",
+                "cn": "信赖提升后交谈2"
+            },
+            "text": {
+                "en": "Where are you taking me, Doctor? This way leads to the Medical Department, and I don't think you're scheduled for an exam today. I came to repay my debt to Rhodes Island for saving my life, not to get treatment… Alright, if you insist.",
+                "jp": "ドクター、俺をどこへ連れて行くつもりなのだ？これは医療部への道だが、今日はあなたの検診日ではないのだろう……いや、俺は治療のためではなく、ロドスに助けてもらった恩を返すために来たのだと言ったはずだ……分かった、あなたがそう言うなら。",
+                "kr": "박사, 나를 어디로 데려갈 생각이지? 이건 의료부로 가는 길인데, 오늘은 당신의 검진 날짜가 아니지 않나…… 아니, 나는 치료를 위해서가 아니라, 로도스 아일랜드가 구해준 은혜를 갚기 위해 온 거라고 했을 텐데…… 알겠다, 당신이 그렇게 말한다면.",
+                "cn": "博士，你要带我去哪里？这是去医疗部的路，我记得今天不是你的检查日。我来这里是想报答罗德岛的救助之恩，不是来治病......好吧，如果是你要求。"
+            },
+            "asset": "char_4166_varkis/CN_008"
+        },
+        {
+            "id": "char_4166_varkis_CN_009",
+            "title": {
+                "en": "Talk after Trust Increase 3",
+                "jp": "信頼上昇後会話3",
+                "kr": "신뢰도 상승 후 대화 3",
+                "cn": "信赖提升后交谈3"
+            },
+            "text": {
+                "en": "I've seen off too many young people who deserved to live longer than me… when I think about how this sort of thing could happen again, I feel… fear. But why do I see the same fear in your eyes, Doctor?",
+                "jp": "俺よりも余程生き延びるべきであった若者たちを、これまで数多く見送ってきた……これからも同じことが起こるかもしれないと思うと、俺も怖い。だが……ドクター、なぜあなたの目に、俺と同じ恐れが見えるのだろう？",
+                "kr": "나보다도 훨씬 더 오래 살았어야 했던 젊은이들을 지금까지 수없이 떠나보냈다…… 앞으로도 같은 일이 생길지도 모른다고 생각하면, 나 역시 두려워. 허나…… 박사, 왜 당신의 눈동자에서 나와 같은 두려움이 보이지?",
+                "cn": "我已经送别了太多比我更应该活下去的年轻人......一想到这样的事以后或许还会发生，我也会有些，害怕。但......博士，为什么我会在你的眼中，看到同我相似的恐惧呢？"
+            },
+            "asset": "char_4166_varkis/CN_009"
+        },
+        {
+            "id": "char_4166_varkis_CN_010",
+            "title": {
+                "en": "Idle",
+                "jp": "放置",
+                "kr": "방치",
+                "cn": "闲置"
+            },
+            "text": {
+                "en": "What burdens you so heavily?",
+                "jp": "……あなたもまた、なぜそこまで苦労を背負う。",
+                "kr": "……당신 또한, 어째서 그렇게까지 고생을 짊어지는가.",
+                "cn": "......你又是为何如此辛劳。"
+            },
+            "asset": "char_4166_varkis/CN_010"
+        },
+        {
+            "id": "char_4166_varkis_CN_011",
+            "title": {
+                "en": "Onboard",
+                "jp": "入職会話",
+                "kr": "오퍼레이터 입사",
+                "cn": "干员报到"
+            },
+            "text": {
+                "en": "The Doctor, is it? Lena said I would find you here. Give me an order, if you need me to do something. Just don't put me together with any Sargonians. It's better for everyone that way.",
+                "jp": "「ドクター」、で間違いないか？ラナ嬢からここで会えると聞いた。俺の力が必要であれば、命じてくれればいい。ただし、どうかサルゴン人と行動を共にさせないでくれ。それが互いのためだ。",
+                "kr": "'박사', 맞나? 레나 양에게 여기서 만날 수 있다고 들었다. 내 힘이 필요하다면 명령하면 된다. 다만, 부디 사르곤인과 함께 행동하지 않게 해주게. 그게 서로를 위한 일이다.",
+                "cn": "“博士”，对吗？莱娜小姐说可以在这里找到你。需要我做什么，下命令就好。不过，请不要让我和萨尔贡人一起行动。这样对所有人都好。"
+            },
+            "asset": "char_4166_varkis/CN_011"
+        },
+        {
+            "id": "char_4166_varkis_CN_012",
+            "title": {
+                "en": "Watching Battle Record",
+                "jp": "経験値上昇",
+                "kr": "작전기록 학습",
+                "cn": "观看作战记录"
+            },
+            "text": {
+                "en": "Did you give the orders in all these battles?",
+                "jp": "……これらの戦い、すべてあなたが指揮しているのか？",
+                "kr": "……이 모든 전투를, 전부 당신이 지휘하고 있는 건가?",
+                "cn": "......这些战斗，都是由你指挥？"
+            },
+            "asset": "char_4166_varkis/CN_012"
+        },
+        {
+            "id": "char_4166_varkis_CN_013",
+            "title": {
+                "en": "Promotion 1",
+                "jp": "昇進Ⅰ",
+                "kr": "1차 정예화 (승진)",
+                "cn": "精英化晋升1"
+            },
+            "text": {
+                "en": "You have my gratitude, but I must decline. I'm willing to fight for you, but I'm not interested in commendations—this one is for saving the pothos plant in the Doctor's office…? Thank you. I'm honored.",
+                "jp": "礼を言おう、だが褒美は辞退する。あなたたちのために戦う意思はあるが、それで報奨を得るつもりはない――ドクターの執務室にあるポトスを救ったことへの表彰なのか？……それならば受け取ろう。感謝する。",
+                "kr": "감사를 표하지. 하지만 포상은 사양하겠다. 당신들을 위해 싸울 의사는 있지만, 그걸로 보상을 얻을 생각은 없어…… 박사 사무실에 있는 스킨답서스를 구한 것에 대한 표창인가? ……그렇다면 받도록 하지. 고맙다.",
+                "cn": "谢谢，但容我拒绝。我愿意为你们战斗，但并不想为此得到嘉奖——是表彰我救活了博士办公室里的绿萝？......我会收下，谢谢。"
+            },
+            "asset": "char_4166_varkis/CN_013"
+        },
+        {
+            "id": "char_4166_varkis_CN_014",
+            "title": {
+                "en": "Promotion 2",
+                "jp": "昇進Ⅱ",
+                "kr": "2차 정예화 (승진)",
+                "cn": "精英化晋升2"
+            },
+            "text": {
+                "en": "I don't believe in this peace you speak of. I will never give up my hatred. If the Sargonians ever invade Minos again, I will gladly trade my life for their blood. Would you still trust a man like me…? Alright, then.",
+                "jp": "俺はあなたたちの口にする平和を信じはしないし、憎しみを捨てることもない。もしサルゴン人が再びミノスに手を出すのであれば、この命を投げ打ってでもあいつらの息の根を止める。ここまで頑なな俺を、それでもあなたは信じるのか？……分かった。",
+                "kr": "나는 당신들이 입에 담는 평화를 믿지 않고, 증오를 버릴 생각도 없다. 만약 사르곤인이 다시 미노스에 손을 뻗친다면, 이 목숨을 내던져서라도 놈들의 숨통을 끊을 것이다. 이렇게까지 완고한 나를, 당신은 그래도 믿을 건가? ……알겠다.",
+                "cn": "我不相信你们说的和平，我绝不会放弃仇恨，若萨尔贡人再敢染指米诺斯，我必将用我的死交换他们的死。我顽固至此，你也要予我信任吗？......好。"
+            },
+            "asset": "char_4166_varkis/CN_014"
+        },
+        {
+            "id": "char_4166_varkis_CN_017",
+            "title": {
+                "en": "Added to Squad",
+                "jp": "編成",
+                "kr": "팀 배치",
+                "cn": "编入队伍"
+            },
+            "text": {
+                "en": "Reporting.",
+                "jp": "はっ。",
+                "kr": "불렀나.",
+                "cn": "到。"
+            },
+            "asset": "char_4166_varkis/CN_017"
+        },
+        {
+            "id": "char_4166_varkis_CN_018",
+            "title": {
+                "en": "Appointed as Squad Leader",
+                "jp": "隊長任命",
+                "kr": "팀장 임명",
+                "cn": "任命队长"
+            },
+            "text": {
+                "en": "Follow me.",
+                "jp": "俺に続け。",
+                "kr": "나를 따라와라.",
+                "cn": "随我前进。"
+            },
+            "asset": "char_4166_varkis/CN_018"
+        },
+        {
+            "id": "char_4166_varkis_CN_019",
+            "title": {
+                "en": "Depart",
+                "jp": "作戦準備",
+                "kr": "작전 출발",
+                "cn": "行动出发"
+            },
+            "text": {
+                "en": "Understood.",
+                "jp": "拝命した。",
+                "kr": "명을 받들겠다.",
+                "cn": "领命。"
+            },
+            "asset": "char_4166_varkis/CN_019"
+        },
+        {
+            "id": "char_4166_varkis_CN_020",
+            "title": {
+                "en": "Begin Operation",
+                "jp": "戦闘開始",
+                "kr": "작전 개시",
+                "cn": "行动开始"
+            },
+            "text": {
+                "en": "On guard.",
+                "jp": "警戒を。",
+                "kr": "경계를.",
+                "cn": "警戒。"
+            },
+            "asset": "char_4166_varkis/CN_020"
+        },
+        {
+            "id": "char_4166_varkis_CN_021",
+            "title": {
+                "en": "Selecting Operator 1",
+                "jp": "選択時1",
+                "kr": "오퍼레이터 선택 1",
+                "cn": "选中干员1"
+            },
+            "text": {
+                "en": "Yes.",
+                "jp": "ああ。",
+                "kr": "그래.",
+                "cn": "是。"
+            },
+            "asset": "char_4166_varkis/CN_021"
+        },
+        {
+            "id": "char_4166_varkis_CN_022",
+            "title": {
+                "en": "Selecting Operator 2",
+                "jp": "選択時2",
+                "kr": "오퍼레이터 선택 2",
+                "cn": "选中干员2"
+            },
+            "text": {
+                "en": "I'm here.",
+                "jp": "ここに。",
+                "kr": "여기에.",
+                "cn": "在。"
+            },
+            "asset": "char_4166_varkis/CN_022"
+        },
+        {
+            "id": "char_4166_varkis_CN_023",
+            "title": {
+                "en": "Deployment 1",
+                "jp": "配置1",
+                "kr": "배치 1",
+                "cn": "部署1"
+            },
+            "text": {
+                "en": "Location secure.",
+                "jp": "目標地点は安全だ。",
+                "kr": "목표 지점은 안전하다.",
+                "cn": "目标点位安全。"
+            },
+            "asset": "char_4166_varkis/CN_023"
+        },
+        {
+            "id": "char_4166_varkis_CN_024",
+            "title": {
+                "en": "Deployment 2",
+                "jp": "配置2",
+                "kr": "배치 2",
+                "cn": "部署2"
+            },
+            "text": {
+                "en": "Ready to move.",
+                "jp": "いつでも動ける。",
+                "kr": "언제든 움직일 수 있다.",
+                "cn": "随时可以行动。"
+            },
+            "asset": "char_4166_varkis/CN_024"
+        },
+        {
+            "id": "char_4166_varkis_CN_025",
+            "title": {
+                "en": "In Battle 1",
+                "jp": "作戦中1",
+                "kr": "작전 중 1",
+                "cn": "作战中1"
+            },
+            "text": {
+                "en": "Death to slavers!",
+                "jp": "隷属を強いる権利は誰にもない！",
+                "kr": "예속을 강요할 권리는 누구에게도 없다!",
+                "cn": "无人有权奴役！"
+            },
+            "asset": "char_4166_varkis/CN_025"
+        },
+        {
+            "id": "char_4166_varkis_CN_026",
+            "title": {
+                "en": "In Battle 2",
+                "jp": "作戦中2",
+                "kr": "작전 중 2",
+                "cn": "作战中2"
+            },
+            "text": {
+                "en": "Down with tyrants!",
+                "jp": "暴虐の徒は必ず滅ぶ！",
+                "kr": "포학한 무리는 반드시 멸망한다!",
+                "cn": "凶暴必趋灭亡！"
+            },
+            "asset": "char_4166_varkis/CN_026"
+        },
+        {
+            "id": "char_4166_varkis_CN_027",
+            "title": {
+                "en": "In Battle 3",
+                "jp": "作戦中3",
+                "kr": "작전 중 3",
+                "cn": "作战中3"
+            },
+            "text": {
+                "en": "I do not fear death!",
+                "jp": "この身など惜しくはない！",
+                "kr": "이 몸 따위 아깝지 않다!",
+                "cn": "残躯不足为惜！"
+            },
+            "asset": "char_4166_varkis/CN_027"
+        },
+        {
+            "id": "char_4166_varkis_CN_028",
+            "title": {
+                "en": "In Battle 4",
+                "jp": "作戦中4",
+                "kr": "작전 중 4",
+                "cn": "作战中4"
+            },
+            "text": {
+                "en": "Blood for blood!",
+                "jp": "血の借りは血で返す！",
+                "kr": "피로 진 빚은 피로 갚아 주겠다!",
+                "cn": "血债必以血偿！"
+            },
+            "asset": "char_4166_varkis/CN_028"
+        },
+        {
+            "id": "char_4166_varkis_CN_029",
+            "title": {
+                "en": "4-star Result",
+                "jp": "高難度作戦クリア",
+                "kr": "고난이도 작전 종료",
+                "cn": "完成高难行动"
+            },
+            "text": {
+                "en": "How do you do it? I don't mean your orders, strategies or even tricks. I mean how you dare to promise, even in the face of desperation.",
+                "jp": "……あなたはいかにして成し遂げたのだ？いや、あなたの指揮や戦略、あるいは抜け目のない策謀のことではない。このように絶望的な状況で、なぜ、なおも約束を口にできるのだ？",
+                "kr": "……당신은 어떻게 해낸 거지? 아니, 당신의 지휘나 전략, 또는 치밀한 책략을 말하는 게 아니다. 이렇게 절망적인 상황에서, 어째서, 아직도 약속을 입에 올릴 수 있지?",
+                "cn": "......你是如何做到的？不，我不是指你的指挥、计谋乃至诡诈，而是在如此绝境中，你为什么仍然敢于承诺？"
+            },
+            "asset": "char_4166_varkis/CN_029"
+        },
+        {
+            "id": "char_4166_varkis_CN_030",
+            "title": {
+                "en": "3-star Result",
+                "jp": "★3で戦闘終了",
+                "kr": "3★ 작전 종료",
+                "cn": "3星结束行动"
+            },
+            "text": {
+                "en": "You're responsible for victory, and the lives of those who follow your orders… it's a wonderful thing.",
+                "jp": "あなたは勝利だけでなく、命令に従う者たちの生命にも責任を負っている。それは……良いことだ。",
+                "kr": "당신은 승리뿐만이 아니라, 명령에 따르는 이들의 생명도 책임지고 있군. 그건…… 좋은 일이다.",
+                "cn": "你不只对胜利负责，也对听从你命令之人的生命负责。这样......很好。"
+            },
+            "asset": "char_4166_varkis/CN_030"
+        },
+        {
+            "id": "char_4166_varkis_CN_031",
+            "title": {
+                "en": "Sub 3-star Result",
+                "jp": "★2以下戦闘終了",
+                "kr": "비 3★ 작전 종료",
+                "cn": "非3星结束行动"
+            },
+            "text": {
+                "en": "No strategy is ever perfect. Don't be too hard on yourself.",
+                "jp": "戦場に完全無欠の計などない。自分を責めすぎるな。",
+                "kr": "전장에 완전무결한 계책 따위는 없다. 자신을 너무 탓하지 마라.",
+                "cn": "战场上没有算无遗策。不必对自己过苛。"
+            },
+            "asset": "char_4166_varkis/CN_031"
+        },
+        {
+            "id": "char_4166_varkis_CN_032",
+            "title": {
+                "en": "Operation Failure",
+                "jp": "作戦失敗",
+                "kr": "작전 실패",
+                "cn": "行动失败"
+            },
+            "text": {
+                "en": "The losses were acceptable. It's time for you to retreat. You're more important.",
+                "jp": "この程度の損失ならば、まだ受け入れられる。撤退すべきだ。あなたの身の方が大事だ。",
+                "kr": "이 정도 손실이라면, 아직 감내할 수 있다. 철수해야 한다. 당신 목숨이 더 중요하다.",
+                "cn": "这种程度的损失仍可接受。你该撤离了。你更重要。"
+            },
+            "asset": "char_4166_varkis/CN_032"
+        },
+        {
+            "id": "char_4166_varkis_CN_033",
+            "title": {
+                "en": "Assigned to Facility",
+                "jp": "基地配属",
+                "kr": "시설에 배치",
+                "cn": "进驻设施"
+            },
+            "text": {
+                "en": "I can hear a poem being read…",
+                "jp": "……詩を詠む声が聞こえた気がする。",
+                "kr": "……시를 읊는 소리가 들린 것 같군.",
+                "cn": "......我似乎听见了诵诗声。"
+            },
+            "asset": "char_4166_varkis/CN_033"
+        },
+        {
+            "id": "char_4166_varkis_CN_034",
+            "title": {
+                "en": "Tap",
+                "jp": "タッチ1",
+                "kr": "터치",
+                "cn": "戳一下"
+            },
+            "text": {
+                "en": "What are your orders?",
+                "jp": "何か命令か？",
+                "kr": "명령할 거라도 있나?",
+                "cn": "有何命令？"
+            },
+            "asset": "char_4166_varkis/CN_034"
+        },
+        {
+            "id": "char_4166_varkis_CN_036",
+            "title": {
+                "en": "Trust Tap",
+                "jp": "信頼タッチ",
+                "kr": "신뢰도 터치",
+                "cn": "信赖触摸"
+            },
+            "text": {
+                "en": "Sometimes you call to me without giving an order. What does it mean?",
+                "jp": "あなたは時折、俺を呼ぶだけで命を下さないな。どういうつもりだ。",
+                "kr": "당신은 가끔 나를 부르기만 하고 명령을 내리지 않는군. 무슨 의미지?",
+                "cn": "我发现有时你呼唤我后，却不下令。那是什么意思？"
+            },
+            "asset": "char_4166_varkis/CN_036"
+        },
+        {
+            "id": "char_4166_varkis_CN_037",
+            "title": {
+                "en": "Title",
+                "jp": "タイトルコール",
+                "kr": "타이틀",
+                "cn": "标题"
+            },
+            "text": {
+                "en": "Arknights.",
+                "jp": "アークナイツ。",
+                "kr": "명일방주.",
+                "cn": "明日方舟。"
+            },
+            "asset": "char_4166_varkis/CN_037"
+        },
+        {
+            "id": "char_4166_varkis_CN_038",
+            "title": {
+                "en": "New Year's blessing",
+                "jp": "新年",
+                "kr": "새해",
+                "cn": "新年祝福"
+            },
+            "text": {
+                "en": "The mountains and streams on the outer plates of Athenius make me forget that it is a nomadic city sometimes. This place is different. It's an unfamiliar feeling, to welcome a new year with the scenery rushing by. Would you like to go out on deck? Maybe we'll see the first river of the year.",
+                "jp": "アテヌスの外周区画にある岩山を流れる渓流を見ていると、それが移動都市であることを時々忘れそうになる……が、ここは違う。大地を駆けながら新しい年を迎えるのは実に新鮮だ。甲板を歩いてみないか？今年最初に出会う川が見えるかもしれない。",
+                "kr": "아테누스 외곽 구역에 있는 바위산을 흐르는 계곡물을 보고 있으면, 그곳이 이동도시라는 사실을 가끔 잊어버리게 되지…… 허나, 여기는 다르다. 대지를 달리며 새해를 맞이하는 건 실로 신선하군. 갑판 위를 걸어보지 않겠나? 올해 처음 만나는 강이 보일지도 모른다.",
+                "cn": "雅赛努斯外部地块的岩山径流有时会让我忘记它是一座移动城市......在这里则不同，疾驰在大地上迎来新年对我来说很新奇。您想去甲板上走走吗？也许我们能望见今年相遇的第一条河。"
+            },
+            "asset": "char_4166_varkis/CN_038"
+        },
+        {
+            "id": "char_4166_varkis_CN_042",
+            "title": {
+                "en": "Greeting",
+                "jp": "挨拶",
+                "kr": "인사",
+                "cn": "问候"
+            },
+            "text": {
+                "en": "You're early, Doctor. I saw a book of poems on your desk. Can I borrow it when you're done? I won't read it at work.",
+                "jp": "ドクター、早いな。あなたの机に詩集が置いてあったが、読み終えたら貸してくれないか？もちろん仕事中に読みはしないから。",
+                "kr": "박사, 빨리 왔군. 당신 책상에 시집이 놓여 있던데, 다 읽으면 빌려주지 않겠나? 물론, 일하는 동안은 읽지 않겠다.",
+                "cn": "博士，你来得很早。我见你桌上放了一本诗集，待你读完，能借给我吗？我不会在工作时看的。"
+            },
+            "asset": "char_4166_varkis/CN_042"
+        },
+        {
+            "id": "char_4166_varkis_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": "Could you close your eyes for a moment, Doctor…? Alright. Hear the sound of the Delphi River in spring, when snowmelt from Mt. Hymnoi sends a freshet down the Delphi River. For me, it's the sound of winter departing. I hope you like it.",
+                "jp": "ドクター、目を閉じてもらえるか？……よし、では聞いてくれ。これは俺が録ったデルフィ川の春の訪れの水音だ。春の増水は、ヒュムノイ山の雪解けがもたらすもの、俺にとっては冬が去る音だ。あなたにもこの贈り物を気に入ってもらえると嬉しい。",
+                "kr": "박사, 눈을 감아 주겠나? ……좋아, 그럼 들어다오. 이건 내가 녹음한 델피 강의 봄이 찾아오는 물소리다. 봄의 불어난 물은 힘노이 산의 눈이 녹으면서 생긴 것이고, 나에게는 겨울이 떠나가는 소리지. 당신도 이 선물이 마음에 들면 좋겠군.",
+                "cn": "博士，方便闭上眼睛吗？......好了，请听。这是我录下的特尔斐河春汛时的流水声。春汛径流自荷谟伊山的融雪而来，于我，这就是冬天离去的声音。愿你也喜欢这件礼物。"
+            },
+            "asset": "char_4166_varkis/CN_043"
+        },
+        {
+            "id": "char_4166_varkis_CN_044",
+            "title": {
+                "en": "Anniversary Celebration",
+                "jp": "周年",
+                "kr": "애니버서리",
+                "cn": "周年庆典"
+            },
+            "text": {
+                "en": "Might and mercy rarely walk together. Greed grows continuously when unchecked. But the Rhodes Island… I would not have believed that people like you could exist, before I saw it with my own eyes. I still don't believe you will succeed... but I hope so.",
+                "jp": "強さと善良さは両立しがたい。罰則による制限のない欲望は必ずや膨れ上がる。だがロドスは……この目で拝むまでは、大地にあなたたちのような人や物事が存在するとは信じられなかった。今も、成功するとは信じきれない……だが、願っている。あなたたちが成し遂げることを。",
+                "kr": "강함과 선함은 양립하기 어렵다. 벌칙으로 제어되지 않는 욕망은 반드시 부풀어 오르지. 허나, 로도스 아일랜드는…… 내 눈으로 보기 전까지는, 대지에 당신네 같은 사람이나 사물이 존재한다고는 믿을 수 없었다. 지금도 성공하리라고는 믿을 수 없어…… 허나, 바라고 있다. 당신들이 해내기를.",
+                "cn": "强大和良善难以并存。难获惩罚的欲望必然膨胀。但，罗德岛......亲见之前，我不相信这片大地有如你们一般的人与事存在。我依旧无法相信你们会成功......但我希望你们能。"
+            },
+            "asset": "char_4166_varkis/CN_044"
+        }
+    ],
+    "actors": {
+        "en": {
+            "native": "Greg Jones",
+            "global": "Greg Jones"
+        },
+        "cn": {
+            "native": "孟祥龙",
+            "global": "Xianglong Meng"
+        },
+        "jp": {
+            "native": "鶴岡聡",
+            "global": "Satoshi Tsuruoka"
+        },
+        "kr": {
+            "native": "장지민",
+            "global": "Jang Ji-min"
+        }
+    },
+    "availability": [
+        "en",
+        "cn",
+        "jp",
+        "kr"
+    ]
+}

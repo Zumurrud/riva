@@ -146,7 +146,7 @@
             },
             "text": {
                 "en": "I... I miss my parents, and I do want to find them. I think about them all the time... but if I leave now, I don't think I could do anything by myself... So... Doctor, could you please teach me how to fight? I don't want everyone to think of me as some kind of kitchen girl!",
-                "jp": "グムね……本当は何度もお父さんやお母さんを探しに行こうと思ったんだ……。でもね、もし今みんなから離れたら、グム、なんにもできなくなる気がするんだ……。だから、ドクターお願い！グムに食事の支度だけじゃなくて、戦い方も教えて！",
+                "jp": "グムね……本当は何度もお父さんやお母さんを探しに行こうと思ったんだ……でもね、もし今みんなから離れたら、グム、なんにもできなくなる気がするんだ……だから、ドクターお願い！グムに食事の支度だけじゃなくて、戦い方も教えて！",
                 "kr": "굼은 있잖아…… 사실은 몇 번이나 아빠나 엄마를 찾으러 가려고 했었거든…… 근데, 혹시 지금 모두를 떠나게 되면 굼은 아무것도 못 할 것 같은 느낌이 들더라고…… 그니까 박사, 부탁할게! 굼한테 식사 준비뿐만 아니라, 싸우는 법도 배울 수 있게 해줘!",
                 "cn": "古米......也想找到爸爸妈妈，想了很多次了，可是，如果现在古米离开大家的话，也许真的什么都做不到......所以，拜托博士！古米不想只是给大家准备食材，也想学会怎么战斗！"
             },
@@ -594,7 +594,7 @@
             },
             "text": {
                 "en": "Afternoon, Doctor... a big crowd kept me in the kitchen late last night, I had to make cakes in all different flavors... But I got the tastiest one I made right here. Happy birthday, Doctor! Say aahh—",
-                "jp": "哈~中午好，博士......昨天晚上，古米被一群哥哥姐姐困在厨房里做了一整晚各种口味的蛋糕......哼，不过，这一份才是古米做得最美味的，生日快乐博士！啊——",
+                "jp": "ふわ……ドクター、おはよー。グムね、みんなに頼まれて、キッチンで一晩中色んなケーキを作ってて……でも、へへ、一番美味しくできたのはこれなんだよ。ハッピーバースデー、ドクター！はい、あーん。",
                 "kr": "후아암~ 박사 안녕…… 어젯밤엔 언니 오빠들한테 붙잡혀서 밤새도록 다양한 맛의 케이크를 만들었어…… 흐흠, 그래도 가장 맛있게 잘 만들어진 건 이거지만 말이야. 생일 축하해, 박사! 아~",
                 "cn": "哈~中午好，博士......昨天晚上，古米被一群哥哥姐姐困在厨房里做了一整晚各种口味的蛋糕......哼，不过，这一份才是古米做得最美味的，生日快乐博士！啊——"
             },
@@ -634,7 +634,7 @@
             "native": "김채하",
             "global": "Kim Chae-ha"
         },
-        "rus": {
+        "ru": {
             "native": "Varvara Sarantzeva",
             "global": "Varvara Sarantzeva"
         }
@@ -644,6 +644,6 @@
         "cn",
         "jp",
         "kr",
-        "rus"
+        "ru"
     ]
 }

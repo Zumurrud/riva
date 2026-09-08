@@ -1,0 +1,644 @@
+{
+    "charid": "char_1038_whitw2_sale#15",
+    "nameid": "whitw2-sale",
+    "names": {
+        "en": "Lappland the Decadenza SALE",
+        "jp": "荒蕪ラップランド SALE",
+        "kr": "라플란드 더 데카덴차 SALE",
+        "cn": "荒芜拉普兰德 SALE"
+    },
+    "voices": [
+        {
+            "id": "char_1038_whitw2_sale#15_CN_001",
+            "title": {
+                "en": "Appointed as Assistant",
+                "jp": "秘書任命",
+                "kr": "어시스턴트 임명",
+                "cn": "任命助理"
+            },
+            "text": {
+                "en": "Ohi, Zaaro, still not done washing those glasses? Enough cracking the ice cubes, Caesar… Keep your hats on tight and ears perked up—we have to hear the new Boss's stirring speech before we open.",
+                "jp": "ちょっとザーロ、いつまでグラスを洗ってるの？カエサルも、氷磨きはもういいから……みんな、シルクハットを被ったら、耳をそばだててちゃんと聞いて。我らが新しいボスが、オープン前に心揺さぶるスピーチをしてくれるみたいだから。",
+                "kr": "어이 자로, 언제까지 잔 닦고 있을 거야? 카이사르도, 얼음은 이제 그만 다듬어도 되니까…… 다들, 모자 썼으면 귀 바짝 세우고 들어. 우리의 새로운 보스가 오픈 전에 가슴 떨리는 연설을 해 주실 모양이니까.",
+                "cn": "喂，扎罗，杯子还没有洗完？恺撒，别捣冰块了......都戴好礼帽，竖起耳朵，让我们欢迎新Boss在营业前来一段震撼人心的演讲。"
+            },
+            "asset": "char_1038_whitw2_sale#15/CN_001"
+        },
+        {
+            "id": "char_1038_whitw2_sale#15_CN_002",
+            "title": {
+                "en": "Talk 1",
+                "jp": "会話1",
+                "kr": "대화 1",
+                "cn": "交谈1"
+            },
+            "text": {
+                "en": "An unlicensed bar, an omnipotent bartender, and one simple rule: You're the Boss today, free to dominate all that you see. Haha, put all your embarrassing desires onto the wine list.",
+                "jp": "無許可営業のバーに何でもできるバーテンダー、それからとってもシンプルなルールが一つ――今日一日はキミがボスで、このすべてを好きにして構わない。ハハッ、キミを困らせる「お願い」は全部ドリンクメニューに加えておくからね。",
+                "kr": "무허가 영업 바에 뭐든지 할 수 있는 바텐더 그리고 아주 심플한 룰 하나…… 오늘 하루는 네가 보스고, 이 모든 걸 맘대로 해도 좋아. 하핫, 널 곤란하게 만들 '부탁'은 전부 드링크 메뉴에 추가해 놓을 테니까.",
+                "cn": "一家无证经营的酒吧，一位无所不能的调酒师，一个无比简单的规则：今天之内你是Boss，主宰眼前的一切。哈哈，把那些让你为难的愿望都加进酒单吧。"
+            },
+            "asset": "char_1038_whitw2_sale#15/CN_002"
+        },
+        {
+            "id": "char_1038_whitw2_sale#15_CN_003",
+            "title": {
+                "en": "Talk 2",
+                "jp": "会話2",
+                "kr": "대화 2",
+                "cn": "交谈2"
+            },
+            "text": {
+                "en": "Try it. It's a 'Demon Sunrise', brought here by your predecessor, a refugee Snowpriest from Sami. Good stuff, no? I know you won't disappoint us—even if the wolves tear you to shreds, your legacy will only grow.",
+                "jp": "どうぞご賞味あれ。この「デーモン・サンライズ」は、前のボスだった人――サーミから逃げてきたあの雪祭司が持ってきた逸品なんだ。わかってるよ、キミは絶対ボクをがっかりさせたりしないって。最後には狼の群れに引き裂かれることになるとしても、キミはあいつよりたくさん遺産を遺してくれるだろうからね。",
+                "kr": "한 번 맛보시길. 이 '데몬 선라이즈'는, 전 보스였던 사람…… 사미에서 도망쳐 온 그 제사장이 가져온 물건이야. 알고 있다고. 넌 절대로 날 실망시키지 않을 거라는 걸. 마지막에는 늑대 무리에게 찢긴다 해도, 너는 그 녀석보다 많은 유산을 남겨줄 테니까 말이지.",
+                "cn": "尝尝。这杯酒叫“邪魔日出”，是上一任Boss，那个逃难的雪祀从萨米带来的好东西。我知道你肯定不会让我们失望，就算最后被狼群撕碎，你的遗产也只会更多。"
+            },
+            "asset": "char_1038_whitw2_sale#15/CN_003"
+        },
+        {
+            "id": "char_1038_whitw2_sale#15_CN_004",
+            "title": {
+                "en": "Talk 3",
+                "jp": "会話3",
+                "kr": "대화 3",
+                "cn": "交谈3"
+            },
+            "text": {
+                "en": "Done for the day! The place is yours now, I trust you have the time and space to tinker with your 'secrets'. Call it the Boss's privilege. Zaaro, is the car still not ready? Ssh—a word of advice: Don't ask where your employees go after work.",
+                "jp": "はい、仕事お終い！それじゃ、店のことは任せるよ。これでキミには、ヒミツの計画を練るための時間と空間ができるわけだ。まさしくボスの特権だね。ザーロ、車のエンジンはもうかけてあるよね？シーッ。忠告しておくけど、従業員が退勤した後の行き先は詮索しないようにね。",
+                "kr": "자, 일 끝! 그러면 가게 잘 부탁할게. 이걸로 네겐 비밀 계획을 구상할 수 있는 시간과 공간이 생긴 셈이지. 그야말로 보스의 특권이네. 자로, 차 시동 걸어 놨지? 쉿, 충고해 두겠는데, 종업원이 퇴근한 다음에 어디 가는지는 캐묻지 말라고.",
+                "cn": "收工！店交给你了，现在你有足够的时间和空间鼓捣自己的秘密了，这是Boss的特权。扎罗，车子还没发动好？嘘——忠告：员工下班后去哪儿，别多问。"
+            },
+            "asset": "char_1038_whitw2_sale#15/CN_004"
+        },
+        {
+            "id": "char_1038_whitw2_sale#15_CN_005",
+            "title": {
+                "en": "Talk after Promotion 1",
+                "jp": "昇進後会話1",
+                "kr": "1차 정예화 후 대화",
+                "cn": "晋升后交谈1"
+            },
+            "text": {
+                "en": "Of course I like the bar. Without it, where would I find the inspiration for new games to play? It's lawless? Hmph, Agnese, why don't you tell our good Boss, how we've been waiting every day for the police to knock on our door with an arrest warrant? It can't be helped, we get either baddies, or poor things like you.",
+                "jp": "この店のことは、もちろん気に入ってるよ。ここがなかったら、新しいゲームのアイデアをどこで得ればいいの？今、「無法地帯」って言った？チッ、アンニェーゼ、ボスに教えてあげてよ。ボクたちは毎日、警察が罰金を徴収しに来るのを待ってるってこと。でも、実際訪ねてくるのは悪党か、キミみたいな可哀そうな人だけなんだから、しょうがないじゃない。",
+                "kr": "이 가게, 물론 마음에 들지. 여기가 없다면 새 게임 아이디어를 어디서 얻겠어? 지금 '무법지대'라고 했어? 쳇. 아녜제, 보스한테 알려줘. 우리는 매일 경찰이 벌금 걷으러 오길 기다리고 있다고. 그래도, 실제로 오는 건 악당이나 너처럼 불쌍한 사람뿐이니까, 어쩔 수 없잖아.",
+                "cn": "我当然喜欢这家店，没了它，设计新游戏的灵感从哪儿来？无法无天？啧，阿涅塞，告诉Boss，我们是不是每天都在等警察上门开罚单？真无奈啊，来的不是坏种就是你这样的可怜人。"
+            },
+            "asset": "char_1038_whitw2_sale#15/CN_005"
+        },
+        {
+            "id": "char_1038_whitw2_sale#15_CN_006",
+            "title": {
+                "en": "Talk after Promotion 2",
+                "jp": "昇進後会話2",
+                "kr": "2차 정예화 후 대화",
+                "cn": "晋升后交谈2"
+            },
+            "text": {
+                "en": "I said before I want you to be my enemy, but this doesn't stop me from realizing your wishes. Texas is no stranger to this either. This bar will be a valve for the swamp. You can decide to turn it off, or let the mud flow. Isn't this much more interesting than being boring old enemies?",
+                "jp": "キミにはゲームの相手に――ボクの敵になってほしいって言ったけど、それはキミの願いを叶えてあげることとは矛盾しないんだ。テキサスにならわかるんじゃないかな。この店は泥沼の水門みたいなもので、ボクがそれを閉めるか開くかはキミ次第。こういう関係って、単なる敵同士より面白いと思わない？",
+                "kr": "네가 게임 상대, 즉 내 적이 되었으면 한다고 말했지만, 그건 네 소원을 이뤄주는 것과 모순되지 않아. 텍사스라면 알 수 있지 않을까나. 이 가게는 늪지대의 수문 같은 거라, 내가 그걸 닫을지 열지는 너 하기 나름이야. 이런 관계, 단순히 적이 되는 것보다 재밌다고 생각하지 않아?",
+                "cn": "我是说过要你做我的敌人，但这并不妨碍我实现你的愿望，德克萨斯应该不陌生。这家店会成为泥潭的阀门，而你可以决定我将它拧紧还是打开。这种关系难道不比敌人有趣？"
+            },
+            "asset": "char_1038_whitw2_sale#15/CN_006"
+        },
+        {
+            "id": "char_1038_whitw2_sale#15_CN_007",
+            "title": {
+                "en": "Talk after Trust Increase 1",
+                "jp": "信頼上昇後会話1",
+                "kr": "신뢰도 상승 후 대화 1",
+                "cn": "信赖提升后交谈1"
+            },
+            "text": {
+                "en": "Done thinking, O savior of ours? Will you share a bottle with the Church of the Deep and the Yurodstvo, or perhaps consult the revenants on how to make Rhodes Island soar past the starpod? Haha, feel free to go wild—give yourself, and your employees, a challenge!",
+                "jp": "救世主さん、どうするか決まった？んー、深海教会と佯狂者を同席させて一杯やらせてみるとか、あるいはレヴァナントに、ロドスが星のさやを突破する方法を相談してみるとか？ハハッ、なんでも言ってよ。キミ自身と、ボクたち従業員に、やりがい溢れる試練を与えるんだ！",
+                "kr": "구세주 씨, 어떻게 할지 정했어? 음~ 심해 교회랑 유로지비를 한자리에 앉혀서 한잔하게 한다든가, 아니면 레버넌트한테 로도스 아일랜드가 별깍지를 돌파할 방법을 상담해 본다든가? 하핫, 뭐든 말만 하라고. 너 자신과 우리 종업원들에게, 보람찬 시련을 주는 거야!",
+                "cn": "考虑好了吗，救世主？是安排深海教会和圣愚坐下来喝一杯，还是找死魂灵商量怎么让罗德岛飞出星荚？哈哈，尽管吩咐，给你自己，也给我们这些员工一些挑战！"
+            },
+            "asset": "char_1038_whitw2_sale#15/CN_007"
+        },
+        {
+            "id": "char_1038_whitw2_sale#15_CN_008",
+            "title": {
+                "en": "Talk after Trust Increase 2",
+                "jp": "信頼上昇後会話2",
+                "kr": "신뢰도 상승 후 대화 2",
+                "cn": "信赖提升后交谈2"
+            },
+            "text": {
+                "en": "Yes, the Cyclops in the recording was a Boss once. He tried using the 'tragic future' glimpsed through his foresight to change my rules, but what a pity—just five minutes before his shift ended, he threw up blood and died… Oh, you're an expert in this field too, no?",
+                "jp": "そうだよ、そこに映ってるサイクロプスも、前にうちのボスをやってた人。彼は自分が視た「悲惨な未来」を利用して、ボクのルールを書き換えようとしたんだけどね。残念なことに、任期満了まであと五分ってところで血反吐を吐いて死んじゃったんだ……あ、そういえばキミもその方面の専門家だったよね？",
+                "kr": "그래, 거기 나오는 사이클롭스도 예전에 우리 보스였던 사람이야. 자기가 봤던 '비참한 미래'를 이용해서 내 룰을 다시 쓰려고 했지만 말이지. 안타깝게도, 임기 만료까지 5분 남은 시점에 피를 토하고 죽어버렸어…… 아, 그러고 보니 너도 그쪽 방면엔 전문가였지?",
+                "cn": "嗯，录像里的独眼巨人也当过Boss。他试图用预见的那些“悲惨未来”改写我的规则，可惜啊，在距离交班不到五分钟的时候，他吐血死了......欸，你也是这方面的行家吧？"
+            },
+            "asset": "char_1038_whitw2_sale#15/CN_008"
+        },
+        {
+            "id": "char_1038_whitw2_sale#15_CN_009",
+            "title": {
+                "en": "Talk after Trust Increase 3",
+                "jp": "信頼上昇後会話3",
+                "kr": "신뢰도 상승 후 대화 3",
+                "cn": "信赖提升后交谈3"
+            },
+            "text": {
+                "en": "An ice cube? Open your eyes, Boss. That's a roccia in your glass. Do you want to see its creator, your old friend? In this bar, you can do it all. Of course I know the thing, and of course I can do it. For the low price of… suffering? Haha, I'd be glad to oblige!",
+                "jp": "氷じゃないよ、しっかり見てよボス。そのグラスに入ってるのは石ころだ。それの主に――キミの古いお友達に会いたい？この店でなら、そんな願いだって叶えられるんだ。もちろんボクは君の願いくらい知ってるし、全部解決してあげられるよ。悲惨な代償が伴うって？ハハッ、余計に楽しみになってきたよ！",
+                "kr": "얼음이 아니야. 잘 보라고, 보스. 그 잔에 들어있는 건 돌멩이야. 그 주인…… 네 오랜 친구를 만나고 싶어? 이 가게에서라면 그런 소원도 이룰 수 있지. 물론 나는 네 소원쯤은 알고 있고, 전부 해결해 줄 수도 있어. 비참한 대가가 따라온다고? 하핫, 오히려 더 흥미진진해지는데!",
+                "cn": "冰块？睁大眼睛，Boss，酒杯里是一块石头。你想见见它的主人，你的老朋友吗？在这家店里，你有机会彻底搞定这一切。我当然知道，我当然做得到。惨痛的代价？哈哈，我兴致盎然！"
+            },
+            "asset": "char_1038_whitw2_sale#15/CN_009"
+        },
+        {
+            "id": "char_1038_whitw2_sale#15_CN_010",
+            "title": {
+                "en": "Idle",
+                "jp": "放置",
+                "kr": "방치",
+                "cn": "闲置"
+            },
+            "text": {
+                "en": "Still undecided? Haha, just a friendly reminder: The ice's melted—it's rude to keep a bartender and her drinks waiting.",
+                "jp": "まだ決めてないの？ハハッ、一応忠告しておくけど、バーテンダーの前で、氷が解けるまでお酒に手を付けないなんてすっごく失礼なことだからね。",
+                "kr": "아직 못 정했어? 하핫, 일단 충고해 두는데, 바텐더 앞에서 얼음이 녹을 때까지 술에 손도 안 대는 건 엄청난 실례라고.",
+                "cn": "还没想好？哈哈，我只是想提醒你，对调酒师来说，冰化了，酒没动，非常不礼貌。"
+            },
+            "asset": "char_1038_whitw2_sale#15/CN_010"
+        },
+        {
+            "id": "char_1038_whitw2_sale#15_CN_011",
+            "title": {
+                "en": "Onboard",
+                "jp": "入職会話",
+                "kr": "오퍼레이터 입사",
+                "cn": "干员报到"
+            },
+            "text": {
+                "en": "Haha, keep your hood on. You're the Boss of this bar now. Lappland and her merry pack of wolves, at your service.",
+                "jp": "ハハッ、フードはそのままでどうぞ。今やあなたはこのバーのボスなんですから。ラップランドとその狼の群れが、誠心誠意お仕えしましょう。",
+                "kr": "하핫, 후드는 그대로 둬. 이제 당신은 이 바의 보스니까. 라플란드와 그 늑대 무리가 성심성의껏 모시도록 하지.",
+                "cn": "哈哈，不必摘帽，您现在就是这家酒吧的Boss。拉普兰德与她的狼群，竭诚为您服务。"
+            },
+            "asset": "char_1038_whitw2_sale#15/CN_011"
+        },
+        {
+            "id": "char_1038_whitw2_sale#15_CN_012",
+            "title": {
+                "en": "Watching Battle Record",
+                "jp": "経験値上昇",
+                "kr": "작전기록 학습",
+                "cn": "观看作战记录"
+            },
+            "text": {
+                "en": "There is nothing new under the twin moons.",
+                "jp": "大地の上に新しきものなし、だね。",
+                "kr": "대지 위에 새로운 것은 없다는 거지.",
+                "cn": "大地之上无新事。"
+            },
+            "asset": "char_1038_whitw2_sale#15/CN_012"
+        },
+        {
+            "id": "char_1038_whitw2_sale#15_CN_013",
+            "title": {
+                "en": "Promotion 1",
+                "jp": "昇進Ⅰ",
+                "kr": "1차 정예화 (승진)",
+                "cn": "精英化晋升1"
+            },
+            "text": {
+                "en": "Congratulations! The wolfpack and I have not lost patience with you, for now.",
+                "jp": "おめでとう。ボクも狼たちも、まだ飽きちゃわずに済んでるよ。",
+                "kr": "축하해. 나도 늑대들도 아직 질리지 않았거든.",
+                "cn": "恭喜你，我和狼群暂时还没失去耐心。"
+            },
+            "asset": "char_1038_whitw2_sale#15/CN_013"
+        },
+        {
+            "id": "char_1038_whitw2_sale#15_CN_014",
+            "title": {
+                "en": "Promotion 2",
+                "jp": "昇進Ⅱ",
+                "kr": "2차 정예화 (승진)",
+                "cn": "精英化晋升2"
+            },
+            "text": {
+                "en": "My gratitude, Boss. You've instilled a passion in us for our work—for now, at least.",
+                "jp": "ボスに心からの感謝を捧げるよ。おかげでボクらは仕事に情熱を持っていられてるから――少なくとも、今のところはね。",
+                "kr": "보스에게 진심으로 감사를 표할게. 덕분에 우리가 일에 열정을 가질 수 있으니까…… 적어도, 지금까진 말이지.",
+                "cn": "发自肺腑地向你致谢，Boss，你让我们在工作时很有激情——起码现在还是。"
+            },
+            "asset": "char_1038_whitw2_sale#15/CN_014"
+        },
+        {
+            "id": "char_1038_whitw2_sale#15_CN_017",
+            "title": {
+                "en": "Added to Squad",
+                "jp": "編成",
+                "kr": "팀 배치",
+                "cn": "编入队伍"
+            },
+            "text": {
+                "en": "Ohi, Vargo. Get our thirsty Boss and me a couple shots of whiskey to wet our whistles.",
+                "jp": "ねえバーゴ、ボクとボスにウイスキーでもちょうだい。口をすすぎたいんだ。",
+                "kr": "어이 바르고, 여기 나랑 보스한테 위스키라도 좀 줘. 입가심이 하고 싶은걸.",
+                "cn": "喂，瓦古，倒杯威士忌给我和Boss漱漱口。"
+            },
+            "asset": "char_1038_whitw2_sale#15/CN_017"
+        },
+        {
+            "id": "char_1038_whitw2_sale#15_CN_018",
+            "title": {
+                "en": "Appointed as Squad Leader",
+                "jp": "隊長任命",
+                "kr": "팀장 임명",
+                "cn": "任命队长"
+            },
+            "text": {
+                "en": "I'm still waiting for you to tell me what 'order' means.",
+                "jp": "「秩序」の何たるかなんて、キミに教えてもらうほうがいいんだけどな。",
+                "kr": "'질서'가 뭔지는, 너한테 배우는 게 더 나은데 말이야.",
+                "cn": "我还是更期待你来告诉我，何为“秩序”。"
+            },
+            "asset": "char_1038_whitw2_sale#15/CN_018"
+        },
+        {
+            "id": "char_1038_whitw2_sale#15_CN_019",
+            "title": {
+                "en": "Depart",
+                "jp": "作戦準備",
+                "kr": "작전 출발",
+                "cn": "行动出发"
+            },
+            "text": {
+                "en": "Earlier opening hours? You're the Boss.",
+                "jp": "前倒しでオープンするの？ボスのお気に召すまま。",
+                "kr": "조기 오픈이야? 보스가 원하시는 대로.",
+                "cn": "提前营业？你说了算，Boss。"
+            },
+            "asset": "char_1038_whitw2_sale#15/CN_019"
+        },
+        {
+            "id": "char_1038_whitw2_sale#15_CN_020",
+            "title": {
+                "en": "Begin Operation",
+                "jp": "戦闘開始",
+                "kr": "작전 개시",
+                "cn": "行动开始"
+            },
+            "text": {
+                "en": "You want some ice to chew on? Keeps the pain away, and keeps you awake.",
+                "jp": "氷でも食べる？痛みが和らぐし、意識もはっきりするよ。",
+                "kr": "얼음이라도 먹을래? 통증도 완화되고, 의식도 또렷해진다고.",
+                "cn": "嚼冰块吗？止疼，还能保持清醒。"
+            },
+            "asset": "char_1038_whitw2_sale#15/CN_020"
+        },
+        {
+            "id": "char_1038_whitw2_sale#15_CN_021",
+            "title": {
+                "en": "Selecting Operator 1",
+                "jp": "選択時1",
+                "kr": "오퍼레이터 선택 1",
+                "cn": "选中干员1"
+            },
+            "text": {
+                "en": "Ohi, Zaaro! Patience!",
+                "jp": "ちょっとザーロ、我慢して！",
+                "kr": "어이 자로, 참아!",
+                "cn": "喂，扎罗，耐心点！"
+            },
+            "asset": "char_1038_whitw2_sale#15/CN_021"
+        },
+        {
+            "id": "char_1038_whitw2_sale#15_CN_022",
+            "title": {
+                "en": "Selecting Operator 2",
+                "jp": "選択時2",
+                "kr": "오퍼레이터 선택 2",
+                "cn": "选中干员2"
+            },
+            "text": {
+                "en": "Haha, was that a yawn from me?",
+                "jp": "ハハッ、ボク、あくびしちゃってた？",
+                "kr": "하핫, 나 하품했었나?",
+                "cn": "哈哈，我打哈欠了吗？"
+            },
+            "asset": "char_1038_whitw2_sale#15/CN_022"
+        },
+        {
+            "id": "char_1038_whitw2_sale#15_CN_023",
+            "title": {
+                "en": "Deployment 1",
+                "jp": "配置1",
+                "kr": "배치 1",
+                "cn": "部署1"
+            },
+            "text": {
+                "en": "Interesting! Agnese, Vargo. Don't get in my way.",
+                "jp": "面白いなぁ～。アンニェーゼ、バーゴ、よく見えないからどいて。",
+                "kr": "재밌네~ 아녜제, 바르고, 잘 안 보이니까 비켜봐.",
+                "cn": "有趣~阿涅塞，瓦古，别挡着我。"
+            },
+            "asset": "char_1038_whitw2_sale#15/CN_023"
+        },
+        {
+            "id": "char_1038_whitw2_sale#15_CN_024",
+            "title": {
+                "en": "Deployment 2",
+                "jp": "配置2",
+                "kr": "배치 2",
+                "cn": "部署2"
+            },
+            "text": {
+                "en": "What a bore… Zaaro, Caesar. Sweep the place, quickly.",
+                "jp": "つまらないなぁ～。ザーロ、カエサル、さっさと片付けちゃって。",
+                "kr": "시시하네~ 자로, 카이사르, 빨리 치워버려.",
+                "cn": "无聊~扎罗，恺撒，赶紧清场。"
+            },
+            "asset": "char_1038_whitw2_sale#15/CN_024"
+        },
+        {
+            "id": "char_1038_whitw2_sale#15_CN_025",
+            "title": {
+                "en": "In Battle 1",
+                "jp": "作戦中1",
+                "kr": "작전 중 1",
+                "cn": "作战中1"
+            },
+            "text": {
+                "en": "Here you go—a 'Civilizzato Classico'.",
+                "jp": "オリジナルカクテル――「シヴィルタ・クラシック」。",
+                "kr": "오리지널 칵테일, '치빌리차토 클라시코'.",
+                "cn": "酒单——“文明经典”。"
+            },
+            "asset": "char_1038_whitw2_sale#15/CN_025"
+        },
+        {
+            "id": "char_1038_whitw2_sale#15_CN_026",
+            "title": {
+                "en": "In Battle 2",
+                "jp": "作戦中2",
+                "kr": "작전 중 2",
+                "cn": "作战中2"
+            },
+            "text": {
+                "en": "Enjoy—'Barrenlands' Special Brew'.",
+                "jp": "オリジナルカクテル――「デザルト・スペシャル」。",
+                "kr": "오리지널 칵테일, '배런랜즈 스페셜 브루'.",
+                "cn": "酒单——“荒野特调”。"
+            },
+            "asset": "char_1038_whitw2_sale#15/CN_026"
+        },
+        {
+            "id": "char_1038_whitw2_sale#15_CN_027",
+            "title": {
+                "en": "In Battle 3",
+                "jp": "作戦中3",
+                "kr": "작전 중 3",
+                "cn": "作战中3"
+            },
+            "text": {
+                "en": "Bartender's Choice—'Custom-made Quagmire'.",
+                "jp": "おまかせカクテル――「パンターノ・オーダーメイド」。",
+                "kr": "바텐더 추천 칵테일, '커스텀 메이드 콰그마이어'.",
+                "cn": "调酒师心情——“泥潭定制”。"
+            },
+            "asset": "char_1038_whitw2_sale#15/CN_027"
+        },
+        {
+            "id": "char_1038_whitw2_sale#15_CN_028",
+            "title": {
+                "en": "In Battle 4",
+                "jp": "作戦中4",
+                "kr": "작전 중 4",
+                "cn": "作战中4"
+            },
+            "text": {
+                "en": "It's happy hour!",
+                "jp": "ハッピーアワー！",
+                "kr": "해피 아워~!",
+                "cn": "Happy hour！"
+            },
+            "asset": "char_1038_whitw2_sale#15/CN_028"
+        },
+        {
+            "id": "char_1038_whitw2_sale#15_CN_029",
+            "title": {
+                "en": "4-star Result",
+                "jp": "高難度作戦クリア",
+                "kr": "고난이도 작전 종료",
+                "cn": "完成高难行动"
+            },
+            "text": {
+                "en": "All drinks on the house.",
+                "jp": "ここはぜーんぶボクの奢りだ！",
+                "kr": "여긴 전부 내가 쏜다!",
+                "cn": "全场免单。"
+            },
+            "asset": "char_1038_whitw2_sale#15/CN_029"
+        },
+        {
+            "id": "char_1038_whitw2_sale#15_CN_030",
+            "title": {
+                "en": "3-star Result",
+                "jp": "★3で戦闘終了",
+                "kr": "3★ 작전 종료",
+                "cn": "3星结束行动"
+            },
+            "text": {
+                "en": "Not bad. I haven't seen the wolfpack so enthusiastic in a long while.",
+                "jp": "やるじゃない。狼たちがこんなに熱心に頑張ってるのは久々に見たよ。",
+                "kr": "제법인데. 늑대들이 이렇게 열심히 하는 건 오랜만에 봤어.",
+                "cn": "干得不错，好久没见到这群狼这么有热情了。"
+            },
+            "asset": "char_1038_whitw2_sale#15/CN_030"
+        },
+        {
+            "id": "char_1038_whitw2_sale#15_CN_031",
+            "title": {
+                "en": "Sub 3-star Result",
+                "jp": "★2以下戦闘終了",
+                "kr": "비 3★ 작전 종료",
+                "cn": "非3星结束行动"
+            },
+            "text": {
+                "en": "Is this what you wanted? You know the price of boring me, don't you, Boss?",
+                "jp": "キミが欲しかったのはこれ？ボクをがっかりさせたらどうなるか、わかってるよね、ボス？",
+                "kr": "네가 원했던 게 이거야? 나를 실망시키면 어떻게 되는지 알지, 보스?",
+                "cn": "这就是你想要的？你知道让我期待落空的代价吧，Boss？"
+            },
+            "asset": "char_1038_whitw2_sale#15/CN_031"
+        },
+        {
+            "id": "char_1038_whitw2_sale#15_CN_032",
+            "title": {
+                "en": "Operation Failure",
+                "jp": "作戦失敗",
+                "kr": "작전 실패",
+                "cn": "行动失败"
+            },
+            "text": {
+                "en": "When will a new Boss come…? Zaaro, why isn't this one gone yet?",
+                "jp": "新しいボスはいつ来るのかな……ねえザーロ、どうしてこいつまだいるの？",
+                "kr": "새 보스는 언제 오려나…… 어이 자로, 왜 이 녀석이 아직도 있어?",
+                "cn": "新Boss什么时候来呢......扎罗，这个人为什么还没消失？"
+            },
+            "asset": "char_1038_whitw2_sale#15/CN_032"
+        },
+        {
+            "id": "char_1038_whitw2_sale#15_CN_033",
+            "title": {
+                "en": "Assigned to Facility",
+                "jp": "基地配属",
+                "kr": "시설에 배치",
+                "cn": "进驻设施"
+            },
+            "text": {
+                "en": "So this is the decor you're planning to draw crowds with?",
+                "jp": "こんな店構えでお客様を呼び込むつもりなんだ？",
+                "kr": "이런 규모로 손님을 끌어모을 생각이라고?",
+                "cn": "你打算用这样的装修招徕客人？"
+            },
+            "asset": "char_1038_whitw2_sale#15/CN_033"
+        },
+        {
+            "id": "char_1038_whitw2_sale#15_CN_034",
+            "title": {
+                "en": "Tap",
+                "jp": "タッチ1",
+                "kr": "터치",
+                "cn": "戳一下"
+            },
+            "text": {
+                "en": "Olives for you? Yes, I've changed the specials again.",
+                "jp": "オリーブ食べる？うん、今はこれにハマってるんだ。",
+                "kr": "올리브 먹을래? 응, 요즘은 이거에 빠졌거든.",
+                "cn": "吃橄榄吗？是的，我又换口味了。"
+            },
+            "asset": "char_1038_whitw2_sale#15/CN_034"
+        },
+        {
+            "id": "char_1038_whitw2_sale#15_CN_036",
+            "title": {
+                "en": "Trust Tap",
+                "jp": "信頼タッチ",
+                "kr": "신뢰도 터치",
+                "cn": "信赖触摸"
+            },
+            "text": {
+                "en": "Zaaro, bite down on the Boss's head. I want to see what's inside.",
+                "jp": "ザーロ、ボスの頭を半分食いちぎってあげて。中身を確かめてみたいから。",
+                "kr": "자로, 보스 머리를 절반만 물어뜯어 봐. 안에 든 걸 확인해 보고 싶거든.",
+                "cn": "扎罗，啃下Boss半个脑袋，我要看看里面装着什么。"
+            },
+            "asset": "char_1038_whitw2_sale#15/CN_036"
+        },
+        {
+            "id": "char_1038_whitw2_sale#15_CN_037",
+            "title": {
+                "en": "Title",
+                "jp": "タイトルコール",
+                "kr": "타이틀",
+                "cn": "标题"
+            },
+            "text": {
+                "en": "Arknights.",
+                "jp": "アークナイツ。",
+                "kr": "명일방주.",
+                "cn": "明日方舟。"
+            },
+            "asset": "char_1038_whitw2_sale#15/CN_037"
+        },
+        {
+            "id": "char_1038_whitw2_sale#15_CN_038",
+            "title": {
+                "en": "New Year's blessing",
+                "jp": "新年",
+                "kr": "새해",
+                "cn": "新年祝福"
+            },
+            "text": {
+                "en": "Here, a vodka martini with five olives. Don't worry, just sample your employee's craft. Bravo. One more shot, and tell me all about your grand master plan to save or destroy Terra—this will be my New Year's gift to you.",
+                "jp": "はい、ウォッカマティーニ。オリーブは五つ入れてあるよ。そんなに身構えなくても、従業員が作ったお酒を味見するだけでしょ……いいね、もう一杯おかわりどうぞ。キミにテラを救うか壊すかする壮大な計画を心ゆくまで語ってもらうっていうのが、ボクからの新年祝いなんだ。",
+                "kr": "자, 보드카 마티니. 올리브는 다섯 개 넣었어. 그렇게 경계 안 해도 돼. 종업원이 만든 술을 맛보는 것뿐이잖아…… 좋네, 한 잔 더 해. 네가 테라를 구원할지 파괴할지에 대한 장대한 계획을 마음껏 얘기하게 해주는 게, 내가 주는 새해 선물이야.",
+                "cn": "给你，伏特加马提尼，加了五颗橄榄。别有心理负担，只是尝尝员工调的酒而已。追加一杯，再好好讲讲你拯救或者毁灭泰拉的大计划，这才是我为你准备的新年礼物。"
+            },
+            "asset": "char_1038_whitw2_sale#15/CN_038"
+        },
+        {
+            "id": "char_1038_whitw2_sale#15_CN_042",
+            "title": {
+                "en": "Greeting",
+                "jp": "挨拶",
+                "kr": "인사",
+                "cn": "问候"
+            },
+            "text": {
+                "en": "Friendly reminder—you're running out of time to boss me around.",
+                "jp": "一つお知らせしておくけど――ボクが命令を聞く時間は、もう残り少ないからね。",
+                "kr": "하나 얘기해 두는데…… 내가 명령을 들을 시간은 이제 얼마 안 남았거든.",
+                "cn": "友情提醒——留给我听你发号施令的时间不多了。"
+            },
+            "asset": "char_1038_whitw2_sale#15/CN_042"
+        },
+        {
+            "id": "char_1038_whitw2_sale#15_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": "I get it, a wish you've pondered a thousand times, when spoken aloud on your birthday, will double the chances of coming true—ohi, my wolves and I are right before you, so why are you still making your wish with your eyes closed?",
+                "jp": "わかってるよ。普段から何千回も考えてたことでも、誕生日に改まって真剣に口にすれば、それが叶う確率は何倍にもなるって――ちょっと、ボクも狼たちも目の前にいるでしょ？なんで目をつぶってお願いなんかしてるのさ？",
+                "kr": "알고 있어. 평소에 수천 번이나 생각했던 거라도, 생일에 진지하게 소리 내서 말하면 이루어질 확률이 몇 배는 높아진다고…… 잠깐, 나도 늑대들도 눈앞에 있잖아? 왜 눈 감고 소원을 비는 거야?",
+                "cn": "理解理解，明明是平时琢磨了千百遍的事情，在生日这天一本正经地说出来，成真的概率会翻倍嘛——喂，我和狼群就在面前，你为什么要闭着眼睛许愿？"
+            },
+            "asset": "char_1038_whitw2_sale#15/CN_043"
+        },
+        {
+            "id": "char_1038_whitw2_sale#15_CN_044",
+            "title": {
+                "en": "Anniversary Celebration",
+                "jp": "周年",
+                "kr": "애니버서리",
+                "cn": "周年庆典"
+            },
+            "text": {
+                "en": "A single ark, along with the fate of millions, haha. Same little ambition as always. Though, I truly can't imagine what exactly you'll destroy and leave behind… I expect you to reward me with that pleasant surprise, Boss.",
+                "jp": "船一艘と、無数の人の運命か。ハハッ、相変わらずスケールが大きいんだか小さいんだかわからないね。でも、キミが最後に何を焼き払って、何を残すのかは確かに想像つかないし……その瞬間の驚きこそが、キミに求める報酬なんだよ、ボス。",
+                "kr": "배 한 척과 수많은 사람의 운명이라. 하핫, 여전히 스케일이 큰 건지 작은 건지 모르겠네. 그래도, 마지막에 네가 뭘 태우고 뭘 남길지는 확실히 상상이 안 가기도 하고…… 그 순간의 놀라움이야말로, 너한테 바라는 보수야, 보스.",
+                "cn": "一艘船，亿万人的命运，哈哈，你还是那点出息。不过我确实猜不到，最终你会为此烧毁什么留下什么......那时候的惊喜，便是我向你讨要的报酬，Boss。"
+            },
+            "asset": "char_1038_whitw2_sale#15/CN_044"
+        }
+    ],
+    "actors": {
+        "en": {
+            "native": "Christina Kowalchuk",
+            "global": "Christina Kowalchuk"
+        },
+        "cn": {
+            "native": "陈彦亦",
+            "global": "Yee Chen"
+        },
+        "jp": {
+            "native": "今井麻美",
+            "global": "Asami Imai"
+        },
+        "kr": {
+            "native": "서유리",
+            "global": "Seo Yu-ri"
+        }
+    },
+    "availability": [
+        "en",
+        "cn",
+        "jp",
+        "kr"
+    ]
+}

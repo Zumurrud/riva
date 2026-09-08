@@ -17,7 +17,7 @@
                 "cn": "任命助理"
             },
             "text": {
-                "en": "Look carefully. The files are sorted by type, then time limit prioritization, then finally, by distance from nearest to farthest. This is the most efficient organization method! ...Wait, I seem to have done all the paperwork on accident. This... is supposed to be your job, right?",
+                "en": "Look carefully. Sort the files by type, then deadline and prioritization. Put urgent ones on top, others behind. That's the most efficient organization method. Wait... I seem to have inadvertently done all the paperwork. This was <i>supposed</i> to be your job, right?",
                 "jp": "よくご覧になって。文書は、こうして内容で区分したのち、重要度、緊急度、時系列順に並び替え、そして期日が迫っているものから処理していく。これが最も効率の良い方法です！……お待ちを、我知らずこの文書仕事を片付けてしまったようです。これは……あなたの仕事ですよね？",
                 "kr": "잘 보세요. 문서는 이렇게 내용으로 구분한 뒤에, 중요도, 긴급도, 시계열 순으로 정렬하고, 마감이 촉박한 것부터 처리해 나갑니다. 이게 가장 효율이 높은 방법입니다. 잠깐…… 지금 설명하다 보니까 문서 작업을 끝내버렸는데…… 이거, 당신 업무 아니에요?!",
                 "cn": "看仔细，文书先以事项分类，再依轻重缓急时限排列，最后从近至远推进，这样处理起来最有效率！......等等，这些文书工作我似乎都不小心完成了。这似乎......是你的工作？"
@@ -33,7 +33,7 @@
                 "cn": "交谈1"
             },
             "text": {
-                "en": "I've checked all files related to the elite Operator, Blaze, and there are no records of her real name, or place and date of birth. Don't tell me you don't know; aren't you supposed to be one of the leaders here? You really don't know? Then... nevermind. Sorry, I shouldn't have accused you.",
+                "en": "I've checked all files related to the elite operator, Blaze. There are no records of her real name, or place and date of birth. Don't tell me you don't know. Aren't you supposed to be one of the leaders here? You really have no idea? How...? What am I supposed to do here...? Ahem, I apologize for the inconvenience and distress, Doctor. I shouldn't have accused you.",
                 "jp": "エリートオペレーターであるブレイズの資料を一通り借覧いたしました。ですが彼女の本名、出身地、出生時間に関する記録は一切ありませんでした。存じ上げないとは言わせません、あなたもこちらの統率者の一人なのですから。本当にご存じない？では……どうすれば。いえ、ご容赦ください、あなたを誤解しておりました。",
                 "kr": "정예 오퍼레이터인 블레이즈의 자료를 대강 훑어봤습니다. 하지만 그 여자의 본명, 출신지, 출생 시간에 관한 기록은 전혀 없었습니다. 몰랐다는 말은 하지 마십시오. 당신도 이곳의 통솔자 중 한 명이니까요. 정말로 모른다고요? 그럼 어떻게 해야…… 아니, 용서하십시오. 당신을 오해하고 있었습니다.",
                 "cn": "我查阅过精英干员煌的所有档案，没有任何对她真名、出生地、出生时间的记录。别和我说你不知情，你明明是这里的领头人之一。真不知道？那这......如何是好。抱歉，我错怪你了。"
@@ -49,7 +49,7 @@
                 "cn": "交谈2"
             },
             "text": {
-                "en": "You don't need to be so cautious around me. Other than the case at hand, I'll treat everything else on the ship as if it never happened. But if there's another explosion in the hallway outside my room, I'll make the perpetrator's hair stand on end for two weeks!",
+                "en": "You don't need to be so cautious around me. Other than the case at hand, I'll treat everything else on the ship as if it never happened. But if there is another explosion in the corridor outside my room, I'll make the perpetrator's hair stand on end for two straight weeks!",
                 "jp": "どうぞお気兼ねなく。私が関わる案件以外では、艦内における全ての事象はもとから私の眼中にないものと同じですので。ですが、私の部屋沿いの通路でまた爆発騒ぎが起これば、犯人の髪を二週間ほど逆立たせて差し上げますのでご了承を！",
                 "kr": "그렇게 어려워하지 마십시오. 제가 관여하는 안건 말고, 함 내에서 일어나는 다른 일들은 애초부터 제 안중에 없는 거나 마찬가지니까요. 하지만, 제 방 쪽 통로에서 또 폭발 소동이 발생한다면, 범인의 머리카락을 2주 정도 거꾸로 세워 드릴 테니, 미리 양해 부탁드리죠!",
                 "cn": "不必太顾忌我。除我手上的案件外，舰上的所有事情，我一概会当作不曾发生。只不过，如果我门外的走道再发生爆炸，我就要让肇事者的头发竖上个两星期！"
@@ -65,8 +65,8 @@
                 "cn": "交谈3"
             },
             "text": {
-                "en": "'Assume the responsibilities for the post to which you are assigned.' As one of the leaders of Rhodes Island, is it not your duty to... Huh? My hair's standing up again? Hold on! G-give me a moment to fix my look first! Weird, I thought I had discharged all the static electricity this morning...",
-                "jp": "「其の位に在(あ)れば、.其の政(まつりごと)を謀(はか）るべし」との言葉通り、あなたもロドスの統率者の一人として、その責は決して……えっ？また髪がはねている？お待ちを！少々、少々整えて参ります！なんということ、電荷なら今朝一通り整えたはずなのに……。",
+                "en": "'Assume the responsibilities for the post to which you are assigned.' Doctor, as one of the leaders of Rhodes Island, it is not your duty to... Huh? My hair's standing up again? Hold on! G-Give me a moment to fix my look first! Strange, I thought I had discharged all the static electricity this morning...",
+                "jp": "「其の位に在(あ)れば、.其の政(まつりごと)を謀(はか）るべし」との言葉通り、あなたもロドスの統率者の一人として、その責は決して……えっ？また髪がはねている？お待ちを！少々、少々整えて参ります！なんということ、電荷なら今朝一通り整えたはずなのに……",
                 "kr": "“그 지위에 있지 않으면 그 일을 도모하지 않는다”는 말대로, 당신도 로도스 아일랜드의 통솔자 중 한 명으로서, 그 책임은 결코…… 네? 또 머리카락이 뻗쳤다고요? 잠시만요! 잠깐, 잠깐 정돈하고 오겠습니다! 어떻게 된 거지. 정전기라면 오늘 아침에 한번 정리하고 왔는데……",
                 "cn": "所谓“身在其位，当谋其政”，作为罗德岛的领头人之一，你的责任并不是......哎？发梢又翘起来了？稍等！容我先去、先去整理妆容！好奇怪，早上已经驱过一遍电荷了啊......"
             },
@@ -81,7 +81,7 @@
                 "cn": "晋升后交谈1"
             },
             "text": {
-                "en": "Even today, I can vaguely recall the first time I saw you in Lungmen. You, Blaze, and Ch'en... are all holding onto countless secrets... and I will uncover them one by one. You're willing to exchange secrets? Wait, y-you... it's t-too early for that...!",
+                "en": "Even today, I can vaguely recall the first time I saw you in Lungmen. You, Blaze, and Ch'en... are all holding onto countless secrets... and I will uncover them one by one. It's only fair to exchange secrets? Wha-What? You... No! It's t-too early for that...!",
                 "jp": "今もなお、龍門であなたたちと出会ったときの光景をうっすらと思い浮かべることができます。ブレイズ、あなた、チェン、それぞれが無数の秘密を抱えている……いつの日か解き明かして見せましょう。秘密を明かすならお互いに？いえ、あ、あなたにはまだ早い……早すぎます！",
                 "kr": "지금도 용문에서 당신들과 만났던 그때가 눈에 아른거립니다. 블레이즈도, 당신도, 첸도…… 각자 많은 비밀을 안고 있지요…… 언젠가는 전부 밝혀낼 겁니다. 비밀을 밝힐 거라면 서로 밝히자고요? 아니, 다, 당신에게는 아직 이르…… 너무 이릅니다!",
                 "cn": "时至今日，我也依稀能想起在龙门第一次见到你们的景象。煌，你，陈，身上都藏着无数秘密......我一定会一一揭开。秘密要相互交换？不，你，你，太早了......太早了！"
@@ -97,7 +97,7 @@
                 "cn": "晋升后交谈2"
             },
             "text": {
-                "en": "Ask me anything. Only when you speak up can I decide what is just and unjust, and whether I wish to take action. I need to take my identity into consideration? This has nothing to do with that! The Censorate, Central Judicial Office, and the Department of Discipline and Supervision... are only institutions. Laws can only be proven just when enforced by someone.",
+                "en": "Ask me anything. Only when you speak up can I decide what is just and unjust, and whether I wish to take action. I need to take my position into consideration? This has nothing to do with that. The Censorate, Judicial Review Office, Department of Discipline and Supervision... They are nothing but institutions. Law is only proven just when enforced by man.",
                 "jp": "何かあれば私にお尋ねください。あなたが自ら問うてこそ、私は是非を見極め、自身が参画すべきかを判断できるというもの。立場を気にする？これは立場とは関係ありません！御史台、大理寺、粛政院……どれもただの組織に過ぎません。法律は執行されてこそ、正義であることを証明できるのですから。",
                 "kr": "무슨 일이 있으면 저에게 질문하십시오. 당신이 직접 물어봐야만, 저는 시시비비를 가려 제가 참여해야 할지 말지를 판단할 수 있으니까요. 제 입장 때문이냐고요? 이건 입장과는 관계없습니다! 어사대, 대리사, 숙정원…… 이런 건 그저 단체일 뿐입니다. 법률은 집행되어야만, 비로소 정의라는 것을 증명할 수 있으니까요.",
                 "cn": "有事都可以问我。只有你开口问，我才能判断是非，决定自己要不要出手。顾及身份？这无关身份！御史台、大理寺、肃政院......都只是机构。有人执行时，法律才能证明自己是正义的。"
@@ -113,7 +113,7 @@
                 "cn": "信赖提升后交谈1"
             },
             "text": {
-                "en": "Rhodes Island's ideals conflict with my beliefs. However, I do recognize the necessity of seeking common ground while understanding our differences... The same is true when providing assistance in exchange for information.",
+                "en": "Rhodes Island's ideals conflict with my beliefs. However, I do recognize the necessity of agreeing to disagree while seeking common ground... So goes the necessity of providing assistance in exchange for information.",
                 "jp": "ロドスの理念と私の信念には相容れない部分があります。ですが共通点は良しとし相違点も尊重し合うことの必要性は理解しています……助力することにより情報を得る、この点においても同じです。",
                 "kr": "로도스 아일랜드의 이념은, 확실히 제 신념과는 맞지 않는 부분이 있죠. 하지만 공통점을 찾아내고, 차이점도 존중해야 할 필요가 있다는 점은 이해하고 있습니다…… 조력하는 것으로 정보를 얻는다…… 이 점에 대해서도 마찬가지입니다.",
                 "cn": "罗德岛的理念，和我的信念有冲突。但我理解求同存异的必要性......提供援助来换取信息，这点也是一样的。"
@@ -129,7 +129,7 @@
                 "cn": "信赖提升后交谈2"
             },
             "text": {
-                "en": "No matter where I am, the electricity flowing through my body never ceases. The thunderbolt is the symbol of justice; it drives me forward and sometimes even wakes me up at night... Someone is complaining that I broke the AC unit? ...How rude! How is that possible?! I don't even need to use a remote for the AC, let alone touch it!",
+                "en": "No matter where I am, the electricity flowing through my body never ceases. The thunderlight is a symbol of justice. It drives me forward, sometimes even waking me up at night... Hm? There's another complaint that I've damaged an AC unit? Nonsense! Lies and slander! I don't even need to use a remote to turn on the AC, let alone touch it!",
                 "jp": "私の身がどこにあろうと、体内の電流はかくも力強く弾けております。雷電は義の象徴であり、それが私を駆り立て、いかなる時でも警鐘を鳴らしてくれるのです……ん？また私が空調を壊したと申し立てた者がいるのですか？……無礼な！事実無根です！空調を扱うのに、私はリモコンすら不要ですよ！",
                 "kr": "제 몸이 어디에 있든, 체내의 전류는 이렇게나 강하게 튀고 있습니다. 뇌전은 '의'의 상징입니다. 그것이 저를 바로 세워, 언제라도 제게 경종을 울려주죠…… 음? 또 제가 에어컨을 망가트렸다고 말씀드린 자가 있습니까? ……무례하군요! 사실무근입니다! 에어컨을 다룰 때 전, 리모컨도 필요 없다고요!",
                 "cn": "无论我身在何地，我体内的电流都奔腾不息。雷电是公义的象征，它驱策着我，时时警醒着我......又有人投诉我弄坏了空调？......无礼！怎么可能！开关空调，我甚至都不用遥控器！"
@@ -145,7 +145,7 @@
                 "cn": "信赖提升后交谈3"
             },
             "text": {
-                "en": "Blaze was implicated in a major incident. All the clues have purposely been eliminated, but I have my doubts about the way the facts of the case are connected based upon a few coincidences between certain persons and times. This has nothing to do with you, but you should take adequate precautions. All I can do is offer you a fair warning.",
+                "en": "Blaze was implicated in a major case. All evidence has been deliberately destroyed. However, there remain a few 'coincidences' surrounding persons and times. Not many, but enough to raise doubts, and enough for me to suspect connections between several different cases. This has nothing to do with you, but you should take adequate precaution. All I can do is offer you a fair warning.",
                 "jp": "ブレイズの身には大きな事案が関わっていると見ています。全ての証拠は意図的に抹消されていますが、いくつかの身分と時間軸の一致だけでも、一連の事件の関係性を疑うに足るものです。あなたは事件とは無関係ですが、事を未然に防ぐべきです。警告はここまでにしておきましょう。",
                 "kr": "블레이즈에겐 큰 사건이 얽혀있다고 보고 있습니다. 모든 증거는 의도적으로 말소되어 있지만, 몇 가지 신분과 시간의 축의 일치만으로도, 일련의 사건의 관련성을 의심하기엔 충분합니다. 당신은 사건과는 관계가 없지만, 사건을 미연에 방지할 수 있도록 해야 합니다. 경고는 여기까지 해 두죠.",
                 "cn": "煌的身上牵扯着一桩大案。所有线索都已经遭人刻意抹除，但单单几个身份和时间点的巧合，都足以令我怀疑起各个事件间的联系。这件事情与你无关，但你该防患于未然。我只能警告你到这一步了。"
@@ -161,7 +161,7 @@
                 "cn": "闲置"
             },
             "text": {
-                "en": "You can't even properly manage your physical condition... how slovenly! Look at you sprawled out like this... Were you waiting for me to put a blanket over you or something? ...There won't be a next time.",
+                "en": "You can't even properly manage your physical condition. How lax and irresponsible! Sprawling on desk like this, were you expecting me to put a blanket over you? There won't be a next time.",
                 "jp": "自らの身体すら律することができないとは……だらしない！こんなところで眠りこけるとは、まさか私に毛布をかけさせるつもりですか？……はぁ、次はありませんよ。",
                 "kr": "자기 몸 하나 제대로 가누지 못하다니…… 한심하군요! 이런 데서 잠이 들다니, 설마 제가 담요를 덮어주게 할 셈입니까? 하아…… 이렇게 해주는 건 이번이 마지막이에요.",
                 "cn": "竟然连自己的身体状态都掌控不好......太懈怠了！趴在这里睡觉，难道还等着我给你盖上毯子吗？......没下次了。"
@@ -177,7 +177,7 @@
                 "cn": "干员报到"
             },
             "text": {
-                "en": "I've signed obtained an investigation authorization with your company. Don't worry about it, this is purely over personal matters. If you so wish, you may call me Leizi. Who am I? Have we met before? Are you serious?!",
+                "en": "I've signed and obtained an investigation authorization with your company. Don't worry, this is me acting solely as an individual. You may call me Leizi, if you wish. Who am I? Have we met before? Are you serious?!",
                 "jp": "貴社と捜査協定を結ばせていただきました。あくまで私個人としての行動ですので、どうか邪推のなきよう。もし呼び名が必要であれば、私のことをレイズと呼べばよいでしょう。私は誰、ですと？どこで会ったか忘れた？なんですって！？",
                 "kr": "귀사와 조사 협정을 맺었습니다. 어디까지나 개인으로서의 행동이니, 부디 그릇된 추측은 하지 말아 주시기 바랍니다. 만약 호칭이 필요하다면 저를 레이즈라고 부르면 됩니다. 제가 누구냐고요? 어디서 만났는지 까먹었다뇨?! 뭐라고요?!",
                 "cn": "我已经同贵司签订了搜查协议，不必多虑，这完全是个人行为。如果你想，可以称呼我，惊蛰。问我是谁？忘了在哪见过我？什么？！"
@@ -209,7 +209,7 @@
                 "cn": "精英化晋升1"
             },
             "text": {
-                "en": "Elite status? Is this... a promotion? The promotion process at Rhodes Island seems to differ from that of ordinary private companies...",
+                "en": "Promotion? I suppose this is how you handle career advancement? The promotion process at Rhodes Island seems to differ from that of common private companies…",
                 "jp": "昇進？ああ……栄転ということですね？ロドスの栄転のプロセスは普通の民間企業とはいささか異なるようですね。",
                 "kr": "승진? 아아…… 영전 말씀이죠? 로도스 아일랜드의 영전 프로세스는 평범한 민간 기업과는 조금 다른 모양이군요.",
                 "cn": "晋升？是说......升迁？罗德岛的升迁流程，和普通的民间企业似乎不太一样。"
@@ -225,7 +225,7 @@
                 "cn": "精英化晋升2"
             },
             "text": {
-                "en": "I, Leizi, am the bearer of the thunder and the law, the vision and reach of Great Yan. My philosophy does not align with that of Rhodes Island, and I have no intention on bridging the gap between the Infected and non-Infected. However, we can now fight side by side against our enemies!",
+                "en": "I, Leizi, am the bearer of the thunderlight and the law, the vision and reach of Great Yan. My philosophy does not align with that of Rhodes Island, and I have no intention of bridging the gap between the Infected and non-Infected. However, we may now fight side by side against our enemies!",
                 "jp": "このレイズ、雷法と律法をこの身に負い、炎国の手と眼、そして理と義を体現せし者。私の理念はロドスと異なるものであり、感染者と健常者との隔たりなど、私の気に留めることでもありません。ですが今は、あなたと共に戦わせていただきます！",
                 "kr": "나 레이즈는, 뇌법과 율법을 이 몸에 짊어지고, 염국의 손과 눈이 되며, 이치와 의로움을 행하는 자. 저의 이념은 로도스 아일랜드와 다릅니다. 감염자와 정상인의 차이 같은 건, 마음에 담아둬야 할 일도 아니죠. 하지만 지금은, 당신과 함께 싸우겠습니다!",
                 "cn": "我，惊蛰，身负雷法和律法，是大炎的手与眼、理与义。我的理念和罗德岛的并不相同，感染者与普通人的隔阂，我也无心跨过。但现在，我可与你并肩对敌！"
@@ -289,7 +289,7 @@
                 "cn": "行动开始"
             },
             "text": {
-                "en": "I have no interest in the identity of my enemies.",
+                "en": "I have no interest in the identity of my enemy.",
                 "jp": "敵の身分には興味がありませんが。",
                 "kr": "적의 신분에는 흥미가 없습니다만.",
                 "cn": "我对敌人的身份没有兴趣。"
@@ -337,7 +337,7 @@
                 "cn": "部署1"
             },
             "text": {
-                "en": "Very well, understood.",
+                "en": "As you command.",
                 "jp": "わかりました。",
                 "kr": "알겠습니다.",
                 "cn": "好，我知道了。"
@@ -353,7 +353,7 @@
                 "cn": "部署2"
             },
             "text": {
-                "en": "Harken! The thunder rumbles!",
+                "en": "Hark! The thunder rumbles!",
                 "jp": "雷轟（らいごう）を聞きなさい。",
                 "kr": "천둥소리를 들으십시오!",
                 "cn": "听！雷声隆隆！"
@@ -369,7 +369,7 @@
                 "cn": "作战中1"
             },
             "text": {
-                "en": "Rise, thunder of the five elements!",
+                "en": "O great thunderlight, strike!",
                 "jp": "五正霆威（ごせいていい）、来い！",
                 "kr": "오정정위, 와라!",
                 "cn": "五正霆威，起！"
@@ -385,7 +385,7 @@
                 "cn": "作战中2"
             },
             "text": {
-                "en": "No forgiveness unto sinners! Retribution of thunder!",
+                "en": "No mercy for transgression! Lightning shall judge!",
                 "jp": "罪に裁きを。五雷轟頂（ごらいごうちょう）！",
                 "kr": "죄에 심판을. 오뇌굉정!",
                 "cn": "有罪无赦，五雷轰顶！"
@@ -401,7 +401,7 @@
                 "cn": "作战中3"
             },
             "text": {
-                "en": "Through the three thunders is justice governed!",
+                "en": "Pure thunder calls down justice! Shatter all falsehoods in all realms!",
                 "jp": "一気白雷正法（いっきびゃくらいせいほう）、縦貫方円三化（じゅうかんほうえんさんか）！",
                 "kr": "일기백뇌정법, 종관방원삼화!",
                 "cn": "一气白雷正法，纵贯方圆三化！"
@@ -417,7 +417,7 @@
                 "cn": "作战中4"
             },
             "text": {
-                "en": "The essence of Lei Fa... is my will becoming one with Terra.",
+                "en": "The essence of Lei Fa... is my will becoming one with this great land.",
                 "jp": "雷法の本質は……己が内面と大地を一体化するところにある。",
                 "kr": "뇌법의 본질은…… 내가 내면과 대지를 일체화하는 것에 있다.",
                 "cn": "雷法的本质......是我的内在和大地化为一体。"
@@ -449,7 +449,7 @@
                 "cn": "3星结束行动"
             },
             "text": {
-                "en": "Unacceptable. You can do even better! Do not rest upon your laurels - you have the ability to strive for greater heights!",
+                "en": "Not enough. You can do even better. Do not rest upon your laurels—you have the ability to strive for greater heights.",
                 "jp": "まだまだです。あなたなら素質もありますし、今よりもっとできるはずです。決して現状に満足してはいけませんよ！",
                 "kr": "아직 멀었습니다. 당신이라면 소질도 있고, 지금보다 더해낼 수 있을 겁니다. 절대 지금 상황에 만족해서는 안 됩니다!",
                 "cn": "不行。你能做得比现在更好！你一定有这种能力，决不能自满！"
@@ -465,7 +465,7 @@
                 "cn": "非3星结束行动"
             },
             "text": {
-                "en": "Impossible, what happened? How can this be?",
+                "en": "Impossible... what happened? How can this be?",
                 "jp": "どういうこと？え、一体どういうことなの！",
                 "kr": "어떻게 된 거야? 어? 대체 어떻게 된 거냐고!",
                 "cn": "怎么回事，怎么回事？怎么回事？"
@@ -481,7 +481,7 @@
                 "cn": "行动失败"
             },
             "text": {
-                "en": "Shameful...! Begone, you! Go back and reflect! I will hold back the enemies, so just go!",
+                "en": "Such humiliation...! Begone, you! Return and reflect! I will hold back the enemies, leave!",
                 "jp": "何たる屈辱……！行きなさい！あなたは戻って猛省しておきなさい！私が敵を全て食い止めますから、もう行きなさい！",
                 "kr": "이 무슨 굴욕적인……! 가세요! 당신은 돌아가서 깊이 반성하십시오! 제가 적을 모두 붙잡아둘 테니까, 어서 가세요!",
                 "cn": "耻辱......！你，走！回去反省！我会抵挡所有敌人，走！"
@@ -497,7 +497,7 @@
                 "cn": "进驻设施"
             },
             "text": {
-                "en": "Where's the power outlet?",
+                "en": "Where's the power socket?",
                 "jp": "充電用のコンセントはどちらに？",
                 "kr": "충전용 콘센트는 어디에 있죠?",
                 "cn": "充电插口在哪？"
@@ -529,7 +529,7 @@
                 "cn": "信赖触摸"
             },
             "text": {
-                "en": "Oh... did that hurt? Please be careful of the static electricity around me.",
+                "en": "Oh... did that hurt? Please be mindful of the static electricity around me.",
                 "jp": "あっ……大丈夫ですか？私の電流には気をつけてください。",
                 "kr": "앗…… 괜찮으십니까? 제 몸엔 전류가 흐르니, 조심하여 주십시오.",
                 "cn": "啊......疼吗？要小心我身上的电流。"
@@ -561,7 +561,7 @@
                 "cn": "新年祝福"
             },
             "text": {
-                "en": "A year's planning is done in the spring—and though it may not be spring yet, do you simply plan to idly loaf around at a new year's outset? You should still sharpen yourself on holiday. As the saying goes, the man who catches fins for one day then rests for two, will find himself slothful with dust on his shoe. Heeey! If you keep slacking I'll have finished annotating these documents myself!",
+                "en": "A year's planning is done in the spring—and though it may not be spring yet, do you simply plan to idly loaf around at a new year's outset? You should still sharpen yourself on holiday. As the saying goes, the man who catches fins for one day then rests for two, will find himself slothful with dust on his shoe. Hm...? Two, four, six, eight... Hey! If you keep slacking I'll have finished annotating these documents myself!",
                 "jp": "一年の計は春にあり――春がまだ訪れていないとは言え、新しい一年の始まりからこんなにだらしない生活を送る気ですか？休日であっても自分を磨けることをするべきです。三日出漁をして二日網を干すような日々は、すぐに人を堕落させるんですよ！ドクター、まだ怠けるようなら、これらの文書仕事は私が処理し終わってしまいますからね！",
                 "kr": "일 년의 계획은 봄에 달려 있다…… 아직 봄은 오지 않았지만 새로운 한 해가 이미 시작되었는데, 설마 당신은 첫날부터 이렇게 나태하게 지낼 생각이신가요? 휴일이라 해도 자신을 갈고닦을 수 있는 일을 하는 게 좋을 거예요. 이것저것 하다 말다 하면 오히려 게을러지기 십상이니까요! 잠깐, 당신 더 이상 게으름을 피우다간 이 서류들 제가 다 결재해 버리겠어요!",
                 "cn": "一年之计在于春——就算还没到春天，新年伊始，你难道就打算这样慵懒度日吗？放假也该做一些磨砺自己的事情，三天打鳞两天晒网，很容易让人懈怠的！喂，你再偷懒，这些文件就要被我批完了！"
@@ -577,7 +577,7 @@
                 "cn": "问候"
             },
             "text": {
-                "en": "Don't slack off, Doctor.",
+                "en": "Work dutifully, Doctor.",
                 "jp": "怠慢は禁物です、ドクター殿。",
                 "kr": "태만은 금물입니다, 박사님.",
                 "cn": "勿要懈怠，博士。"
@@ -593,7 +593,7 @@
                 "cn": "生日"
             },
             "text": {
-                "en": "Ahem. Judicial Review Office Censor Leizi expresses good wishes on Dr.{@nickname}'s birthday. May your life be ever warm as spring, and of peace and prosperity... Hey, I'm being deadly serious! Don't laugh!",
+                "en": "Ahem. Judicial Review Office Censor Leizi expresses good wishes on the Dr.{@nickname}'s birthday. May your life be ever warm as spring, and of peace and prosperity... Heeeey, I'm being serious here! Don't laugh!",
                 "jp": "コホンッ、大理寺監察司（だいりじかんさつし）レイズ、ロドスの{@nickname}殿の誕辰を祝し、謹んで常磐（ときわ）を寿（ことほ）ぐと共に末永く歳を重ねられますよう……あの、私は真剣に伝えているのですから、笑わないでください！",
                 "kr": "크흠, 대리사 감찰사 레이즈가 로도스 아일랜드 {@nickname} 박사님의 탄신일을 축하드립니다. 그대에게 늘 행운이 있기를, 부디 오래오래 만수무강하시길 바라…… 이봐요, 전 지금 진지하다고요! 웃지 마세요!",
                 "cn": "咳咳，大理寺监察司惊蛰恭贺罗德岛Dr.{@nickname}诞辰，谨祝春永华堂，寿城宏开......喂，我很严肃的，别笑啊！"
@@ -618,6 +618,10 @@
         }
     ],
     "actors": {
+        "en": {
+            "native": "小巫",
+            "global": "小巫"
+        },
         "cn": {
             "native": "徐徐",
             "global": "Skye"
@@ -632,6 +636,7 @@
         }
     },
     "availability": [
+        "en",
         "cn",
         "jp",
         "kr"

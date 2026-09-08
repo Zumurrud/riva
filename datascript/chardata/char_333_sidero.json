@@ -82,7 +82,7 @@
             },
             "text": {
                 "en": "What did that Minoan girl in the garden do...? My head feels strangely empty, it's like I'm completely relaxed… This doesn't... seem normal to me. Doctor, I need to rest. I'm sorry, I'm out of service as your bodyguard for the time being…",
-                "jp": "あの、ガーデンにいるミノスから来た女性、一体私に何を……頭が真っ白になって、緊張感も消えて……なんだか、調子がおかしい……。ドクター、回復のためにしばらく護衛から外れさせていただけますか？すみません……。",
+                "jp": "あの、ガーデンにいるミノスから来た女性、一体私に何を……頭が真っ白になって、緊張感も消えて……なんだか、調子がおかしい……ドクター、回復のためにしばらく護衛から外れさせていただけますか？すみません……",
                 "kr": "저기…… 정원에 있는…… 저 미노스에서 온 여자는, 대체 저에게 무슨…… 머리 속이 새하얘지고, 긴장감도 사라져서…… 뭔가, 상태가 이상합니다…… 박사님, 회복을 위해…… 잠시 호위 임무에서 이탈해도 되겠습니까? 죄송합니다……",
                 "cn": "呃，花园里的米诺斯小姐到底做了什么......脑袋里空空的，紧张感也消失了......现在状态......不太对。博士，我需要恢复，暂时没法胜任护卫的工作，还请谅解......"
             },
@@ -162,7 +162,7 @@
             },
             "text": {
                 "en": "Relaxing with a nap? Hehehe, this is a real luxury.",
-                "jp": "少しの休憩でも思いっきりリラックスする、か……。ふっ、ぜいたくな息抜きだな。",
+                "jp": "少しの休憩でも思いっきりリラックスする、か……ふっ、ぜいたくな息抜きだな。",
                 "kr": "약간의 휴식에서도 충분히 긴장을 푼다니…… 훗, 사치스러운 휴식이네.",
                 "cn": "以小憩来充分放松......吗，真是奢侈的休息方式。"
             },
@@ -594,7 +594,7 @@
             },
             "text": {
                 "en": "I had this sapling brought all the way from Minos to celebrate your birthday. Find somewhere to plant it. I hope the joy of growth and new life will reach you in your thoughts.",
-                "jp": "这是为了庆祝您的生日专门托人从米诺斯带来的枝条，找个地方种下吧，希望新生与成长的喜悦能传递到您的心中。",
+                "jp": "どうぞ。こちらはドクターの誕生日を祝うために、わざわざミノスから届けてもらった木の苗です。どこか手頃な場所に植えてください。芽吹きと成長の喜びが、ドクターの心に届きますように。",
                 "kr": "이건 박사님 생일을 축하하기 위해 사람들에게 부탁해 미노스에서 가지고 온 묘목입니다. 어딘가 적당한 장소에 심어 주십시오. 싹이 트는 것과 성장의 기쁨이 박사님께 닿을 수 있기를.",
                 "cn": "这是为了庆祝您的生日专门托人从米诺斯带来的枝条，找个地方种下吧，希望新生与成长的喜悦能传递到您的心中。"
             },
@@ -619,8 +619,8 @@
     ],
     "actors": {
         "en": {
-            "native": "Mariah Tsoumbas",
-            "global": "Mariah Tsoumbas"
+            "native": "Mariah Tzoumbas",
+            "global": "Mariah Tzoumbas"
         },
         "cn": {
             "native": "陈瑜瑾",

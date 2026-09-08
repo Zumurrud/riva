@@ -634,7 +634,7 @@
             "native": "김채하",
             "global": "Kim Chae-ha"
         },
-        "ita": {
+        "it": {
             "native": "Ilaria Silvestri",
             "global": "Ilaria Silvestri"
         }
@@ -644,6 +644,6 @@
         "cn",
         "jp",
         "kr",
-        "ita"
+        "it"
     ]
 }

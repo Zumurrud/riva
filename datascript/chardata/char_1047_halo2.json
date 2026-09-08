@@ -1,0 +1,644 @@
+{
+    "charid": "char_1047_halo2",
+    "nameid": "halo2",
+    "names": {
+        "en": "Astgenne the Lightchaser",
+        "jp": "溯光アステジーニ",
+        "kr": "아스트젠 더 라이트체이서",
+        "cn": "溯光星源"
+    },
+    "voices": [
+        {
+            "id": "char_1047_halo2_CN_001",
+            "title": {
+                "en": "Appointed as Assistant",
+                "jp": "秘書任命",
+                "kr": "어시스턴트 임명",
+                "cn": "任命助理"
+            },
+            "text": {
+                "en": "I'm used to being your assistant, so I bet I can take care of any work you throw at me. But don't you pile everything on me just because I said that!",
+                "jp": "ドクターの助手の仕事なら、もう慣れっこだよ。でも、だからって何でもかんでも私に押しつけるのはなしだからね？",
+                "kr": "박사의 조수 일이라면 이미 익숙하지. 그렇다고 해서, 이것저것 다 나한테 떠넘기는 건 안 된다?",
+                "cn": "博士的助理工作我已经轻车熟路啦。不过，别因为我这么说，就把所有事情都推给我哦。"
+            },
+            "asset": "char_1047_halo2/CN_001"
+        },
+        {
+            "id": "char_1047_halo2_CN_002",
+            "title": {
+                "en": "Talk 1",
+                "jp": "会話1",
+                "kr": "대화 1",
+                "cn": "交谈1"
+            },
+            "text": {
+                "en": "It's so much easier working at Rhodes Island than the observation station. You have no idea how busy things get there! Not only do I have to pull all-nighters, but everyone's always coming to me for help. They even said they'd push for me to become a section director… You think I'll make a good director? Hehe, it's still too early for me to think about that.",
+                "jp": "ロドスの仕事の方がずっと楽だよ。観測ステーションにいた時はほんと忙しくてさ！徹夜は日常茶飯事だし、同僚もしょっちゅう相談しにくるし、挙句の果てには主任に立候補しなよとか言われて……え？私ならきっと上手くやれるって？ふっふーん……でも、そういうの考えるのはまだ早いよ。",
+                "kr": "로도스 아일랜드 일이 훨씬 편해. 관측소에 있을 때는 진짜 바빠가지고! 밤샘은 일상다반사에 동료들도 수시로 상담하러 오지, 마지막엔 주임으로 입후보하라고 하지…… 응? 나라면 분명 잘할 거라고? 후훗…… 그래도 그런 걸 생각하기엔 아직 일러.",
+                "cn": "罗德岛的工作轻松多了，你不知道我在观测站有多忙！不但经常干到通宵，同事有问题也爱找我聊，还说什么推荐我去竞选主任......你说我肯定能做得很好？嗯哼——现在想这些还是太早啦。"
+            },
+            "asset": "char_1047_halo2/CN_002"
+        },
+        {
+            "id": "char_1047_halo2_CN_003",
+            "title": {
+                "en": "Talk 2",
+                "jp": "会話2",
+                "kr": "대화 2",
+                "cn": "交谈2"
+            },
+            "text": {
+                "en": "Kjerag? I like the place. Everyone there takes really good care of me. When I was testing Originium samples with my local assistants, they all suddenly bowed their heads in unison. It kind of freaked me out, and it wasn't until later that I found out they were praying to Kjeragandr for me and the experiment.",
+                "jp": "イェラグのこと？うん、けっこう好きだよ。みなさん優しくしてくれるし。ただ最初に現地の研究員たちと源石サンプルのテストした時にね、いきなり全員頭を下げるから、びっくりしたよ。あとで分かったんだけど、私と実験のためにイェラガンドに祈ってたんだって。",
+                "kr": "쉐라그? 응, 꽤 좋아해. 다들 친절하고. 다만 처음에 현지 연구원들하고 오리지늄 샘플을 테스트할 때, 갑자기 다들 고개를 숙여서 깜짝 놀랐어. 나중에 알았는데, 나와 실험을 위해 쉐라간드에게 기도하고 있었대.",
+                "cn": "谢拉格吗？我蛮喜欢那里的，大家都很照顾我。就是第一次和当地助手们合作测试源石样本时，他们突然集体低头，把我吓了一跳。后来才知道，他们是为了我和实验在向耶拉冈德祈祷。"
+            },
+            "asset": "char_1047_halo2/CN_003"
+        },
+        {
+            "id": "char_1047_halo2_CN_004",
+            "title": {
+                "en": "Talk 3",
+                "jp": "会話3",
+                "kr": "대화 3",
+                "cn": "交谈3"
+            },
+            "text": {
+                "en": "My coworkers at Rhine Lab like to tell our new staff how I used to be, half-jokingly. Stuff like how I insisted on recording data even during a liquid Originium leak, but that 'just because something is dangerous doesn't mean it's important.' Gotta say, I'm actually pretty miffed about that. Whether it was actually important or not is something we'll have to wait for the future to find out.",
+                "jp": "最近じゃ、ライン生命の同僚たちが新人との話で私のことをネタにしてるんだよね。私が源石液が漏れても構わずにデータ取り続けてたって話をして、「危険度と重要度は比例するわけじゃないのに」とか言うの。正直言うと、私、ああいうのにずっと納得いってないんだ。重要かどうかは、未来になってみなきゃ分からないでしょ。",
+                "kr": "최근엔 라인 랩 동료들이 신입이랑 얘기할 때 내 얘기를 농담 삼아 꺼내더라고. 내가 오리지늄액이 새는데도 신경 안 쓰고 계속 데이터를 수집했다면서, “위험도와 중요도는 비례하는 게 아닌데” 같은 말을 한대. 솔직히 말해서, 나는 계속 납득이 안 가. 중요한지 아닌지는 미래가 돼 봐야 알 수 있는 거잖아.",
+                "cn": "现在莱茵生命的同事们会半开玩笑地和新人聊起我的事，说我曾不顾源石液泄漏也要坚持记录数据，“然而够危险不意味着够重要”之类的。跟你说，其实我一直不服气，重不重要只有未来说了算。"
+            },
+            "asset": "char_1047_halo2/CN_004"
+        },
+        {
+            "id": "char_1047_halo2_CN_005",
+            "title": {
+                "en": "Talk after Promotion 1",
+                "jp": "昇進後会話1",
+                "kr": "1차 정예화 후 대화",
+                "cn": "晋升后交谈1"
+            },
+            "text": {
+                "en": "Pramanix's a really good friend. I doubt I'll ever revere Kjeragandr as much as she does, or anyone from Kjerag, but I can feel just how crystal clear and resilient their minds are. For real, this is god's presence.",
+                "jp": "プラマニクスはとってもいい友達だよ。たぶん私は彼女やイェラグの人たちみたいに、イェラガンドをああいうふうに敬愛することはできないと思うけど、彼らの純粋で強い心を感じることはできるんだ。あれこそ、間違いなく「神様の存在する場所」なんだと思う。",
+                "kr": "프라마닉스는 정말 좋은 친구야. 아마 나는 프라마닉스나 쉐라그인들처럼 쉐라간드를 그렇게 경애하지는 못하겠지만, 그 사람들의 순수하고 강한 마음은 느낄 수 있어. 그거야말로 틀림없이 '신이 존재하는 곳'이라고 생각해.",
+                "cn": "初雪是一位很好的朋友。我可能永远都不会像她和其他谢拉格人那样，对耶拉冈德抱有崇高的敬爱。不过，我能感受到他们澄澈而坚韧的内心，毋庸置疑，这是“神明的存在”。"
+            },
+            "asset": "char_1047_halo2/CN_005"
+        },
+        {
+            "id": "char_1047_halo2_CN_006",
+            "title": {
+                "en": "Talk after Promotion 2",
+                "jp": "昇進後会話2",
+                "kr": "2차 정예화 후 대화",
+                "cn": "晋升后交谈2"
+            },
+            "text": {
+                "en": "There was a researcher in Kjerag who told me he's afraid of new discoveries now, because of how they always shatter the framework of current science. I know not everyone who believes in science looks forward to its changes, but me? I always love seeing the new possibilities.",
+                "jp": "イェラグで、ある研究員が言ってたの。今までの科学の枠組みを壊しちゃうことが多いから、新しい発見が全部怖くなったって。私も、科学を信じてる人が全員進歩を求めてるとは限らないって分かってるよ。でも私は、いつだって新しい可能性にワクワクしちゃうんだ。",
+                "kr": "쉐라그에서 어떤 연구원이 그러더라. 새로운 발견이 전부 두려워졌다고. 기존 과학의 틀을 깨버리는 일이 많아서 그렇다던데. 나도 과학을 믿는 사람들이 전부 진보를 추구하는 건 아니라는 걸 알아. 하지만 나는 언제나 새로운 가능성에 두근두근해 버린다니까.",
+                "cn": "在谢拉格，有位研究员告诉我，他开始害怕任何新的发现，因为它往往会让已有的科学框架变得难堪。我知道，并不是每一个崇尚科学的人都崇尚进步，但我始终热爱新的可能。"
+            },
+            "asset": "char_1047_halo2/CN_006"
+        },
+        {
+            "id": "char_1047_halo2_CN_007",
+            "title": {
+                "en": "Talk after Trust Increase 1",
+                "jp": "信頼上昇後会話1",
+                "kr": "신뢰도 상승 후 대화 1",
+                "cn": "信赖提升后交谈1"
+            },
+            "text": {
+                "en": "Not long ago, my parents sent my sister a long letter and a whole bunch of goodies from our hometown, meant for me. I may not have made up my mind yet, but… Doctor, do you have any gift ideas for old-fashioned types?",
+                "jp": "うちの親がね、最近姉さんに長～いお手紙と地元の特産品をいっぱい送ってきて、それを私に渡してほしいって言ってたらしい。私はまだ完全に吹っ切れてはいないんだけどね……ところでドクター、一つ聞いてもいい？ロドスに、ちょっとカタイ感じの年配の人に良さそうな手土産ってあるかな？",
+                "kr": "우리 부모님이 말이야, 최근에 언니한테 길~게 쓴 편지랑 고향 특산품을 잔뜩 보내서 나한테 좀 전해달라고 했대. 나는 아직 완전히 정리된 건 아니지만…… 그나저나 박사, 하나 물어봐도 돼? 로도스 아일랜드에, 좀 고지식한 느낌의 어른에게 어울리는 선물 같은 거 있을까?",
+                "cn": "我的父母，最近寄给了姐姐一封长信和许多家乡特产，让她一定要转交给我。尽管我还没有下定决心......不过想问一下博士，罗德岛有什么伴手礼适合送给有些古板的长辈吗？"
+            },
+            "asset": "char_1047_halo2/CN_007"
+        },
+        {
+            "id": "char_1047_halo2_CN_008",
+            "title": {
+                "en": "Talk after Trust Increase 2",
+                "jp": "信頼上昇後会話2",
+                "kr": "신뢰도 상승 후 대화 2",
+                "cn": "信赖提升后交谈2"
+            },
+            "text": {
+                "en": "Hm… Oh, hey, Doctor. This is an astrological star chart I got from Sia. I wanted to make some adjustments based on the observation data I got at Kjerag… Since when have I been interested in astrology, you ask? This too, is a field that those who walked before us explored. It may be riddled with errors, but that doesn't mean it's completely devoid of value.",
+                "jp": "んん……あ、ドクター。これね、姉さんがくれた星図なんだ。イェラグで観測したデータと照らし合わせて修正してみようと思ってて……え、どうしていきなり占星学に興味を持ったのかって？これは先人たちの探求の成果なんだよ。たとえ間違いが多くても、全く価値がないことにはならないからね。",
+                "kr": "으음…… 아, 박사. 이거, 언니가 준 항성도야. 쉐라그에서 관측한 데이터랑 대조해서 수정해 보려고…… 어? 왜 갑자기 점성학에 흥미가 생겼냐고? 이건 선인들의 탐구 성과라고. 설령 틀린 부분이 많다고 해도, 아예 가치가 없는 건 아니니까.",
+                "cn": "嗯......啊，博士。这是姐姐给我的星图，我想结合谢拉格的观测数据修正一下......什么时候对星象学感兴趣了？这是前人的一种探索，即使上面有许多谬误，也不意味着它全无价值。"
+            },
+            "asset": "char_1047_halo2/CN_008"
+        },
+        {
+            "id": "char_1047_halo2_CN_009",
+            "title": {
+                "en": "Talk after Trust Increase 3",
+                "jp": "信頼上昇後会話3",
+                "kr": "신뢰도 상승 후 대화 3",
+                "cn": "信赖提升后交谈3"
+            },
+            "text": {
+                "en": "In Kjerag, I witnessed a power that I couldn't comprehend for the first time. The further I walk down this path of science, the more I am pushing the boundaries of the unknown... Don't worry. I respect all explanations for the unknown, and I know I will one day demystify it.",
+                "jp": "イェラグでね、初めて理解できない力を目の当たりにしたの。科学の道を進めば進むほど、未知の領域ってどんどん広がっていくんだよね……でも大丈夫。未知に対するどんな考え方も尊重してるし、いつか必ず、その神秘のヴェールを自分の手で取り払ってみせる日が来るって信じてるから。",
+                "kr": "쉐라그에서 말인데, 난생처음으로 이해할 수 없는 힘을 눈앞에서 봤어. 과학의 길을 나아가면 나아갈수록 미지의 영역이 점점 넓어지더라…… 그래도 괜찮아. 미지에 대한 어떤 사고방식도 존중하고 있고, 언젠가 반드시 그 신비의 베일을 내 손으로 걷어내는 날이 올 거라고 믿고 있으니까.",
+                "cn": "在谢拉格，我第一次见证了无法理解的力量。在科学的道路上走得越远，也就意味着把未知的边界拉得越长......不用担心，我尊重所有对未知的解释，也坚信有一天我会祛除其中的神秘。"
+            },
+            "asset": "char_1047_halo2/CN_009"
+        },
+        {
+            "id": "char_1047_halo2_CN_010",
+            "title": {
+                "en": "Idle",
+                "jp": "放置",
+                "kr": "방치",
+                "cn": "闲置"
+            },
+            "text": {
+                "en": "Huh? Is the Doctor asleep? Then I guess I'll take the chance to get a nap in, too.",
+                "jp": "えっ？ドクター寝ちゃった？……じゃあ私もちょっと、うとうとしてこよっかな～。",
+                "kr": "어? 박사 자?…… 그러면 나도 좀 꾸벅꾸벅해 볼까~",
+                "cn": "欸？博士睡着了吗？那我正好也去打个盹。"
+            },
+            "asset": "char_1047_halo2/CN_010"
+        },
+        {
+            "id": "char_1047_halo2_CN_011",
+            "title": {
+                "en": "Onboard",
+                "jp": "入職会話",
+                "kr": "오퍼레이터 입사",
+                "cn": "干员报到"
+            },
+            "text": {
+                "en": "It's great to see you again, Doctor. I reviewed my time onboard and my workflow at Rhodes Island. I'm pretty confident I can handle anything that comes my way. Hm? You've always been satisfied with my work? Hehe…",
+                "jp": "ドクター、また会えてうれしいよ。しっかりとロドスでの暮らしと仕事の流れを復習してきたから、今回は何でもバッチリこなせるよ！えっ、前の仕事ぶりにも満足だったって？えへへ～。",
+                "kr": "박사, 다시 만나서 기뻐. 로도스 아일랜드에서의 생활이나 업무 흐름을 제대로 복습하고 왔으니까, 이번엔 뭐든지 제대로 할 수 있을 거야! 앗, 예전에 일할 때도 만족스러웠다고? 에헤헤~",
+                "cn": "博士，很高兴再次见面。我特地回顾了一遍在罗德岛上的生活工作流程，这次什么事我都能做得井井有条了。嗯？之前也对我很满意？嘿嘿......"
+            },
+            "asset": "char_1047_halo2/CN_011"
+        },
+        {
+            "id": "char_1047_halo2_CN_012",
+            "title": {
+                "en": "Watching Battle Record",
+                "jp": "経験値上昇",
+                "kr": "작전기록 학습",
+                "cn": "观看作战记录"
+            },
+            "text": {
+                "en": "There's still room for improvement. Looks like I will have plenty to do once I get back.",
+                "jp": "うん、もっと上手くできるところがあるね。戻ったらやること山積みだ～。",
+                "kr": "응, 더 잘할 수 있는 부분이 있네. 돌아가면 할 일이 산더미야~",
+                "cn": "还有要提高的地方，回去有的忙了。"
+            },
+            "asset": "char_1047_halo2/CN_012"
+        },
+        {
+            "id": "char_1047_halo2_CN_013",
+            "title": {
+                "en": "Promotion 1",
+                "jp": "昇進Ⅰ",
+                "kr": "1차 정예화 (승진)",
+                "cn": "精英化晋升1"
+            },
+            "text": {
+                "en": "Huh, still the same medals as before. So pretty.",
+                "jp": "このメダルも変わらないね。素敵なデザイン。",
+                "kr": "이 메달도 안 변했네. 멋진 디자인이야.",
+                "cn": "奖章的款式还是老样子啊，很好看。"
+            },
+            "asset": "char_1047_halo2/CN_013"
+        },
+        {
+            "id": "char_1047_halo2_CN_014",
+            "title": {
+                "en": "Promotion 2",
+                "jp": "昇進Ⅱ",
+                "kr": "2차 정예화 (승진)",
+                "cn": "精英化晋升2"
+            },
+            "text": {
+                "en": "Nothing exists independently of us. Rather, we observe and change everything. That's why I believe in science.",
+                "jp": "この大地のあらゆるものは私たちとは無関係に存在しているわけではない。私たちは観察し、全てを変えていく――これが、私の科学に対する信念だよ。",
+                "kr": "이 대지의 모든 것은 우리와 무관하게 존재하는 게 아니야. 우리는 관찰하고, 모든 것을 바꿔나가지…… 이게 내 과학에 대한 신념이야.",
+                "cn": "万物并不独立于我们而存在，我们观察并改变着一切——这是我对科学的信念。"
+            },
+            "asset": "char_1047_halo2/CN_014"
+        },
+        {
+            "id": "char_1047_halo2_CN_017",
+            "title": {
+                "en": "Added to Squad",
+                "jp": "編成",
+                "kr": "팀 배치",
+                "cn": "编入队伍"
+            },
+            "text": {
+                "en": "Long time no see, everybody. Time to work together again.",
+                "jp": "久しぶりだね。またみなさんと一緒に任務に出れるんだ。",
+                "kr": "오랜만이네. 다시 모두와 같이 임무에 나설 수 있겠어.",
+                "cn": "好久不见，又能和大家一同行动了。"
+            },
+            "asset": "char_1047_halo2/CN_017"
+        },
+        {
+            "id": "char_1047_halo2_CN_018",
+            "title": {
+                "en": "Appointed as Squad Leader",
+                "jp": "隊長任命",
+                "kr": "팀장 임명",
+                "cn": "任命队长"
+            },
+            "text": {
+                "en": "'Switching firing position!'… Got everything memorized. We'll be fine.",
+                "jp": "「火力配置を変更せよ！」……うん、全部覚えたから、きっと大丈夫。",
+                "kr": "“화력 배치를 변경하라!” ……응. 전부 외웠으니까 분명 문제없어.",
+                "cn": "“更换火力位置！”......都背下来了，一定没问题。"
+            },
+            "asset": "char_1047_halo2/CN_018"
+        },
+        {
+            "id": "char_1047_halo2_CN_019",
+            "title": {
+                "en": "Depart",
+                "jp": "作戦準備",
+                "kr": "작전 출발",
+                "cn": "行动出发"
+            },
+            "text": {
+                "en": "Don't worry. I know our departure time.",
+                "jp": "大丈夫、予定の時間はちゃんと覚えてるよ。",
+                "kr": "괜찮아, 예정 시간은 제대로 기억하고 있어.",
+                "cn": "放心，我记得预定好的时间。"
+            },
+            "asset": "char_1047_halo2/CN_019"
+        },
+        {
+            "id": "char_1047_halo2_CN_020",
+            "title": {
+                "en": "Begin Operation",
+                "jp": "戦闘開始",
+                "kr": "작전 개시",
+                "cn": "行动开始"
+            },
+            "text": {
+                "en": "In position to engage the enemy. Ready your weapons.",
+                "jp": "敵との接触位置は予想通り。よし、武器を構えて。",
+                "kr": "적 조우 위치는 예상대로. 좋아, 무기 준비.",
+                "cn": "接敌位置符合预期，拿起武器。"
+            },
+            "asset": "char_1047_halo2/CN_020"
+        },
+        {
+            "id": "char_1047_halo2_CN_021",
+            "title": {
+                "en": "Selecting Operator 1",
+                "jp": "選択時1",
+                "kr": "오퍼레이터 선택 1",
+                "cn": "选中干员1"
+            },
+            "text": {
+                "en": "Yep, I'm here.",
+                "jp": "うん、いるよ。",
+                "kr": "응, 있어.",
+                "cn": "嗯，我在。"
+            },
+            "asset": "char_1047_halo2/CN_021"
+        },
+        {
+            "id": "char_1047_halo2_CN_022",
+            "title": {
+                "en": "Selecting Operator 2",
+                "jp": "選択時2",
+                "kr": "오퍼레이터 선택 2",
+                "cn": "选中干员2"
+            },
+            "text": {
+                "en": "Same tactics as before?",
+                "jp": "戦術は変更なし？",
+                "kr": "전술 변경은 없어?",
+                "cn": "战术不变？"
+            },
+            "asset": "char_1047_halo2/CN_022"
+        },
+        {
+            "id": "char_1047_halo2_CN_023",
+            "title": {
+                "en": "Deployment 1",
+                "jp": "配置1",
+                "kr": "배치 1",
+                "cn": "部署1"
+            },
+            "text": {
+                "en": "In position.",
+                "jp": "配置完了。",
+                "kr": "배치 완료.",
+                "cn": "就位。"
+            },
+            "asset": "char_1047_halo2/CN_023"
+        },
+        {
+            "id": "char_1047_halo2_CN_024",
+            "title": {
+                "en": "Deployment 2",
+                "jp": "配置2",
+                "kr": "배치 2",
+                "cn": "部署2"
+            },
+            "text": {
+                "en": "I'll do my best!",
+                "jp": "しっかり頑張るよ。",
+                "kr": "제대로 노력할게.",
+                "cn": "我会努力的。"
+            },
+            "asset": "char_1047_halo2/CN_024"
+        },
+        {
+            "id": "char_1047_halo2_CN_025",
+            "title": {
+                "en": "In Battle 1",
+                "jp": "作戦中1",
+                "kr": "작전 중 1",
+                "cn": "作战中1"
+            },
+            "text": {
+                "en": "I convey my starlight to the darkness.",
+                "jp": "闇へ私の星の光を届ける。",
+                "kr": "어둠 속에 내 별빛을 전한다.",
+                "cn": "向黑暗倾诉我的星光。"
+            },
+            "asset": "char_1047_halo2/CN_025"
+        },
+        {
+            "id": "char_1047_halo2_CN_026",
+            "title": {
+                "en": "In Battle 2",
+                "jp": "作戦中2",
+                "kr": "작전 중 2",
+                "cn": "作战中2"
+            },
+            "text": {
+                "en": "I have charge of this sector.",
+                "jp": "ここの防衛は、私に任せて。",
+                "kr": "이쪽 방어는 나한테 맡겨.",
+                "cn": "这片防区由我负责。"
+            },
+            "asset": "char_1047_halo2/CN_026"
+        },
+        {
+            "id": "char_1047_halo2_CN_027",
+            "title": {
+                "en": "In Battle 3",
+                "jp": "作戦中3",
+                "kr": "작전 중 3",
+                "cn": "作战中3"
+            },
+            "text": {
+                "en": "I will stop you.",
+                "jp": "止めてみせる。",
+                "kr": "막아내겠어.",
+                "cn": "我会阻止你们。"
+            },
+            "asset": "char_1047_halo2/CN_027"
+        },
+        {
+            "id": "char_1047_halo2_CN_028",
+            "title": {
+                "en": "In Battle 4",
+                "jp": "作戦中4",
+                "kr": "작전 중 4",
+                "cn": "作战中4"
+            },
+            "text": {
+                "en": "There is no limit to the power that mankind may realize.",
+                "jp": "人の知識に限界なんてない。",
+                "kr": "인간의 지식에 한계 같은 건 없어.",
+                "cn": "人能知晓的力量，绝无止境。"
+            },
+            "asset": "char_1047_halo2/CN_028"
+        },
+        {
+            "id": "char_1047_halo2_CN_029",
+            "title": {
+                "en": "4-star Result",
+                "jp": "高難度作戦クリア",
+                "kr": "고난이도 작전 종료",
+                "cn": "完成高难行动"
+            },
+            "text": {
+                "en": "Incredible commanding, Doctor! Hm? My performance is incredible, too? That's giving me too much credit. I came prepared, that's all.",
+                "jp": "素晴らしい指揮だったよ！え？私の動きも？……えへへ、今回はちゃんと準備できてただけだよ。",
+                "kr": "엄청난 지휘였어! 어, 나도 잘했다고? ……에헤헤, 이번에는 제대로 준비했을 뿐이야.",
+                "cn": "精彩的指挥！嗯？你是说我刚才的表现也......哎呀，只是这次我准备得比较充分嘛。"
+            },
+            "asset": "char_1047_halo2/CN_029"
+        },
+        {
+            "id": "char_1047_halo2_CN_030",
+            "title": {
+                "en": "3-star Result",
+                "jp": "★3で戦闘終了",
+                "kr": "3★ 작전 종료",
+                "cn": "3星结束行动"
+            },
+            "text": {
+                "en": "A victory meeting expectations after careful planning. Now we can all relax.",
+                "jp": "慎重に計画して、きちんと予定通りに勝利を収める。よし、一息つこっか。",
+                "kr": "신중하게 계산해서, 제대로 예정에 맞춰서 승리를 거둔다. 좋아, 한숨 돌려볼까.",
+                "cn": "审慎谋划后达成预期的胜利，现在可以放松啦。"
+            },
+            "asset": "char_1047_halo2/CN_030"
+        },
+        {
+            "id": "char_1047_halo2_CN_031",
+            "title": {
+                "en": "Sub 3-star Result",
+                "jp": "★2以下戦闘終了",
+                "kr": "비 3★ 작전 종료",
+                "cn": "非3星结束行动"
+            },
+            "text": {
+                "en": "Huh? This variable…",
+                "jp": "あれっ、この変数は……",
+                "kr": "어라, 이 변수는……",
+                "cn": "啊？这个变量......"
+            },
+            "asset": "char_1047_halo2/CN_031"
+        },
+        {
+            "id": "char_1047_halo2_CN_032",
+            "title": {
+                "en": "Operation Failure",
+                "jp": "作戦失敗",
+                "kr": "작전 실패",
+                "cn": "行动失败"
+            },
+            "text": {
+                "en": "Oh, don't worry. Once we identify the source of the problem, we'll get this taken care of, easy.",
+                "jp": "大丈夫だよ、問題点が分かれば、解決できるから。",
+                "kr": "괜찮아. 문제점을 알면 해결할 수 있으니까.",
+                "cn": "别担心啦，分析出问题就会有解决方法。"
+            },
+            "asset": "char_1047_halo2/CN_032"
+        },
+        {
+            "id": "char_1047_halo2_CN_033",
+            "title": {
+                "en": "Assigned to Facility",
+                "jp": "基地配属",
+                "kr": "시설에 배치",
+                "cn": "进驻设施"
+            },
+            "text": {
+                "en": "Let me set my alarm.",
+                "jp": "とりあえずアラームをセットしよう。",
+                "kr": "일단 알람부터 맞춰놓자.",
+                "cn": "先定个闹钟。"
+            },
+            "asset": "char_1047_halo2/CN_033"
+        },
+        {
+            "id": "char_1047_halo2_CN_034",
+            "title": {
+                "en": "Tap",
+                "jp": "タッチ1",
+                "kr": "터치",
+                "cn": "戳一下"
+            },
+            "text": {
+                "en": "Whoa?!",
+                "jp": "うわっ！？",
+                "kr": "우왓?!",
+                "cn": "呜哇？！"
+            },
+            "asset": "char_1047_halo2/CN_034"
+        },
+        {
+            "id": "char_1047_halo2_CN_036",
+            "title": {
+                "en": "Trust Tap",
+                "jp": "信頼タッチ",
+                "kr": "신뢰도 터치",
+                "cn": "信赖触摸"
+            },
+            "text": {
+                "en": "Don't let anybody know I'm slacking off—wait, you didn't know? Drat...",
+                "jp": "私がここでサボってたの、他の人には内緒だよ――え、言われなきゃ気づかなかった？あ～あ……",
+                "kr": "내가 여기서 땡땡이치는 거, 다른 사람들한테는 비밀이야…… 어, 말 안 했으면 몰랐을 거라고? 아~ 아……",
+                "cn": "不要告诉别人我在这偷懒——你本来不知道的？啊......"
+            },
+            "asset": "char_1047_halo2/CN_036"
+        },
+        {
+            "id": "char_1047_halo2_CN_037",
+            "title": {
+                "en": "Title",
+                "jp": "タイトルコール",
+                "kr": "타이틀",
+                "cn": "标题"
+            },
+            "text": {
+                "en": "Arknights.",
+                "jp": "アークナイツ。",
+                "kr": "명일방주.",
+                "cn": "明日方舟。"
+            },
+            "asset": "char_1047_halo2/CN_037"
+        },
+        {
+            "id": "char_1047_halo2_CN_038",
+            "title": {
+                "en": "New Year's blessing",
+                "jp": "新年",
+                "kr": "새해",
+                "cn": "新年祝福"
+            },
+            "text": {
+                "en": "Hello Doctor. The lab's too suffocating, so I came out here for a little fresh air. Are you here for a break, too? Hm? Happy New Year? Wait, is it past midnight already?! I was gonna head out with Sia and get some snacks… Oh well, it can wait. Happy New Year, Doctor!",
+                "jp": "ハロー、ドクター。ずっと研究室にこもってたから、外の空気吸いに来たんだ。ドクターも休憩？……ん？あけましておめでとう？もう日付変わっちゃってたの！？姉さんとお菓子を買いに行こうと思ってたのに……まあいいや！あけましておめでとう、ドクター！",
+                "kr": "헬로, 박사. 계속 연구실에 박혀 있었으니까, 바깥 공기 좀 쐬러 왔어. 박사도 휴식 중? ……응? 새해 복 많이 받으라고? 벌써 날짜가 바뀌었어?! 언니랑 간식 사러 가려고 했는데…… 뭐 됐어! 새해 복 많이 받아, 박사!",
+                "cn": "哈喽博士，我在实验室待迷糊了，出来透透气，你也是来休息的吗？嗯？新年快乐？都过零点了吗？！本来我还想和姐姐提前去买一些零食......先不管那么多了，新年快乐博士！"
+            },
+            "asset": "char_1047_halo2/CN_038"
+        },
+        {
+            "id": "char_1047_halo2_CN_042",
+            "title": {
+                "en": "Greeting",
+                "jp": "挨拶",
+                "kr": "인사",
+                "cn": "问候"
+            },
+            "text": {
+                "en": "Hey, Doctor. Do you have time to come to the lab and check out my latest breakthrough?",
+                "jp": "こんにちは、ドクター。時間があったら実験室で私の研究成果を見ていかない？",
+                "kr": "안녕, 박사. 시간 있으면 실험실 가서 내 연구 성과 보고 가지 않을래?",
+                "cn": "你好博士，有空去实验室看看我的新成果吗？"
+            },
+            "asset": "char_1047_halo2/CN_042"
+        },
+        {
+            "id": "char_1047_halo2_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": "Happy Birthday! I have a present for you—a planetarium I made myself, by hand! When I was a kid, my parents wouldn't let me make them, and it took me so much work just to fix one myself. Come, switch off the lamp and check this out. It even lights up! You think it's a little cliché? Come on, Doctor. Don't say that, even as a joke.",
+                "jp": "ドクター、お誕生日おめでとう！これ、私からのプレゼントね。手作りの天球儀だよ。前に苦労して壊れたのを修理したことがあるんだけど、あれは作るのを親にめっちゃ反対されたやつだったんだよね。明かりを消してみて、これ光るんだよ――え、ちょっと古くさい？もう、冗談はやめてよ～！",
+                "kr": "박사, 생일 축하해! 이건 내가 주는 선물인데, 직접 만든 천구의야. 예전에 힘들게 부서진 걸 수리한 적이 있는데, 부모님은 그걸 만드는 걸 엄청 반대했었거든. 불 꺼봐, 이거 빛난다…… 어, 좀 진부하다고? 에이, 농담도 참~!",
+                "cn": "生日快乐！我的礼物是自己做的星象仪哦，我曾经好不容易修复过一个，那时父母还不让我做呢。快关灯看看，它还会发光——觉得有点俗套？就算是开玩笑也不能这么讲啦博士！"
+            },
+            "asset": "char_1047_halo2/CN_043"
+        },
+        {
+            "id": "char_1047_halo2_CN_044",
+            "title": {
+                "en": "Anniversary Celebration",
+                "jp": "周年",
+                "kr": "애니버서리",
+                "cn": "周年庆典"
+            },
+            "text": {
+                "en": "Anything that mankind can gain from these stacks of paper pales in comparison to the reality offered by planting your feet on the ground or gazing up at the stars. I look forward to witnessing more miracles in the mists of the unknown… both at Rhine Lab… and at Rhodes Island.",
+                "jp": "人が本から得るものは、実際に大地を歩いて、空を見上げて得る体験とは比べ物にもならないんだ。私はこれからも未知の霧の中で奇跡を目にすることを心待ちにしている。ライン生命で、そしてロドスでもね。",
+                "kr": "사람이 책에서 얻는 건, 실제로 대지를 걷고 하늘을 올려다보며 얻는 체험과는 비교할 수 없지. 나는 앞으로도 미지의 안개 속에서 기적을 보는 것을 기대하고 있어. 라인 랩에서, 그리고 로도스 아일랜드에서도 말이야.",
+                "cn": "人们从纸上所得到的一切，都不比踏足大地或仰望星空更加真实。我期待继续从未知的迷雾中见证奇迹，在莱茵生命，也在罗德岛。"
+            },
+            "asset": "char_1047_halo2/CN_044"
+        }
+    ],
+    "actors": {
+        "en": {
+            "native": "Maya Aoki Tuttle",
+            "global": "Maya Aoki Tuttle"
+        },
+        "cn": {
+            "native": "橙璃",
+            "global": "Li Cheng"
+        },
+        "jp": {
+            "native": "白砂沙帆",
+            "global": "Saho Shirasu"
+        },
+        "kr": {
+            "native": "김이안",
+            "global": "Kim Ian"
+        }
+    },
+    "availability": [
+        "en",
+        "cn",
+        "jp",
+        "kr"
+    ]
+}

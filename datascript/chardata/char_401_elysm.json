@@ -594,7 +594,7 @@
             },
             "text": {
                 "en": "Happy birthday, Doctor. I've meticulously prepared this year's gift, taking into consideration everything I've learned. This time, you'll be blown away by... W-Wait, hold on, Doctor, don't leave! I swear, it's not a prank this time!",
-                "jp": "生日快乐，博士。今年的礼物由我精心特制，吸取了之前的教训，这一次一定会是意想不到的惊喜......等、等等，博士，别走，相信我，这次绝对不是整蛊玩具了！",
+                "jp": "ハッピーバースデー、ドクター。今年のプレゼントは僕が真心を込めて手作りしたんだ。これまでの教訓を生かして、今回こそ想像を超えるサプライズを……ちょ、ちょっとドクター逃げないで。僕を信じて、絶対にジョークグッズなんかじゃないからさ！",
                 "kr": "생일 축하해, 박사. 올해의 선물은 이전에 배운 교훈을 통해서 특별히 제작한 거야. 이번엔 분명 깜짝…… 자, 잠깐만, 가지 말아 봐, 박사. 믿어줘, 이번엔 절대 놀래키는 장난감 같은 거 아니라니까!",
                 "cn": "生日快乐，博士。今年的礼物由我精心特制，吸取了之前的教训，这一次一定会是意想不到的惊喜......等、等等，博士，别走，相信我，这次绝对不是整蛊玩具了！"
             },
@@ -619,8 +619,8 @@
     ],
     "actors": {
         "en": {
-            "native": "Miguel Ferreno",
-            "global": "Miguel Ferreno"
+            "native": "Miguel Ferreño",
+            "global": "Miguel Ferreño"
         },
         "cn": {
             "native": "杨凯祺",
@@ -634,6 +634,10 @@
             "native": "남도형",
             "global": "Nam Doh-hyeong"
         },
+        "es": {
+            "native": "Miguel Ferreño",
+            "global": "Miguel Ferreño"
+        },
         "old_jp": {
             "native": "森久保祥太郎",
             "global": "Showtaro Morikubo"
@@ -644,9 +648,10 @@
         "cn",
         "jp",
         "kr",
+        "es",
         "old_jp"
     ],
     "audio_path_override": {
-        "old_jp": "https://raw.githubusercontent.com/PseudoMon/arknights-audio/9f839553efcfdf31146543a6ad1ca5536a0c5790/voice"
+        "old_jp": "https://raw.githubusercontent.com/Zumurrud/riva-voices/main/old_voices/voice/char_401_elysm/CN_###.mp3"
     }
 }

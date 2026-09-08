@@ -498,7 +498,7 @@
             },
             "text": {
                 "en": "I've been here for years, but I rarely wander around inside…",
-                "jp": "ここで何年も過ごしてきたけど、基地以外の場所はほとんど行かないよね……。",
+                "jp": "ここで何年も過ごしてきたけど、基地以外の場所はほとんど行かないよね……",
                 "kr": "여기서 몇 년이나 지냈지만, 기반시설 외의 장소는 거의 가지 않아……",
                 "cn": "尽管在这里待了很多年，我却很少去其他地方......"
             },
@@ -594,7 +594,7 @@
             },
             "text": {
                 "en": "Dr.{@nickname}, this is my birthday present for you. Unfortunately, it's a little rough, since I used a little gap in time when the kitchen was free to make it. Though, a few operators did help me, and I think I rescued one of them before...",
-                "jp": "Dr.{@nickname}，这是我为你准备的生日礼物。很可惜，非常不精致，毕竟是趁着没人用厨房的空隙去做的。不过，也有几位干员提供了帮助，好像有一位是我曾救过的......",
+                "jp": "Dr.{@nickname}、これあんたのために用意した誕生日プレゼント。残念ながらそんな凝ったものじゃないよ。誰もキッチンにいない時を見計らって作ったんだから。まあ、何人かのオペレーターが手伝ってくれたけど。中の一人は昔私が助けた人のような気がする……",
                 "kr": "{@nickname} 박사, 자 여기. 이건 내가 널 위해 준비한 선물이야. 주방 빌 때 틈틈이 만든 거라 그렇게까지 예쁜 건 아니지만. 그래도 다른 오퍼레이터들이 많이 도와줬어. 그중에 내가 구해준 사람도 있었던 것 같고……",
                 "cn": "Dr.{@nickname}，这是我为你准备的生日礼物。很可惜，非常不精致，毕竟是趁着没人用厨房的空隙去做的。不过，也有几位干员提供了帮助，好像有一位是我曾救过的......"
             },

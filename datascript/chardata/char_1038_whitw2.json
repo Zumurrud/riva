@@ -634,7 +634,7 @@
             "native": "서유리",
             "global": "Seo Yu-ri"
         },
-        "ita": {
+        "it": {
             "native": "Elisa Contestabile",
             "global": "Elisa Contestabile"
         }
@@ -644,6 +644,6 @@
         "cn",
         "jp",
         "kr",
-        "ita"
+        "it"
     ]
 }

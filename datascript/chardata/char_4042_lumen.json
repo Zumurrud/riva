@@ -633,12 +633,17 @@
         "kr": {
             "native": "민승우",
             "global": "Min Seung-woo"
+        },
+        "es": {
+            "native": "Raúl Lara",
+            "global": "Raúl Lara"
         }
     },
     "availability": [
         "en",
         "cn",
         "jp",
-        "kr"
+        "kr",
+        "es"
     ]
 }

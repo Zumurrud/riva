@@ -17,7 +17,7 @@
                 "cn": "任命助理"
             },
             "text": {
-                "en": "Doctor, you've managed to keep your room clean. Not bad.",
+                "en": "Your room is quite neat, Doctor. Not bad.",
                 "jp": "ドクターの部屋って意外ときれいだね。いいんじゃない。",
                 "kr": "박사 방, 의외로 깨끗하네? 좋은데?",
                 "cn": "博士的房间还是挺整洁的嘛，还不赖。"
@@ -33,7 +33,7 @@
                 "cn": "交谈1"
             },
             "text": {
-                "en": "Water is the core ingredient of life. I've talked to Miss Closure about improving Rhodes Island's water purification system. I hope that my research can be of help... so I don't have to worry about the water being dirty anymore.",
+                "en": "Water is the core ingredient of life. I've talked to Miss Closure about improving Rhodes Island's water purification system. I hope that my research can be of help… If everything goes well, then I don't have to worry about the water being dirty anymore.",
                 "jp": "水は生活の中心。クロージャとも浄水システムの改善について話したけど、私の研究が役に立てばいいなと思ってる……そうすれば私も水道水の汚れを心配しなくて済むから。",
                 "kr": "물은 생활의 중심이야. 클로저와도 정수 시스템 개선에 관해 이야기했지만, 내 연구가 도움이 되면 좋겠어…… 그렇게 하면, 나도 수돗물 오염을 걱정하지 않아도 되니까.",
                 "cn": "水是大家生活的核心，我已经跟可露希尔小姐交流过改善罗德岛净水系统的事情了，希望我的研究成果能给帮上忙......这样我也不用担心用水不干净了。"
@@ -81,7 +81,7 @@
                 "cn": "晋升后交谈1"
             },
             "text": {
-                "en": "These reserve water cannons were originally made for industrial usage. In addition to shooting pressurized water, they can also release high-temperature steam. Please don't touch them haphazardly; they're not like Closure's little buggies.",
+                "en": "These water cannons were originally made for industrial usage. In addition to shooting pressurized water, they can also release high-temperature steam. So please don't touch them haphazardly; they're not like Closure's little buggies.",
                 "jp": "この蓄水砲は元々工事のために作られたもので、高圧放水以外に、高温スチームも放射できる。だからむやみに触らないで、クロージャの支援ロボットとは違うから。",
                 "kr": "이 저수포는 원래 공사용으로 만든 거라서, 고압 방수 말고도, 고온 스팀도 방사할 수 있어. 그러니까 함부로 만지지 마. 클로저의 지원 로봇이랑은 다르니까.",
                 "cn": "这些蓄水炮本来都是为了工程才制造的，除了高压水以外，还可以释放出高温蒸汽束。所以请不要随便触碰，他们可不是可露希尔的小车。"
@@ -97,7 +97,7 @@
                 "cn": "晋升后交谈2"
             },
             "text": {
-                "en": "These high-level combat data materials are based upon my own summaries of the combat situation. Doctor, please read them carefully for the sake of future battles. After that, there are a few operation-related experiments I'd like to perfect that I will need your help on. I trust that you won't turn me down?",
+                "en": "These high-level combat data materials are based upon my own summaries of the combat situation. Please read them carefully for the sake of future battles. After that, there are a few operation-related experiments I'd like to improve, and your help would be very valuable. I trust that you won't turn me down, will you, Doctor?",
                 "jp": "この高等作戦資料は作戦状況に基づいてまとめたもの。今後のためにも、ちゃんと目を通しておいて。それから完成させたい作戦実験もいくつかあるから、それも付き合って。ドクターなら断ったりしないでしょ。",
                 "kr": "이 고등 작전 자료는 작전 상황에 기반해서 정리한 거야. 앞으로를 위해서라도, 제대로 한 번 훑어봐 둬. 그리고 완성하고 싶은 작전 실험도 몇 가지 있으니까 그것도 같이 해줘. 박사라면 거절하진 않을 거잖아?",
                 "cn": "这些高阶的作战资料是我自己根据作战情况总结的。为了之后的战斗，就麻烦博士仔细阅读一下。然后之后还有好几个我想完善的作战实验也麻烦博士帮我一起，博士肯定不会拒绝我的吧。"
@@ -113,7 +113,7 @@
                 "cn": "信赖提升后交谈1"
             },
             "text": {
-                "en": "I occasionally go to Perfumer's Convalescence Garden to relax. The aroma there can really wash all your stress away, and it's a very effective way of relieving the fatigue from research. Doctor, how about we head there together and give it a try next time?",
+                "en": "I occasionally go to Perfumer's Convalescent Garden to relax. The aroma there can wash all your stress away, truly a wonderful place for relieving the fatigue from research. Doctor, how about we head there together and give it a try next time?",
                 "jp": "たまには息抜きにパフューマーさんの庭に行くこともあるよ。あそこの香りは人を心の底からリラックスさせるし、研究の疲れを和らげるには最適だから。今度ドクターも一緒に行く？",
                 "kr": "가끔 한숨 돌리려 퍼퓨머 씨네 정원에 갈 때도 있어. 거기서 나는 향은 사람을 마음속 깊이 편안하게 해주고, 연구하다 지쳤을 때도 딱이거든. 다음에 박사도 같이 갈래?",
                 "cn": "平时我也偶尔会去一趟调香师小姐的庭院休息休息。那里的气味就能让人彻底放松下来，对于缓解研究的疲劳实在是再有效不过了，下次博士要一起去试试吗？"
@@ -145,7 +145,7 @@
                 "cn": "信赖提升后交谈3"
             },
             "text": {
-                "en": "Thanks to your compassion, I've recently become more accustomed to having you around, Doctor. And apart from Glaucus and some other research colleagues, I can't say that about many people.",
+                "en": "Thanks to your care and support, I've recently become more accustomed to having you around, Doctor. And apart from Glaucus and some other research colleagues, I can't say that about many people.",
                 "jp": "こうやってお世話になってるうちに、ドクターのいる生活にも慣れてきた。グラウコスや研究者仲間の他に、こんな人ほとんどいないよ。",
                 "kr": "이렇게 신세를 지고 있는 동안 박사가 있는 생활에도 익숙해졌어. 글라우쿠스나 연구자 동료들 말고, 이런 사람은 거의 없는데.",
                 "cn": "受了不少博士的关照，最近我也越来越习惯待在有博士在的环境里了。除了格劳克斯和研究的同事，明明还挺少见的。"
@@ -177,7 +177,7 @@
                 "cn": "干员报到"
             },
             "text": {
-                "en": "Hello, I'm Weedy from Rhodes Island's Engineering Department. I've heard of your name a long time ago, so I hope we'll have a productive relationship from now on. Ah, if you want to shake hands, please use your gloved right hand.",
+                "en": "Hello, I'm Weedy from Rhodes Island's Engineering Department. I heard your name a long time ago, so I hope we'll have a productive relationship from now on. Ah, if you want to shake hands, please take my gloved right hand.",
                 "jp": "はじめまして、私はロドスのエンジニア部門所属のウィーディ。ドクターのことは前からよく聞いてるの、これからよろしくね。あ、握手なら手袋をしてるこの右手でお願い。",
                 "kr": "반가워. 나는 로도스 아일랜드 엔지니어링부 소속, 위디라고 해. 박사에 대해선 전부터 자주 들었어. 앞으로 잘 부탁해. 아, 악수라면 여기 장갑 낀 오른손으로 부탁할게.",
                 "cn": "你好，我是罗德岛工程部的温蒂，很早以前就听说过博士的大名了，希望之后能多多指教。啊，握手的话请用这边带着手套的右手。"
@@ -241,7 +241,7 @@
                 "cn": "编入队伍"
             },
             "text": {
-                "en": "Do I have to go?",
+                "en": "I can join too?",
                 "jp": "私も一緒に行くの？",
                 "kr": "나도 같이 가는 거야?",
                 "cn": "我也要一起吗？"
@@ -257,7 +257,7 @@
                 "cn": "任命队长"
             },
             "text": {
-                "en": "Please listen to my instructions!",
+                "en": "Everyone, follow my instructions!",
                 "jp": "皆、私の指示を聞いて！",
                 "kr": "다들, 내 지시를 들어줘!",
                 "cn": "大家听我指挥！"
@@ -273,7 +273,7 @@
                 "cn": "行动出发"
             },
             "text": {
-                "en": "Attack!",
+                "en": "Moving out!",
                 "jp": "出撃！",
                 "kr": "출격!",
                 "cn": "出击！"
@@ -337,7 +337,7 @@
                 "cn": "部署1"
             },
             "text": {
-                "en": "Leave it to me!",
+                "en": "Leave it to me.",
                 "jp": "任せて。",
                 "kr": "맡겨줘.",
                 "cn": "交给我吧！"
@@ -353,7 +353,7 @@
                 "cn": "部署2"
             },
             "text": {
-                "en": "Leaf, let's do our best!",
+                "en": "Leaf, let's do our best.",
                 "jp": "リーフ、頑張ろうね。",
                 "kr": "리프, 열심히 하자.",
                 "cn": "小叶，我们加油！"
@@ -369,7 +369,7 @@
                 "cn": "作战中1"
             },
             "text": {
-                "en": "Fire!",
+                "en": "Firing!",
                 "jp": "発射！",
                 "kr": "발사!",
                 "cn": "发射！"
@@ -385,7 +385,7 @@
                 "cn": "作战中2"
             },
             "text": {
-                "en": "Lock down the enemy! Attack!",
+                "en": "Target locked! Engage!",
                 "jp": "敵影ロックオン！攻撃！",
                 "kr": "적을 록 온! 공격!",
                 "cn": "锁定敌人！攻击！"
@@ -401,7 +401,7 @@
                 "cn": "作战中3"
             },
             "text": {
-                "en": "Out of my way!",
+                "en": "Clear the way!",
                 "jp": "みんなあっちいって！",
                 "kr": "모두 저리 가!",
                 "cn": "全都让开！"
@@ -433,7 +433,7 @@
                 "cn": "完成高难行动"
             },
             "text": {
-                "en": "Everything's a piece of cake, as long as we employ the proper tactics.",
+                "en": "As long as we employ the proper tactics, everything's a piece of cake.",
                 "jp": "戦術さえ正しければ、こんなのなんてことない。",
                 "kr": "전술만 옳게 짠다면, 이런 건 아무것도 아니야.",
                 "cn": "只要战术正确了，根本就是小菜一碟。"
@@ -449,7 +449,7 @@
                 "cn": "3星结束行动"
             },
             "text": {
-                "en": "Don't underestimate the importance of engineering!",
+                "en": "Engineering cannot be underestimated.",
                 "jp": "工学の力を甘く見ないで！",
                 "kr": "공학의 힘을 우습게 보지 말라고!",
                 "cn": "工程学的作用不可小觑！"
@@ -465,7 +465,7 @@
                 "cn": "非3星结束行动"
             },
             "text": {
-                "en": "...After I head back and adjust the parameters of this device, this won't happen again.",
+                "en": "I will adjust the parameters of this device once we head back. This won't happen again.",
                 "jp": "……戻ったらちょっと機材の設定を見直す。次は繰り返さない。",
                 "kr": "……돌아가면 기재 설정을 살짝 다시 해야겠어. 다음엔 안 이럴 거야.",
                 "cn": "......等我回去调整一下设备的参数，不会有下次了。"
@@ -481,7 +481,7 @@
                 "cn": "行动失败"
             },
             "text": {
-                "en": "Leaf, cover our escape!",
+                "en": "Leaf, cover our retreat!",
                 "jp": "リーフ、ここを離脱するから援護して！",
                 "kr": "리프, 여기를 이탈할 거니까 엄호해 줘!",
                 "cn": "小叶， 掩护我们离开这里！"
@@ -561,7 +561,7 @@
                 "cn": "新年祝福"
             },
             "text": {
-                "en": "Doctor, stand still and don't move a muscle, let me inspect you. Hmm... no dust on the bottom of your clothes, and your shoes are clean. That's good. Oh, wait! Your shirt collar is so wrinkled. You are not going to attend the party like that, right? Go back and sort that out, I'll wait here for you.",
+                "en": "Doctor, stand still and don't move a muscle, let me inspect you. Hmm… no dust on the bottom of your clothes, and your shoes are clean. That's good. Oh, wait! Your shirt collar is so wrinkled. You are not going to attend the party like that, right? Go back and sort that out, I'll wait here for you.",
                 "jp": "ドクター、ストップ。チェックするから動かないで。うん、裾は汚れてないし、靴紐も綺麗だね。なかなか格好いいよ。あっ、待った。シャツの襟がしわくちゃになってる。まさか、このままパーティーに参加するつもりじゃないよね？早く部屋で整えてきて、ここで待ってるから。",
                 "kr": "박사, 거기 잠시 스톱. 확인할 게 있어. 음, 옷에 묻은 먼지는 없고, 신발 끈도 깔끔하네. 좋아. 잠깐, 셔츠 깃은 왜 이렇게 구겨져 있는 거야? 설마 이 상태로 파티에 갈 생각은 아니겠지? 얼른 가서 정리하고 와, 여기서 기다리고 있을 테니까.",
                 "cn": "博士，站住不许动，让我检查一下。嗯，衣摆没有沾灰，鞋带也是干净的，还不错嘛。等等，衬衫的领子怎么这么皱，难道你打算就这样出席晚会吗？快回去整理一下，我在这等你。"
@@ -593,8 +593,8 @@
                 "cn": "生日"
             },
             "text": {
-                "en": "Doctor, have you seen Leaf? Her signal suddenly dropped, and my terminal indicates she's somewhere around your office—You thought she was a present and put her away? The present wasn't her, it was the box on her back! Also! How were you so sure I'd give you a present?",
-                "jp": "博士，你看到小叶了吗？信号突然中断了，终端显示他应该在你的办公室附近——以为是礼物就收起来了？小叶不是礼物，他背着的那个礼盒才是！还有！你怎么就认定我会给你准备礼物？",
+                "en": "Doctor, have you seen Leaf? His signal suddenly dropped, and my terminal indicates he's somewhere around your office… You thought he was a present and tucked him away!? The present wasn't him, it was the box on his back! Also! How were you so sure I'd give you a present!?",
+                "jp": "ドクター、リーフを見なかった？向こうからの通信が途絶えたんだけど、位置情報的には執務室近くにいるらしくて――プレゼントだと思ったから回収した？プレゼントはリーフじゃなくて、あの子に持たせた箱なの！それに！なんで私からのプレゼントがあるって確信してるの？",
                 "kr": "박사, 혹시 리프 봤어? 갑자기 신호가 끊겼거든. 단말기에는 박사 사무실 주변에 있다고 뜨는데…… 응? 선물인 줄 알고 가져갔다고? 리프는 선물이 아니야. 리프가 등에 메고 있던 상자가 진짜 선물이지! 그리고! 왜 내가 너한테 선물을 줄 거라고 확신하는 거야?",
                 "cn": "博士，你看到小叶了吗？信号突然中断了，终端显示他应该在你的办公室附近——以为是礼物就收起来了？小叶不是礼物，他背着的那个礼盒才是！还有！你怎么就认定我会给你准备礼物？"
             },
@@ -618,6 +618,10 @@
         }
     ],
     "actors": {
+        "en": {
+            "native": "Maya Graydon",
+            "global": "Maya Graydon"
+        },
         "cn": {
             "native": "宋媛媛",
             "global": "Esther"
@@ -629,11 +633,17 @@
         "kr": {
             "native": "오로아",
             "global": "Oh Roah"
+        },
+        "es": {
+            "native": "Marina Romero",
+            "global": "Marina Romero"
         }
     },
     "availability": [
+        "en",
         "cn",
         "jp",
-        "kr"
+        "kr",
+        "es"
     ]
 }

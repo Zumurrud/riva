@@ -34,7 +34,7 @@
             },
             "text": {
                 "en": "Deep Sleep Mode enabled... Zzzzz... Setting advanced config and power interface... Zzzzz…",
-                "jp": "……ディープスリープモード継続中……Zzzz……電源管理の設定を更新しています……Zzz……。",
+                "jp": "……ディープスリープモード継続中……Zzzz……電源管理の設定を更新しています……Zzz……",
                 "kr": "……숙면 모드 사용 중…… 쿨쿨…… 전원 관리 설정을 업데이트하고 있습니다…… 쿨……",
                 "cn": "......深度睡眠......Zzzzz......修改高级配置与电源管理接口......Zzzzz......"
             },
@@ -98,7 +98,7 @@
             },
             "text": {
                 "en": "I recommend you refactor my data if optimization fails to increase my performance. This will improve communication efficiency, and Ptilopsis will... Zzzz...",
-                "jp": "最適化でのパフォーマンス上昇が見込めない場合、リファクタリングをおすすめいたします。データ通信の効率が上昇し、フィリオプシスは……Zzz……。",
+                "jp": "最適化でのパフォーマンス上昇が見込めない場合、リファクタリングをおすすめいたします。データ通信の効率が上昇し、フィリオプシスは……Zzz……",
                 "kr": "최적화를 통한 퍼포먼스 상승을 기대할 수 없는 경우, 리팩토링을 추천 드립니다. 데이터 통신의 효율이 상승하여, 프틸롭시스는…… 쿨……",
                 "cn": "如果不能通过优化提高性能的话，我会建议您进行重构。这样，数据通讯的效率会上升，白面鸮也会......Zzzz......"
             },
@@ -146,7 +146,7 @@
             },
             "text": {
                 "en": "It is, in fact, quite burdensome to speak in this manner. But this is a necessary measure to prevent the system nexus from being devoured by that other voice. Doctor, if I lose control, please guide me back onto the right path.",
-                "jp": "実をいうと、この喋り方はかなり負担がかかります。ですが、システム中枢があの声に飲み込まれないようにするためのものなのです……。ドクター、フィリオプシスが暴走してしまっても、どうか正しい道に導いてくれることを、切に願います。",
+                "jp": "実をいうと、この喋り方はかなり負担がかかります。ですが、システム中枢があの声に飲み込まれないようにするためのものなのです……ドクター、フィリオプシスが暴走してしまっても、どうか正しい道に導いてくれることを、切に願います。",
                 "kr": "솔직히 말씀드리자면, 이 말투는 무척 부담이 됩니다. 하지만, 이는 시스템 중추가 '그 목소리'에 삼켜지지 않도록 하기 위한 것입니다…… 박사님, 프틸롭시스가 폭주해버려도, 부디 바른길로 인도해주시기를 간구드립니다.",
                 "cn": "实际上，采用这样的说话方式需要承受相当大的负担。但这是为了防止系统中枢被那个声音吞噬的必要措施。我恳求您，即使我失去了理智，也请博士指引我回归正确的道路。"
             },
@@ -594,7 +594,7 @@
             },
             "text": {
                 "en": "Doctor, people celebrate their own dates of birth. How do you wish to celebrate yours? Acknowledged. Increasing favor rating of Doctor. Error: Invalid operation. Cause of failure: favor rating is already at—maximum.",
-                "jp": "生日，人们庆祝自己诞生的日子，博士希望以何种形式庆祝？了解，将提升对博士的好感度。错误，对博士的好感度提升失败。失败原因：好感度已提升至——满值。",
+                "jp": "誕生日とは、人々が自身の生誕を祝う日です。ドクターはどのような形式の祝賀を望まれますか？肯定、ドクターへの好感度を上昇させます。エラー、好感度の上昇に失敗しました。原因、好感度はすでに最大値に達しています。",
                 "kr": "생일이란, 사람들이 자신의 탄생을 축하하는 날입니다. 박사님은 어떠한 방식으로 축하하고 싶으신가요? 알겠습니다. 박사님에 대한 호감도를 높이겠습니다. 오류 발생, 호감도 상승에 실패했습니다. 실패 원인, 호감도가 이미 최대치를 달성했습니다.",
                 "cn": "生日，人们庆祝自己诞生的日子，博士希望以何种形式庆祝？了解，将提升对博士的好感度。错误，对博士的好感度提升失败。失败原因：好感度已提升至——满值。"
             },

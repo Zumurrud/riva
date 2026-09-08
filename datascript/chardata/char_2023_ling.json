@@ -131,7 +131,7 @@
             "text": {
                 "en": "I am drunk? Hah... I have not yet seen the sky throw wide, moon rise, seas race, ice break, to wait true for all the world's sobriety would be but the withering of a bud, to want true for deep intoxication would be far too early still... {@nickname}, now, why do you say I am drunk?",
                 "jp": "私が酔ってる？ふっ……我なおいまだ、天開かる、月明ける、海走る、氷散るを見ず。世の人間がみな素面になるのを待ったところで、それもまた枯れ枝に新芽が一つ、ついただけ。心置きなく酔い耽るには、尚早きにすぎる……貴君よ、どうして私が酔っているなんて言える？",
-                "kr": "내가 취했다고? 훗…… 나는 아직 하늘이 열리며 달이 밝고, 바다가 달리며 얼음이 흩어지는 걸 보지 못했어. 세상의 인간이 모두 술에서 깨어나는 것을 기다리는데, 이제 나뭇가지에 새싹 하나 피어올랐을 뿐이지. 마음 놓고 취하기엔 시기상조이거늘…… 그대여, 어찌 내가 취했다고 할 수 있겠어?",
+                "kr": "내가 취했다고? 훗…… 나는 아직 하늘이 열리며 달이 밝고, 바다가 마르고 얼음이 흩어지는 걸 보지 못했어. 세상의 인간이 모두 술에서 깨어나는 것을 기다리는데, 이제 나뭇가지에 새싹 하나 피어올랐을 뿐이지. 마음 놓고 취하기엔 시기상조이거늘…… 그대여, 어찌 내가 취했다고 할 수 있겠어?",
                 "cn": "醉了？呵......尚未见天开月明，海走冰散，真等到世人皆醒，也不过枯枝一新芽，真要大醉一场，还为时尚早......{@nickname}呀，你怎么能说我醉了呢？"
             },
             "asset": "char_2023_ling/CN_008"
@@ -594,7 +594,7 @@
             },
             "text": {
                 "en": "A birthday? Though all life and death's abundance makes but a farcical dream... Nay, should you be free at ease within, then a toast from me to you is only becoming. You may not be the old friend that lives in dreams, but that we lock eyes and converse apiece here is no misfortune to me at all.",
-                "jp": "生辰？生くるも死ぬも、まこと一夜の夢に過ぎぬこと……しかし、夢においても不羈（ふき）のままでいられるというのなら、この一杯は貴君に捧げて干そう。夢の中でしか会えないわけではないけれど、貴君と二人ここで相対して語り明かすのも、妙なる時だと思っているんだ。",
+                "jp": "生辰？生くるも死ぬも、まこと一夜の夢に過ぎぬこと……しかし、夢においても不羈（ふき）のままあるというのならば、この一杯は貴君に捧げて干そう。古き友とは今は言えなけれど、貴君と二人ここで相対して語り明かすのも、そう悪くないと思っているんだ。",
                 "kr": "생일? 태어나고 죽는 것은 그저 한차례 길고 큰 꿈에 불과하나니…… 하지만 이 속에서 뜻을 이룰 수 있다면 그대를 위해 한잔하는 것 정도야 할 수 있지. 비록 옛 친구의 꿈은 아니나, 그대와 나, 여기 마주 앉아 이야기하는 것이 그저 아쉽기만 한 건 아니니까.",
                 "cn": "生日？方生方死，无非是大梦一场......但其间若是自在得意，便值得我敬你一杯。虽非故人入梦，只是我与你在此对坐畅谈，也不会觉得有什么可惜。"
             },
@@ -626,6 +626,10 @@
             "native": "余珊",
             "global": "Shan"
         },
+        "cn_topolect": {
+            "native": "余珊",
+            "global": "Shan"
+        },
         "jp": {
             "native": "井上喜久子",
             "global": "Kikuko Inoue"
@@ -633,17 +637,13 @@
         "kr": {
             "native": "이다은",
             "global": "Lee Da-eun"
-        },
-        "cn_topolect": {
-            "native": "余珊",
-            "global": "Shan"
         }
     },
     "availability": [
         "en",
         "cn",
+        "cn_topolect",
         "jp",
-        "kr",
-        "cn_topolect"
+        "kr"
     ]
 }

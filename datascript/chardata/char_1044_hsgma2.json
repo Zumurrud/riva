@@ -1,0 +1,649 @@
+{
+    "charid": "char_1044_hsgma2",
+    "nameid": "hsgma2",
+    "names": {
+        "en": "Hoshiguma the Breacher",
+        "jp": "斬業ホシグマ",
+        "kr": "호시구마 더 브리처",
+        "cn": "斩业星熊"
+    },
+    "voices": [
+        {
+            "id": "char_1044_hsgma2_CN_001",
+            "title": {
+                "en": "Appointed as Assistant",
+                "jp": "秘書任命",
+                "kr": "어시스턴트 임명",
+                "cn": "任命助理"
+            },
+            "text": {
+                "en": "Just like old times, Doctor. You're safe with me around.",
+                "jp": "これまでと変わらず、あなたの安全は私が保証するから安心していい。",
+                "kr": "지금까지와 다름없이, 당신의 안전은 내가 보장할 테니까 안심해도 좋아.",
+                "cn": "和以前一样，有我在，你就是安全的。"
+            },
+            "asset": "char_1044_hsgma2/CN_001"
+        },
+        {
+            "id": "char_1044_hsgma2_CN_002",
+            "title": {
+                "en": "Talk 1",
+                "jp": "会話1",
+                "kr": "대화 1",
+                "cn": "交谈1"
+            },
+            "text": {
+                "en": "New weapons? Nope, Hannya just got reforged, and I shared a connection with this blade from early on. I prefer old-school stuff for everything, except my bike—though I do keep my retired rides all nice and clean in the garage.",
+                "jp": "武器を変えたのかって？いや、これは打ち直された般若だ。で、こちらの方は昔から因縁がある刀。バイク以外は基本、古臭いものが好みなんだが――実は乗り換えたバイクも全て綺麗に磨き上げて、今も車庫に並んでる。",
+                "kr": "무기를 바꿨냐고? 아니, 이건 다시 만든 반야야. 그리고 이건 옛날부터 연이 있던 칼이고. 오토바이 말고는 기본적으로 오래된 걸 좋아하지만…… 사실 예전에 타던 오토바이도, 전부 깨끗하게 닦아서 차고에 나란히 세워놨거든.",
+                "cn": "我换了新的武器？没有，般若只是被重铸过了，这把刀早年也和我有些因缘。除了电单车，东西我都喜欢老套的——话是这么说，我换掉的车，其实也都擦得干干净净，在车库里停着呢。"
+            },
+            "asset": "char_1044_hsgma2/CN_002"
+        },
+        {
+            "id": "char_1044_hsgma2_CN_003",
+            "title": {
+                "en": "Talk 2",
+                "jp": "会話2",
+                "kr": "대화 2",
+                "cn": "交谈2"
+            },
+            "text": {
+                "en": "One time I showed up to work with this outfit on, and Lungmen's triads were especially well-behaved that day. Too bad Missy ordered me to switch back after the L.G.D. hotline got flooded with residents asking us to handle an 'Unidentified Dangerous Individual'... what a shame.",
+                "jp": "今の装束で出勤したことがあるんだが、これを見た龍門の裏社会の連中はどいつも大人しいものだった。残念ながらお嬢様に着替えを命じられたんだがな。近衛局に「未知の危険人物」をどうにかしろと苦情が殺到したとかで……まったく残念だ。",
+                "kr": "지금 입고 있는 복장으로 출근한 적이 있는데, 이걸 본 용문 조직 녀석들이 다들 얌전해지더라고. 유감스럽게도 아가씨한테 갈아입으라는 명령을 들었긴 했지만. 근위국에 '미지의 위험인물'을 해결해 달라는 민원이 쇄도했다나…… 정말 유감이야.",
+                "cn": "有一次我穿了现在这身上班，全龙门的黑道见了我都特别乖。可惜Missy勒令我换掉，因为近卫局的电话被市民打爆了，他们要求近卫局处理“未知危险人物”......真遗憾哪。"
+            },
+            "asset": "char_1044_hsgma2/CN_003"
+        },
+        {
+            "id": "char_1044_hsgma2_CN_004",
+            "title": {
+                "en": "Talk 3",
+                "jp": "会話3",
+                "kr": "대화 3",
+                "cn": "交谈3"
+            },
+            "text": {
+                "en": "Monks talk of 'Prajna' as a transcendent wisdom beyond mortal comprehension, but the Higashinese are more familiar with 'Hannya', the angry face on this shield. Being born in Higashi as an Oni is already lucky enough for a Sarkaz, but who can say how many of us seek liberation, or die in battle?",
+                "jp": "僧侶の言う「般若」は世俗を超越した大いなる知恵のことを指す。しかし極東では、一般的にこの盾のように憤怒した顔の方をみんなが思い浮かべるな。極東の鬼族に生まれたのはサルカズにとって幸運なことだが、解脱を得る者と戦場に斃れる者の割合がどれくらいかは、また別の話だ。",
+                "kr": "승려들이 말하는 '반야'는 세속을 초월한 위대한 지혜를 뜻해. 그런데 극동에서는 일반적으로 이 방패처럼 분노한 얼굴을 떠올리지. 극동의 오니족으로 태어난 건 살카즈에게는 행운이라지만, 해탈을 얻는 자와 전장에서 쓰러지는 자의 비율이 얼마나 되는지는 또 다른 이야기야.",
+                "cn": "僧人口中的“般若”是超越凡俗的大智慧，但东国人更熟悉的“般若”是盾上这张狂怒的脸。生为东国鬼族对萨卡兹而言已是幸运，至于有多少鬼求得解脱，又有多少横死沙场，谁也说不清。"
+            },
+            "asset": "char_1044_hsgma2/CN_004"
+        },
+        {
+            "id": "char_1044_hsgma2_CN_005",
+            "title": {
+                "en": "Talk after Promotion 1",
+                "jp": "昇進後会話1",
+                "kr": "1차 정예화 후 대화",
+                "cn": "晋升后交谈1"
+            },
+            "text": {
+                "en": "Kyoukaku? Xiá? Sure, your gallant swordsmen dedicated to lofty moral codes, you hear about them in Higashi's Chuushingura and Yan's wuxia tales, but I'm not the type at all. Those are vigilantes, going against the law with violence; and once you have law enforcement turning into vigilantes, or a vigilante with no choice but to join hands with the police, then everything will—Yeah, stuff's been messed up for a long, long time.",
+                "jp": "侠客？極東の『忠臣蔵』や、炎国の「屍二人、流血五歩」は、どちらも侠客に関する話だが、私とは無縁だ。侠客は武で法を犯す連中だから、警官がやむを得ず侠客になったり、侠客が不承不承警察と手を組むようなことがあれば、それは……まあ、とっくに世も末か。",
+                "kr": "협객? 극동의 '추신구라'나 염국의 '복시이인, 유혈오보' 모두 다 협객에 관한 얘기지만, 나와는 무관한 일이야. 협객은 무예로 법을 어기는 자들이니까. 경관이 어쩔 수 없이 협객이 된다든가, 협객이 마지못해 경관과 손을 잡는다든가 하는 일이 생기면, 그거는 뭐…… 이미 말세라 할 수 있겠지.",
+                "cn": "侠客？东国的《忠臣藏》，大炎的“伏尸二人，流血五步”，说的都是侠客，但唯独和我无关。侠以武犯禁，要是警察被迫当了侠客，或者侠客不得不和警察联手，那这世道——确实，早已经乱套了。"
+            },
+            "asset": "char_1044_hsgma2/CN_005"
+        },
+        {
+            "id": "char_1044_hsgma2_CN_006",
+            "title": {
+                "en": "Talk after Promotion 2",
+                "jp": "昇進後会話2",
+                "kr": "2차 정예화 후 대화",
+                "cn": "晋升后交谈2"
+            },
+            "text": {
+                "en": "Yeah, I chose Lungmen in the end. After so many years, I'd long stopped expecting Mitsukue sake to take like it used to. But I never imagined it'd distill itself into tastelessness. All we got left is straight paint thinner. Booze like that, I don't drink.",
+                "jp": "ああ、やっぱり龍門を選んだよ。これだけ時が経ったんだから、御机の酒が昔の味を保ってるなんて期待はしてなかったが、まさか蒸留を重ねる中で香りを失い、ただ鼻をつくアルコールと化しているとは思いもしなかった。このような酒、私には飲めやしない。",
+                "kr": "맞아, 결국 용문을 택했어. 이 정도로 시간이 흘렀으니 미츠쿠에 술이 예전 맛 그대로일 거라고는 기대도 안 했지만, 설마 계속 증류되면서 향을 잃고 그냥 코를 찌르는 알코올이 되었을 줄은 몰랐지. 이런 술, 난 못 마셔.",
+                "cn": "没错，我最后还是选龙门。这么多年了，我早就不奢求御机的酒风味如初。可我怎么也没想到，它的香气已经在反复的蒸馏中彻底跑丢，只剩一股冲鼻子的酒精味。这样的酒，我喝不来。"
+            },
+            "asset": "char_1044_hsgma2/CN_006"
+        },
+        {
+            "id": "char_1044_hsgma2_CN_007",
+            "title": {
+                "en": "Talk after Trust Increase 1",
+                "jp": "信頼上昇後会話1",
+                "kr": "신뢰도 상승 후 대화 1",
+                "cn": "信赖提升后交谈1"
+            },
+            "text": {
+                "en": "I took Missy to dinner after she got back from Siesta. It was before she got sworn in, so imagine how red her face was when I let a 'Commissioner' slip out—Oh, Commissioner Swire! What an honor to have you grace Rhodes Island!—Ow! Milady—I mean, Missy, please, have mercy!",
+                "jp": "お嬢様がシエスタから龍門へ戻った時に食事をおごったんだ。当時彼女はまだ昇進する前で、私が「局長」と呼んだ途端に真っ赤になってな――おっと、スワイヤー局長！ロドスによくいらっしゃいました――痛たた、スーお嬢様、いやお嬢様、お手柔らかに！",
+                "kr": "아가씨가 시에스타에서 용문으로 돌아왔을 때, 내가 밥을 샀거든. 당시에는 아직 승진 전이라, 내가 '국장'이라고 하니까 바로 빨개져가지고…… 어이쿠, 스와이어 국장! 로도스 아일랜드에 잘 오셨습니다…… 아야야, 스 아가씨, 아니 아가씨, 살살 좀!",
+                "cn": "Missy从汐斯塔回龙门后，我请她吃了顿饭。当时她还没上任，我随口叫了声“局长”，把她窘得——诗怀雅局长！您大驾光临罗德岛——痛痛痛，诗大小姐，不是，Missy，手下留情啊！"
+            },
+            "asset": "char_1044_hsgma2/CN_007"
+        },
+        {
+            "id": "char_1044_hsgma2_CN_008",
+            "title": {
+                "en": "Talk after Trust Increase 2",
+                "jp": "信頼上昇後会話2",
+                "kr": "신뢰도 상승 후 대화 2",
+                "cn": "信赖提升后交谈2"
+            },
+            "text": {
+                "en": "In his final moments, Ah Faat asked Old Ch'en to take care of me, but she's actually the one who can't keep out of trouble. Today, I have the entire L.G.D. behind me, but her? Ugh... Promise me, Doctor, if she ever asks Rhodes Island for help, don't make a fool of her.",
+                "jp": "ファーは最期にチェンに私の面倒を見るよう頼んだんだが、どっちかというと手がかかるのはチェンのやつのほうなんだ。今、私にはまだ近衛局っていう後ろ盾があるが、あっちはどうだ？はぁ、ドクター、ひとつ頼まれてはくれないか。もしチェンがロドスを頼った時には、どうか力になってやってくれ。",
+                "kr": "아팟이 마지막에 첸한테 나를 챙겨달라고 부탁했었는데, 오히려 손이 가는 건 첸 쪽이란 말이지. 지금 나에겐 근위국이라는 방패가 있지만, 걔는 어떠려나. 하아. 박사, 부탁 하나 해도 될까? 혹시 첸이 로도스 아일랜드를 의지하게 될 때가 오면, 부디 힘이 되어줘.",
+                "cn": "临终前，阿发拜托老陈照顾好我，但其实老陈才是不让人省心的那个。事到如今，我背后仍然有整个近卫局撑着，可她呢？唉，答应我，博士，要是她有求于罗德岛，你可绝对不能让她丢架。"
+            },
+            "asset": "char_1044_hsgma2/CN_008"
+        },
+        {
+            "id": "char_1044_hsgma2_CN_009",
+            "title": {
+                "en": "Talk after Trust Increase 3",
+                "jp": "信頼上昇後会話3",
+                "kr": "신뢰도 상승 후 대화 3",
+                "cn": "信赖提升后交谈3"
+            },
+            "text": {
+                "en": "I don't take vows lightly. Moral values are inherently messy, and bending over backwards to do stuff for other people only adds to the horrible hotpot. But you—I trust you. I know you can tell right from wrong. I've said before I'll heed your orders, and that will always be true. You heard me, a promise is a promise.",
+                "jp": "私は決して安請け合いはしない。善悪是非は元よりごった煮になっているものだから、他人の意向に従うとなると、更に判断が難しくなる。だが、ドクターのことは信頼してるよ。あなたなら、是非を見極められるだろう。一度従うと口にした以上は、違えはしない。一諾千金だ、しっかり聞いておけ。",
+                "kr": "나는 절대 경솔하게 떠맡지 않아. 선악이나 옳고 그름은 애초에 뒤죽박죽이니까, 다른 사람의 의향에 따르면 판단하기 더욱 어려워지지. 하지만 박사는 신뢰하고 있어. 당신이라면 옳고 그름을 제대로 판단할 수 있을 테니까. 일단 따르겠다고 한 이상 딴소리는 안 해. 일낙천금이니까, 잘 들어 둬.",
+                "cn": "我不轻易跟人许诺。对错本就一团乱麻，按别人的心意做事，更是乱上加乱。但你，我信得过。我信你能分清是非对错。我既然说过会听从你的指挥，那就永远如此。一诺千金，你听见我说的了。"
+            },
+            "asset": "char_1044_hsgma2/CN_009"
+        },
+        {
+            "id": "char_1044_hsgma2_CN_010",
+            "title": {
+                "en": "Idle",
+                "jp": "放置",
+                "kr": "방치",
+                "cn": "闲置"
+            },
+            "text": {
+                "en": "Here, the coffee machine. I kept watching you run over to it, so I just made it easier for you. It's light enough.",
+                "jp": "どうぞ。コーヒーマシンだ。何度もコーヒーを淹れに行くのは面倒だろうから、持って来た。大して重いものでもないしな。",
+                "kr": "자, 커피 머신이야. 계속 커피 내리러 가기 귀찮을 것 같아서 그냥 가져왔어. 별로 무거운 것도 아니고 말이야.",
+                "cn": "给，咖啡机。看你一趟一趟往那边跑太麻烦，我就给你搬过来了。反正也不重。"
+            },
+            "asset": "char_1044_hsgma2/CN_010"
+        },
+        {
+            "id": "char_1044_hsgma2_CN_011",
+            "title": {
+                "en": "Onboard",
+                "jp": "入職会話",
+                "kr": "오퍼레이터 입사",
+                "cn": "干员报到"
+            },
+            "text": {
+                "en": "Defender Operator Hoshiguma, reporting in once again—Special Inspection Unit Chief? Yup, that'll be my job title soon. Though on Rhodes I'm just Operator Hoshiguma, it's more chill for me that way.",
+                "jp": "重装オペレーター・ホシグマ、今一度着任いたしました――特別督察隊隊長？確かに近々就任する予定だが、ここロドスではあくまで重装オペレーターのホシグマだ。こちらの方が気楽だからな。",
+                "kr": "디펜더 오퍼레이터 호시구마, 다시 한번 착임했습니다…… 특별감찰팀 팀장? 확실히 머지않아 취임할 예정이지만, 여기 로도스 아일랜드에서는 어디까지나 디펜더 오퍼레이터 호시구마야. 이게 더 편하거든.",
+                "cn": "重装干员星熊，再次向您报到——特别督察组组长？没错，我会在近期接任这一职务。不过在罗德岛上，我就是重装干员星熊，这样我会轻松一些。"
+            },
+            "asset": "char_1044_hsgma2/CN_011"
+        },
+        {
+            "id": "char_1044_hsgma2_CN_012",
+            "title": {
+                "en": "Watching Battle Record",
+                "jp": "経験値上昇",
+                "kr": "작전기록 학습",
+                "cn": "观看作战记录"
+            },
+            "text": {
+                "en": "Best I learn from you how to command others.",
+                "jp": "他者への指導に関しては、まだあなたに学ばねばな。",
+                "kr": "다른 사람을 지도하는 건 아직 당신에게 배워야겠어.",
+                "cn": "在如何指导别人这一点上，我还是得向你学习。"
+            },
+            "asset": "char_1044_hsgma2/CN_012"
+        },
+        {
+            "id": "char_1044_hsgma2_CN_013",
+            "title": {
+                "en": "Promotion 1",
+                "jp": "昇進Ⅰ",
+                "kr": "1차 정예화 (승진)",
+                "cn": "精英化晋升1"
+            },
+            "text": {
+                "en": "I'll still protect you even without this medal... That said, it's an honor getting a commendation from you. Thank you very much.",
+                "jp": "メダルをもらおうともらうまいと、あなたのことは守る……とはいえ、表彰していただけるのは光栄です。感謝申し上げます。",
+                "kr": "메달을 받든 안 받든, 난 당신을 지키겠어…… 그렇다 해도, 표창을 받는 건 영광입니다. 감사합니다.",
+                "cn": "不论有没有这枚勋章，我都会保护好你......话虽如此，能得到您的表彰仍是我的荣幸。非常感谢。"
+            },
+            "asset": "char_1044_hsgma2/CN_013"
+        },
+        {
+            "id": "char_1044_hsgma2_CN_014",
+            "title": {
+                "en": "Promotion 2",
+                "jp": "昇進Ⅱ",
+                "kr": "2차 정예화 (승진)",
+                "cn": "精英化晋升2"
+            },
+            "text": {
+                "en": "Another medal? Enough of these stuffy things. If you really want to thank me, why not write something on Hannya's underside? I vow to you, as long as I hold the shield, your inscription will be there forever.",
+                "jp": "またメダルなのか？そう形に拘らなくとも。もし本当に私に感謝しているのであれば、この打ち直した般若の内側に何か書いてもらえればそれでいい。この盾がある限り、あなたの筆跡は永遠に残ると誓おう。",
+                "kr": "또 메달이야? 그렇게까지 형식에 매달리지 않아도 되는데. 혹시 진짜로 내게 고마워하고 있다면, 여기 다시 만든 반야 안쪽에 뭐라도 써 주면 그걸로 충분해. 이 방패가 있는 한, 당신의 필적은 영원히 남을 거라고 맹세할게.",
+                "cn": "又是勋章？别这么拘泥于形式了。要是真想感谢我，不如在重铸的般若内面写点什么。我保证，只要般若在，你留下的笔迹就永远在。"
+            },
+            "asset": "char_1044_hsgma2/CN_014"
+        },
+        {
+            "id": "char_1044_hsgma2_CN_017",
+            "title": {
+                "en": "Added to Squad",
+                "jp": "編成",
+                "kr": "팀 배치",
+                "cn": "编入队伍"
+            },
+            "text": {
+                "en": "Mission time? Perfect, I get to stretch my legs far, far away from paperwork.",
+                "jp": "任務があるのか？このところ書類仕事ばかりだったから、確かにそろそろ体を動かす頃合いだ。",
+                "kr": "임무인가? 최근에는 서류 작업만 했으니까, 확실히 슬슬 몸을 움직이기 좋은 시기네.",
+                "cn": "有任务？正好最近文书工作太多，也该活动活动了。"
+            },
+            "asset": "char_1044_hsgma2/CN_017"
+        },
+        {
+            "id": "char_1044_hsgma2_CN_018",
+            "title": {
+                "en": "Appointed as Squad Leader",
+                "jp": "隊長任命",
+                "kr": "팀장 임명",
+                "cn": "任命队长"
+            },
+            "text": {
+                "en": "Just focus on offense, no matter how the fight might go. Yup, go wild. I'll keep you all safe.",
+                "jp": "どう攻めるかだけ考えてくれれば大丈夫だ。ああ、どれほど無茶な作戦でも問題はない。存分にやりたいようにしてくれ、隊員の身の安全は私が保障する。",
+                "kr": "어떻게 공략할지만 생각해 주면 돼. 그래, 어지간히 어처구니없는 작전이라도 문제없어. 하고 싶은 대로 마음껏 해. 대원들의 안전은 내가 보장할게.",
+                "cn": "你们只要想好怎么进攻就行。对，怎么折腾都没问题。放手去做吧，你们的安全由我负责。"
+            },
+            "asset": "char_1044_hsgma2/CN_018"
+        },
+        {
+            "id": "char_1044_hsgma2_CN_019",
+            "title": {
+                "en": "Depart",
+                "jp": "作戦準備",
+                "kr": "작전 출발",
+                "cn": "行动出发"
+            },
+            "text": {
+                "en": "If you're stumped, just leave the hardest task to me.",
+                "jp": "どうしても打開策がないのであれば、一番過酷な任務を私に任せてくれればいい。",
+                "kr": "도저히 타개책이 없을 때엔, 가장 가혹한 임무를 내게 맡기면 돼.",
+                "cn": "要是实在没有思路，那就把最艰巨的任务交给我。"
+            },
+            "asset": "char_1044_hsgma2/CN_019"
+        },
+        {
+            "id": "char_1044_hsgma2_CN_020",
+            "title": {
+                "en": "Begin Operation",
+                "jp": "戦闘開始",
+                "kr": "작전 개시",
+                "cn": "行动开始"
+            },
+            "text": {
+                "en": "Prepare yourselves. The battlefield might get a little crazy once I make my move.",
+                "jp": "覚悟はいいか。私が本気を出したら、少々荒れるぞ。",
+                "kr": "각오는 됐나? 내가 진심으로 하면 좀 거칠거든.",
+                "cn": "做好心理准备。待会儿我动起手来，场面可能会有点过激。"
+            },
+            "asset": "char_1044_hsgma2/CN_020"
+        },
+        {
+            "id": "char_1044_hsgma2_CN_021",
+            "title": {
+                "en": "Selecting Operator 1",
+                "jp": "選択時1",
+                "kr": "오퍼레이터 선택 1",
+                "cn": "选中干员1"
+            },
+            "text": {
+                "en": "Time for me to get serious?",
+                "jp": "本気を出す時か？",
+                "kr": "진심으로 해야 할 때인가?",
+                "cn": "需要我动真格了？"
+            },
+            "asset": "char_1044_hsgma2/CN_021"
+        },
+        {
+            "id": "char_1044_hsgma2_CN_022",
+            "title": {
+                "en": "Selecting Operator 2",
+                "jp": "選択時2",
+                "kr": "오퍼레이터 선택 2",
+                "cn": "选中干员2"
+            },
+            "text": {
+                "en": "Don't panic, I am here.",
+                "jp": "慌てるな。私がいる。",
+                "kr": "당황하지 마라. 내가 있다.",
+                "cn": "别慌，有我在呢。"
+            },
+            "asset": "char_1044_hsgma2/CN_022"
+        },
+        {
+            "id": "char_1044_hsgma2_CN_023",
+            "title": {
+                "en": "Deployment 1",
+                "jp": "配置1",
+                "kr": "배치 1",
+                "cn": "部署1"
+            },
+            "text": {
+                "en": "Where's their most annoying guy? I'll take him down.",
+                "jp": "一番厄介な敵はどれだ？私が相手をしてやろう。",
+                "kr": "가장 성가신 적은 누구지? 내가 상대해 주지.",
+                "cn": "最棘手的敌人是哪个？我来会一会。"
+            },
+            "asset": "char_1044_hsgma2/CN_023"
+        },
+        {
+            "id": "char_1044_hsgma2_CN_024",
+            "title": {
+                "en": "Deployment 2",
+                "jp": "配置2",
+                "kr": "배치 2",
+                "cn": "部署2"
+            },
+            "text": {
+                "en": "Where's the most dangerous spot? Send me there.",
+                "jp": "一番危険な戦場はどこだ？私が死守する。",
+                "kr": "가장 위험한 전장은 어디지? 내가 사수하겠다.",
+                "cn": "最危险的战场在哪里？我会顶上去。"
+            },
+            "asset": "char_1044_hsgma2/CN_024"
+        },
+        {
+            "id": "char_1044_hsgma2_CN_025",
+            "title": {
+                "en": "In Battle 1",
+                "jp": "作戦中1",
+                "kr": "작전 중 1",
+                "cn": "作战中1"
+            },
+            "text": {
+                "en": "Decided what to carve on your graves yet?",
+                "jp": "墓石に刻む戒名はもう決まったか？",
+                "kr": "묘비에 새길 내용은 정했나?",
+                "cn": "墓碑上要刻的戒名，想好了吗？"
+            },
+            "asset": "char_1044_hsgma2/CN_025"
+        },
+        {
+            "id": "char_1044_hsgma2_CN_026",
+            "title": {
+                "en": "In Battle 2",
+                "jp": "作戦中2",
+                "kr": "작전 중 2",
+                "cn": "作战中2"
+            },
+            "text": {
+                "en": "Not scared? You've got guts, but that might be all you've got.",
+                "jp": "怯んではいないか、少しは骨があるようだ。所詮、そこまでだがな。",
+                "kr": "겁먹은 건 아닌가. 조금은 기개가 있는 모양이군. 뭐, 그래봐야 거기까지지만.",
+                "cn": "没被吓倒，说明你还有点骨气，但也就这么多了。"
+            },
+            "asset": "char_1044_hsgma2/CN_026"
+        },
+        {
+            "id": "char_1044_hsgma2_CN_027",
+            "title": {
+                "en": "In Battle 3",
+                "jp": "作戦中3",
+                "kr": "작전 중 3",
+                "cn": "作战中3"
+            },
+            "text": {
+                "en": "You're not the one I'm looking for. Move.",
+                "jp": "お前に用はない。失せろ。",
+                "kr": "네놈한테는 볼일 없다. 꺼져라.",
+                "cn": "我要找的人不是你。滚开。"
+            },
+            "asset": "char_1044_hsgma2/CN_027"
+        },
+        {
+            "id": "char_1044_hsgma2_CN_028",
+            "title": {
+                "en": "In Battle 4",
+                "jp": "作戦中4",
+                "kr": "작전 중 4",
+                "cn": "作战中4"
+            },
+            "text": {
+                "en": "…What a pity.",
+                "jp": "……哀れな。",
+                "kr": "……애처롭군.",
+                "cn": "......可怜。"
+            },
+            "asset": "char_1044_hsgma2/CN_028"
+        },
+        {
+            "id": "char_1044_hsgma2_CN_029",
+            "title": {
+                "en": "4-star Result",
+                "jp": "高難度作戦クリア",
+                "kr": "고난이도 작전 종료",
+                "cn": "完成高难行动"
+            },
+            "text": {
+                "en": "...Just like all those years ago? No, I'm following your orders this time, so no regrets on my end.",
+                "jp": "……あの頃と同じ？違う。今回はドクターの命令に従っての行動だ。後悔などない。",
+                "kr": "……그때랑 똑같다고? 아니. 이번엔 박사의 명령에 따라서 한 행동이야. 후회 같은 건 없어.",
+                "cn": "......就像许多年前一样？不，这次服从的是你的命令，我不会后悔。"
+            },
+            "asset": "char_1044_hsgma2/CN_029"
+        },
+        {
+            "id": "char_1044_hsgma2_CN_030",
+            "title": {
+                "en": "3-star Result",
+                "jp": "★3で戦闘終了",
+                "kr": "3★ 작전 종료",
+                "cn": "3星结束行动"
+            },
+            "text": {
+                "en": "Don't bother checking the battlefield again. I saw every enemy off myself.",
+                "jp": "戦場の確認は不要だ。敵の末路は全て把握しているからな。",
+                "kr": "전장을 확인할 필요는 없어. 적들의 최후는 전부 다 파악하고 있으니까.",
+                "cn": "不必费心巡视战场了。每个敌人的下场我都看在眼里。"
+            },
+            "asset": "char_1044_hsgma2/CN_030"
+        },
+        {
+            "id": "char_1044_hsgma2_CN_031",
+            "title": {
+                "en": "Sub 3-star Result",
+                "jp": "★2以下戦闘終了",
+                "kr": "비 3★ 작전 종료",
+                "cn": "非3星结束行动"
+            },
+            "text": {
+                "en": "Call it a day here? Hold on, I haven't had my fun yet, so I need to blow off some steam—Phew... So? I seem less scary now, right?",
+                "jp": "ここまで？少し待ってくれ。まだ興が乗っているから、高ぶりを抑える必要がある――ふう……どうだ、多少はマシになったか？",
+                "kr": "여기까지라고? 잠깐 기다려봐. 아직 흥이 올라 있는 상태라, 조금 가라앉힐 필요가 있어. 후우…… 어때, 조금은 괜찮아졌나?",
+                "cn": "到此为止？稍等，我还没尽兴，需要稍微调整下状态——呼......怎么样，看起来是不是好多了？"
+            },
+            "asset": "char_1044_hsgma2/CN_031"
+        },
+        {
+            "id": "char_1044_hsgma2_CN_032",
+            "title": {
+                "en": "Operation Failure",
+                "jp": "作戦失敗",
+                "kr": "작전 실패",
+                "cn": "行动失败"
+            },
+            "text": {
+                "en": "Don't worry, they'll stay clear of you as long as I'm around. See you in a bit, once I'm done with them.",
+                "jp": "焦る必要はない。私がいる限り、何人も近付けはしないからな。ではまた後ほど。",
+                "kr": "초조해할 필요 없어. 내가 있는 한, 누구도 접근하게 두지 않을 테니까. 그럼 나중에 보자고.",
+                "cn": "不用着急，只要有我在，他们就过不来。一会儿见。"
+            },
+            "asset": "char_1044_hsgma2/CN_032"
+        },
+        {
+            "id": "char_1044_hsgma2_CN_033",
+            "title": {
+                "en": "Assigned to Facility",
+                "jp": "基地配属",
+                "kr": "시설에 배치",
+                "cn": "进驻设施"
+            },
+            "text": {
+                "en": "Here I am, Doctor. Huh? Oh, I've spent so much time here, it's muscle memory for me to duck my head.",
+                "jp": "ドクター、入るぞ。ん？ああ、付き合いが長くなったおかげで、この部屋へどう入るかはとっくに体に染みついたんだ。",
+                "kr": "박사, 들어간다. 음? 아아, 오래 알고 지냈다 보니, 이 방에 어떻게 들어와야 하는지 이미 몸에 배어버렸거든.",
+                "cn": "博士，我进来了。嗯？哦，这么长时间过去，该怎么进这间屋子，早就变成肌肉记忆了。"
+            },
+            "asset": "char_1044_hsgma2/CN_033"
+        },
+        {
+            "id": "char_1044_hsgma2_CN_034",
+            "title": {
+                "en": "Tap",
+                "jp": "タッチ1",
+                "kr": "터치",
+                "cn": "戳一下"
+            },
+            "text": {
+                "en": "What was that?",
+                "jp": "事件か？",
+                "kr": "사건인가?",
+                "cn": "有情况？"
+            },
+            "asset": "char_1044_hsgma2/CN_034"
+        },
+        {
+            "id": "char_1044_hsgma2_CN_036",
+            "title": {
+                "en": "Trust Tap",
+                "jp": "信頼タッチ",
+                "kr": "신뢰도 터치",
+                "cn": "信赖触摸"
+            },
+            "text": {
+                "en": "Careful, my horn's pretty sharp too.",
+                "jp": "気を付けてくれ。私の角は鋭いからな。",
+                "kr": "조심해. 내 뿔은 날카롭거든.",
+                "cn": "小心，我的角也是很锋利的。"
+            },
+            "asset": "char_1044_hsgma2/CN_036"
+        },
+        {
+            "id": "char_1044_hsgma2_CN_037",
+            "title": {
+                "en": "Title",
+                "jp": "タイトルコール",
+                "kr": "타이틀",
+                "cn": "标题"
+            },
+            "text": {
+                "en": "Arknights.",
+                "jp": "アークナイツ。",
+                "kr": "명일방주.",
+                "cn": "明日方舟。"
+            },
+            "asset": "char_1044_hsgma2/CN_037"
+        },
+        {
+            "id": "char_1044_hsgma2_CN_038",
+            "title": {
+                "en": "New Year's blessing",
+                "jp": "新年",
+                "kr": "새해",
+                "cn": "新年祝福"
+            },
+            "text": {
+                "en": "Doctor, here's a bike I got for you. Give it a spin. Why did I get it? Uh, the ad was really cool, and they told me they had a New Year sale too... right, so you accelerate here, and this one... wait—Doctor?! Slow down! The bike's out of control!",
+                "jp": "ドクター、このバイクに乗ってみてくれ、プレゼントだ。なぜ急にって？その、宣伝があまりに魅力的で、ちょうど新年セールもやっててな……そう、アクセルはこれで、こっちは……待て、捻るな――バイクごと吹っ飛んだ！？",
+                "kr": "박사, 이 오토바이 한 번 타 봐. 선물이야. 갑자기 웬 선물이냐고? 그…… 광고가 상당히 맘에 들기도 했고, 마침 신년 세일도 하길래…… 그래. 엑셀이 이거고, 이거는…… 어 잠깐, 돌리지 말…… 오토바이째로 날아갔잖아?!",
+                "cn": "博士，来试试看，这是我送你的电单车。为什么？呃，这一款的广告做得实在太诱人，正好新年又有限时促销......对，这边是加速，这边是......别拧——整个人跟着车蹿出去了？！"
+            },
+            "asset": "char_1044_hsgma2/CN_038"
+        },
+        {
+            "id": "char_1044_hsgma2_CN_042",
+            "title": {
+                "en": "Greeting",
+                "jp": "挨拶",
+                "kr": "인사",
+                "cn": "问候"
+            },
+            "text": {
+                "en": "Want a glass? It's just mint tea. C'mon, you think I'm the type to grab a drink at this hour?",
+                "jp": "一杯どうだ？ただのミントティーだ。さすがの私でも、こんな時間から酒は飲まないよ。",
+                "kr": "한 잔 어때? 그냥 민트티야. 아무리 나라도 이런 시간부터 술을 마시진 않는다고.",
+                "cn": "来喝一杯吗？只是薄荷茶而已。哪怕是我，也没有这个时候就喝酒的习惯啊。"
+            },
+            "asset": "char_1044_hsgma2/CN_042"
+        },
+        {
+            "id": "char_1044_hsgma2_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": "Only for your birthday, Doctor, will I follow you anywhere, no matter how dangerous or silly it gets, even if you take full responsibility for the risks. So, figured out where you wanna go yet?",
+                "jp": "誕生日に限って、ドクターが望むならどんな虎穴へもお供しよう。どれほど危険でも、とんでもなくても、本来あなた自身が全責任を背負わないといけないものであってもな。それで、行き先は決まったか？",
+                "kr": "생일 한정으로, 박사가 원한다면 어떤 호랑이굴이라도 같이 가줄게. 아무리 위험하고 터무니없다 해도, 원래는 전부 당신이 책임져야 할 장소라 해도 말이야. 그래서, 갈 곳은 정했어?",
+                "cn": "仅限你生日这天，博士，想闯什么龙潭虎穴，不管多危险、多没道理，哪怕你应该对自己要面临的危险负全责，我都会陪你去。想好要去哪了吗？"
+            },
+            "asset": "char_1044_hsgma2/CN_043"
+        },
+        {
+            "id": "char_1044_hsgma2_CN_044",
+            "title": {
+                "en": "Anniversary Celebration",
+                "jp": "周年",
+                "kr": "애니버서리",
+                "cn": "周年庆典"
+            },
+            "text": {
+                "en": "I hate how time has taken people away from me, but on the other hand, everyone still with me is precious, and that includes you... so before time washes everything away, why not chill with me here for a bit, Doctor?",
+                "jp": "周りの者たちが時間に連れ去られてしまうのが嫌いだ。逆に言えば、長い時が経ってもそばに残ってくれた連中は、全員が大事なんだ。当然ドクターもそこに含まれている……時の流れによって全てが色褪せる前に、少し隣に座ってくれないか？",
+                "kr": "주변 사람들이 시간에 쓸려가는 건 싫어. 반대로 말하면 오랜 시간이 지나도 곁에 남아있는 사람들은 모두 소중하다는 거지. 당연히 박사도 거기 포함되어 있고…… 시간의 흐름에 모든 색이 바래지기 전에, 잠깐 옆에 앉아 있어 주지 않겠어?",
+                "cn": "我讨厌时间带走我身边的人，反过来说，经过漫长的时光，仍然留在我身边的人，每一个都值得我珍惜，你当然也一样......在时间将一切冲刷褪色之前，博士，来陪我坐一会儿吧。"
+            },
+            "asset": "char_1044_hsgma2/CN_044"
+        }
+    ],
+    "actors": {
+        "en": {
+            "native": "Meaghan Martin",
+            "global": "Meaghan Martin"
+        },
+        "cn": {
+            "native": "陈雨",
+            "global": "Yu Chen"
+        },
+        "cn_topolect": {
+            "native": "师欣",
+            "global": "Shixin Peng"
+        },
+        "jp": {
+            "native": "安野希世乃",
+            "global": "Kiyono Yasuno"
+        },
+        "kr": {
+            "native": "이새벽",
+            "global": "Lee Sae-byeok"
+        }
+    },
+    "availability": [
+        "en",
+        "cn",
+        "cn_topolect",
+        "jp",
+        "kr"
+    ]
+}

@@ -624,7 +624,11 @@
         },
         "cn": {
             "native": "李嘉祥",
-            "global": "Li Jiaxiang"
+            "global": "Jiaxiang Li"
+        },
+        "cn_topolect": {
+            "native": "李嘉祥",
+            "global": "Jiaxiang Li"
         },
         "jp": {
             "native": "豊永利行",
@@ -633,17 +637,13 @@
         "kr": {
             "native": "김다올",
             "global": "Kim Daol"
-        },
-        "cn_topolect": {
-            "native": "李嘉祥",
-            "global": "Li Jiaxiang"
         }
     },
     "availability": [
         "en",
         "cn",
+        "cn_topolect",
         "jp",
-        "kr",
-        "cn_topolect"
+        "kr"
     ]
 }

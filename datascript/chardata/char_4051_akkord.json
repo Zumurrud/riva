@@ -1,0 +1,644 @@
+{
+    "charid": "char_4051_akkord",
+    "nameid": "akkord",
+    "names": {
+        "en": "Akkord",
+        "jp": "アコルト",
+        "kr": "아코르트",
+        "cn": "协律"
+    },
+    "voices": [
+        {
+            "id": "char_4051_akkord_CN_001",
+            "title": {
+                "en": "Appointed as Assistant",
+                "jp": "秘書任命",
+                "kr": "어시스턴트 임명",
+                "cn": "任命助理"
+            },
+            "text": {
+                "en": "Umm… Leave it to me. I'm used to observing the traces left behind by other people's work, and experiencing the persistence, joy and excitement therein. I can see the commitment in your to-do list, Doctor.",
+                "jp": "任せて。仕事の痕跡を観察して、そこに秘められたこだわりや喜び、そして興奮を感じ取っていくのは、わたしの一番馴染み深いコミュニケーションなんだ。ドクター、このToDoリストからも、あなたの努力が伝わってくるよ。",
+                "kr": "맡겨 줘. 일의 흔적을 관찰하고, 그 안에 숨겨진 고집이나 기쁨, 그리고 흥분을 느끼는 건 나에게 가장 익숙한 소통 방식이거든. 박사, 이 할 일 목록에서도 당신의 노력이 전해져.",
+                "cn": "交给我吧，观察别人工作中留下的痕迹，体会其中蕴藏的坚持、愉悦和亢奋，是我熟悉的交流方式呢。博士，在这份待办清单中，我也看得到你的付出。"
+            },
+            "asset": "char_4051_akkord/CN_001"
+        },
+        {
+            "id": "char_4051_akkord_CN_002",
+            "title": {
+                "en": "Talk 1",
+                "jp": "会話1",
+                "kr": "대화 1",
+                "cn": "交谈1"
+            },
+            "text": {
+                "en": "Are you looking for the source of the music? It's the musical enchantment on this cup. Most music in Leithanian cities are created with Arts. From statues to fountains to murals, virtually anything can become a device for playing music. Would you care for a drink? I recommend this song to pair with anything alcoholic.",
+                "jp": "メロディーの出処を探してるの？このグラスにかけた音楽アーツだよ。リターニアの街中で聞こえる音楽も、たいていこういうアーツで奏でられてるんだ。彫像に噴水、あとは壁画とか、思いも寄らないものが実は音響装置だったりするよ。せっかくだから、これで何か飲んでみて。お酒にするなら……この曲かな。",
+                "kr": "멜로디의 출처를 찾고 있어? 이 유리잔에 걸어 둔 음악 아츠야. 라이타니엔 길거리에서 들리는 음악도 대부분 이런 아츠로 연주되고 있어. 조각상이나 분수 또는 벽화 같은, 생각지도 못한 것들이 사실은 음향 장치이기도 해. 이참에 이걸로 뭐라도 마셔 봐. 술을 마실 거라면…… 이 곡이려나.",
+                "cn": "在找旋律声从哪来？是这小杯子上的音乐术式。莱塔尼亚城市里的音乐大多由术式奏响。雕像、喷泉、壁画，各种想象不到的东西都可能是演奏音乐的装置。用它喝点什么吧，酒的话，就挑这首。"
+            },
+            "asset": "char_4051_akkord/CN_002"
+        },
+        {
+            "id": "char_4051_akkord_CN_003",
+            "title": {
+                "en": "Talk 2",
+                "jp": "会話2",
+                "kr": "대화 2",
+                "cn": "交谈2"
+            },
+            "text": {
+                "en": "Sorry. Criticism of music is best left to listeners and creators. I'm simply a tuner with perfect pitch, and I know my place. They say one only understands the importance of talent once one has worked hard. Well, I know I have no talent, so there's no need for me to work that hard.",
+                "jp": "申し訳ないけど、音楽そのものの良し悪しを評価するのは聴き手と作り手の仕事。わたしはただの絶対音感を持った調律師でしかないし、自分のできることもよくわかってるから。みんな「努力して初めて才能という言葉の意味がわかる」って言うけど、わたしは自分に才能がないことも、だから努力する必要もないってことも初めからわかってたよ。ふふっ。",
+                "kr": "미안하지만, 음악 자체의 좋고 나쁨을 평가하는 건 듣는 사람과 만드는 사람의 일이야. 나는 그저 절대음감을 가진 조율사일 뿐이고, 내가 할 수 있는 일도 잘 알고 있으니까. 다들 “노력해야 비로소 재능이라는 단어의 의미를 알게 된다”라고 하지만, 나는 내게 재능이 없다는 것도, 그래서 노력할 필요도 없다는 것도 처음부터 알고 있었어. 후훗.",
+                "cn": "不好意思，评论音乐本身的好坏是听众和创作者的事情，我只是个拥有绝对音感的调谐师，很清楚自己擅长什么。都说努力过才知道天赋的意义，我早知道自己没天赋，也没必要努力，哈。"
+            },
+            "asset": "char_4051_akkord/CN_003"
+        },
+        {
+            "id": "char_4051_akkord_CN_004",
+            "title": {
+                "en": "Talk 3",
+                "jp": "会話3",
+                "kr": "대화 3",
+                "cn": "交谈3"
+            },
+            "text": {
+                "en": "I come from a small town where tourism is the main industry. I designed the music of every nook and cranny in the marketplace, so the melody will follow you with every step you take. Oh, there is even a famous blindfolded musical pathfinding competition with a decent prize pool. You should have a go, Doctor. Me? No, I'm one of the judges.",
+                "jp": "わたしの地元は小さな観光町で、町の隅々にまでわたしが入念に構成した音楽が流れてるから、どこを歩いてもメロディーがお供してくれるよ。あと、「目隠し音当て迷路」っていう大会が有名なんだけど……ドクター、優勝したら、かなりの賞金が出るよ。わたし？わたしは出ないよ。審査員だから。",
+                "kr": "내 고향은 작은 관광 마을인데, 마을 구석구석에 내가 공들여 구성한 음악이 흐르고 있어서, 어딜 걸어도 멜로디가 함께해 줄 거야. 그리고, '눈 가리고 곡 맞혀 길 찾기'라는 대회가 유명한데…… 박사, 우승하면 상금이 꽤 나와. 나? 나는 안 나가. 심사위원이니까.",
+                "cn": "我的家乡是个旅游小镇，街市角落所有音乐我都精心规划过，每走一步都有旋律伴随同行。那里还有著名的“蒙眼识曲寻路”挑战赛，要是博士拔得头筹，可有不少奖金呢。我吗？不，我是裁判。"
+            },
+            "asset": "char_4051_akkord/CN_004"
+        },
+        {
+            "id": "char_4051_akkord_CN_005",
+            "title": {
+                "en": "Talk after Promotion 1",
+                "jp": "昇進後会話1",
+                "kr": "1차 정예화 후 대화",
+                "cn": "晋升后交谈1"
+            },
+            "text": {
+                "en": "Can you take a look at this proposal? Basically, I'll set Arts to play different background music in different areas, which will improve everyone's experience at leisure and work. I've left this area empty, because I thought you should set your own playlist for sleepless nights.",
+                "jp": "ドクター、このエリアごとの音楽構成案を見てもらえるかな。各エリアのBGMをアーツで連動させて、仕事にも遊びにもすぐに身が入るように、ピッタリの音楽を設定してあるんだ。だけどこの執務室の音楽構成はまだ考えてないよ。自分の不眠対策プレイリストくらいは、あなた自身で決めるべきでしょ？",
+                "kr": "박사, 이 구역별 음악 구성안 좀 봐줄래? 각 구역의 BGM을 아츠로 연동해서, 일할 때도 놀 때도 바로 몰입할 수 있도록 딱 맞는 음악을 설정해 뒀어. 하지만 이 집무실의 음악 구성은 아직 생각 안 했어. 본인 불면증용 플레이리스트 정도는 스스로 정해야 하잖아?",
+                "cn": "博士，帮我看看这份区域音乐设计提案吧。各个区域的背景音乐由术式相连，合适的乐曲能让大家不管工作还是娱乐都能更快进入状态。不过我没设计这里，你的失眠歌单总该由你自己来决定，对吧？"
+            },
+            "asset": "char_4051_akkord/CN_005"
+        },
+        {
+            "id": "char_4051_akkord_CN_006",
+            "title": {
+                "en": "Talk after Promotion 2",
+                "jp": "昇進後会話2",
+                "kr": "2차 정예화 후 대화",
+                "cn": "晋升后交谈2"
+            },
+            "text": {
+                "en": "'Turning the marketplace into a splendid bastion of culture'? That's just the copywriter spinning words around. All I am is a humble tuner. But you can find so many examples of remarkable creativity cast aside in a forgotten corner, unnoticed by others. I do my little part in gathering them up and playing them for children to appreciate.",
+                "jp": "「街をきらびやかに彩る存在」？雑誌の記事はいつも大げさな見出しを付けるけど、調律師ってそんなに高尚な仕事じゃないと思うよ。でも考えてみれば、けっこうすごい作品が隅っこに埋もれてることもあって、そういうのを拾い集めて、音楽のわかるちびっ子に届けるのもわたしの仕事かな。",
+                "kr": "'거리를 화려하게 수놓는 존재'? 잡지 기사는 항상 과장된 제목을 붙이지만, 조율사가 그렇게 고상한 직업은 아니라고 생각해. 하지만 꽤 대단한 작품이 구석에 묻혀 있는 경우도 있으니까, 그런 걸 모아서 음악을 아는 꼬마들에게 전해주는 것도 내 일이려나.",
+                "cn": "“让街市璀璨动人”？这些刊文总是添油加醋，调谐师才没那么高尚。不过说起来，总有非凡的创作被丢进没人在意的角落，把它们收集起来，播放给懂得欣赏的孩子们听，算是我小小的事业。"
+            },
+            "asset": "char_4051_akkord/CN_006"
+        },
+        {
+            "id": "char_4051_akkord_CN_007",
+            "title": {
+                "en": "Talk after Trust Increase 1",
+                "jp": "信頼上昇後会話1",
+                "kr": "신뢰도 상승 후 대화 1",
+                "cn": "信赖提升后交谈1"
+            },
+            "text": {
+                "en": "This group photo…? I… was troubled by my lack of talent at the time. I hung it in my room to remind myself to live without regret. Oh, I didn't explain why I'm not in the photo, did I? Well... I never graduated.",
+                "jp": "この卒業写真ね……あの頃は自分の才能のなさが本当に苦しくて、毎日辛かったのがなかなか忘れられないんだ。だから、その頃の写真を部屋に飾って、もう後悔はないって自分に言い聞かせてるんだよ。あ、なんでわたしが写ってないのか、だっけ。えっと、それは……実はわたし、卒業できなかったんだ。",
+                "kr": "이 졸업 사진 말이지…… 그땐 내게 재능이 없다는 점이 정말 괴로워서, 매일 힘들었던 게 좀처럼 잊히질 않아. 그래서 그때 사진을 방에 걸어두고, 이제 후회는 없다고 스스로에게 얘기하고 있어. 아, 왜 내가 안 찍혔냐고? 어, 그건…… 사실 나, 졸업 못 했거든.",
+                "cn": "这张合照啊......那时我对没天赋感到很苦恼，日子过得难熬又难忘，所以把它挂在房间里提醒自己不能后悔。噢，我没回答为什么上面没有我？好吧，是因为......我根本没毕业。"
+            },
+            "asset": "char_4051_akkord/CN_007"
+        },
+        {
+            "id": "char_4051_akkord_CN_008",
+            "title": {
+                "en": "Talk after Trust Increase 2",
+                "jp": "信頼上昇後会話2",
+                "kr": "신뢰도 상승 후 대화 2",
+                "cn": "信赖提升后交谈2"
+            },
+            "text": {
+                "en": "Shh! Can you hear my flowers? I added musical Arts to the flowers sent to Medical, and I'm one piece away from completing the suite. I don't want the patients to suffer any regret, because in their eyes, I'm a healer too. It's not always recovery that makes patients happy, if I am not wrong.",
+                "jp": "シーッ！わたしの用意した花がどこにあるか、聞いて分かる？最近医療部に届ける花に音楽アーツをかけてて、あとはこの一曲で組曲が完成するんだ。患者さんから見ればわたしもお医者さんだし、みんなに悔いが残らないようにするためのお手伝い。患者さんを満たしてあげられるのは、必ずしも健康になることだけじゃない、そうだよね？",
+                "kr": "쉿! 내가 준비한 꽃이 어디 있는지, 듣고 알 수 있겠어? 요즘 의료부에 보내는 꽃에 음악 아츠를 걸고 있는데, 이제 이 한 곡만 추가하면 모음곡이 완성돼. 환자들이 볼 땐 나도 의사니까, 모두에게 후회가 남지 않도록 돕는 거야. 환자를 만족시킬 수 있는 건, 꼭 건강해지는 것만이 아니잖아, 그렇지?",
+                "cn": "嘘！你有听出来我的花在哪吗？最近送去医疗部的花加上了音乐术式，组曲还差这一首。我不想让病人留下遗憾，毕竟在他们眼中，我也是医者。让病人满足的不一定都是康复，是这个道理吧？"
+            },
+            "asset": "char_4051_akkord/CN_008"
+        },
+        {
+            "id": "char_4051_akkord_CN_009",
+            "title": {
+                "en": "Talk after Trust Increase 3",
+                "jp": "信頼上昇後会話3",
+                "kr": "신뢰도 상승 후 대화 3",
+                "cn": "信赖提升后交谈3"
+            },
+            "text": {
+                "en": "Medical says they want to help me find the reason I can't sing in tune. I know it's not an illness, but the result of being scorned by those who live atop the spires. I don't like the feeling of expectations placed on me. Fortunately, it is possible to tune out the noise, and tuners never have regrets.",
+                "jp": "医療部の人が音痴の原因を調べるって言ってくれたけど、病気じゃないのは自分でわかってるんだ。高塔の上から見下されて、バカにされたり嫌われたりして病気って言われてただけ。どのみち大きな期待をされるのは好きじゃないし、ノイズを調律で消すみたいに、後悔だって綺麗に消せちゃう調律師になってよかったと思う。",
+                "kr": "의료부 사람이 음치 원인을 조사해 주겠다고 했지만, 병이 아니란 건 스스로 알고 있어. 고탑에서 얕보이고, 바보 취급당하거나 미움받아서 병이라고 불렸을 뿐이야. 어차피 큰 기대를 받는 건 좋아하지도 않고, 잡음을 조율로 없애듯이 후회도 깨끗하게 지워버릴 수 있는 조율사가 되어서 다행이라고 생각해.",
+                "cn": "医疗部说要帮我找找五音不全的成因，但我一直都知道，那不是病，而是高塔之上那些人眼中的嘲讽和厌弃所致。我不喜欢被寄予厚望的感觉。好在调谐总会把噪音排除，调谐师们总是不留遗憾。"
+            },
+            "asset": "char_4051_akkord/CN_009"
+        },
+        {
+            "id": "char_4051_akkord_CN_010",
+            "title": {
+                "en": "Idle",
+                "jp": "放置",
+                "kr": "방치",
+                "cn": "闲置"
+            },
+            "text": {
+                "en": "Sorry, I didn't mean it. Perhaps the duet was a little too hypnotizing?",
+                "jp": "あっ、わざとじゃないんだけど……このデュオの安眠作用が強すぎたのかな？",
+                "kr": "앗, 일부러 그런 건 아닌데…… 이 이중주의 수면 유도 효과가 너무 강했나?",
+                "cn": "啊，我不是故意的，是这首二重奏太催眠了吗？"
+            },
+            "asset": "char_4051_akkord/CN_010"
+        },
+        {
+            "id": "char_4051_akkord_CN_011",
+            "title": {
+                "en": "Onboard",
+                "jp": "入職会話",
+                "kr": "오퍼레이터 입사",
+                "cn": "干员报到"
+            },
+            "text": {
+                "en": "Don't worry, I've entrusted my work in Leithanien to my colleagues there. I'm afraid you're mistaken, they're inveterate workaholics, just like me.",
+                "jp": "大丈夫、リターニアでの仕事はひとまず同僚に任せてあるから。ううん、ハズレ。みんなもわたしと同じで、文句を言うどころか、仕事が終わるのを逆に残念がるような人たちだから。",
+                "kr": "괜찮아, 라이타니엔의 일은 일단 동료에게 맡겨 뒀으니까. 아니, 틀렸어. 다들 나랑 똑같아서, 불평은커녕 일이 끝나는 걸 오히려 아쉬워하는 사람들이거든.",
+                "cn": "不用担心，我在莱塔尼亚的工作暂时都交给同事们了。你猜错了哦，他们和我一样，不会有怨言，也不喜欢下班。"
+            },
+            "asset": "char_4051_akkord/CN_011"
+        },
+        {
+            "id": "char_4051_akkord_CN_012",
+            "title": {
+                "en": "Watching Battle Record",
+                "jp": "経験値上昇",
+                "kr": "작전기록 학습",
+                "cn": "观看作战记录"
+            },
+            "text": {
+                "en": "It's very complex, like a passionate fugue.",
+                "jp": "すごく複雑だね。情熱的なフーガみたい。",
+                "kr": "굉장히 복잡하네. 정열적인 푸가 같아.",
+                "cn": "好复杂，像一首激昂的赋格曲。"
+            },
+            "asset": "char_4051_akkord/CN_012"
+        },
+        {
+            "id": "char_4051_akkord_CN_013",
+            "title": {
+                "en": "Promotion 1",
+                "jp": "昇進Ⅰ",
+                "kr": "1차 정예화 (승진)",
+                "cn": "精英化晋升1"
+            },
+            "text": {
+                "en": "I'm being recognized? Simply for doing my job? Okay. I have quite a few colleagues in Leithanien. I think they will be very interested in joining Rhodes Island. Care to consider it, Doctor?",
+                "jp": "わたしが評価されたの？なんだか変な感じ。ただ自分の仕事をしてるだけで褒められるなら……ドクター、ロドスに興味を持ってるリターニアの同僚も何人かいるんだけど、検討してみてくれる？",
+                "kr": "내가 좋은 평가를 받았다고? 왠지 이상한 기분이야. 그저 내 일을 하고 있을 뿐인데 칭찬받는 거라면…… 박사, 로도스 아일랜드에 흥미를 느끼는 라이타니엔 동료가 몇 명 있는데, 검토해 줄 수 있어?",
+                "cn": "我是受到赏识了吗？奇怪，只是做好分内的事就可以被嘉奖的话，博士，我还有一些莱塔尼亚的工友对罗德岛很感兴趣，考虑一下吗？"
+            },
+            "asset": "char_4051_akkord/CN_013"
+        },
+        {
+            "id": "char_4051_akkord_CN_014",
+            "title": {
+                "en": "Promotion 2",
+                "jp": "昇進Ⅱ",
+                "kr": "2차 정예화 (승진)",
+                "cn": "精英化晋升2"
+            },
+            "text": {
+                "en": "The journey helped me see clearly and understand it. The wonderful music of the cities comes not from god-given talent, but the concerted effort of tireless tuners. That's what I aspire to be—one whose work is ordinary, unremarkable, but indispensable.",
+                "jp": "あの旅行でいろんなことを悟ったし、偉大な都市の楽章は天が与えた才能から生まれるわけじゃなくて、勤勉な調律師たちの協力あってのものだって気付けたんだ。それでそういう暮らしに――平凡だけど必要不可欠な仕事をこなす日々に憧れたの。",
+                "kr": "그 여행에서 여러 가지를 깨달았어. 위대한 도시의 악장은 하늘이 내린 재능에서 나오는 게 아니라, 근면한 조율사들의 협력이 있어서 가능하다는 걸 알게 된 거야. 그래서 그런 삶을, 평범하지만 없어서는 안 될 일을 하는 나날을 동경하게 됐어.",
+                "cn": "那次旅行让我看清了很多事，伟大的城市乐章并非来自天降的才华，而是任劳任怨的调谐师们的通力合作。我憧憬那样的生活——平凡地做着不可或缺的事情。"
+            },
+            "asset": "char_4051_akkord/CN_014"
+        },
+        {
+            "id": "char_4051_akkord_CN_017",
+            "title": {
+                "en": "Added to Squad",
+                "jp": "編成",
+                "kr": "팀 배치",
+                "cn": "编入队伍"
+            },
+            "text": {
+                "en": "I'll be in tune with you.",
+                "jp": "あなたの指揮に従うよ。待ってるね。",
+                "kr": "당신 지휘를 따를게. 기다리고 있어.",
+                "cn": "听你的协调，我等着。"
+            },
+            "asset": "char_4051_akkord/CN_017"
+        },
+        {
+            "id": "char_4051_akkord_CN_018",
+            "title": {
+                "en": "Appointed as Squad Leader",
+                "jp": "隊長任命",
+                "kr": "팀장 임명",
+                "cn": "任命队长"
+            },
+            "text": {
+                "en": "Do you need me… to give the cue?",
+                "jp": "わたしが音頭を取ろうか？",
+                "kr": "내가 선창할까?",
+                "cn": "要我起个头吗？"
+            },
+            "asset": "char_4051_akkord/CN_018"
+        },
+        {
+            "id": "char_4051_akkord_CN_019",
+            "title": {
+                "en": "Depart",
+                "jp": "作戦準備",
+                "kr": "작전 출발",
+                "cn": "行动出发"
+            },
+            "text": {
+                "en": "The horn sounds. Now, beat the drums.",
+                "jp": "ホルンが鳴ったから、次はドラムの出番だよ。",
+                "kr": "호른이 울렸으니, 다음은 드럼 차례야.",
+                "cn": "号角响了，接下来是擂鼓。"
+            },
+            "asset": "char_4051_akkord/CN_019"
+        },
+        {
+            "id": "char_4051_akkord_CN_020",
+            "title": {
+                "en": "Begin Operation",
+                "jp": "戦闘開始",
+                "kr": "작전 개시",
+                "cn": "行动开始"
+            },
+            "text": {
+                "en": "It's time to cut the noise.",
+                "jp": "ノイズには黙っててもらおう。",
+                "kr": "잡음은 조용하게 만들자.",
+                "cn": "噪音该闭嘴了。"
+            },
+            "asset": "char_4051_akkord/CN_020"
+        },
+        {
+            "id": "char_4051_akkord_CN_021",
+            "title": {
+                "en": "Selecting Operator 1",
+                "jp": "選択時1",
+                "kr": "오퍼레이터 선택 1",
+                "cn": "选中干员1"
+            },
+            "text": {
+                "en": "Here. I'm listening.",
+                "jp": "アコルト、聞いてるよ。",
+                "kr": "아코르트, 듣고 있어.",
+                "cn": "是我，在听。"
+            },
+            "asset": "char_4051_akkord/CN_021"
+        },
+        {
+            "id": "char_4051_akkord_CN_022",
+            "title": {
+                "en": "Selecting Operator 2",
+                "jp": "選択時2",
+                "kr": "오퍼레이터 선택 2",
+                "cn": "选中干员2"
+            },
+            "text": {
+                "en": "Eh? What did you say?",
+                "jp": "えっ？今なんて？",
+                "kr": "응? 방금 뭐라고 했어?",
+                "cn": "嗯？你说了什么？"
+            },
+            "asset": "char_4051_akkord/CN_022"
+        },
+        {
+            "id": "char_4051_akkord_CN_023",
+            "title": {
+                "en": "Deployment 1",
+                "jp": "配置1",
+                "kr": "배치 1",
+                "cn": "部署1"
+            },
+            "text": {
+                "en": "Oh, it's my turn.",
+                "jp": "あっ、わたしの出番だね。",
+                "kr": "앗, 내 차례네.",
+                "cn": "啊，该我了。"
+            },
+            "asset": "char_4051_akkord/CN_023"
+        },
+        {
+            "id": "char_4051_akkord_CN_024",
+            "title": {
+                "en": "Deployment 2",
+                "jp": "配置2",
+                "kr": "배치 2",
+                "cn": "部署2"
+            },
+            "text": {
+                "en": "I'll give it a try.",
+                "jp": "一応やってみるけど。",
+                "kr": "일단 해보긴 하겠지만.",
+                "cn": "勉强试试看。"
+            },
+            "asset": "char_4051_akkord/CN_024"
+        },
+        {
+            "id": "char_4051_akkord_CN_025",
+            "title": {
+                "en": "In Battle 1",
+                "jp": "作戦中1",
+                "kr": "작전 중 1",
+                "cn": "作战中1"
+            },
+            "text": {
+                "en": "Ready, four-four time.",
+                "jp": "四分の四拍子、せーのっ。",
+                "kr": "4분의 4박자, 하나 둘.",
+                "cn": "起，四四拍。"
+            },
+            "asset": "char_4051_akkord/CN_025"
+        },
+        {
+            "id": "char_4051_akkord_CN_026",
+            "title": {
+                "en": "In Battle 2",
+                "jp": "作戦中2",
+                "kr": "작전 중 2",
+                "cn": "作战中2"
+            },
+            "text": {
+                "en": "Too low. From the top.",
+                "jp": "ちょっと低い。もう一回。",
+                "kr": "조금 낮아. 다시.",
+                "cn": "低了，重来。"
+            },
+            "asset": "char_4051_akkord/CN_026"
+        },
+        {
+            "id": "char_4051_akkord_CN_027",
+            "title": {
+                "en": "In Battle 3",
+                "jp": "作戦中3",
+                "kr": "작전 중 3",
+                "cn": "作战中3"
+            },
+            "text": {
+                "en": "Let the arpeggio cascade.",
+                "jp": "波打つアルペシオ。",
+                "kr": "물결치는 아르페지오.",
+                "cn": "琶音会冲浪。"
+            },
+            "asset": "char_4051_akkord/CN_027"
+        },
+        {
+            "id": "char_4051_akkord_CN_028",
+            "title": {
+                "en": "In Battle 4",
+                "jp": "作戦中4",
+                "kr": "작전 중 4",
+                "cn": "作战中4"
+            },
+            "text": {
+                "en": "This is my range.",
+                "jp": "これがわたしの音域。",
+                "kr": "이게 내 음역대야.",
+                "cn": "这是我的音域。"
+            },
+            "asset": "char_4051_akkord/CN_028"
+        },
+        {
+            "id": "char_4051_akkord_CN_029",
+            "title": {
+                "en": "4-star Result",
+                "jp": "高難度作戦クリア",
+                "kr": "고난이도 작전 종료",
+                "cn": "完成高难行动"
+            },
+            "text": {
+                "en": "They gave up before we got to the cadence. Looks like the program doesn't need to be too long.",
+                "jp": "まだ休符に辿り着いてないのに、敵は諦めちゃったみたい。たくさん曲を用意しておく必要もなかったね。",
+                "kr": "아직 쉼표까지 오지도 않았는데, 적들은 포기해 버린 것 같아. 여러 곡 준비할 필요도 없었네.",
+                "cn": "还没来得及听到休止符，敌人就放弃了，看来没必要准备很多曲子。"
+            },
+            "asset": "char_4051_akkord/CN_029"
+        },
+        {
+            "id": "char_4051_akkord_CN_030",
+            "title": {
+                "en": "3-star Result",
+                "jp": "★3で戦闘終了",
+                "kr": "3★ 작전 종료",
+                "cn": "3星结束行动"
+            },
+            "text": {
+                "en": "This is an elegy for them to mourn themselves.",
+                "jp": "レクイエムを聴きながら、あの人たちも自分のことを悼むべきなんだ。",
+                "kr": "레퀴엠을 들으면서, 저 사람들도 자신을 애도해야지.",
+                "cn": "在哀乐里他们应该怜惜自己。"
+            },
+            "asset": "char_4051_akkord/CN_030"
+        },
+        {
+            "id": "char_4051_akkord_CN_031",
+            "title": {
+                "en": "Sub 3-star Result",
+                "jp": "★2以下戦闘終了",
+                "kr": "비 3★ 작전 종료",
+                "cn": "非3星结束行动"
+            },
+            "text": {
+                "en": "It's not such a bad thing to rush through a passage that's out-of-tune.",
+                "jp": "あんまり心に響かないフレーズなら、早めに切り上げるのも悪くないと思う。",
+                "kr": "그다지 마음에 와닿지 않는 소절이라면, 일찌감치 끝내는 것도 나쁘지 않다고 생각해.",
+                "cn": "对于不那么动听的段落，草草收场也不是坏事。"
+            },
+            "asset": "char_4051_akkord/CN_031"
+        },
+        {
+            "id": "char_4051_akkord_CN_032",
+            "title": {
+                "en": "Operation Failure",
+                "jp": "作戦失敗",
+                "kr": "작전 실패",
+                "cn": "行动失败"
+            },
+            "text": {
+                "en": "Ugh! I need to wash my ears out.",
+                "jp": "帰って耳を清めないと。",
+                "kr": "돌아가서 귀를 씻어야겠어.",
+                "cn": "我要回去洗洗耳朵了。"
+            },
+            "asset": "char_4051_akkord/CN_032"
+        },
+        {
+            "id": "char_4051_akkord_CN_033",
+            "title": {
+                "en": "Assigned to Facility",
+                "jp": "基地配属",
+                "kr": "시설에 배치",
+                "cn": "进驻设施"
+            },
+            "text": {
+                "en": "Quiet, like a sheet of paper without notes or staff lines. I'll set it up.",
+                "jp": "楽譜のないまっさらの紙みたいに静かだね。この場所の演出はわたしに任せて。",
+                "kr": "악보 없는 새하얀 종이처럼 조용하네. 여기 연출은 내게 맡겨줘.",
+                "cn": "安静得就像没有乐谱的白纸，我会好好布置这里的。"
+            },
+            "asset": "char_4051_akkord/CN_033"
+        },
+        {
+            "id": "char_4051_akkord_CN_034",
+            "title": {
+                "en": "Tap",
+                "jp": "タッチ1",
+                "kr": "터치",
+                "cn": "戳一下"
+            },
+            "text": {
+                "en": "I can hear you, you know.",
+                "jp": "あなたの音は聞こえてるから、わたしを驚かすのは無理だよ。",
+                "kr": "당신 소리가 들리니까, 날 놀래키는 건 무리야.",
+                "cn": "我听到你在，你可吓不到我。"
+            },
+            "asset": "char_4051_akkord/CN_034"
+        },
+        {
+            "id": "char_4051_akkord_CN_036",
+            "title": {
+                "en": "Trust Tap",
+                "jp": "信頼タッチ",
+                "kr": "신뢰도 터치",
+                "cn": "信赖触摸"
+            },
+            "text": {
+                "en": "My horns are not a percussion instrument, Doctor.",
+                "jp": "ドクター、わたしの角を打楽器扱いしないでね。",
+                "kr": "박사, 내 뿔을 타악기 취급하지 말아 줘.",
+                "cn": "博士，我的角可不是什么打击乐器。"
+            },
+            "asset": "char_4051_akkord/CN_036"
+        },
+        {
+            "id": "char_4051_akkord_CN_037",
+            "title": {
+                "en": "Title",
+                "jp": "タイトルコール",
+                "kr": "타이틀",
+                "cn": "标题"
+            },
+            "text": {
+                "en": "Arknights.",
+                "jp": "アークナイツ。",
+                "kr": "명일방주.",
+                "cn": "明日方舟。"
+            },
+            "asset": "char_4051_akkord/CN_037"
+        },
+        {
+            "id": "char_4051_akkord_CN_038",
+            "title": {
+                "en": "New Year's blessing",
+                "jp": "新年",
+                "kr": "새해",
+                "cn": "新年祝福"
+            },
+            "text": {
+                "en": "The celebration can wait. I'm maintaining the musical order of the festival; those who work behind the scenes only get to enjoy the celebrations after the curtain falls. It's not that I don't like a lively scene; my blessings are with everyone, in each and every note. The tuner does not leave until the music has ended.",
+                "jp": "今は年越し行事の音楽の秩序を保たないといけないから、お祝いはまた後でね。裏方の人って、たいてい閉幕した後に一人で静かに祝うものでしょう。賑やかなのが嫌いなわけじゃないから誤解しないでね。わたしがメロディーに込めた祝福がみんなと共にあるし、音楽が流れ続けてる限り、調律師はずっとそこにいるんだ。",
+                "kr": "지금은 새해맞이 행사의 음악 질서를 유지해야 하니까, 축하는 나중에 하자. 무대 뒤의 사람은 대체로 폐막 후에 혼자 조용히 축하하는 법이잖아. 시끌벅적한 걸 싫어하는 건 아니니까 오해하지 마. 내가 멜로디에 담은 축복이 모두와 함께 있고, 음악이 계속 흐르는 한, 조율사는 계속 그곳에 있을 테니까.",
+                "cn": "庆祝的事情等会吧，我在维持节日的音乐秩序，毕竟幕后人员总是散场后才会独自享受节庆。别误会，我并不排斥热闹的场面，我的祝福藏在旋律中一直陪着大家，音乐没有结束，调谐师便不会离开。"
+            },
+            "asset": "char_4051_akkord/CN_038"
+        },
+        {
+            "id": "char_4051_akkord_CN_042",
+            "title": {
+                "en": "Greeting",
+                "jp": "挨拶",
+                "kr": "인사",
+                "cn": "问候"
+            },
+            "text": {
+                "en": "Hello, Doctor. Here's a special suite of music for you to play on deck. A little applause would make it even more pleasing.",
+                "jp": "こんにちは。ドクターのために甲板組曲を作ってみたから、耳を澄ませてみて。拍手があると、もっと素敵に響くかも。",
+                "kr": "안녕. 박사를 위해서 갑판 모음곡을 만들어 봤으니까, 귀를 기울여 봐. 박수가 있으면, 더 멋지게 울릴지도 몰라.",
+                "cn": "博士你好，请留意为你特别调配的甲板组曲，来点掌声会更悦耳。"
+            },
+            "asset": "char_4051_akkord/CN_042"
+        },
+        {
+            "id": "char_4051_akkord_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": "Happy birthday, Doctor. My gift is imbued with musical Arts, playing back a song cover I performed myself. I'm sure the original is much better and… actually in tune. But I guarantee this song is more memorable than any other.",
+                "jp": "お誕生日おめでとう、ドクター。このプレゼントには、わたしが心を込めてカバーした歌の音楽アーツをかけてあるんだ。原曲の方がずっと良いし、少なくとも音は整って聞こえるけど、わたしのカバーほど記憶に残る歌声はないって自信を持って断言できるよ。",
+                "kr": "생일 축하해, 박사. 이 선물에는 내가 마음을 담아 커버한 노래의 음악 아츠를 걸어 뒀어. 원곡이 훨씬 좋고, 적어도 음정이 제대로 맞겠지만, 내 커버만큼 기억에 남는 노랫소리는 없을 거라고 자신 있게 단언할 수 있어.",
+                "cn": "生日快乐，博士。我在礼物上留了音乐术式，用了我自己精心翻唱的歌曲。虽然原版比我的版本好听得多，至少都在调上，但我敢肯定，博士再也听不到比这更难忘的歌声了。"
+            },
+            "asset": "char_4051_akkord/CN_043"
+        },
+        {
+            "id": "char_4051_akkord_CN_044",
+            "title": {
+                "en": "Anniversary Celebration",
+                "jp": "周年",
+                "kr": "애니버서리",
+                "cn": "周年庆典"
+            },
+            "text": {
+                "en": "It used to be hard for me to ignore regret. I tried, only to realize it wasn't really necessary. A rousing melody can stay in the climax, and a settled note is no longer noise, just as everyone on Rhodes Island has found their home.",
+                "jp": "昔は、後悔を気にしないようにするのが難しくて、頑張って平気なふりをしてたんだ。でも、今にして思えば、そんな必要はなかったみたい。エネルギッシュで情熱的なメロディーはいつも曲のクライマックスにあるし、静かに添えられた音符ももうノイズとみなされることはないから。ロドスのみんなにちゃんと居場所があるのとおんなじようにね。",
+                "kr": "예전엔 아쉬운 점을 신경 쓰지 않는 게 어려워서, 억지로 아무렇지 않은 척했어. 하지만 지금 생각하면 그럴 필요는 없었던 것 같아. 에너지 넘치고 정열적인 멜로디가 곡의 클라이맥스에 있으면, 조용히 곁들여진 음표도 더는 잡음으로 여겨지지 않으니까. 로도스 아일랜드의 모두에게 각자의 자리가 있는 것처럼 말이야.",
+                "cn": "曾经，忽视遗憾对我来说很难，我也努力过，可是后来发现没什么必要。激昂充沛的旋律能够待在高潮之中，被安放的音符也不会再被当作噪音，就像罗德岛的大家都能有所归依一样。"
+            },
+            "asset": "char_4051_akkord/CN_044"
+        }
+    ],
+    "actors": {
+        "en": {
+            "native": "Amira Leisner",
+            "global": "Amira Leisner"
+        },
+        "cn": {
+            "native": "可可味",
+            "global": "Kokomi"
+        },
+        "jp": {
+            "native": "会沢紗弥",
+            "global": "Saya Aizawa"
+        },
+        "kr": {
+            "native": "임재이",
+            "global": "Lim J"
+        }
+    },
+    "availability": [
+        "en",
+        "cn",
+        "jp",
+        "kr"
+    ]
+}

@@ -130,7 +130,7 @@
             },
             "text": {
                 "en": "Saw a lot of people get same disease as mine who didn't end well. I kinda gave up on myself too, until I got lucky enough to be found by you guys… Tell me straight, Doctor. You can cure me, right? You...you can't? *Sigh*, I can live with that, I guess.",
-                "jp": "この病気にかかって死んでいくやつをいっぱい見てきたから、ぼくも同じようになるんだって諦めてたところで、ロドスに拾われたんだ……。正直に言ってほしい、ドクター、ぼくを治せるよね？治せないかも？まっ、それはそれでいいか。",
+                "jp": "この病気にかかって死んでいくやつをいっぱい見てきたから、ぼくも同じようになるんだって諦めてたところで、ロドスに拾われたんだ……正直に言ってほしい、ドクター、ぼくを治せるよね？治せないかも？まっ、それはそれでいいか。",
                 "kr": "이 병에 걸려 죽어가는 녀석들을 잔뜩 봤으니까, 나도 그렇게 죽겠거니 하고 포기하려 할 때, 로도스 아일랜드가 날 받아준 거야…… 솔직히 말해줘 박사. 내 병…… 고칠 수 있지? 못 고칠 수도 있다고? 뭐, 그것도 나름 괜찮겠지.",
                 "cn": "有许多人生了这种病，我也觉得自己要没救了，还好你们找到我......说实在的，博士，你会帮我治好的吧？不能？嘛，也没差。"
             },
@@ -647,6 +647,6 @@
         "old_jp"
     ],
     "audio_path_override": {
-        "old_jp": "https://raw.githubusercontent.com/PseudoMon/arknights-audio/49321c40e27f9293cd0b2d0c7b446796be74ab1b/voice"
+        "old_jp": "https://raw.githubusercontent.com/Zumurrud/riva-voices/main/old_voices/voice/char_236_rope/CN_###.mp3"
     }
 }

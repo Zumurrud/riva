@@ -634,7 +634,7 @@
             "native": "엄상현",
             "global": "Um Sang-hyun"
         },
-        "ger": {
+        "de": {
             "native": "Malte Meibauer",
             "global": "Malte Meibauer"
         }
@@ -644,6 +644,6 @@
         "cn",
         "jp",
         "kr",
-        "ger"
+        "de"
     ]
 }

@@ -145,7 +145,7 @@
                 "cn": "信赖提升后交谈3"
             },
             "text": {
-                "en": "My master had me come to Rhodes Island for some peace and quiet, but there is no peace to be had as long as the flames of war rage in my homeland. Nonetheless, as a commander, you have my respect. {@nickname}, I am under your command. Together, we will take to the battlefield, and I shall slay everyone that stands in our way as your blade!",
+                "en": "My master had me come to Rhodes Island for some peace and quiet. Yet how can I find peace, when the flames of war still rage in my homeland? Nonetheless, as a general, you have my respect. Dr.{@nickname}, while under your command, I shall fight by your side and slay all that stands in your way!",
                 "jp": "お殿様には心安らかにロドスにいろと命じられたが、故郷の戦火はいまだ収まらぬ。安らげるものか。だが、大将としての貴殿が、私の尊敬を得るにふさわしいのもまた事実だ。ドクター殿、貴殿の麾下にある以上、私は貴殿と共に戦に身を投じ、貴殿の刀となって全てを斬り伏せよう。",
                 "kr": "주군께서는 마음 편히 로도스 아일랜드에 있으라고 명령하셨지만, 고향의 전쟁은 아직 끝나지 않았어. 마음이 편할 리 없지. 하지만 대장으로서 그대가 내 존경을 받기 적합한 인물이라는 것도 사실이지. {@nickname} 박사 나리, 그대의 휘하에 있는 이상, 나는 그대와 함께 전장에 몸을 던지고 그대의 칼이 되어 모든 걸 베도록 하겠다.",
                 "cn": "大人令我安心待在你们这里，但故土战火未熄，我不可能安心。可是，作为主将，你也值得我尊敬。{@nickname}，我既在你麾下，便愿意随你征战，替你斩杀一切！"
@@ -594,7 +594,7 @@
             },
             "text": {
                 "en": "Oh? Today's your birthday, Dr.{@nickname}? Haha! Come, I'll take you for ale and meat! Honestly, why stay quiet about a day so important? Hm? You wonder what I would've gotten you if I knew? Well, need you ask? Better ale and even more meat!",
-                "jp": "哦？今天是{@nickname}你的生日啊！走，我请你喝酒吃肉去！真是的，这么重要的日子怎么不早说？啊，问我早说的话会准备什么？当然是更好的酒和更多的肉！",
+                "jp": "ほお？今日は{@nickname}殿の誕生日か！来い、酒と肉を馳走してやろうぞ！まったく、これほど重要な日をなぜもっと早くに知らせんのだ？ん？知っていたら何を用意するつもりかって？それは当然、もっと良い酒と、山と積んだ肉に決まっておろう！",
                 "kr": "음? 오늘이 {@nickname} 박사 나리의 생일인가! 가자, 오늘은 내가 술과 고기를 사주마! 정말이지, 왜 진작 말하지 않은 건가. 얘기했으면 뭘 준비했을 거냐고? 그거야 당연히 더 좋은 술과 더 많은 고기를 준비했겠지!",
                 "cn": "哦？今天是{@nickname}你的生日啊！走，我请你喝酒吃肉去！真是的，这么重要的日子怎么不早说？啊，问我早说的话会准备什么？当然是更好的酒和更多的肉！"
             },

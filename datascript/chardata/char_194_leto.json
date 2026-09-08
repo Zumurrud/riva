@@ -51,7 +51,7 @@
             "text": {
                 "en": "Heh! Hah—! Get up, all of you! Weren't you going to fight the USSG? Now look at you all, lying on the ground already! Bunch of babies. You don't see my girls much on the landship these days, but there was a time when we followed the Doctor around, conquering the world... Yow! Anna...? Why'd you hit me?",
                 "jp": "おらっ！はぁーっ！寝てねぇで起きやがれ！うちの自治団を超えるんじゃなかったのかよ。このくらいでへばっちまうのか？チビどもよーく聞け、今となっちゃ本艦にいねぇことも多いけど、姉ちゃんたちがドクターと一緒にそこら中ぶっ潰して回ってた頃はな……痛っ、アンナ、急に頭叩くこたぁねぇだろ！",
-                "kr": "핫! 이얍! 자자, 모두 일어나! 우리 학생 자치단에 도전하겠다는 녀석들이 이렇게 쉽게 쓰러질 건 아니겠지? 내 말 잘 들어, 꼬맹이들아. 이 언니들이 지금은 자주 함선을 비우지만, 왕년에 박사를 따라서 전장을 누비고 다녔을 적에는 말이야…… 아얏, 안나, 머리는 갑자기 왜 때리는 건데!",
+                "kr": "핫! 이얍! 자자, 모두 일어나! 우리 학생자치단에 도전하겠다는 녀석들이 이렇게 쉽게 쓰러질 건 아니겠지? 내 말 잘 들어, 꼬맹이들아. 이 언니들이 지금은 자주 함선을 비우지만, 왕년에 박사를 따라서 전장을 누비고 다녔을 적에는 말이야…… 아얏, 안나, 머리는 갑자기 왜 때리는 건데!",
                 "cn": "喝！哈——！起来，都起来！不是要挑战我们学生自治团吗，怎么这就趴下了？一群毛孩子，姐姐们现在虽然不常在舰上，但当年跟着博士大杀四方的时候......哎呦，安娜，你干嘛敲我头啊！"
             },
             "asset": "char_194_leto/CN_003"
@@ -147,7 +147,7 @@
             "text": {
                 "en": "I know we'll have to go our separate ways someday. But so what? We trust each other with our lives. The USSG won't fall apart, and we'll never forget the days we spent together. The same goes for you, Doctor. Call me anytime you need my help, and I'll be there, no matter what.",
                 "jp": "いつかみんな離れ離れになっちまうことくらい分かってるよ。それがなんだよ？うちらは命を預け合った仲だぜ。自治団は解散しねぇし、あの頃の日々を誰一人として忘れることはねぇ。お前もだ、ドクター。助けが必要な時はいつでも呼べよ。どこにいたってぜってぇ駆けつけてやる。",
-                "kr": "나도 알아, 언젠간 우리도 뿔뿔이 흩어질 날이 오겠지. 하지만 그게 뭐? 우린 같이 생사의 고비를 넘었고, 학생 자치단은 절대로 해산하지 않아. 우린 함께했던 나날을 영원히 잊지 않을 거야. 그리고 그건 너도 마찬가지야, 박사. 도움이 필요하다면 언제든 불러 줘. 네가 얼마나 멀리 있든, 반드시 달려가서 도와줄게.",
+                "kr": "나도 알아, 언젠간 우리도 뿔뿔이 흩어질 날이 오겠지. 하지만 그게 뭐? 우린 같이 생사의 고비를 넘었고, 학생자치단은 절대로 해산하지 않아. 우린 함께했던 나날을 영원히 잊지 않을 거야. 그리고 그건 너도 마찬가지야, 박사. 도움이 필요하다면 언제든 불러 줘. 네가 얼마나 멀리 있든, 반드시 달려가서 도와줄게.",
                 "cn": "我知道，我们几个总有要分开的一天。但那又怎么样？我们是过命的交情，学生自治团不会散，谁都不会忘记那段日子。还有你也一样，博士，需要的时候随时叫我，哪怕天涯海角，我一定赶到。"
             },
             "asset": "char_194_leto/CN_009"
@@ -179,7 +179,7 @@
             "text": {
                 "en": "Hey, Doctor. You already know me, do we really still have to do this? Formalities matter, huh? Fine. Leto of the Ursus Student Self-government Group. Reporting in!",
                 "jp": "なあドクター、うちらの仲でわざわざこんなことやる必要あんのか？一応形だけでも？わかったよ。ウルサス学生自治団リェータ、ここに着任だ！",
-                "kr": "박사, 우리 사이에 굳이 이런 것까지 해야 해? 그래도 절차는 밟아야 한다고? 그래 알았어. 우르수스 학생 자치단, 레토. 지금 신고하겠다!",
+                "kr": "박사, 우리 사이에 굳이 이런 것까지 해야 해? 그래도 절차는 밟아야 한다고? 그래 알았어. 우르수스 학생자치단, 레토. 지금 신고하겠다!",
                 "cn": "欸，博士，我们都这么熟了，我真的有必要做这种事吗？走一下形式？好吧。乌萨斯学生自治团，烈夏，报到！"
             },
             "asset": "char_194_leto/CN_011"
@@ -593,7 +593,7 @@
                 "cn": "生日"
             },
             "text": {
-                "en": "Happy birthday! Here's a honey cake for you, I even asked Lada to teach me how to make it. I snuck a piece for myself, and it's real tasty, so you should hurry and try some! Honey drunk? Oh, yeah, no wonder I've been filling a little dizzy for a while now... Ah, look out! The cake!",
+                "en": "Happy birthday! Here's a medovik for you, I even asked Lada to... to teach me how to make it. I snuck a piece for myself, and it's really tasty! Hurry up, try some! Honey drunk? Oh, yeah, no wonder I've been feeling... a little dizzy... Whoa, look out! The cake!",
                 "jp": "ハッピーバースデー！こいつぁわざわざラーダに教えてもらったはちみつケーキだ。ちょっとつまみ食いしてみたんだけど、我ながらサイコーに美味かったから食ってみてくれよ！ハチミツ酔い？はっ、そうか……さっきからクラクラすると思ったぜ……うわっ、ケーキがドクターの顔にっ！",
                 "kr": "생일 축하해! 이건 내가 라다한테 배워서 만든 벌꿀 케이크야. 사실 몰래 한 조각 먹어 봤는데, 진짜 맛있었어. 너도 얼른 먹어봐! 꿀에 취하진 않았냐고? 아, 그렇네. 어쩐지 아까부터 조금 어지럽더라니…… 앗, 케이크 조심해!",
                 "cn": "生日快乐！这是我特地去请拉达教我做的蜂蜜蛋糕，我偷偷吃了一块，自己都觉得太好吃了，你也赶紧尝尝！醉蜜？哦，对哦，难怪我从刚才就觉得有点晕......哎呀，小心蛋糕！"
@@ -609,9 +609,9 @@
                 "cn": "周年庆典"
             },
             "text": {
-                "en": "Here, a souvenir from my last trip. It's pretty good, so you gotta try some. Is it me, or did Rhodes get a lot more crowded since I was away? I don't care if you keep onboarding more people, but you'd better make sure the USSG's clubhouse stays as-is, got it?",
+                "en": "Here, a souvenir from my last trip. It's pretty good, so you gotta try some. Hmmm...Is it me, or did Rhodes get a lot more crowded since I was away? Whatever~ I don't care if you keep onboarding more people, but you gotta make sure the USSG's clubhouse stays as-is. Deal!",
                 "jp": "ほら、今回の旅行の土産だ。まあまあイケるから食ってみな。私がいねぇうちに、ロドスもまた人が増えたんじゃねぇか？いいか、人がどんだけ増えたって、自治団本部にしてる部屋は絶対確保しといてくれよ。絶対だぞ！",
-                "kr": "자, 이번에 여행 갔다가 사 온 특산품이야. 꽤 맛있더라고, 한번 먹어 봐. 그나저나, 내가 없는 동안 로도스 아일랜드에 사람이 더 많아진 것 같다? 나야 뭐 상관없지만, 사람이 많아져도 학생 자치단이 쓸 활동실은 꼭 남겨 줘야 해! 꼭이야!",
+                "kr": "자, 이번에 여행 갔다가 사 온 특산품이야. 꽤 맛있더라고, 한번 먹어 봐. 그나저나, 내가 없는 동안 로도스 아일랜드에 사람이 더 많아진 것 같다? 나야 뭐 상관없지만, 사람이 많아져도 학생자치단이 쓸 활동실은 꼭 남겨 줘야 해! 꼭이야!",
                 "cn": "喏，这趟旅行的特产，味道还不错，你尝尝。我不在的这段时间里，罗德岛上人是不是又变多了？我不管，就算人再多，学生自治团的活动室博士你也一定要替我们留着，一定啊！"
             },
             "asset": "char_194_leto/CN_044"
@@ -634,7 +634,7 @@
             "native": "이달래",
             "global": "Lee Dal-lae"
         },
-        "rus": {
+        "ru": {
             "native": "Ivanova Lina",
             "global": "Ivanova Lina"
         }
@@ -644,6 +644,6 @@
         "cn",
         "jp",
         "kr",
-        "rus"
+        "ru"
     ]
 }
