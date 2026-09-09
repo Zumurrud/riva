@@ -8,34 +8,29 @@
 
   interface Voicedata {
     title: {
-      en: string,
-      cn: string,
-      jp: string,
-      kr: string,
-    },
+      en: string;
+      cn: string;
+      jp: string;
+      kr: string;
+    };
     text: {
-      en: string,
-      cn: string,
-      jp: string,
-      kr: string,
-    },
-    asset: string,
+      en: string;
+      cn: string;
+      jp: string;
+      kr: string;
+    };
+    asset: string;
   }
 </script>
 
 {#if voicedata}
-<div class="voiceline" class:en={$currentLang === "en"}>
-  <h2>{voicedata.title[$currentLang]}</h2>
-  <div>{@html voicedata.text[$currentLang]}</div>
-</div>
+  <div class="voiceline" class:en={$currentLang === "en"}>
+    <h2>{voicedata.title[$currentLang]}</h2>
+    <div>{@html voicedata.text[$currentLang]}</div>
+  </div>
 
-<AudioPlayer 
-  assetloc={voicedata.asset}
-  availability={availability} 
-  pathOverride={pathOverride}
-/>
+  <AudioPlayer assetloc={voicedata.asset} {availability} {pathOverride} />
 {/if}
-
 
 <style>
   .voiceline {

@@ -1,5 +1,5 @@
 <script lang="ts">
-  import GithubIcon from "$lib/icons/GithubIcon.svelte"
+  import GithubIcon from "$lib/icons/GithubIcon.svelte";
 </script>
 
 <footer>
@@ -11,7 +11,7 @@
 <style>
   footer {
     background-color: var(--color-lighterbg);
-    color: #A9A9A9;
+    color: #a9a9a9;
     font-size: 1rem;
     line-height: 1rem;
 
@@ -24,8 +24,12 @@
     margin-bottom: 0;
   }
 
-  a { color: inherit; }
-  a:hover { color: #fff; }
+  a {
+    color: inherit;
+  }
+  a:hover {
+    color: #fff;
+  }
 
   a :global(svg) {
     font-size: 2em;

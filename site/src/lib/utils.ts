@@ -6,10 +6,10 @@ export async function loadJson<T>(dataurl: string): Promise<T> {
 
 export interface LoadArgs {
   url: {
-    origin: string
-  }
+    origin: string;
+  };
 }
 
 export function getAvatarUrl(file: string, base: string): string {
-  return `${base}/images/avatars/${file}.webp` 
+  return `${base}/images/avatars/${file}.webp`;
 }

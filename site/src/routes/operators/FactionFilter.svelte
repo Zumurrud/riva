@@ -1,20 +1,19 @@
 <script lang="ts">
-  import { base } from "$app/paths"
+  import { base } from "$app/paths";
   import { createEventDispatcher } from "svelte";
 
   const dispatch = createEventDispatcher();
 
   export let nations: string[] = [];
-  
+
   let selectedNations: string[] = [];
-  $: dispatch('nationsChange', selectedNations)
+  $: dispatch("nationsChange", selectedNations);
 
   function selectNation(nation: string) {
     if (!selectedNations.includes(nation)) {
       selectedNations = [...selectedNations, nation];
-    }
-    else {
-      selectedNations = selectedNations.filter(n => n !== nation);
+    } else {
+      selectedNations = selectedNations.filter((n) => n !== nation);
     }
   }
 </script>
@@ -22,13 +21,11 @@
 <h2>Nation</h2>
 <div class="nations">
   {#each nations as nation}
-    <button 
+    <button
       on:click={() => selectNation(nation)}
-      class:selected={selectedNations.includes(nation)} 
+      class:selected={selectedNations.includes(nation)}
     >
-      <img 
-        src={`${base}/images/factions/${nation}.webp`} alt={nation}
-      >
+      <img src={`${base}/images/factions/${nation}.webp`} alt={nation} />
     </button>
   {/each}
 </div>
@@ -51,8 +48,9 @@
     cursor: pointer;
   }
 
-  .nations button:hover, .nations button.selected {
-    opacity: 1.0;
+  .nations button:hover,
+  .nations button.selected {
+    opacity: 1;
   }
 
   .nations img {

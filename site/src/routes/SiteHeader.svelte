@@ -1,5 +1,5 @@
 <script lang="ts">
-  import { base } from "$app/paths"
+  import { base } from "$app/paths";
   import MenuIcon from "$lib/icons/MenuIcon.svelte";
   import Drawer from "svelte-drawer-component";
 
@@ -12,10 +12,9 @@
 
 <header>
   <a href="{base}/"><h1>RIVA</h1></a>
-  <button 
-    class="burger-button"
-    on:click={() => open = true}
-  ><MenuIcon /></button>
+  <button class="burger-button" on:click={() => (open = true)}
+    ><MenuIcon /></button
+  >
 
   <h2>Rhodes Island Voice Archive</h2>
 
@@ -27,18 +26,18 @@
 </header>
 
 <div class="drawer-menu">
-<Drawer 
-  bind:open
-  placement="right" 
-  size="200px" on:clickAway={() => open = false}>
-  
-  <nav>
-    <a href="{base}/" on:click={closeDrawer}>Home</a>
-    <a href="{base}/credits" on:click={closeDrawer}>Credits</a>
-    <a href="{base}/operators" on:click={closeDrawer}>Operators</a>
-  </nav>
-
-</Drawer>
+  <Drawer
+    bind:open
+    placement="right"
+    size="200px"
+    on:clickAway={() => (open = false)}
+  >
+    <nav>
+      <a href="{base}/" on:click={closeDrawer}>Home</a>
+      <a href="{base}/credits" on:click={closeDrawer}>Credits</a>
+      <a href="{base}/operators" on:click={closeDrawer}>Operators</a>
+    </nav>
+  </Drawer>
 </div>
 
 <style>
@@ -55,7 +54,7 @@
   h1 {
     font-size: 1em;
     font-weight: 900;
-    color: #A7A3A2;
+    color: #a7a3a2;
     margin: 0;
   }
 
@@ -82,7 +81,7 @@
     opacity: 1;
   }
 
-  .burger-button:hover, .burger-button:hover, .burger-button:hover {
+  .burger-button:hover {
     opacity: 0.5;
   }
 
@@ -127,7 +126,7 @@
       font-weight: 600;
       font-style: italic;
       max-width: 250px;
-      color: #A7A3A2;
+      color: #a7a3a2;
       line-height: 90%;
     }
 
@@ -150,13 +149,13 @@
     .fullsize-nav a {
       padding: 12px 16px;
       border-radius: 10px 10px 0 0;
-      color: #D3D3D3;
+      color: #d3d3d3;
       transition: 0.5s;
     }
 
     .fullsize-nav a:hover {
       color: #fff;
-      background-color: #4F4F4F;
+      background-color: #4f4f4f;
     }
   }
 </style>

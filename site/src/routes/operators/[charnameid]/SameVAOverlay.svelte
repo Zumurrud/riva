@@ -8,10 +8,7 @@
 <div class="overlay">
   <aside>
     <h2>Other characters with the same voice actor:</h2>
-    <Photocard 
-      imgsrc={getAvatarUrl("falco", base)}
-      text="Plume"
-    /><Photocard 
+    <Photocard imgsrc={getAvatarUrl("falco", base)} text="Plume" /><Photocard
       imgsrc={getAvatarUrl("falco", base)}
       text="Plume"
     />
@@ -34,7 +31,7 @@
     top: 0;
     right: 0;
     bottom: 0;
-    background-color: rgba(0,0,0,0.6);
+    background-color: rgba(0, 0, 0, 0.6);
 
     display: flex;
     justify-content: center;

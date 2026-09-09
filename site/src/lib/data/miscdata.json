@@ -1,23 +1,23 @@
 {
-    "nations": [
-        "bolivar",
-        "columbia",
-        "egir",
-        "higashi",
-        "iberia",
-        "kazimierz",
-        "kjerag",
-        "laterano",
-        "leithanien",
-        "lungmen",
-        "minos",
-        "rhodes",
-        "rim",
-        "sami",
-        "sargon",
-        "siracusa",
-        "ursus",
-        "victoria",
-        "yan"
-    ]
+  "nations": [
+    "bolivar",
+    "columbia",
+    "egir",
+    "higashi",
+    "iberia",
+    "kazimierz",
+    "kjerag",
+    "laterano",
+    "leithanien",
+    "lungmen",
+    "minos",
+    "rhodes",
+    "rim",
+    "sami",
+    "sargon",
+    "siracusa",
+    "ursus",
+    "victoria",
+    "yan"
+  ]
 }

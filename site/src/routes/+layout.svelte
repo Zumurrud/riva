@@ -4,11 +4,17 @@
 </script>
 
 <svelte:head>
-  <link rel="preconnect" href="https://fonts.googleapis.com">
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Sofia+Sans:ital,wght@0,500;0,700;0,900;1,500;1,600&display=swap" rel="stylesheet">
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link
+    href="https://fonts.googleapis.com/css2?family=Sofia+Sans:ital,wght@0,500;0,700;0,900;1,500;1,600&display=swap"
+    rel="stylesheet"
+  />
 
-  <link rel="stylesheet" href="https://necolas.github.io/normalize.css/8.0.1/normalize.css">
+  <link
+    rel="stylesheet"
+    href="https://necolas.github.io/normalize.css/8.0.1/normalize.css"
+  />
 </svelte:head>
 <SiteHeader />
 <slot></slot>
@@ -20,19 +26,19 @@
     --color-lighterbg: #202020;
     --color-text: #fff;
   }
-  
+
   :global(body) {
     margin: 0;
 
     background-color: var(--color-background);
     color: var(--color-text);
-    
+
     font-family: "Sofia Sans", sans-serif;
     line-height: 1.455em;
     letter-spacing: -1%;
     font-size: 16px;
-  }  
-  
+  }
+
   :global(main) {
     box-sizing: border-box;
     width: 100%;
@@ -44,7 +50,7 @@
 
   @media (min-width: 800px) {
     :global(body) {
-      font-size: 18px;    
+      font-size: 18px;
     }
   }
 </style>

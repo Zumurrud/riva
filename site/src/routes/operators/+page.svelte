@@ -1,7 +1,7 @@
 <script lang="ts">
-  import { base } from "$app/paths"
+  import { base } from "$app/paths";
   import { currentLang } from "$lib/stores";
-  import { getAvatarUrl } from "$lib/utils"
+  import { getAvatarUrl } from "$lib/utils";
   import LangButtonBar from "$lib/LangButtonBar.svelte";
   import Photocard from "$lib/char/Photocard.svelte";
   import RatingFilter from "./RatingFilter.svelte";
@@ -11,17 +11,17 @@
   import miscdata from "$lib/data/miscdata.json";
 
   interface SingleChar {
-    fullid: string,
-    nameid: string,
-    numberid: string,
+    fullid: string;
+    nameid: string;
+    numberid: string;
     name: {
-      en: string,
-      cn: string,
-      jp: string,
-      kr: string,
-    },
-    nation: string | null,
-    rating: number,
+      en: string;
+      cn: string;
+      jp: string;
+      kr: string;
+    };
+    nation: string | null;
+    rating: number;
   }
 
   let filteredCharlist: SingleChar[];
@@ -33,32 +33,32 @@
     } else {
       return 1;
     }
-  })
+  });
 
-  $: filteredCharlist = filterCharlist(charlist, appliedFilters)
-  $: nations = miscdata.nations.filter(n => !!n);
+  $: filteredCharlist = filterCharlist(charlist, appliedFilters);
+  $: nations = miscdata.nations.filter((n) => !!n);
 
   type Filters = {
-    name: string,
-    rating: number[],
-    nation: string[],
-  }
+    name: string;
+    rating: number[];
+    nation: string[];
+  };
 
   let appliedFilters: Filters = {
     name: "",
     rating: [],
     nation: [],
-  }
+  };
 
   function filterCharlist(list: SingleChar[], filter: Filters) {
-    return list.filter(char => {
+    return list.filter((char) => {
       let include: boolean = true;
 
       if (filter.name != "") {
         const nameToSearch = filter.name.toLowerCase();
         const names = Object.values(char.name);
-        include = names.some(name =>
-          name.toLowerCase().includes(nameToSearch)
+        include = names.some((name) =>
+          name.toLowerCase().includes(nameToSearch),
         );
       }
 
@@ -71,7 +71,7 @@
       }
 
       return include;
-    })
+    });
   }
 
   // I can see Svelte wants this to be a FormEventHandler<HTMLInputElement>
@@ -102,30 +102,27 @@
   <article class="charpage">
     <h1>Operator List</h1>
     <section class="filter-options">
-
       <label for="name-search">Search</label>
-      <input type="text" placeholder="Search"
-        on:input={handleSearchName}
-      />
+      <input type="text" placeholder="Search" on:input={handleSearchName} />
 
       <RatingFilter on:onRatingsChange={handleFilterRatings} />
 
-      <FactionFilter
-        nations={nations}
-        on:nationsChange={handleFilterNations}
-      />
+      <FactionFilter {nations} on:nationsChange={handleFilterNations} />
     </section>
 
     <ol class="charlist">
       {#each filteredCharlist as char}
-      <li>
-        <a data-sveltekit-preload-data="tap" href="{base}/operators/{char.nameid}">
-          <Photocard
-            imgsrc={getAvatarUrl(char.nameid, base)}
-            text={char.name[$currentLang]}
-          />
-        </a>
-      </li>
+        <li>
+          <a
+            data-sveltekit-preload-data="tap"
+            href="{base}/operators/{char.nameid}"
+          >
+            <Photocard
+              imgsrc={getAvatarUrl(char.nameid, base)}
+              text={char.name[$currentLang]}
+            />
+          </a>
+        </li>
       {/each}
     </ol>
   </article>
@@ -135,7 +132,7 @@
   on:input={handleSearchName}
   on:onRatingsChange={handleFilterRatings}
   on:nationsChange={handleFilterNations}
-  nations={nations}
+  {nations}
 />
 
 <style>
@@ -190,14 +187,15 @@
   }
 
   input {
-    background-color: #E5E5E5;
+    background-color: #e5e5e5;
     border-radius: 8px;
     padding: 4px 12px;
     border: none;
   }
 
-  input:focus, input:focus-visible {
-    outline: solid 2px #CC495D;
+  input:focus,
+  input:focus-visible {
+    outline: solid 2px #cc495d;
   }
 
   @media (min-width: 800px) {

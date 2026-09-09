@@ -1,5 +1,5 @@
 <script lang="ts">
-  import StarIcon from "$lib/icons/StarIcon.svelte"
+  import StarIcon from "$lib/icons/StarIcon.svelte";
 
   export let rating = 0;
   $: starArray = Array(rating);
@@ -24,7 +24,7 @@
   }
 
   .single-rating:hover {
-    background-color: #8A2929;
+    background-color: #8a2929;
   }
 
   .single-rating > :global(*) {

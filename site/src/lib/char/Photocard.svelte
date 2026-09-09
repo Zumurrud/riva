@@ -1,10 +1,10 @@
 <script lang="ts">
-  export let imgsrc: string
-  export let text: string
+  export let imgsrc: string;
+  export let text: string;
 </script>
 
 <div class="photocard">
-  <img loading="lazy" src={imgsrc} alt="Portrait of {text}"/>
+  <img loading="lazy" src={imgsrc} alt="Portrait of {text}" />
   <span>{text}</span>
 </div>
 
@@ -12,7 +12,7 @@
   .photocard {
     --width: 76px;
 
-    background-color: #E8E5DC;
+    background-color: #e8e5dc;
     padding: 4px 5px;
 
     display: flex;
@@ -28,7 +28,7 @@
        So it should be the same as image */
     width: var(--width);
     min-height: 98px;
-  }  
+  }
 
   span {
     text-align: center;
@@ -38,7 +38,7 @@
   }
 
   img {
-    background-color: #3A3A3A;
+    background-color: #3a3a3a;
     width: var(--width);
     height: var(--width);
   }

@@ -1,6 +1,6 @@
 <script lang="ts">
   import LangButton from "./LangButton.svelte";
-  import { currentLang, type textLang } from "./stores"
+  import { currentLang, type textLang } from "./stores";
 
   function langClicked(lang: textLang) {
     $currentLang = lang;
@@ -8,23 +8,23 @@
 </script>
 
 <div class="lang-buttons">
-  <LangButton 
-    label="EN" 
-    selected={$currentLang == "en"} 
+  <LangButton
+    label="EN"
+    selected={$currentLang == "en"}
     on:click={() => langClicked("en")}
   />
-  <LangButton 
-    label="CN" 
-    selected={$currentLang == "cn"} 
+  <LangButton
+    label="CN"
+    selected={$currentLang == "cn"}
     on:click={() => langClicked("cn")}
   />
-  <LangButton 
-    label="JP" 
-    selected={$currentLang == "jp"} 
+  <LangButton
+    label="JP"
+    selected={$currentLang == "jp"}
     on:click={() => langClicked("jp")}
   />
-  <LangButton 
-    label="KR" 
+  <LangButton
+    label="KR"
     selected={$currentLang == "kr"}
     on:click={() => langClicked("kr")}
   />

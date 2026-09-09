@@ -18,32 +18,28 @@
 <main>
   <LangButtonBar />
   {#if data !== null}
-  <article class="charpage">
-    <div class="leftcolumn">
-      <h1>Operator File</h1>
+    <article class="charpage">
+      <div class="leftcolumn">
+        <h1>Operator File</h1>
 
-      <section class="basicinfo">
-        <Photocard 
-          imgsrc={photosrc}
-          text={data.names[$currentLang]}
-        />
-        <VoiceCredits actors={data.actors} />
-      </section>
-    </div>
+        <section class="basicinfo">
+          <Photocard imgsrc={photosrc} text={data.names[$currentLang]} />
+          <VoiceCredits actors={data.actors} />
+        </section>
+      </div>
 
-    <ol class="voicelines">
-      {#each data.voices as voicedata}
-      <li>
-      <Voiceline 
-        voicedata={voicedata}
-        availability={data.availability}
-        pathOverride={data.audio_path_override}
-      />
-      </li>
-      {/each}
-    </ol>
-    
-  </article>
+      <ol class="voicelines">
+        {#each data.voices as voicedata}
+          <li>
+            <Voiceline
+              {voicedata}
+              availability={data.availability}
+              pathOverride={data.audio_path_override}
+            />
+          </li>
+        {/each}
+      </ol>
+    </article>
   {:else}
     <h2>Loading...</h2>
   {/if}
@@ -77,7 +73,7 @@
   ol {
     padding: 0;
   }
-  
+
   .voicelines li {
     display: block;
   }

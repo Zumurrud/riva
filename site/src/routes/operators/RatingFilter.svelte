@@ -1,15 +1,15 @@
 <script lang="ts">
   import { createEventDispatcher } from "svelte";
-  import StarIcon from "$lib/icons/StarIcon.svelte"
-  import SingleRating from "./SingleRating.svelte"
+  import StarIcon from "$lib/icons/StarIcon.svelte";
+  import SingleRating from "./SingleRating.svelte";
 
   const dispatch = createEventDispatcher();
-  const ratings: number[] = [1, 2, 3, 4, 5, 6]
+  const ratings: number[] = [1, 2, 3, 4, 5, 6];
 
-  let selectedStatus: boolean[] = ratings.map(_ => false);
-  let selectedRatings: number[] = []
+  let selectedStatus: boolean[] = ratings.map((_) => false);
+  let selectedRatings: number[] = [];
 
-  $: dispatch('onRatingsChange', selectedRatings)
+  $: dispatch("onRatingsChange", selectedRatings);
 
   function onSelect(idx: number) {
     if (!selectedRatings.includes(ratings[idx])) {
@@ -17,7 +17,7 @@
     }
 
     // Reset selected display
-    selectedStatus = ratings.map(_ => false);
+    selectedStatus = ratings.map((_) => false);
   }
 
   function onHover(selectedIdx: number) {
@@ -26,17 +26,17 @@
         return true;
       }
       return false;
-    })
+    });
   }
 
   function onUnhover() {
     // Reset selected display
-    selectedStatus = ratings.map(_ => false);
+    selectedStatus = ratings.map((_) => false);
   }
 
   function removeRating(ratingToRemove: number) {
     selectedRatings = selectedRatings.filter(
-      rating => rating !== ratingToRemove
+      (rating) => rating !== ratingToRemove,
     );
   }
 </script>
@@ -44,7 +44,7 @@
 <h2>Rating</h2>
 <div class="selector">
   {#each ratings as _, index}
-    <button 
+    <button
       on:click={() => onSelect(index)}
       on:pointerover={() => onHover(index)}
       on:pointerleave={onUnhover}
@@ -57,14 +57,9 @@
 
 <ol>
   {#each selectedRatings as rating}
-  <li><SingleRating 
-    on:click={() => removeRating(rating)} 
-    rating={rating}
-  /></li>
+    <li><SingleRating on:click={() => removeRating(rating)} {rating} /></li>
   {/each}
 </ol>
-
-
 
 <style>
   h2 {
@@ -84,7 +79,8 @@
     margin-right: -2px;
   }
 
-  button:hover, button.selected {
+  button:hover,
+  button.selected {
     opacity: 1;
   }
 
@@ -100,4 +96,3 @@
     gap: 14px;
   }
 </style>
-      

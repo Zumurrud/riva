@@ -9,41 +9,40 @@
   let filterDrawerOpen: boolean = false;
 </script>
 
-<button class="search-button" on:click={() => filterDrawerOpen = true}>
+<button class="search-button" on:click={() => (filterDrawerOpen = true)}>
   <FilterIcon />
 </button>
 
 <div class="drawer-menu">
-  <Drawer 
+  <Drawer
     open={filterDrawerOpen}
-    placement="right" 
-    size="80%" on:clickAway={() => filterDrawerOpen = false}>
-    
-    <button class="close-drawer-button" on:click={() => filterDrawerOpen = false}>
+    placement="right"
+    size="80%"
+    on:clickAway={() => (filterDrawerOpen = false)}
+  >
+    <button
+      class="close-drawer-button"
+      on:click={() => (filterDrawerOpen = false)}
+    >
       <CloseFilterIcon />
     </button>
 
     <div class="mobile-search">
-    <input type="text" placeholder="Search" 
-      on:input
-    />
+      <input type="text" placeholder="Search" on:input />
     </div>
 
     <RatingFilter on:onRatingsChange />
 
-    <FactionFilter 
-      nations={nations}
-      on:nationsChange
-    />
+    <FactionFilter {nations} on:nationsChange />
   </Drawer>
 </div>
 
 <style>
-
-  .search-button, .close-drawer-button {
+  .search-button,
+  .close-drawer-button {
     width: 82px;
     height: 48px;
-    background-color: #E8E5DC;
+    background-color: #e8e5dc;
     color: #070707;
     box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
     border: none;
@@ -60,8 +59,8 @@
     bottom: 16px;
   }
 
-
-  .search-button :global(svg), .close-drawer-button :global(svg) {
+  .search-button :global(svg),
+  .close-drawer-button :global(svg) {
     font-size: 1.5em;
   }
 
@@ -69,7 +68,7 @@
     background: rgba(0, 0, 0, 0.9);
     color: var(--color-text);
     padding: 30px 20px;
-   /* max-height: 100vh;
+    /* max-height: 100vh;
     overflow-y: auto;*/
   }
 
@@ -84,13 +83,14 @@
   }
 
   .mobile-search input {
-    background-color: #E5E5E5;
+    background-color: #e5e5e5;
     border-radius: 8px;
     padding: 4px 12px;
     border: none;
   }
 
-  .mobile-search input:focus, input:focus-visible {
-    outline: solid 2px #CC495D;
+  .mobile-search input:focus,
+  input:focus-visible {
+    outline: solid 2px #cc495d;
   }
 </style>
