@@ -1,11 +1,9 @@
 <script lang="ts">
 import LangButtonBar from "$lib/LangButtonBar.svelte";
 import { currentLang } from "$lib/stores";
+import * as welcomeText from "$lib/data/welcome.json";
 
-export let data;
-let welcomeText : string = "..."
-
-$: welcomeText = data.welcomeText[$currentLang]
+$: welcome = welcomeText[$currentLang]
 </script>
 
 <svelte:head>
@@ -18,7 +16,7 @@ $: welcomeText = data.welcomeText[$currentLang]
     <h2>Rhodes Island Voice Archive</h2>
   </header>
   <LangButtonBar />
-  <aside class="home-quote">{welcomeText}</aside>
+  <aside class="home-quote">{welcome}</aside>
   <p>RIVA is an Arknights fansite that makes it easy to browse voice lines from the game in all its four languages (English, Chinese, Japanese, Korean). It’s created with multilingual speakers and language-learners in mind!</p>
 
   <p>This site includes all characters and all voice files currently available in the Global servers, including regional voices. Check footer for when the site was last updated.</p>

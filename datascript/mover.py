@@ -40,13 +40,6 @@ def move_chardata():
     logger.info("Successfully copied all chardata")
 
 
-def move_charlist():
-    shutil.copy(
-        "charlist.json", path.join("..", "site", "static", "data", "charlist.json")
-    )
-    logger.info("Character list moved!")
-
-
 def convert_and_write_image(sourcefile, targetfile):
     cwebp_params = ["-m", "6", "-alpha_q", "40", "-alpha_filter", "best"]
     run_args = ["cwebp", *cwebp_params, sourcefile, "-o", targetfile]
@@ -83,6 +76,5 @@ def move_factions():
 
 
 if __name__ == "__main__":
-    move_charlist()
     move_chardata()
     move_avatars()

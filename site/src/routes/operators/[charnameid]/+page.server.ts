@@ -1,11 +1,4 @@
-import { loadJson, type LoadArgs } from "$lib/utils";
 import type { textLang } from "$lib/stores";
-
-interface CharLoadArgs extends LoadArgs {
-  params: {
-    charnameid: string
-  }
-}
 
 export interface Chardata {
   charid: string,
@@ -38,10 +31,9 @@ export interface Chardata {
   }
 }
 
-export async function load({ url, params }: CharLoadArgs): Promise<Chardata> {
-  const nameid = params.charnameid; 
-  const dataurl = `${url.origin}/data/chardata/${nameid}.json`;
-  const chardata = await loadJson<Chardata>(dataurl);
+export const load = async ({ fetch, url, params }) => {
+	const res = await fetch(`${url.origin}/data/chardata/${params.charnameid}.json`);
+	const item = await res.json();
 
-  return chardata;
-}
+	return item;
+};

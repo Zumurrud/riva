@@ -1,0 +1,5592 @@
+[
+    {
+        "fullid": "char_285_medic2",
+        "nameid": "medic2",
+        "numberid": "285",
+        "name": {
+            "en": "Lancet-2",
+            "jp": "Lancet-2",
+            "kr": "Lancet-2",
+            "cn": "Lancet-2"
+        },
+        "nation": "rhodes",
+        "rating": 1
+    },
+    {
+        "fullid": "char_286_cast3",
+        "nameid": "cast3",
+        "numberid": "286",
+        "name": {
+            "en": "Castle-3",
+            "jp": "Castle-3",
+            "kr": "Castle-3",
+            "cn": "Castle-3"
+        },
+        "nation": "rhodes",
+        "rating": 1
+    },
+    {
+        "fullid": "char_376_therex",
+        "nameid": "therex",
+        "numberid": "376",
+        "name": {
+            "en": "THRM-EX",
+            "jp": "THRM-EX",
+            "kr": "THRM-EX",
+            "cn": "THRM-EX"
+        },
+        "nation": "rhodes",
+        "rating": 1
+    },
+    {
+        "fullid": "char_4000_jnight",
+        "nameid": "jnight",
+        "numberid": "4000",
+        "name": {
+            "en": "'Justice Knight'",
+            "jp": "ジャスティスナイト",
+            "kr": "저스티스 나이트",
+            "cn": "正义骑士号"
+        },
+        "nation": "kazimierz",
+        "rating": 1
+    },
+    {
+        "fullid": "char_4077_palico",
+        "nameid": "palico",
+        "numberid": "4077",
+        "name": {
+            "en": "Terra Research Commission",
+            "jp": "テラ大陸調査団",
+            "kr": "테라 대륙 조사단",
+            "cn": "泰拉大陆调查团"
+        },
+        "nation": "rhodes",
+        "rating": 1
+    },
+    {
+        "fullid": "char_4091_ulika",
+        "nameid": "ulika",
+        "numberid": "4091",
+        "name": {
+            "en": "U-Official",
+            "jp": "U-Official",
+            "kr": "U-Official",
+            "cn": "U-Official"
+        },
+        "nation": "rhodes",
+        "rating": 1
+    },
+    {
+        "fullid": "char_4093_frston",
+        "nameid": "frston",
+        "numberid": "4093",
+        "name": {
+            "en": "Friston-3",
+            "jp": "Friston-3",
+            "kr": "Friston-3",
+            "cn": "Friston-3"
+        },
+        "nation": "rhodes",
+        "rating": 1
+    },
+    {
+        "fullid": "char_4136_phonor",
+        "nameid": "phonor",
+        "numberid": "4136",
+        "name": {
+            "en": "PhonoR-0",
+            "jp": "PhonoR-0",
+            "kr": "PhonoR-0",
+            "cn": "PhonoR-0"
+        },
+        "nation": "rhodes",
+        "rating": 1
+    },
+    {
+        "fullid": "char_4188_confes",
+        "nameid": "confes",
+        "numberid": "4188",
+        "name": {
+            "en": "CONFESS-47",
+            "jp": "CONFESS-47",
+            "kr": "CONFESS-47",
+            "cn": "CONFESS-47"
+        },
+        "nation": "laterano",
+        "rating": 1
+    },
+    {
+        "fullid": "char_502_nblade",
+        "nameid": "nblade",
+        "numberid": "502",
+        "name": {
+            "en": "Yato",
+            "jp": "ヤトウ",
+            "kr": "야토",
+            "cn": "夜刀"
+        },
+        "nation": "rhodes",
+        "rating": 2
+    },
+    {
+        "fullid": "char_500_noirc",
+        "nameid": "noirc",
+        "numberid": "500",
+        "name": {
+            "en": "Noir Corne",
+            "jp": "ノイルホーン",
+            "kr": "느와르 코르네",
+            "cn": "黑角"
+        },
+        "nation": "rhodes",
+        "rating": 2
+    },
+    {
+        "fullid": "char_503_rang",
+        "nameid": "rang",
+        "numberid": "503",
+        "name": {
+            "en": "Rangers",
+            "jp": "レンジャー",
+            "kr": "레인저",
+            "cn": "巡林者"
+        },
+        "nation": "rhodes",
+        "rating": 2
+    },
+    {
+        "fullid": "char_501_durin",
+        "nameid": "durin",
+        "numberid": "501",
+        "name": {
+            "en": "Durin",
+            "jp": "ドゥリン",
+            "kr": "두린",
+            "cn": "杜林"
+        },
+        "nation": "rhodes",
+        "rating": 2
+    },
+    {
+        "fullid": "char_009_12fce",
+        "nameid": "12fce",
+        "numberid": "009",
+        "name": {
+            "en": "12F",
+            "jp": "12F",
+            "kr": "12F",
+            "cn": "12F"
+        },
+        "nation": "rhodes",
+        "rating": 2
+    },
+    {
+        "fullid": "char_123_fang",
+        "nameid": "fang",
+        "numberid": "123",
+        "name": {
+            "en": "Fang",
+            "jp": "フェン",
+            "kr": "팽",
+            "cn": "芬"
+        },
+        "nation": "rhodes",
+        "rating": 3
+    },
+    {
+        "fullid": "char_240_wyvern",
+        "nameid": "wyvern",
+        "numberid": "240",
+        "name": {
+            "en": "Vanilla",
+            "jp": "バニラ",
+            "kr": "바닐라",
+            "cn": "香草"
+        },
+        "nation": "columbia",
+        "rating": 3
+    },
+    {
+        "fullid": "char_192_falco",
+        "nameid": "falco",
+        "numberid": "192",
+        "name": {
+            "en": "Plume",
+            "jp": "プリュム",
+            "kr": "플룸",
+            "cn": "翎羽"
+        },
+        "nation": "laterano",
+        "rating": 3
+    },
+    {
+        "fullid": "char_208_melan",
+        "nameid": "melan",
+        "numberid": "208",
+        "name": {
+            "en": "Melantha",
+            "jp": "メランサ",
+            "kr": "멜란사",
+            "cn": "玫兰莎"
+        },
+        "nation": "rhodes",
+        "rating": 3
+    },
+    {
+        "fullid": "char_281_popka",
+        "nameid": "popka",
+        "numberid": "281",
+        "name": {
+            "en": "Popukar",
+            "jp": "ポプカル",
+            "kr": "포푸카",
+            "cn": "泡普卡"
+        },
+        "nation": "rhodes",
+        "rating": 3
+    },
+    {
+        "fullid": "char_209_ardign",
+        "nameid": "ardign",
+        "numberid": "209",
+        "name": {
+            "en": "Cardigan",
+            "jp": "カーディ",
+            "kr": "카디건",
+            "cn": "卡缇"
+        },
+        "nation": "rhodes",
+        "rating": 3
+    },
+    {
+        "fullid": "char_122_beagle",
+        "nameid": "beagle",
+        "numberid": "122",
+        "name": {
+            "en": "Beagle",
+            "jp": "ビーグル",
+            "kr": "비글",
+            "cn": "米格鲁"
+        },
+        "nation": "rhodes",
+        "rating": 3
+    },
+    {
+        "fullid": "char_284_spot",
+        "nameid": "spot",
+        "numberid": "284",
+        "name": {
+            "en": "Spot",
+            "jp": "スポット",
+            "kr": "스팟",
+            "cn": "斑点"
+        },
+        "nation": "rhodes",
+        "rating": 3
+    },
+    {
+        "fullid": "char_124_kroos",
+        "nameid": "kroos",
+        "numberid": "124",
+        "name": {
+            "en": "Kroos",
+            "jp": "クルース",
+            "kr": "크루스",
+            "cn": "克洛丝"
+        },
+        "nation": "rhodes",
+        "rating": 3
+    },
+    {
+        "fullid": "char_211_adnach",
+        "nameid": "adnach",
+        "numberid": "211",
+        "name": {
+            "en": "Adnachiel",
+            "jp": "アドナキエル",
+            "kr": "아드나키엘",
+            "cn": "安德切尔"
+        },
+        "nation": "rhodes",
+        "rating": 3
+    },
+    {
+        "fullid": "char_121_lava",
+        "nameid": "lava",
+        "numberid": "121",
+        "name": {
+            "en": "Lava",
+            "jp": "ラヴァ",
+            "kr": "라바",
+            "cn": "炎熔"
+        },
+        "nation": "rhodes",
+        "rating": 3
+    },
+    {
+        "fullid": "char_120_hibisc",
+        "nameid": "hibisc",
+        "numberid": "120",
+        "name": {
+            "en": "Hibiscus",
+            "jp": "ハイビスカス",
+            "kr": "히비스커스",
+            "cn": "芙蓉"
+        },
+        "nation": "rhodes",
+        "rating": 3
+    },
+    {
+        "fullid": "char_212_ansel",
+        "nameid": "ansel",
+        "numberid": "212",
+        "name": {
+            "en": "Ansel",
+            "jp": "アンセル",
+            "kr": "안셀",
+            "cn": "安赛尔"
+        },
+        "nation": "rhodes",
+        "rating": 3
+    },
+    {
+        "fullid": "char_210_stward",
+        "nameid": "stward",
+        "numberid": "210",
+        "name": {
+            "en": "Steward",
+            "jp": "スチュワード",
+            "kr": "스튜어드",
+            "cn": "史都华德"
+        },
+        "nation": "rhodes",
+        "rating": 3
+    },
+    {
+        "fullid": "char_278_orchid",
+        "nameid": "orchid",
+        "numberid": "278",
+        "name": {
+            "en": "Orchid",
+            "jp": "オーキッド",
+            "kr": "오키드",
+            "cn": "梓兰"
+        },
+        "nation": "rhodes",
+        "rating": 3
+    },
+    {
+        "fullid": "char_141_nights",
+        "nameid": "nights",
+        "numberid": "141",
+        "name": {
+            "en": "Haze",
+            "jp": "ヘイズ",
+            "kr": "헤이즈",
+            "cn": "夜烟"
+        },
+        "nation": "victoria",
+        "rating": 4
+    },
+    {
+        "fullid": "char_109_fmout",
+        "nameid": "fmout",
+        "numberid": "109",
+        "name": {
+            "en": "Gitano",
+            "jp": "ギターノ",
+            "kr": "기타노",
+            "cn": "远山"
+        },
+        "nation": "sami",
+        "rating": 4
+    },
+    {
+        "fullid": "char_253_greyy",
+        "nameid": "greyy",
+        "numberid": "253",
+        "name": {
+            "en": "Greyy",
+            "jp": "グレイ",
+            "kr": "그레이",
+            "cn": "格雷伊"
+        },
+        "nation": "bolivar",
+        "rating": 4
+    },
+    {
+        "fullid": "char_4051_akkord",
+        "nameid": "akkord",
+        "numberid": "4051",
+        "name": {
+            "en": "Akkord",
+            "jp": "アコルト",
+            "kr": "아코르트",
+            "cn": "协律"
+        },
+        "nation": "leithanien",
+        "rating": 4
+    },
+    {
+        "fullid": "char_328_cammou",
+        "nameid": "cammou",
+        "numberid": "328",
+        "name": {
+            "en": "Click",
+            "jp": "カシャ",
+            "kr": "클릭",
+            "cn": "卡达"
+        },
+        "nation": "rhodes",
+        "rating": 4
+    },
+    {
+        "fullid": "char_469_indigo",
+        "nameid": "indigo",
+        "numberid": "469",
+        "name": {
+            "en": "Indigo",
+            "jp": "インディゴ",
+            "kr": "인디고",
+            "cn": "深靛"
+        },
+        "nation": "iberia",
+        "rating": 4
+    },
+    {
+        "fullid": "char_4004_pudd",
+        "nameid": "pudd",
+        "numberid": "4004",
+        "name": {
+            "en": "Pudding",
+            "jp": "プリン",
+            "kr": "푸딩",
+            "cn": "布丁"
+        },
+        "nation": "columbia",
+        "rating": 4
+    },
+    {
+        "fullid": "char_235_jesica",
+        "nameid": "jesica",
+        "numberid": "235",
+        "name": {
+            "en": "Jessica",
+            "jp": "ジェシカ",
+            "kr": "제시카",
+            "cn": "杰西卡"
+        },
+        "nation": "columbia",
+        "rating": 4
+    },
+    {
+        "fullid": "char_126_shotst",
+        "nameid": "shotst",
+        "numberid": "126",
+        "name": {
+            "en": "Meteor",
+            "jp": "メテオ",
+            "kr": "메테오",
+            "cn": "流星"
+        },
+        "nation": "kazimierz",
+        "rating": 4
+    },
+    {
+        "fullid": "char_190_clour",
+        "nameid": "clour",
+        "numberid": "190",
+        "name": {
+            "en": "Vermeil",
+            "jp": "ヴァーミル",
+            "kr": "버메일",
+            "cn": "红云"
+        },
+        "nation": "siracusa",
+        "rating": 4
+    },
+    {
+        "fullid": "char_133_mm",
+        "nameid": "mm",
+        "numberid": "133",
+        "name": {
+            "en": "May",
+            "jp": "メイ",
+            "kr": "메이",
+            "cn": "梅"
+        },
+        "nation": "victoria",
+        "rating": 4
+    },
+    {
+        "fullid": "char_118_yuki",
+        "nameid": "yuki",
+        "numberid": "118",
+        "name": {
+            "en": "Shirayuki",
+            "jp": "シラユキ",
+            "kr": "시라유키",
+            "cn": "白雪"
+        },
+        "nation": "higashi",
+        "rating": 4
+    },
+    {
+        "fullid": "char_440_pinecn",
+        "nameid": "pinecn",
+        "numberid": "440",
+        "name": {
+            "en": "Pinecone",
+            "jp": "パインコーン",
+            "kr": "파인콘",
+            "cn": "松果"
+        },
+        "nation": "columbia",
+        "rating": 4
+    },
+    {
+        "fullid": "char_302_glaze",
+        "nameid": "glaze",
+        "numberid": "302",
+        "name": {
+            "en": "Ambriel",
+            "jp": "アンブリエル",
+            "kr": "엠브리엘",
+            "cn": "安比尔"
+        },
+        "nation": "laterano",
+        "rating": 4
+    },
+    {
+        "fullid": "char_366_acdrop",
+        "nameid": "acdrop",
+        "numberid": "366",
+        "name": {
+            "en": "Aciddrop",
+            "jp": "アシッドドロップ",
+            "kr": "애시드드롭",
+            "cn": "酸糖"
+        },
+        "nation": "columbia",
+        "rating": 4
+    },
+    {
+        "fullid": "char_4062_totter",
+        "nameid": "totter",
+        "numberid": "4062",
+        "name": {
+            "en": "Totter",
+            "jp": "トター",
+            "kr": "토터",
+            "cn": "铅踝"
+        },
+        "nation": "sargon",
+        "rating": 4
+    },
+    {
+        "fullid": "char_4100_caper",
+        "nameid": "caper",
+        "numberid": "4100",
+        "name": {
+            "en": "Caper",
+            "jp": "ケイパー",
+            "kr": "케이퍼",
+            "cn": "跃跃"
+        },
+        "nation": "bolivar",
+        "rating": 4
+    },
+    {
+        "fullid": "char_198_blackd",
+        "nameid": "blackd",
+        "numberid": "198",
+        "name": {
+            "en": "Courier",
+            "jp": "クーリエ",
+            "kr": "쿠리어",
+            "cn": "讯使"
+        },
+        "nation": "kjerag",
+        "rating": 4
+    },
+    {
+        "fullid": "char_149_scave",
+        "nameid": "scave",
+        "numberid": "149",
+        "name": {
+            "en": "Scavenger",
+            "jp": "スカベンジャー",
+            "kr": "스캐빈저",
+            "cn": "清道夫"
+        },
+        "nation": "rhodes",
+        "rating": 4
+    },
+    {
+        "fullid": "char_290_vigna",
+        "nameid": "vigna",
+        "numberid": "290",
+        "name": {
+            "en": "Vigna",
+            "jp": "ヴィグナ",
+            "kr": "비그나",
+            "cn": "红豆"
+        },
+        "nation": "columbia",
+        "rating": 4
+    },
+    {
+        "fullid": "char_151_myrtle",
+        "nameid": "myrtle",
+        "numberid": "151",
+        "name": {
+            "en": "Myrtle",
+            "jp": "テンニンカ",
+            "kr": "머틀",
+            "cn": "桃金娘"
+        },
+        "nation": "rhodes",
+        "rating": 4
+    },
+    {
+        "fullid": "char_452_bstalk",
+        "nameid": "bstalk",
+        "numberid": "452",
+        "name": {
+            "en": "Beanstalk",
+            "jp": "ビーンストーク",
+            "kr": "빈스토크",
+            "cn": "豆苗"
+        },
+        "nation": "columbia",
+        "rating": 4
+    },
+    {
+        "fullid": "char_4208_wintim",
+        "nameid": "wintim",
+        "numberid": "4208",
+        "name": {
+            "en": "Snegurochka",
+            "jp": "スネグーラチカ",
+            "kr": "스네구로치카",
+            "cn": "冬时"
+        },
+        "nation": "ursus",
+        "rating": 4
+    },
+    {
+        "fullid": "char_130_doberm",
+        "nameid": "doberm",
+        "numberid": "130",
+        "name": {
+            "en": "Dobermann",
+            "jp": "ドーベルマン",
+            "kr": "도베르만",
+            "cn": "杜宾"
+        },
+        "nation": "rhodes",
+        "rating": 4
+    },
+    {
+        "fullid": "char_289_gyuki",
+        "nameid": "gyuki",
+        "numberid": "289",
+        "name": {
+            "en": "Matoimaru",
+            "jp": "マトイマル",
+            "kr": "마토이마루",
+            "cn": "缠丸"
+        },
+        "nation": "higashi",
+        "rating": 4
+    },
+    {
+        "fullid": "char_159_peacok",
+        "nameid": "peacok",
+        "numberid": "159",
+        "name": {
+            "en": "Conviction",
+            "jp": "コンビクション",
+            "kr": "컨빅션",
+            "cn": "断罪者"
+        },
+        "nation": "minos",
+        "rating": 4
+    },
+    {
+        "fullid": "char_193_frostl",
+        "nameid": "frostl",
+        "numberid": "193",
+        "name": {
+            "en": "Frostleaf",
+            "jp": "フロストリーフ",
+            "kr": "프로스트리프",
+            "cn": "霜叶"
+        },
+        "nation": "rhodes",
+        "rating": 4
+    },
+    {
+        "fullid": "char_127_estell",
+        "nameid": "estell",
+        "numberid": "127",
+        "name": {
+            "en": "Estelle",
+            "jp": "エステル",
+            "kr": "에스텔",
+            "cn": "艾丝黛尔"
+        },
+        "nation": "sargon",
+        "rating": 4
+    },
+    {
+        "fullid": "char_185_frncat",
+        "nameid": "frncat",
+        "numberid": "185",
+        "name": {
+            "en": "Mousse",
+            "jp": "ムース",
+            "kr": "무스",
+            "cn": "慕斯"
+        },
+        "nation": "victoria",
+        "rating": 4
+    },
+    {
+        "fullid": "char_301_cutter",
+        "nameid": "cutter",
+        "numberid": "301",
+        "name": {
+            "en": "Cutter",
+            "jp": "カッター",
+            "kr": "커터",
+            "cn": "刻刀"
+        },
+        "nation": "columbia",
+        "rating": 4
+    },
+    {
+        "fullid": "char_337_utage",
+        "nameid": "utage",
+        "numberid": "337",
+        "name": {
+            "en": "Utage",
+            "jp": "ウタゲ",
+            "kr": "우타게",
+            "cn": "宴"
+        },
+        "nation": "higashi",
+        "rating": 4
+    },
+    {
+        "fullid": "char_271_spikes",
+        "nameid": "spikes",
+        "numberid": "271",
+        "name": {
+            "en": "Arene",
+            "jp": "アレーン",
+            "kr": "아렌",
+            "cn": "芳汀"
+        },
+        "nation": "laterano",
+        "rating": 4
+    },
+    {
+        "fullid": "char_4067_lolxh",
+        "nameid": "lolxh",
+        "numberid": "4067",
+        "name": {
+            "en": "Luo Xiaohei",
+            "jp": "羅小黒",
+            "kr": "나소흑",
+            "cn": "罗小黑"
+        },
+        "nation": "yan",
+        "rating": 4
+    },
+    {
+        "fullid": "char_4067_lolxh#1",
+        "nameid": "lolxh-e2",
+        "numberid": "4067",
+        "name": {
+            "en": "Luo Xiaohei E2",
+            "jp": "羅小黒 E2",
+            "kr": "나소흑 E2",
+            "cn": "罗小黑 E2"
+        },
+        "nation": "yan",
+        "rating": 4
+    },
+    {
+        "fullid": "char_4063_quartz",
+        "nameid": "quartz",
+        "numberid": "4063",
+        "name": {
+            "en": "Quartz",
+            "jp": "クォーツ",
+            "kr": "쿼츠",
+            "cn": "石英"
+        },
+        "nation": "columbia",
+        "rating": 4
+    },
+    {
+        "fullid": "char_491_humus",
+        "nameid": "humus",
+        "numberid": "491",
+        "name": {
+            "en": "Humus",
+            "jp": "ヒューマス",
+            "kr": "휴머스",
+            "cn": "休谟斯"
+        },
+        "nation": "rhodes",
+        "rating": 4
+    },
+    {
+        "fullid": "char_445_wscoot",
+        "nameid": "wscoot",
+        "numberid": "445",
+        "name": {
+            "en": "Windscoot",
+            "jp": "ウィンドスクート",
+            "kr": "윈드스쿠트",
+            "cn": "骋风"
+        },
+        "nation": "yan",
+        "rating": 4
+    },
+    {
+        "fullid": "char_237_gravel",
+        "nameid": "gravel",
+        "numberid": "237",
+        "name": {
+            "en": "Gravel",
+            "jp": "グラベル",
+            "kr": "그라벨",
+            "cn": "砾"
+        },
+        "nation": "kazimierz",
+        "rating": 4
+    },
+    {
+        "fullid": "char_272_strong",
+        "nameid": "strong",
+        "numberid": "272",
+        "name": {
+            "en": "Jaye",
+            "jp": "ジェイ",
+            "kr": "제이",
+            "cn": "孑"
+        },
+        "nation": "lungmen",
+        "rating": 4
+    },
+    {
+        "fullid": "char_236_rope",
+        "nameid": "rope",
+        "numberid": "236",
+        "name": {
+            "en": "Rope",
+            "jp": "ロープ",
+            "kr": "로프",
+            "cn": "暗索"
+        },
+        "nation": "lungmen",
+        "rating": 4
+    },
+    {
+        "fullid": "char_117_myrrh",
+        "nameid": "myrrh",
+        "numberid": "117",
+        "name": {
+            "en": "Myrrh",
+            "jp": "ミルラ",
+            "kr": "미르",
+            "cn": "末药"
+        },
+        "nation": "rhodes",
+        "rating": 4
+    },
+    {
+        "fullid": "char_187_ccheal",
+        "nameid": "ccheal",
+        "numberid": "187",
+        "name": {
+            "en": "Gavial",
+            "jp": "ガヴィル",
+            "kr": "가비알",
+            "cn": "嘉维尔"
+        },
+        "nation": "rhodes",
+        "rating": 4
+    },
+    {
+        "fullid": "char_298_susuro",
+        "nameid": "susuro",
+        "numberid": "298",
+        "name": {
+            "en": "Sussurro",
+            "jp": "ススーロ",
+            "kr": "수수로",
+            "cn": "苏苏洛"
+        },
+        "nation": "rhodes",
+        "rating": 4
+    },
+    {
+        "fullid": "char_181_flower",
+        "nameid": "flower",
+        "numberid": "181",
+        "name": {
+            "en": "Perfumer",
+            "jp": "パフューマー",
+            "kr": "퍼퓨머",
+            "cn": "调香师"
+        },
+        "nation": "rhodes",
+        "rating": 4
+    },
+    {
+        "fullid": "char_385_finlpp",
+        "nameid": "finlpp",
+        "numberid": "385",
+        "name": {
+            "en": "Purestream",
+            "jp": "セイリュウ",
+            "kr": "퓨어스트림",
+            "cn": "清流"
+        },
+        "nation": "yan",
+        "rating": 4
+    },
+    {
+        "fullid": "char_4041_chnut",
+        "nameid": "chnut",
+        "numberid": "4041",
+        "name": {
+            "en": "Chestnut",
+            "jp": "チェストナット",
+            "kr": "체스트넛",
+            "cn": "褐果"
+        },
+        "nation": "rhodes",
+        "rating": 4
+    },
+    {
+        "fullid": "char_199_yak",
+        "nameid": "yak",
+        "numberid": "199",
+        "name": {
+            "en": "Matterhorn",
+            "jp": "マッターホルン",
+            "kr": "마터호른",
+            "cn": "角峰"
+        },
+        "nation": "kjerag",
+        "rating": 4
+    },
+    {
+        "fullid": "char_150_snakek",
+        "nameid": "snakek",
+        "numberid": "150",
+        "name": {
+            "en": "Cuora",
+            "jp": "クオーラ",
+            "kr": "쿠오라",
+            "cn": "蛇屠箱"
+        },
+        "nation": "columbia",
+        "rating": 4
+    },
+    {
+        "fullid": "char_381_bubble",
+        "nameid": "bubble",
+        "numberid": "381",
+        "name": {
+            "en": "Bubble",
+            "jp": "バブル",
+            "kr": "버블",
+            "cn": "泡泡"
+        },
+        "nation": "sargon",
+        "rating": 4
+    },
+    {
+        "fullid": "char_4130_luton",
+        "nameid": "luton",
+        "numberid": "4130",
+        "name": {
+            "en": "Lutonada",
+            "jp": "ルトナダ",
+            "kr": "루토나다",
+            "cn": "露托"
+        },
+        "nation": "bolivar",
+        "rating": 4
+    },
+    {
+        "fullid": "char_196_sunbr",
+        "nameid": "sunbr",
+        "numberid": "196",
+        "name": {
+            "en": "Gummy",
+            "jp": "グム",
+            "kr": "굼",
+            "cn": "古米"
+        },
+        "nation": "ursus",
+        "rating": 4
+    },
+    {
+        "fullid": "char_260_durnar",
+        "nameid": "durnar",
+        "numberid": "260",
+        "name": {
+            "en": "Dur-nar",
+            "jp": "ジュナー",
+            "kr": "듀나",
+            "cn": "坚雷"
+        },
+        "nation": "rhodes",
+        "rating": 4
+    },
+    {
+        "fullid": "char_110_deepcl",
+        "nameid": "deepcl",
+        "numberid": "110",
+        "name": {
+            "en": "Deepcolor",
+            "jp": "ディピカ",
+            "kr": "딥컬러",
+            "cn": "深海色"
+        },
+        "nation": "egir",
+        "rating": 4
+    },
+    {
+        "fullid": "char_183_skgoat",
+        "nameid": "skgoat",
+        "numberid": "183",
+        "name": {
+            "en": "Earthspirit",
+            "jp": "アーススピリット",
+            "kr": "어스스피릿",
+            "cn": "地灵"
+        },
+        "nation": "leithanien",
+        "rating": 4
+    },
+    {
+        "fullid": "char_258_podego",
+        "nameid": "podego",
+        "numberid": "258",
+        "name": {
+            "en": "Podenco",
+            "jp": "ポデンコ",
+            "kr": "포덴코",
+            "cn": "波登可"
+        },
+        "nation": "rhodes",
+        "rating": 4
+    },
+    {
+        "fullid": "char_484_robrta",
+        "nameid": "robrta",
+        "numberid": "484",
+        "name": {
+            "en": "Roberta",
+            "jp": "ロベルタ",
+            "kr": "로베르타",
+            "cn": "罗比菈塔"
+        },
+        "nation": "columbia",
+        "rating": 4
+    },
+    {
+        "fullid": "char_355_ethan",
+        "nameid": "ethan",
+        "numberid": "355",
+        "name": {
+            "en": "Ethan",
+            "jp": "イーサン",
+            "kr": "에단",
+            "cn": "伊桑"
+        },
+        "nation": "rhodes",
+        "rating": 4
+    },
+    {
+        "fullid": "char_277_sqrrel",
+        "nameid": "sqrrel",
+        "numberid": "277",
+        "name": {
+            "en": "Shaw",
+            "jp": "ショウ",
+            "kr": "쇼",
+            "cn": "阿消"
+        },
+        "nation": "lungmen",
+        "rating": 4
+    },
+    {
+        "fullid": "char_4107_vrdant",
+        "nameid": "vrdant",
+        "numberid": "4107",
+        "name": {
+            "en": "Verdant",
+            "jp": "ヴァーダント",
+            "kr": "버던트",
+            "cn": "维荻"
+        },
+        "nation": "victoria",
+        "rating": 4
+    },
+    {
+        "fullid": "char_4165_ctrail",
+        "nameid": "ctrail",
+        "numberid": "4165",
+        "name": {
+            "en": "Contrail",
+            "jp": "コントレイル",
+            "kr": "콘트레일",
+            "cn": "云迹"
+        },
+        "nation": "columbia",
+        "rating": 4
+    },
+    {
+        "fullid": "char_128_plosis",
+        "nameid": "plosis",
+        "numberid": "128",
+        "name": {
+            "en": "Ptilopsis",
+            "jp": "フィリオプシス",
+            "kr": "프틸롭시스",
+            "cn": "白面鸮"
+        },
+        "nation": "columbia",
+        "rating": 5
+    },
+    {
+        "fullid": "char_275_breeze",
+        "nameid": "breeze",
+        "numberid": "275",
+        "name": {
+            "en": "Breeze",
+            "jp": "ブリーズ",
+            "kr": "브리즈",
+            "cn": "微风"
+        },
+        "nation": "victoria",
+        "rating": 5
+    },
+    {
+        "fullid": "char_4163_rosesa",
+        "nameid": "rosesa",
+        "numberid": "4163",
+        "name": {
+            "en": "Rose Salt",
+            "jp": "ローズソルト",
+            "kr": "로즈솔트",
+            "cn": "瑰盐"
+        },
+        "nation": "iberia",
+        "rating": 5
+    },
+    {
+        "fullid": "char_115_headbr",
+        "nameid": "headbr",
+        "numberid": "115",
+        "name": {
+            "en": "Zima",
+            "jp": "ズィマー",
+            "kr": "지마",
+            "cn": "凛冬"
+        },
+        "nation": "ursus",
+        "rating": 5
+    },
+    {
+        "fullid": "char_102_texas",
+        "nameid": "texas",
+        "numberid": "102",
+        "name": {
+            "en": "Texas",
+            "jp": "テキサス",
+            "kr": "텍사스",
+            "cn": "德克萨斯"
+        },
+        "nation": "lungmen",
+        "rating": 5
+    },
+    {
+        "fullid": "char_349_chiave",
+        "nameid": "chiave",
+        "numberid": "349",
+        "name": {
+            "en": "Chiave",
+            "jp": "キアーベ",
+            "kr": "키아베",
+            "cn": "贾维"
+        },
+        "nation": "siracusa",
+        "rating": 5
+    },
+    {
+        "fullid": "char_488_buildr",
+        "nameid": "buildr",
+        "numberid": "488",
+        "name": {
+            "en": "Poncirus",
+            "jp": "ポンシラス",
+            "kr": "폰사이러스",
+            "cn": "青枳"
+        },
+        "nation": "columbia",
+        "rating": 5
+    },
+    {
+        "fullid": "char_513_apionr",
+        "nameid": "apionr",
+        "numberid": "513",
+        "name": {
+            "en": "Tulip",
+            "jp": "チューリップ",
+            "kr": "튤립",
+            "cn": "郁金香"
+        },
+        "nation": null,
+        "rating": 5
+    },
+    {
+        "fullid": "char_4023_rfalcn",
+        "nameid": "rfalcn",
+        "numberid": "4023",
+        "name": {
+            "en": "Kestrel",
+            "jp": "ケストレル",
+            "kr": "케스트럴",
+            "cn": "红隼"
+        },
+        "nation": "sargon",
+        "rating": 5
+    },
+    {
+        "fullid": "char_4199_makiri",
+        "nameid": "makiri",
+        "numberid": "4199",
+        "name": {
+            "en": "Matsukiri",
+            "jp": "マツキリ",
+            "kr": "마츠키리",
+            "cn": "松桐"
+        },
+        "nation": "higashi",
+        "rating": 5
+    },
+    {
+        "fullid": "char_261_sddrag",
+        "nameid": "sddrag",
+        "numberid": "261",
+        "name": {
+            "en": "Reed",
+            "jp": "リード",
+            "kr": "리드",
+            "cn": "苇草"
+        },
+        "nation": "victoria",
+        "rating": 5
+    },
+    {
+        "fullid": "char_496_wildmn",
+        "nameid": "wildmn",
+        "numberid": "496",
+        "name": {
+            "en": "Wild Mane",
+            "jp": "ワイルドメイン",
+            "kr": "와일드메인",
+            "cn": "野鬃"
+        },
+        "nation": "kazimierz",
+        "rating": 5
+    },
+    {
+        "fullid": "char_1036_fang2",
+        "nameid": "fang2",
+        "numberid": "1036",
+        "name": {
+            "en": "Fang the Fire-Sharpened",
+            "jp": "歴陣鋭槍フェン",
+            "kr": "팽 더 파이어 샤픈드",
+            "cn": "历阵锐枪芬"
+        },
+        "nation": "rhodes",
+        "rating": 5
+    },
+    {
+        "fullid": "char_401_elysm",
+        "nameid": "elysm",
+        "numberid": "401",
+        "name": {
+            "en": "Elysium",
+            "jp": "エリジウム",
+            "kr": "엘리시움",
+            "cn": "极境"
+        },
+        "nation": "rhodes",
+        "rating": 5
+    },
+    {
+        "fullid": "char_4119_wanqin",
+        "nameid": "wanqin",
+        "numberid": "4119",
+        "name": {
+            "en": "Wanqing",
+            "jp": "ワンチィン",
+            "kr": "완칭",
+            "cn": "万顷"
+        },
+        "nation": "yan",
+        "rating": 5
+    },
+    {
+        "fullid": "char_476_blkngt",
+        "nameid": "blkngt",
+        "numberid": "476",
+        "name": {
+            "en": "Blacknight",
+            "jp": "ブラックナイト",
+            "kr": "블랙나이트",
+            "cn": "夜半"
+        },
+        "nation": "rim",
+        "rating": 5
+    },
+    {
+        "fullid": "char_4147_mitm",
+        "nameid": "mitm",
+        "numberid": "4147",
+        "name": {
+            "en": "Mitm",
+            "jp": "ミトム",
+            "kr": "미틈",
+            "cn": "渡桥"
+        },
+        "nation": "rhodes",
+        "rating": 5
+    },
+    {
+        "fullid": "char_497_ctable",
+        "nameid": "ctable",
+        "numberid": "497",
+        "name": {
+            "en": "Cantabile",
+            "jp": "カンタービレ",
+            "kr": "칸타빌레",
+            "cn": "晓歌"
+        },
+        "nation": "rhodes",
+        "rating": 5
+    },
+    {
+        "fullid": "char_4017_puzzle",
+        "nameid": "puzzle",
+        "numberid": "4017",
+        "name": {
+            "en": "Puzzle",
+            "jp": "パズル",
+            "kr": "퍼즐",
+            "cn": "谜图"
+        },
+        "nation": "victoria",
+        "rating": 5
+    },
+    {
+        "fullid": "char_4144_chilc",
+        "nameid": "chilc",
+        "numberid": "4144",
+        "name": {
+            "en": "Chilchuck",
+            "jp": "チルチャック",
+            "kr": "칠책",
+            "cn": "齐尔查克"
+        },
+        "nation": null,
+        "rating": 5
+    },
+    {
+        "fullid": "char_4052_surfer",
+        "nameid": "surfer",
+        "numberid": "4052",
+        "name": {
+            "en": "Surfer",
+            "jp": "サーファー",
+            "kr": "서퍼",
+            "cn": "寻澜"
+        },
+        "nation": "columbia",
+        "rating": 5
+    },
+    {
+        "fullid": "char_308_swire",
+        "nameid": "swire",
+        "numberid": "308",
+        "name": {
+            "en": "Swire",
+            "jp": "スワイヤー",
+            "kr": "스와이어",
+            "cn": "诗怀雅"
+        },
+        "nation": "lungmen",
+        "rating": 5
+    },
+    {
+        "fullid": "char_265_sophia",
+        "nameid": "sophia",
+        "numberid": "265",
+        "name": {
+            "en": "Whislash",
+            "jp": "ウィスラッシュ",
+            "kr": "위슬래시",
+            "cn": "鞭刃"
+        },
+        "nation": "kazimierz",
+        "rating": 5
+    },
+    {
+        "fullid": "char_4106_bryota",
+        "nameid": "bryota",
+        "numberid": "4106",
+        "name": {
+            "en": "Bryophyta",
+            "jp": "ブライオファイタ",
+            "kr": "브라이오피타",
+            "cn": "苍苔"
+        },
+        "nation": "columbia",
+        "rating": 5
+    },
+    {
+        "fullid": "char_4125_rdoc",
+        "nameid": "rdoc",
+        "numberid": "4125",
+        "name": {
+            "en": "Doc",
+            "jp": "Doc",
+            "kr": "Doc",
+            "cn": "医生"
+        },
+        "nation": null,
+        "rating": 5
+    },
+    {
+        "fullid": "char_106_franka",
+        "nameid": "franka",
+        "numberid": "106",
+        "name": {
+            "en": "Franka",
+            "jp": "フランカ",
+            "kr": "프란카",
+            "cn": "芙兰卡"
+        },
+        "nation": "columbia",
+        "rating": 5
+    },
+    {
+        "fullid": "char_131_flameb",
+        "nameid": "flameb",
+        "numberid": "131",
+        "name": {
+            "en": "Flamebringer",
+            "jp": "エンカク",
+            "kr": "플레임브링어",
+            "cn": "炎客"
+        },
+        "nation": "rhodes",
+        "rating": 5
+    },
+    {
+        "fullid": "char_154_morgan",
+        "nameid": "morgan",
+        "numberid": "154",
+        "name": {
+            "en": "Morgan",
+            "jp": "モーガン",
+            "kr": "모건",
+            "cn": "摩根"
+        },
+        "nation": "victoria",
+        "rating": 5
+    },
+    {
+        "fullid": "char_508_aguard",
+        "nameid": "aguard",
+        "numberid": "508",
+        "name": {
+            "en": "Sharp",
+            "jp": "Sharp",
+            "kr": "샤프",
+            "cn": "Sharp"
+        },
+        "nation": null,
+        "rating": 5
+    },
+    {
+        "fullid": "char_4142_laios",
+        "nameid": "laios",
+        "numberid": "4142",
+        "name": {
+            "en": "Laios",
+            "jp": "ライオス",
+            "kr": "라이오스",
+            "cn": "莱欧斯"
+        },
+        "nation": null,
+        "rating": 5
+    },
+    {
+        "fullid": "char_155_tiger",
+        "nameid": "tiger",
+        "numberid": "155",
+        "name": {
+            "en": "Indra",
+            "jp": "インドラ",
+            "kr": "인드라",
+            "cn": "因陀罗"
+        },
+        "nation": "victoria",
+        "rating": 5
+    },
+    {
+        "fullid": "char_415_flint",
+        "nameid": "flint",
+        "numberid": "415",
+        "name": {
+            "en": "Flint",
+            "jp": "フリント",
+            "kr": "플린트",
+            "cn": "燧石"
+        },
+        "nation": "sargon",
+        "rating": 5
+    },
+    {
+        "fullid": "char_157_dagda",
+        "nameid": "dagda",
+        "numberid": "157",
+        "name": {
+            "en": "Dagda",
+            "jp": "ダグザ",
+            "kr": "다그다",
+            "cn": "达格达"
+        },
+        "nation": "victoria",
+        "rating": 5
+    },
+    {
+        "fullid": "char_140_whitew",
+        "nameid": "whitew",
+        "numberid": "140",
+        "name": {
+            "en": "Lappland",
+            "jp": "ラップランド",
+            "kr": "라플란드",
+            "cn": "拉普兰德"
+        },
+        "nation": "siracusa",
+        "rating": 5
+    },
+    {
+        "fullid": "char_294_ayer",
+        "nameid": "ayer",
+        "numberid": "294",
+        "name": {
+            "en": "Ayerscarpe",
+            "jp": "エアースカーペ",
+            "kr": "에이어스카르페",
+            "cn": "断崖"
+        },
+        "nation": "rim",
+        "rating": 5
+    },
+    {
+        "fullid": "char_194_leto",
+        "nameid": "leto",
+        "numberid": "194",
+        "name": {
+            "en": "Leto",
+            "jp": "リェータ",
+            "kr": "레토",
+            "cn": "烈夏"
+        },
+        "nation": "ursus",
+        "rating": 5
+    },
+    {
+        "fullid": "char_4083_chimes",
+        "nameid": "chimes",
+        "numberid": "4083",
+        "name": {
+            "en": "Wind Chimes",
+            "jp": "ウィンドチャイム",
+            "kr": "윈드차임스",
+            "cn": "铎铃"
+        },
+        "nation": "yan",
+        "rating": 5
+    },
+    {
+        "fullid": "char_252_bibeak",
+        "nameid": "bibeak",
+        "numberid": "252",
+        "name": {
+            "en": "Bibeak",
+            "jp": "バイビーク",
+            "kr": "바이비크",
+            "cn": "柏喙"
+        },
+        "nation": "sami",
+        "rating": 5
+    },
+    {
+        "fullid": "char_459_tachak",
+        "nameid": "tachak",
+        "numberid": "459",
+        "name": {
+            "en": "Tachanka",
+            "jp": "Tachanka",
+            "kr": "Tachanka",
+            "cn": "战车"
+        },
+        "nation": null,
+        "rating": 5
+    },
+    {
+        "fullid": "char_143_ghost",
+        "nameid": "ghost",
+        "numberid": "143",
+        "name": {
+            "en": "Specter",
+            "jp": "スペクター",
+            "kr": "스펙터",
+            "cn": "幽灵鲨"
+        },
+        "nation": "egir",
+        "rating": 5
+    },
+    {
+        "fullid": "char_356_broca",
+        "nameid": "broca",
+        "numberid": "356",
+        "name": {
+            "en": "Broca",
+            "jp": "ブローカ",
+            "kr": "브로카",
+            "cn": "布洛卡"
+        },
+        "nation": "siracusa",
+        "rating": 5
+    },
+    {
+        "fullid": "char_4126_fuze",
+        "nameid": "fuze",
+        "numberid": "4126",
+        "name": {
+            "en": "Fuze",
+            "jp": "Fuze",
+            "kr": "Fuze",
+            "cn": "导火索"
+        },
+        "nation": null,
+        "rating": 5
+    },
+    {
+        "fullid": "char_4166_varkis",
+        "nameid": "varkis",
+        "numberid": "4166",
+        "name": {
+            "en": "Varkáris",
+            "jp": "ヴァルカリス",
+            "kr": "바르카리스",
+            "cn": "摆渡人"
+        },
+        "nation": "minos",
+        "rating": 5
+    },
+    {
+        "fullid": "char_274_astesi",
+        "nameid": "astesi",
+        "numberid": "274",
+        "name": {
+            "en": "Astesia",
+            "jp": "アステシア",
+            "kr": "아스테시아",
+            "cn": "星极"
+        },
+        "nation": "columbia",
+        "rating": 5
+    },
+    {
+        "fullid": "char_333_sidero",
+        "nameid": "sidero",
+        "numberid": "333",
+        "name": {
+            "en": "Sideroca",
+            "jp": "シデロカ",
+            "kr": "시데로카",
+            "cn": "铸铁"
+        },
+        "nation": "minos",
+        "rating": 5
+    },
+    {
+        "fullid": "char_475_akafyu",
+        "nameid": "akafyu",
+        "numberid": "475",
+        "name": {
+            "en": "Akafuyu",
+            "jp": "アカフユ",
+            "kr": "아카후유",
+            "cn": "赤冬"
+        },
+        "nation": "higashi",
+        "rating": 5
+    },
+    {
+        "fullid": "char_1030_noirc2",
+        "nameid": "noirc2",
+        "numberid": "1030",
+        "name": {
+            "en": "Rathalos S Noir Corne",
+            "jp": "レウスSノイルホーン",
+            "kr": "레우스S 느와르 코르네",
+            "cn": "火龙S黑角"
+        },
+        "nation": "rhodes",
+        "rating": 5
+    },
+    {
+        "fullid": "char_421_crow",
+        "nameid": "crow",
+        "numberid": "421",
+        "name": {
+            "en": "La Pluma",
+            "jp": "ラ・プルマ",
+            "kr": "라 플루마",
+            "cn": "羽毛笔"
+        },
+        "nation": "bolivar",
+        "rating": 5
+    },
+    {
+        "fullid": "char_4066_highmo",
+        "nameid": "highmo",
+        "numberid": "4066",
+        "name": {
+            "en": "Highmore",
+            "jp": "ハイモア",
+            "kr": "하이모어",
+            "cn": "海沫"
+        },
+        "nation": "iberia",
+        "rating": 5
+    },
+    {
+        "fullid": "char_486_takila",
+        "nameid": "takila",
+        "numberid": "486",
+        "name": {
+            "en": "Tequila",
+            "jp": "テキーラ",
+            "kr": "테킬라",
+            "cn": "龙舌兰"
+        },
+        "nation": "bolivar",
+        "rating": 5
+    },
+    {
+        "fullid": "char_4131_odda",
+        "nameid": "odda",
+        "numberid": "4131",
+        "name": {
+            "en": "Odda",
+            "jp": "オッダ",
+            "kr": "오다",
+            "cn": "奥达"
+        },
+        "nation": "rhodes",
+        "rating": 5
+    },
+    {
+        "fullid": "char_4187_graceb",
+        "nameid": "graceb",
+        "numberid": "4187",
+        "name": {
+            "en": "Gracebearer",
+            "jp": "グレースベアラー",
+            "kr": "그레이스베어러",
+            "cn": "聆音"
+        },
+        "nation": "bolivar",
+        "rating": 5
+    },
+    {
+        "fullid": "char_4185_amoris",
+        "nameid": "amoris",
+        "numberid": "4185",
+        "name": {
+            "en": "Nyamu Yūtenji",
+            "jp": "祐天寺にゃむ",
+            "kr": "유텐지 냐무",
+            "cn": "祐天寺若麦"
+        },
+        "nation": null,
+        "rating": 5
+    },
+    {
+        "fullid": "char_394_hadiya",
+        "nameid": "hadiya",
+        "numberid": "394",
+        "name": {
+            "en": "Hadiya",
+            "jp": "ハディヤ",
+            "kr": "하디야",
+            "cn": "哈蒂娅"
+        },
+        "nation": "sargon",
+        "rating": 5
+    },
+    {
+        "fullid": "char_129_bluep",
+        "nameid": "bluep",
+        "numberid": "129",
+        "name": {
+            "en": "Blue Poison",
+            "jp": "アズリウス",
+            "kr": "블루포이즌",
+            "cn": "蓝毒"
+        },
+        "nation": "iberia",
+        "rating": 5
+    },
+    {
+        "fullid": "char_204_platnm",
+        "nameid": "platnm",
+        "numberid": "204",
+        "name": {
+            "en": "Platinum",
+            "jp": "プラチナ",
+            "kr": "플래티넘",
+            "cn": "白金"
+        },
+        "nation": "kazimierz",
+        "rating": 5
+    },
+    {
+        "fullid": "char_367_swllow",
+        "nameid": "swllow",
+        "numberid": "367",
+        "name": {
+            "en": "GreyThroat",
+            "jp": "グレースロート",
+            "kr": "그레이스롯",
+            "cn": "灰喉"
+        },
+        "nation": "rhodes",
+        "rating": 5
+    },
+    {
+        "fullid": "char_511_asnipe",
+        "nameid": "asnipe",
+        "numberid": "511",
+        "name": {
+            "en": "Stormeye",
+            "jp": "Stormeye",
+            "kr": "스톰아이",
+            "cn": "Stormeye"
+        },
+        "nation": null,
+        "rating": 5
+    },
+    {
+        "fullid": "char_365_aprl",
+        "nameid": "aprl",
+        "numberid": "365",
+        "name": {
+            "en": "April",
+            "jp": "エイプリル",
+            "kr": "에이프릴",
+            "cn": "四月"
+        },
+        "nation": "rim",
+        "rating": 5
+    },
+    {
+        "fullid": "char_1021_kroos2",
+        "nameid": "kroos2",
+        "numberid": "1021",
+        "name": {
+            "en": "Kroos the Keen Glint",
+            "jp": "寒芒クルース",
+            "kr": "크루스 더 킨 글린트",
+            "cn": "寒芒克洛丝"
+        },
+        "nation": "rhodes",
+        "rating": 5
+    },
+    {
+        "fullid": "char_498_inside",
+        "nameid": "inside",
+        "numberid": "498",
+        "name": {
+            "en": "Insider",
+            "jp": "インサイダー",
+            "kr": "인사이더",
+            "cn": "隐现"
+        },
+        "nation": "laterano",
+        "rating": 5
+    },
+    {
+        "fullid": "char_219_meteo",
+        "nameid": "meteo",
+        "numberid": "219",
+        "name": {
+            "en": "Meteorite",
+            "jp": "メテオリーテ",
+            "kr": "메테오라이트",
+            "cn": "陨星"
+        },
+        "nation": "rhodes",
+        "rating": 5
+    },
+    {
+        "fullid": "char_379_sesa",
+        "nameid": "sesa",
+        "numberid": "379",
+        "name": {
+            "en": "Sesa",
+            "jp": "シェーシャ",
+            "kr": "세사",
+            "cn": "慑砂"
+        },
+        "nation": "sargon",
+        "rating": 5
+    },
+    {
+        "fullid": "char_4078_bdhkgt",
+        "nameid": "bdhkgt",
+        "numberid": "4078",
+        "name": {
+            "en": "Jieyun",
+            "jp": "ジエユン",
+            "kr": "지에윈",
+            "cn": "截云"
+        },
+        "nation": "yan",
+        "rating": 5
+    },
+    {
+        "fullid": "char_279_excu",
+        "nameid": "excu",
+        "numberid": "279",
+        "name": {
+            "en": "Executor",
+            "jp": "イグゼキュター",
+            "kr": "이그제큐터",
+            "cn": "送葬人"
+        },
+        "nation": "laterano",
+        "rating": 5
+    },
+    {
+        "fullid": "char_346_aosta",
+        "nameid": "aosta",
+        "numberid": "346",
+        "name": {
+            "en": "Aosta",
+            "jp": "アオスタ",
+            "kr": "아오스타",
+            "cn": "奥斯塔"
+        },
+        "nation": "siracusa",
+        "rating": 5
+    },
+    {
+        "fullid": "char_4203_kichi",
+        "nameid": "kichi",
+        "numberid": "4203",
+        "name": {
+            "en": "Kichisei",
+            "jp": "キチセイ",
+            "kr": "키치세이",
+            "cn": "吉星"
+        },
+        "nation": "higashi",
+        "rating": 5
+    },
+    {
+        "fullid": "char_4213_skybx",
+        "nameid": "skybx",
+        "numberid": "4213",
+        "name": {
+            "en": "Skybox",
+            "jp": "スカイボックス",
+            "kr": "스카이박스",
+            "cn": "天空盒"
+        },
+        "nation": "columbia",
+        "rating": 5
+    },
+    {
+        "fullid": "char_002_amiya",
+        "nameid": "amiya",
+        "numberid": "002",
+        "name": {
+            "en": "Amiya",
+            "jp": "アーミヤ",
+            "kr": "아미야",
+            "cn": "阿米娅"
+        },
+        "nation": "rhodes",
+        "rating": 5
+    },
+    {
+        "fullid": "char_1001_amiya2",
+        "nameid": "amiya2",
+        "numberid": "1001",
+        "name": {
+            "en": "Amiya 2",
+            "jp": "アーミヤ 2",
+            "kr": "아미야 2",
+            "cn": "阿米娅 2"
+        },
+        "nation": "rhodes",
+        "rating": 5
+    },
+    {
+        "fullid": "char_1037_amiya3",
+        "nameid": "amiya3",
+        "numberid": "1037",
+        "name": {
+            "en": "Amiya 3",
+            "jp": "アーミヤ 3",
+            "kr": "아미야 3",
+            "cn": "阿米娅 3"
+        },
+        "nation": "rhodes",
+        "rating": 5
+    },
+    {
+        "fullid": "char_405_absin",
+        "nameid": "absin",
+        "numberid": "405",
+        "name": {
+            "en": "Absinthe",
+            "jp": "アブサント",
+            "kr": "압생트",
+            "cn": "苦艾"
+        },
+        "nation": "ursus",
+        "rating": 5
+    },
+    {
+        "fullid": "char_411_tomimi",
+        "nameid": "tomimi",
+        "numberid": "411",
+        "name": {
+            "en": "Tomimi",
+            "jp": "トミミ",
+            "kr": "토미미",
+            "cn": "特米米"
+        },
+        "nation": "sargon",
+        "rating": 5
+    },
+    {
+        "fullid": "char_466_qanik",
+        "nameid": "qanik",
+        "numberid": "466",
+        "name": {
+            "en": "Qanipalaat",
+            "jp": "カニパラート",
+            "kr": "카니팔라트",
+            "cn": "雪绒"
+        },
+        "nation": "sami",
+        "rating": 5
+    },
+    {
+        "fullid": "char_166_skfire",
+        "nameid": "skfire",
+        "numberid": "166",
+        "name": {
+            "en": "Skyfire",
+            "jp": "スカイフレア",
+            "kr": "스카이파이어",
+            "cn": "天火"
+        },
+        "nation": "victoria",
+        "rating": 5
+    },
+    {
+        "fullid": "char_509_acast",
+        "nameid": "acast",
+        "numberid": "509",
+        "name": {
+            "en": "Pith",
+            "jp": "Pith",
+            "kr": "피스",
+            "cn": "Pith"
+        },
+        "nation": null,
+        "rating": 5
+    },
+    {
+        "fullid": "char_306_leizi",
+        "nameid": "leizi",
+        "numberid": "306",
+        "name": {
+            "en": "Leizi",
+            "jp": "レイズ",
+            "kr": "레이즈",
+            "cn": "惊蛰"
+        },
+        "nation": "yan",
+        "rating": 5
+    },
+    {
+        "fullid": "char_135_halo",
+        "nameid": "halo",
+        "numberid": "135",
+        "name": {
+            "en": "Astgenne",
+            "jp": "アステジーニ",
+            "kr": "아스트젠",
+            "cn": "星源"
+        },
+        "nation": "columbia",
+        "rating": 5
+    },
+    {
+        "fullid": "char_344_beewax",
+        "nameid": "beewax",
+        "numberid": "344",
+        "name": {
+            "en": "Beeswax",
+            "jp": "ビーズワクス",
+            "kr": "비즈왁스",
+            "cn": "蜜蜡"
+        },
+        "nation": "sargon",
+        "rating": 5
+    },
+    {
+        "fullid": "char_373_lionhd",
+        "nameid": "lionhd",
+        "numberid": "373",
+        "name": {
+            "en": "Leonhardt",
+            "jp": "レオンハルト",
+            "kr": "레온하르트",
+            "cn": "莱恩哈特"
+        },
+        "nation": "rim",
+        "rating": 5
+    },
+    {
+        "fullid": "char_341_sntlla",
+        "nameid": "sntlla",
+        "numberid": "341",
+        "name": {
+            "en": "Santalla",
+            "jp": "サンタラ",
+            "kr": "산탈라",
+            "cn": "寒檀"
+        },
+        "nation": "sami",
+        "rating": 5
+    },
+    {
+        "fullid": "char_4031_liesel",
+        "nameid": "liesel",
+        "numberid": "4031",
+        "name": {
+            "en": "Ripresa",
+            "jp": "リプレーザ",
+            "kr": "리프레사",
+            "cn": "复奏"
+        },
+        "nation": "siracusa",
+        "rating": 5
+    },
+    {
+        "fullid": "char_388_mint",
+        "nameid": "mint",
+        "numberid": "388",
+        "name": {
+            "en": "Mint",
+            "jp": "ミント",
+            "kr": "민트",
+            "cn": "薄绿"
+        },
+        "nation": "victoria",
+        "rating": 5
+    },
+    {
+        "fullid": "char_338_iris",
+        "nameid": "iris",
+        "numberid": "338",
+        "name": {
+            "en": "Iris",
+            "jp": "アイリス",
+            "kr": "아이리스",
+            "cn": "爱丽丝"
+        },
+        "nation": "victoria",
+        "rating": 5
+    },
+    {
+        "fullid": "char_297_hamoni",
+        "nameid": "hamoni",
+        "numberid": "297",
+        "name": {
+            "en": "Harmonie",
+            "jp": "ハーモニー",
+            "kr": "아르모니",
+            "cn": "和弦"
+        },
+        "nation": "victoria",
+        "rating": 5
+    },
+    {
+        "fullid": "char_4110_delphn",
+        "nameid": "delphn",
+        "numberid": "4110",
+        "name": {
+            "en": "Delphine",
+            "jp": "デルフィーン",
+            "kr": "델핀",
+            "cn": "戴菲恩"
+        },
+        "nation": "victoria",
+        "rating": 5
+    },
+    {
+        "fullid": "char_1011_lava2",
+        "nameid": "lava2",
+        "numberid": "1011",
+        "name": {
+            "en": "Lava the Purgatory",
+            "jp": "炎獄ラヴァ",
+            "kr": "라바 더 퍼거토리",
+            "cn": "炎狱炎熔"
+        },
+        "nation": "rhodes",
+        "rating": 5
+    },
+    {
+        "fullid": "char_489_serum",
+        "nameid": "serum",
+        "numberid": "489",
+        "name": {
+            "en": "Corroserum",
+            "jp": "コロセラム",
+            "kr": "코로세럼",
+            "cn": "蚀清"
+        },
+        "nation": "columbia",
+        "rating": 5
+    },
+    {
+        "fullid": "char_446_aroma",
+        "nameid": "aroma",
+        "numberid": "446",
+        "name": {
+            "en": "Aroma",
+            "jp": "アロマ",
+            "kr": "아로마",
+            "cn": "阿罗玛"
+        },
+        "nation": "siracusa",
+        "rating": 5
+    },
+    {
+        "fullid": "char_4013_kjera",
+        "nameid": "kjera",
+        "numberid": "4013",
+        "name": {
+            "en": "Kjera",
+            "jp": "イェラ",
+            "kr": "쉐라",
+            "cn": "耶拉"
+        },
+        "nation": "kjerag",
+        "rating": 5
+    },
+    {
+        "fullid": "char_4040_rockr",
+        "nameid": "rockr",
+        "numberid": "4040",
+        "name": {
+            "en": "Rockrock",
+            "jp": "ロックロック",
+            "kr": "락락",
+            "cn": "洛洛"
+        },
+        "nation": "victoria",
+        "rating": 5
+    },
+    {
+        "fullid": "char_4054_malist",
+        "nameid": "malist",
+        "numberid": "4054",
+        "name": {
+            "en": "Minimalist",
+            "jp": "ミニマリスト",
+            "kr": "미니멀리스트",
+            "cn": "至简"
+        },
+        "nation": "sargon",
+        "rating": 5
+    },
+    {
+        "fullid": "char_499_kaitou",
+        "nameid": "kaitou",
+        "numberid": "499",
+        "name": {
+            "en": "Diamante",
+            "jp": "ディアマンテ",
+            "kr": "디아만테",
+            "cn": "折光"
+        },
+        "nation": "leithanien",
+        "rating": 5
+    },
+    {
+        "fullid": "char_4081_warmy",
+        "nameid": "warmy",
+        "numberid": "4081",
+        "name": {
+            "en": "Warmy",
+            "jp": "ウォーミー",
+            "kr": "워미",
+            "cn": "温米"
+        },
+        "nation": "rim",
+        "rating": 5
+    },
+    {
+        "fullid": "char_4198_christ",
+        "nameid": "christ",
+        "numberid": "4198",
+        "name": {
+            "en": "Miss.Christine",
+            "jp": "ミス・クリスティーン",
+            "kr": "미스 크리스틴",
+            "cn": "Miss.Christine"
+        },
+        "nation": "victoria",
+        "rating": 5
+    },
+    {
+        "fullid": "char_4164_tecno",
+        "nameid": "tecno",
+        "numberid": "4164",
+        "name": {
+            "en": "Tecno",
+            "jp": "テクノ",
+            "kr": "테크노",
+            "cn": "特克诺"
+        },
+        "nation": "bolivar",
+        "rating": 5
+    },
+    {
+        "fullid": "char_242_otter",
+        "nameid": "otter",
+        "numberid": "242",
+        "name": {
+            "en": "Mayer",
+            "jp": "メイヤー",
+            "kr": "메이어",
+            "cn": "梅尔"
+        },
+        "nation": "columbia",
+        "rating": 5
+    },
+    {
+        "fullid": "char_336_folivo",
+        "nameid": "folivo",
+        "numberid": "336",
+        "name": {
+            "en": "Scene",
+            "jp": "シーン",
+            "kr": "씬",
+            "cn": "稀音"
+        },
+        "nation": "sargon",
+        "rating": 5
+    },
+    {
+        "fullid": "char_4140_lasher",
+        "nameid": "lasher",
+        "numberid": "4140",
+        "name": {
+            "en": "Sand Reckoner",
+            "jp": "サンドレコナー",
+            "kr": "샌드레코너",
+            "cn": "衡沙"
+        },
+        "nation": "sargon",
+        "rating": 5
+    },
+    {
+        "fullid": "char_108_silent",
+        "nameid": "silent",
+        "numberid": "108",
+        "name": {
+            "en": "Silence",
+            "jp": "サイレンス",
+            "kr": "사일런스",
+            "cn": "赫默"
+        },
+        "nation": "columbia",
+        "rating": 5
+    },
+    {
+        "fullid": "char_171_bldsk",
+        "nameid": "bldsk",
+        "numberid": "171",
+        "name": {
+            "en": "Warfarin",
+            "jp": "ワルファリン",
+            "kr": "와파린",
+            "cn": "华法琳"
+        },
+        "nation": "rhodes",
+        "rating": 5
+    },
+    {
+        "fullid": "char_345_folnic",
+        "nameid": "folnic",
+        "numberid": "345",
+        "name": {
+            "en": "Folinic",
+            "jp": "フォリニック",
+            "kr": "폴리닉",
+            "cn": "亚叶"
+        },
+        "nation": "rhodes",
+        "rating": 5
+    },
+    {
+        "fullid": "char_510_amedic",
+        "nameid": "amedic",
+        "numberid": "510",
+        "name": {
+            "en": "Touch",
+            "jp": "Touch",
+            "kr": "터치",
+            "cn": "Touch"
+        },
+        "nation": null,
+        "rating": 5
+    },
+    {
+        "fullid": "char_4196_reckpr",
+        "nameid": "reckpr",
+        "numberid": "4196",
+        "name": {
+            "en": "Record Keeper",
+            "jp": "レコードキーパー",
+            "kr": "레코드키퍼",
+            "cn": "录武官"
+        },
+        "nation": "yan",
+        "rating": 5
+    },
+    {
+        "fullid": "char_348_ceylon",
+        "nameid": "ceylon",
+        "numberid": "348",
+        "name": {
+            "en": "Ceylon",
+            "jp": "セイロン",
+            "kr": "실론",
+            "cn": "锡兰"
+        },
+        "nation": "columbia",
+        "rating": 5
+    },
+    {
+        "fullid": "char_436_whispr",
+        "nameid": "whispr",
+        "numberid": "436",
+        "name": {
+            "en": "Whisperain",
+            "jp": "ウィスパーレイン",
+            "kr": "위스퍼레인",
+            "cn": "絮雨"
+        },
+        "nation": "iberia",
+        "rating": 5
+    },
+    {
+        "fullid": "char_4173_nowell",
+        "nameid": "nowell",
+        "numberid": "4173",
+        "name": {
+            "en": "Nowell",
+            "jp": "ノウエル",
+            "kr": "노웰",
+            "cn": "诺威尔"
+        },
+        "nation": "victoria",
+        "rating": 5
+    },
+    {
+        "fullid": "char_402_tuye",
+        "nameid": "tuye",
+        "numberid": "402",
+        "name": {
+            "en": "Tuye",
+            "jp": "トゥイエ",
+            "kr": "투예",
+            "cn": "图耶"
+        },
+        "nation": "sargon",
+        "rating": 5
+    },
+    {
+        "fullid": "char_473_mberry",
+        "nameid": "mberry",
+        "numberid": "473",
+        "name": {
+            "en": "Mulberry",
+            "jp": "マルベリー",
+            "kr": "멀베리",
+            "cn": "桑葚"
+        },
+        "nation": "yan",
+        "rating": 5
+    },
+    {
+        "fullid": "char_449_glider",
+        "nameid": "glider",
+        "numberid": "449",
+        "name": {
+            "en": "Honeyberry",
+            "jp": "ハニーベリー",
+            "kr": "허니베리",
+            "cn": "蜜莓"
+        },
+        "nation": "rim",
+        "rating": 5
+    },
+    {
+        "fullid": "char_4114_harold",
+        "nameid": "harold",
+        "numberid": "4114",
+        "name": {
+            "en": "Harold",
+            "jp": "ハロルド",
+            "kr": "해럴드",
+            "cn": "哈洛德"
+        },
+        "nation": "victoria",
+        "rating": 5
+    },
+    {
+        "fullid": "char_1024_hbisc2",
+        "nameid": "hbisc2",
+        "numberid": "1024",
+        "name": {
+            "en": "Hibiscus the Purifier",
+            "jp": "濯塵ハイビスカス",
+            "kr": "히비스커스 더 퓨리파이어",
+            "cn": "濯尘芙蓉"
+        },
+        "nation": "rhodes",
+        "rating": 5
+    },
+    {
+        "fullid": "char_494_vendla",
+        "nameid": "vendla",
+        "numberid": "494",
+        "name": {
+            "en": "Vendela",
+            "jp": "ヴァンデラ",
+            "kr": "벤델라",
+            "cn": "刺玫"
+        },
+        "nation": "victoria",
+        "rating": 5
+    },
+    {
+        "fullid": "char_4071_peper",
+        "nameid": "peper",
+        "numberid": "4071",
+        "name": {
+            "en": "Paprika",
+            "jp": "パプリカ",
+            "kr": "파프리카",
+            "cn": "明椒"
+        },
+        "nation": "rhodes",
+        "rating": 5
+    },
+    {
+        "fullid": "char_4139_papyrs",
+        "nameid": "papyrs",
+        "numberid": "4139",
+        "name": {
+            "en": "Papyrus",
+            "jp": "パピルス",
+            "kr": "파피루스",
+            "cn": "莎草"
+        },
+        "nation": "sargon",
+        "rating": 5
+    },
+    {
+        "fullid": "char_4222_taraxa",
+        "nameid": "taraxa",
+        "numberid": "4222",
+        "name": {
+            "en": "Taraxacum",
+            "jp": "タラクサカム",
+            "kr": "타락사쿰",
+            "cn": "风絮"
+        },
+        "nation": "yan",
+        "rating": 5
+    },
+    {
+        "fullid": "char_148_nearl",
+        "nameid": "nearl",
+        "numberid": "148",
+        "name": {
+            "en": "Nearl",
+            "jp": "ニアール",
+            "kr": "니어",
+            "cn": "临光"
+        },
+        "nation": null,
+        "rating": 5
+    },
+    {
+        "fullid": "char_226_hmau",
+        "nameid": "hmau",
+        "numberid": "226",
+        "name": {
+            "en": "Hung",
+            "jp": "ウン",
+            "kr": "훔",
+            "cn": "吽"
+        },
+        "nation": "lungmen",
+        "rating": 5
+    },
+    {
+        "fullid": "char_4109_baslin",
+        "nameid": "baslin",
+        "numberid": "4109",
+        "name": {
+            "en": "Bassline",
+            "jp": "ベースライン",
+            "kr": "베이스라인",
+            "cn": "深律"
+        },
+        "nation": "leithanien",
+        "rating": 5
+    },
+    {
+        "fullid": "char_4143_sensi",
+        "nameid": "sensi",
+        "numberid": "4143",
+        "name": {
+            "en": "Senshi",
+            "jp": "センシ",
+            "kr": "센시",
+            "cn": "森西"
+        },
+        "nation": null,
+        "rating": 5
+    },
+    {
+        "fullid": "char_144_red",
+        "nameid": "red",
+        "numberid": "144",
+        "name": {
+            "en": "Projekt Red",
+            "jp": "レッド",
+            "kr": "레드",
+            "cn": "红"
+        },
+        "nation": "rhodes",
+        "rating": 5
+    },
+    {
+        "fullid": "char_243_waaifu",
+        "nameid": "waaifu",
+        "numberid": "243",
+        "name": {
+            "en": "Waai Fu",
+            "jp": "ワイフー",
+            "kr": "와이후",
+            "cn": "槐琥"
+        },
+        "nation": "lungmen",
+        "rating": 5
+    },
+    {
+        "fullid": "char_214_kafka",
+        "nameid": "kafka",
+        "numberid": "214",
+        "name": {
+            "en": "Kafka",
+            "jp": "カフカ",
+            "kr": "카프카",
+            "cn": "卡夫卡"
+        },
+        "nation": "columbia",
+        "rating": 5
+    },
+    {
+        "fullid": "char_455_nothin",
+        "nameid": "nothin",
+        "numberid": "455",
+        "name": {
+            "en": "Mr. Nothing",
+            "jp": "ウユウ",
+            "kr": "우요우",
+            "cn": "乌有"
+        },
+        "nation": "yan",
+        "rating": 5
+    },
+    {
+        "fullid": "char_4155_talr",
+        "nameid": "talr",
+        "numberid": "4155",
+        "name": {
+            "en": "Figurino",
+            "jp": "フィグリーノ",
+            "kr": "피구리노",
+            "cn": "裁度"
+        },
+        "nation": "siracusa",
+        "rating": 5
+    },
+    {
+        "fullid": "char_107_liskam",
+        "nameid": "liskam",
+        "numberid": "107",
+        "name": {
+            "en": "Liskarm",
+            "jp": "リスカム",
+            "kr": "리스캄",
+            "cn": "雷蛇"
+        },
+        "nation": "columbia",
+        "rating": 5
+    },
+    {
+        "fullid": "char_4137_udflow",
+        "nameid": "udflow",
+        "numberid": "4137",
+        "name": {
+            "en": "Underflow",
+            "jp": "アンダーフロー",
+            "kr": "언더플로우",
+            "cn": "深巡"
+        },
+        "nation": "egir",
+        "rating": 5
+    },
+    {
+        "fullid": "char_201_moeshd",
+        "nameid": "moeshd",
+        "numberid": "201",
+        "name": {
+            "en": "Croissant",
+            "jp": "クロワッサン",
+            "kr": "크루아상",
+            "cn": "可颂"
+        },
+        "nation": "lungmen",
+        "rating": 5
+    },
+    {
+        "fullid": "char_325_bison",
+        "nameid": "bison",
+        "numberid": "325",
+        "name": {
+            "en": "Bison",
+            "jp": "バイソン",
+            "kr": "바이슨",
+            "cn": "拜松"
+        },
+        "nation": "lungmen",
+        "rating": 5
+    },
+    {
+        "fullid": "char_163_hpsts",
+        "nameid": "hpsts",
+        "numberid": "163",
+        "name": {
+            "en": "Vulcan",
+            "jp": "ヴァルカン",
+            "kr": "벌컨",
+            "cn": "火神"
+        },
+        "nation": "minos",
+        "rating": 5
+    },
+    {
+        "fullid": "char_4207_branch",
+        "nameid": "branch",
+        "numberid": "4207",
+        "name": {
+            "en": "Vetochki",
+            "jp": "ヴェトチキ",
+            "kr": "베토치키",
+            "cn": "折桠"
+        },
+        "nation": "ursus",
+        "rating": 5
+    },
+    {
+        "fullid": "char_378_asbest",
+        "nameid": "asbest",
+        "numberid": "378",
+        "name": {
+            "en": "Asbestos",
+            "jp": "アスベストス",
+            "kr": "아스베스토스",
+            "cn": "石棉"
+        },
+        "nation": "rim",
+        "rating": 5
+    },
+    {
+        "fullid": "char_4025_aprot2",
+        "nameid": "aprot2",
+        "numberid": "4025",
+        "name": {
+            "en": "Shalem",
+            "jp": "シャレム",
+            "kr": "샬렘",
+            "cn": "暮落"
+        },
+        "nation": "victoria",
+        "rating": 5
+    },
+    {
+        "fullid": "char_4047_pianst",
+        "nameid": "pianst",
+        "numberid": "4047",
+        "name": {
+            "en": "Czerny",
+            "jp": "ツェルニー",
+            "kr": "체르니",
+            "cn": "车尔尼"
+        },
+        "nation": "leithanien",
+        "rating": 5
+    },
+    {
+        "fullid": "char_457_blitz",
+        "nameid": "blitz",
+        "numberid": "457",
+        "name": {
+            "en": "Blitz",
+            "jp": "Blitz",
+            "kr": "Blitz",
+            "cn": "闪击"
+        },
+        "nation": null,
+        "rating": 5
+    },
+    {
+        "fullid": "char_304_zebra",
+        "nameid": "zebra",
+        "numberid": "304",
+        "name": {
+            "en": "Heavyrain",
+            "jp": "ヘビーレイン",
+            "kr": "헤비레인",
+            "cn": "暴雨"
+        },
+        "nation": "rhodes",
+        "rating": 5
+    },
+    {
+        "fullid": "char_431_ashlok",
+        "nameid": "ashlok",
+        "numberid": "431",
+        "name": {
+            "en": "Ashlock",
+            "jp": "アッシュロック",
+            "kr": "애쉬락",
+            "cn": "灰毫"
+        },
+        "nation": "kazimierz",
+        "rating": 5
+    },
+    {
+        "fullid": "char_493_firwhl",
+        "nameid": "firwhl",
+        "numberid": "493",
+        "name": {
+            "en": "Firewhistle",
+            "jp": "ファイヤーホイッスル",
+            "kr": "파이어휘슬",
+            "cn": "火哨"
+        },
+        "nation": "rim",
+        "rating": 5
+    },
+    {
+        "fullid": "char_422_aurora",
+        "nameid": "aurora",
+        "numberid": "422",
+        "name": {
+            "en": "Aurora",
+            "jp": "オーロラ",
+            "kr": "오로라",
+            "cn": "极光"
+        },
+        "nation": "kjerag",
+        "rating": 5
+    },
+    {
+        "fullid": "char_464_cement",
+        "nameid": "cement",
+        "numberid": "464",
+        "name": {
+            "en": "Cement",
+            "jp": "セメント",
+            "kr": "시멘트",
+            "cn": "洋灰"
+        },
+        "nation": "rim",
+        "rating": 5
+    },
+    {
+        "fullid": "char_4148_philae",
+        "nameid": "philae",
+        "numberid": "4148",
+        "name": {
+            "en": "Philae",
+            "jp": "フィラエ",
+            "kr": "필라에",
+            "cn": "菲莱"
+        },
+        "nation": "sargon",
+        "rating": 5
+    },
+    {
+        "fullid": "char_145_prove",
+        "nameid": "prove",
+        "numberid": "145",
+        "name": {
+            "en": "Provence",
+            "jp": "プロヴァンス",
+            "kr": "프로방스",
+            "cn": "普罗旺斯"
+        },
+        "nation": "siracusa",
+        "rating": 5
+    },
+    {
+        "fullid": "char_4006_melnte",
+        "nameid": "melnte",
+        "numberid": "4006",
+        "name": {
+            "en": "Melanite",
+            "jp": "メラナイト",
+            "kr": "멜라나이트",
+            "cn": "玫拉"
+        },
+        "nation": "columbia",
+        "rating": 5
+    },
+    {
+        "fullid": "char_158_milu",
+        "nameid": "milu",
+        "numberid": "158",
+        "name": {
+            "en": "Firewatch",
+            "jp": "ファイヤーウォッチ",
+            "kr": "파이어워치",
+            "cn": "守林人"
+        },
+        "nation": "rhodes",
+        "rating": 5
+    },
+    {
+        "fullid": "char_218_cuttle",
+        "nameid": "cuttle",
+        "numberid": "218",
+        "name": {
+            "en": "Andreana",
+            "jp": "アンドレアナ",
+            "kr": "안드레아나",
+            "cn": "安哲拉"
+        },
+        "nation": "egir",
+        "rating": 5
+    },
+    {
+        "fullid": "char_4014_lunacu",
+        "nameid": "lunacu",
+        "numberid": "4014",
+        "name": {
+            "en": "Lunacub",
+            "jp": "ルナカブ",
+            "kr": "루나컵",
+            "cn": "子月"
+        },
+        "nation": "siracusa",
+        "rating": 5
+    },
+    {
+        "fullid": "char_363_toddi",
+        "nameid": "toddi",
+        "numberid": "363",
+        "name": {
+            "en": "Toddifons",
+            "jp": "トギフォンス",
+            "kr": "토디폰스",
+            "cn": "熔泉"
+        },
+        "nation": "victoria",
+        "rating": 5
+    },
+    {
+        "fullid": "char_4043_erato",
+        "nameid": "erato",
+        "numberid": "4043",
+        "name": {
+            "en": "Erato",
+            "jp": "エラト",
+            "kr": "에라토",
+            "cn": "埃拉托"
+        },
+        "nation": "minos",
+        "rating": 5
+    },
+    {
+        "fullid": "char_4221_ju",
+        "nameid": "ju",
+        "numberid": "4221",
+        "name": {
+            "en": "Ju",
+            "jp": "ジュー",
+            "kr": "쥐",
+            "cn": "矩"
+        },
+        "nation": "yan",
+        "rating": 5
+    },
+    {
+        "fullid": "char_1027_greyy2",
+        "nameid": "greyy2",
+        "numberid": "1027",
+        "name": {
+            "en": "Greyy the Lightningbearer",
+            "jp": "承曦グレイ",
+            "kr": "그레이 더 라이트닝베어러",
+            "cn": "承曦格雷伊"
+        },
+        "nation": "rhodes",
+        "rating": 5
+    },
+    {
+        "fullid": "char_4104_coldst",
+        "nameid": "coldst",
+        "numberid": "4104",
+        "name": {
+            "en": "Coldshot",
+            "jp": "コールドショット",
+            "kr": "콜드샷",
+            "cn": "冰酿"
+        },
+        "nation": "columbia",
+        "rating": 5
+    },
+    {
+        "fullid": "char_4211_snhunt",
+        "nameid": "snhunt",
+        "numberid": "4211",
+        "name": {
+            "en": "Snow Hunter",
+            "jp": "スノーハンター",
+            "kr": "스노우헌터",
+            "cn": "雪猎"
+        },
+        "nation": "kjerag",
+        "rating": 5
+    },
+    {
+        "fullid": "char_4177_brigid",
+        "nameid": "brigid",
+        "numberid": "4177",
+        "name": {
+            "en": "Brigid",
+            "jp": "ブリギッド",
+            "kr": "브리지드",
+            "cn": "水灯心"
+        },
+        "nation": "victoria",
+        "rating": 5
+    },
+    {
+        "fullid": "char_4015_spuria",
+        "nameid": "spuria",
+        "numberid": "4015",
+        "name": {
+            "en": "Spuria",
+            "jp": "スプリア",
+            "kr": "스푸리아",
+            "cn": "空构"
+        },
+        "nation": "laterano",
+        "rating": 5
+    },
+    {
+        "fullid": "char_173_slchan",
+        "nameid": "slchan",
+        "numberid": "173",
+        "name": {
+            "en": "Cliffheart",
+            "jp": "クリフハート",
+            "kr": "클리프하트",
+            "cn": "崖心"
+        },
+        "nation": "kjerag",
+        "rating": 5
+    },
+    {
+        "fullid": "char_383_snsant",
+        "nameid": "snsant",
+        "numberid": "383",
+        "name": {
+            "en": "Snowsant",
+            "jp": "スノーズント",
+            "kr": "스노우상트",
+            "cn": "雪雉"
+        },
+        "nation": "lungmen",
+        "rating": 5
+    },
+    {
+        "fullid": "char_4105_almond",
+        "nameid": "almond",
+        "numberid": "4105",
+        "name": {
+            "en": "Almond",
+            "jp": "アーモンド",
+            "kr": "아몬드",
+            "cn": "杏仁"
+        },
+        "nation": "columbia",
+        "rating": 5
+    },
+    {
+        "fullid": "char_174_slbell",
+        "nameid": "slbell",
+        "numberid": "174",
+        "name": {
+            "en": "Pramanix",
+            "jp": "プラマニクス",
+            "kr": "프라마닉스",
+            "cn": "初雪"
+        },
+        "nation": "kjerag",
+        "rating": 5
+    },
+    {
+        "fullid": "char_254_vodfox",
+        "nameid": "vodfox",
+        "numberid": "254",
+        "name": {
+            "en": "Shamare",
+            "jp": "シャマレ",
+            "kr": "샤마르",
+            "cn": "巫恋"
+        },
+        "nation": "siracusa",
+        "rating": 5
+    },
+    {
+        "fullid": "char_4079_haini",
+        "nameid": "haini",
+        "numberid": "4079",
+        "name": {
+            "en": "Lucilla",
+            "jp": "ルシーラ",
+            "kr": "루실라",
+            "cn": "海霓"
+        },
+        "nation": "egir",
+        "rating": 5
+    },
+    {
+        "fullid": "char_195_glassb",
+        "nameid": "glassb",
+        "numberid": "195",
+        "name": {
+            "en": "Istina",
+            "jp": "イースチナ",
+            "kr": "이스티나",
+            "cn": "真理"
+        },
+        "nation": "ursus",
+        "rating": 5
+    },
+    {
+        "fullid": "char_326_glacus",
+        "nameid": "glacus",
+        "numberid": "326",
+        "name": {
+            "en": "Glaucus",
+            "jp": "グラウコス",
+            "kr": "글라우쿠스",
+            "cn": "格劳克斯"
+        },
+        "nation": "iberia",
+        "rating": 5
+    },
+    {
+        "fullid": "char_4032_provs",
+        "nameid": "provs",
+        "numberid": "4032",
+        "name": {
+            "en": "Proviso",
+            "jp": "プロヴァイゾ",
+            "kr": "프로바이조",
+            "cn": "但书"
+        },
+        "nation": "kazimierz",
+        "rating": 5
+    },
+    {
+        "fullid": "char_4122_grabds",
+        "nameid": "grabds",
+        "numberid": "4122",
+        "name": {
+            "en": "Grain Buds",
+            "jp": "グレインバッズ",
+            "kr": "그레인버즈",
+            "cn": "小满"
+        },
+        "nation": "yan",
+        "rating": 5
+    },
+    {
+        "fullid": "char_433_windft",
+        "nameid": "windft",
+        "numberid": "433",
+        "name": {
+            "en": "Windflit",
+            "jp": "ウインドフリット",
+            "kr": "윈드플릿",
+            "cn": "掠风"
+        },
+        "nation": "columbia",
+        "rating": 5
+    },
+    {
+        "fullid": "char_4162_cathy",
+        "nameid": "cathy",
+        "numberid": "4162",
+        "name": {
+            "en": "Catherine",
+            "jp": "キャサリン",
+            "kr": "캐서린",
+            "cn": "凯瑟琳"
+        },
+        "nation": "victoria",
+        "rating": 5
+    },
+    {
+        "fullid": "char_4178_alanna",
+        "nameid": "alanna",
+        "numberid": "4178",
+        "name": {
+            "en": "Alanna",
+            "jp": "アランナ",
+            "kr": "알라나",
+            "cn": "阿兰娜"
+        },
+        "nation": "rim",
+        "rating": 5
+    },
+    {
+        "fullid": "char_101_sora",
+        "nameid": "sora",
+        "numberid": "101",
+        "name": {
+            "en": "Sora",
+            "jp": "ソラ",
+            "kr": "소라",
+            "cn": "空"
+        },
+        "nation": "lungmen",
+        "rating": 5
+    },
+    {
+        "fullid": "char_4045_heidi",
+        "nameid": "heidi",
+        "numberid": "4045",
+        "name": {
+            "en": "Heidi",
+            "jp": "ハイディ",
+            "kr": "하이디",
+            "cn": "海蒂"
+        },
+        "nation": "victoria",
+        "rating": 5
+    },
+    {
+        "fullid": "char_4184_dolris",
+        "nameid": "dolris",
+        "numberid": "4184",
+        "name": {
+            "en": "Uika Misumi",
+            "jp": "三角初華",
+            "kr": "미스미 우이카",
+            "cn": "三角初华"
+        },
+        "nation": null,
+        "rating": 5
+    },
+    {
+        "fullid": "char_343_tknogi",
+        "nameid": "tknogi",
+        "numberid": "343",
+        "name": {
+            "en": "Tsukinogi",
+            "jp": "ツキノギ",
+            "kr": "츠키노기",
+            "cn": "月禾"
+        },
+        "nation": "higashi",
+        "rating": 5
+    },
+    {
+        "fullid": "char_4019_ncdeer",
+        "nameid": "ncdeer",
+        "numberid": "4019",
+        "name": {
+            "en": "Nine-Colored Deer",
+            "jp": "九色鹿",
+            "kr": "나인컬러드 디어",
+            "cn": "九色鹿"
+        },
+        "nation": "yan",
+        "rating": 5
+    },
+    {
+        "fullid": "char_492_quercu",
+        "nameid": "quercu",
+        "numberid": "492",
+        "name": {
+            "en": "Quercus",
+            "jp": "クエルクス",
+            "kr": "퀘르쿠스",
+            "cn": "夏栎"
+        },
+        "nation": "rhodes",
+        "rating": 5
+    },
+    {
+        "fullid": "char_4172_xingzh",
+        "nameid": "xingzh",
+        "numberid": "4172",
+        "name": {
+            "en": "Xingzhu",
+            "jp": "シィンズゥ",
+            "kr": "싱주",
+            "cn": "行箸"
+        },
+        "nation": "yan",
+        "rating": 5
+    },
+    {
+        "fullid": "char_1022_flwr2",
+        "nameid": "flwr2",
+        "numberid": "1022",
+        "name": {
+            "en": "Perfumer the Distilled",
+            "jp": "萃香パフューマー",
+            "kr": "퍼퓨머 더 디스틸트",
+            "cn": "撷英调香师"
+        },
+        "nation": "rhodes",
+        "rating": 5
+    },
+    {
+        "fullid": "char_4102_threye",
+        "nameid": "threye",
+        "numberid": "4102",
+        "name": {
+            "en": "Valarqvin",
+            "jp": "ヴァラルクビン",
+            "kr": "발라크빈",
+            "cn": "凛视"
+        },
+        "nation": "sami",
+        "rating": 5
+    },
+    {
+        "fullid": "char_487_bobb",
+        "nameid": "bobb",
+        "numberid": "487",
+        "name": {
+            "en": "Bobbing",
+            "jp": "ボビング",
+            "kr": "보빙",
+            "cn": "波卜"
+        },
+        "nation": "columbia",
+        "rating": 5
+    },
+    {
+        "fullid": "char_215_mantic",
+        "nameid": "mantic",
+        "numberid": "215",
+        "name": {
+            "en": "Manticore",
+            "jp": "マンティコア",
+            "kr": "맨티코어",
+            "cn": "狮蝎"
+        },
+        "nation": "sargon",
+        "rating": 5
+    },
+    {
+        "fullid": "char_478_kirara",
+        "nameid": "kirara",
+        "numberid": "478",
+        "name": {
+            "en": "Kirara",
+            "jp": "キララ",
+            "kr": "키라라",
+            "cn": "绮良"
+        },
+        "nation": "higashi",
+        "rating": 5
+    },
+    {
+        "fullid": "char_4186_tmoris",
+        "nameid": "tmoris",
+        "numberid": "4186",
+        "name": {
+            "en": "Umiri Yahata",
+            "jp": "八幡海鈴",
+            "kr": "야하타 우미리",
+            "cn": "八幡海铃"
+        },
+        "nation": null,
+        "rating": 5
+    },
+    {
+        "fullid": "char_241_panda",
+        "nameid": "panda",
+        "numberid": "241",
+        "name": {
+            "en": "FEater",
+            "jp": "エフイーター",
+            "kr": "에프이터",
+            "cn": "食铁兽"
+        },
+        "nation": "lungmen",
+        "rating": 5
+    },
+    {
+        "fullid": "char_4036_forcer",
+        "nameid": "forcer",
+        "numberid": "4036",
+        "name": {
+            "en": "Enforcer",
+            "jp": "エンフォーサー",
+            "kr": "인포서",
+            "cn": "见行者"
+        },
+        "nation": "laterano",
+        "rating": 5
+    },
+    {
+        "fullid": "char_451_robin",
+        "nameid": "robin",
+        "numberid": "451",
+        "name": {
+            "en": "Robin",
+            "jp": "ロビン",
+            "kr": "로빈",
+            "cn": "罗宾"
+        },
+        "nation": "columbia",
+        "rating": 5
+    },
+    {
+        "fullid": "char_458_rfrost",
+        "nameid": "rfrost",
+        "numberid": "458",
+        "name": {
+            "en": "Frost",
+            "jp": "Frost",
+            "kr": "Frost",
+            "cn": "霜华"
+        },
+        "nation": null,
+        "rating": 5
+    },
+    {
+        "fullid": "char_4171_wulfen",
+        "nameid": "wulfen",
+        "numberid": "4171",
+        "name": {
+            "en": "Wulfenite",
+            "jp": "ウルフェナイト",
+            "kr": "울페나이트",
+            "cn": "钼铅"
+        },
+        "nation": "sargon",
+        "rating": 5
+    },
+    {
+        "fullid": "char_369_bena",
+        "nameid": "bena",
+        "numberid": "369",
+        "name": {
+            "en": "Bena",
+            "jp": "ベナ",
+            "kr": "베나",
+            "cn": "贝娜"
+        },
+        "nation": "victoria",
+        "rating": 5
+    },
+    {
+        "fullid": "char_4016_kazema",
+        "nameid": "kazema",
+        "numberid": "4016",
+        "name": {
+            "en": "Kazemaru",
+            "jp": "カゼマル",
+            "kr": "카제마루",
+            "cn": "风丸"
+        },
+        "nation": "higashi",
+        "rating": 5
+    },
+    {
+        "fullid": "char_4124_iana",
+        "nameid": "iana",
+        "numberid": "4124",
+        "name": {
+            "en": "Iana",
+            "jp": "Iana",
+            "kr": "Iana",
+            "cn": "双月"
+        },
+        "nation": null,
+        "rating": 5
+    },
+    {
+        "fullid": "char_4183_mortis",
+        "nameid": "mortis",
+        "numberid": "4183",
+        "name": {
+            "en": "Mutsumi Wakaba",
+            "jp": "若葉睦",
+            "kr": "와카바 무츠미",
+            "cn": "若叶睦"
+        },
+        "nation": null,
+        "rating": 5
+    },
+    {
+        "fullid": "char_4151_tinman",
+        "nameid": "tinman",
+        "numberid": "4151",
+        "name": {
+            "en": "Tin Man",
+            "jp": "ブリキ",
+            "kr": "틴맨",
+            "cn": "锡人"
+        },
+        "nation": "columbia",
+        "rating": 5
+    },
+    {
+        "fullid": "char_4191_tippi",
+        "nameid": "tippi",
+        "numberid": "4191",
+        "name": {
+            "en": "Tippi",
+            "jp": "ティッピ",
+            "kr": "티피",
+            "cn": "蒂比"
+        },
+        "nation": "columbia",
+        "rating": 5
+    },
+    {
+        "fullid": "char_103_angel",
+        "nameid": "angel",
+        "numberid": "103",
+        "name": {
+            "en": "Exusiai",
+            "jp": "エクシア",
+            "kr": "엑시아",
+            "cn": "能天使"
+        },
+        "nation": "lungmen",
+        "rating": 6
+    },
+    {
+        "fullid": "char_332_archet",
+        "nameid": "archet",
+        "numberid": "332",
+        "name": {
+            "en": "Archetto",
+            "jp": "アルケット",
+            "kr": "아르케토",
+            "cn": "空弦"
+        },
+        "nation": "laterano",
+        "rating": 6
+    },
+    {
+        "fullid": "char_456_ash",
+        "nameid": "ash",
+        "numberid": "456",
+        "name": {
+            "en": "Ash",
+            "jp": "Ash",
+            "kr": "Ash",
+            "cn": "灰烬"
+        },
+        "nation": null,
+        "rating": 6
+    },
+    {
+        "fullid": "char_340_shwaz",
+        "nameid": "shwaz",
+        "numberid": "340",
+        "name": {
+            "en": "Schwarz",
+            "jp": "シュヴァルツ",
+            "kr": "슈바르츠",
+            "cn": "黑"
+        },
+        "nation": "columbia",
+        "rating": 6
+    },
+    {
+        "fullid": "char_4055_bgsnow",
+        "nameid": "bgsnow",
+        "numberid": "4055",
+        "name": {
+            "en": "Pozëmka",
+            "jp": "パゼオンカ",
+            "kr": "파죰카",
+            "cn": "鸿雪"
+        },
+        "nation": "rhodes",
+        "rating": 6
+    },
+    {
+        "fullid": "char_430_fartth",
+        "nameid": "fartth",
+        "numberid": "430",
+        "name": {
+            "en": "Fartooth",
+            "jp": "ファートゥース",
+            "kr": "파투스",
+            "cn": "远牙"
+        },
+        "nation": "kazimierz",
+        "rating": 6
+    },
+    {
+        "fullid": "char_4193_lemuen",
+        "nameid": "lemuen",
+        "numberid": "4193",
+        "name": {
+            "en": "Lemuen",
+            "jp": "レミュアン",
+            "kr": "르무엔",
+            "cn": "蕾缪安"
+        },
+        "nation": "laterano",
+        "rating": 6
+    },
+    {
+        "fullid": "char_113_cqbw",
+        "nameid": "cqbw",
+        "numberid": "113",
+        "name": {
+            "en": "W",
+            "jp": "W",
+            "kr": "W",
+            "cn": "W"
+        },
+        "nation": null,
+        "rating": 6
+    },
+    {
+        "fullid": "char_113_cqbw_epoque#7",
+        "nameid": "cqbw-epoque",
+        "numberid": "113",
+        "name": {
+            "en": "W EPOQUE",
+            "jp": "W EPOQUE",
+            "kr": "W EPOQUE",
+            "cn": "W EPOQUE"
+        },
+        "nation": null,
+        "rating": 6
+    },
+    {
+        "fullid": "char_300_phenxi",
+        "nameid": "phenxi",
+        "numberid": "300",
+        "name": {
+            "en": "Fiammetta",
+            "jp": "フィアメッタ",
+            "kr": "피아메타",
+            "cn": "菲亚梅塔"
+        },
+        "nation": "laterano",
+        "rating": 6
+    },
+    {
+        "fullid": "char_197_poca",
+        "nameid": "poca",
+        "numberid": "197",
+        "name": {
+            "en": "Rosa",
+            "jp": "ロサ",
+            "kr": "로사",
+            "cn": "早露"
+        },
+        "nation": "ursus",
+        "rating": 6
+    },
+    {
+        "fullid": "char_2012_typhon",
+        "nameid": "typhon",
+        "numberid": "2012",
+        "name": {
+            "en": "Typhon",
+            "jp": "ティフォン",
+            "kr": "티폰",
+            "cn": "提丰"
+        },
+        "nation": "sami",
+        "rating": 6
+    },
+    {
+        "fullid": "char_391_rosmon",
+        "nameid": "rosmon",
+        "numberid": "391",
+        "name": {
+            "en": "Rosmontis",
+            "jp": "ロスモンティス",
+            "kr": "로즈몬티스",
+            "cn": "迷迭香"
+        },
+        "nation": "rhodes",
+        "rating": 6
+    },
+    {
+        "fullid": "char_1035_wisdel",
+        "nameid": "wisdel",
+        "numberid": "1035",
+        "name": {
+            "en": "Wiš'adel",
+            "jp": "ウィシャデル",
+            "kr": "위셔델",
+            "cn": "维什戴尔"
+        },
+        "nation": null,
+        "rating": 6
+    },
+    {
+        "fullid": "char_1035_wisdel_sale#14",
+        "nameid": "wisdel-sale",
+        "numberid": "1035",
+        "name": {
+            "en": "Wiš'adel SALE",
+            "jp": "ウィシャデル SALE",
+            "kr": "위셔델 SALE",
+            "cn": "维什戴尔 SALE"
+        },
+        "nation": null,
+        "rating": 6
+    },
+    {
+        "fullid": "char_1013_chen2",
+        "nameid": "chen2",
+        "numberid": "1013",
+        "name": {
+            "en": "Ch'en the Holungday",
+            "jp": "遊龍チェン",
+            "kr": "첸 더 홀룽데이",
+            "cn": "假日威龙陈"
+        },
+        "nation": "rhodes",
+        "rating": 6
+    },
+    {
+        "fullid": "char_4117_ray",
+        "nameid": "ray",
+        "numberid": "4117",
+        "name": {
+            "en": "Ray",
+            "jp": "レイ",
+            "kr": "레이",
+            "cn": "莱伊"
+        },
+        "nation": "rim",
+        "rating": 6
+    },
+    {
+        "fullid": "char_4138_narant",
+        "nameid": "narant",
+        "numberid": "4138",
+        "name": {
+            "en": "Narantuya",
+            "jp": "ナラントゥヤ",
+            "kr": "나란투야",
+            "cn": "娜仁图亚"
+        },
+        "nation": "sargon",
+        "rating": 6
+    },
+    {
+        "fullid": "char_112_siege",
+        "nameid": "siege",
+        "numberid": "112",
+        "name": {
+            "en": "Siege",
+            "jp": "シージ",
+            "kr": "시즈",
+            "cn": "推进之王"
+        },
+        "nation": "victoria",
+        "rating": 6
+    },
+    {
+        "fullid": "char_222_bpipe",
+        "nameid": "bpipe",
+        "numberid": "222",
+        "name": {
+            "en": "Bagpipe",
+            "jp": "バグパイプ",
+            "kr": "백파이프",
+            "cn": "风笛"
+        },
+        "nation": "victoria",
+        "rating": 6
+    },
+    {
+        "fullid": "char_362_saga",
+        "nameid": "saga",
+        "numberid": "362",
+        "name": {
+            "en": "Saga",
+            "jp": "サガ",
+            "kr": "사가",
+            "cn": "嵯峨"
+        },
+        "nation": "higashi",
+        "rating": 6
+    },
+    {
+        "fullid": "char_4026_vulpis",
+        "nameid": "vulpis",
+        "numberid": "4026",
+        "name": {
+            "en": "Vulpisfoglia",
+            "jp": "ウルピスフォリア",
+            "kr": "불피스폴리아",
+            "cn": "忍冬"
+        },
+        "nation": "siracusa",
+        "rating": 6
+    },
+    {
+        "fullid": "char_479_sleach",
+        "nameid": "sleach",
+        "numberid": "479",
+        "name": {
+            "en": "Saileach",
+            "jp": "サイラッハ",
+            "kr": "사일라흐",
+            "cn": "琴柳"
+        },
+        "nation": "victoria",
+        "rating": 6
+    },
+    {
+        "fullid": "char_420_flamtl",
+        "nameid": "flamtl",
+        "numberid": "420",
+        "name": {
+            "en": "Flametail",
+            "jp": "フレイムテイル",
+            "kr": "플레임테일",
+            "cn": "焰尾"
+        },
+        "nation": "kazimierz",
+        "rating": 6
+    },
+    {
+        "fullid": "char_427_vigil",
+        "nameid": "vigil",
+        "numberid": "427",
+        "name": {
+            "en": "Vigil",
+            "jp": "ヴィジェル",
+            "kr": "비질",
+            "cn": "伺夜"
+        },
+        "nation": "siracusa",
+        "rating": 6
+    },
+    {
+        "fullid": "char_249_mlyss",
+        "nameid": "mlyss",
+        "numberid": "249",
+        "name": {
+            "en": "Muelsyse",
+            "jp": "ミュルジス",
+            "kr": "뮤엘시스",
+            "cn": "缪尔赛思"
+        },
+        "nation": "columbia",
+        "rating": 6
+    },
+    {
+        "fullid": "char_249_mlyss_boc#8",
+        "nameid": "mlyss-boc",
+        "numberid": "249",
+        "name": {
+            "en": "Muelsyse BOC",
+            "jp": "ミュルジス BOC",
+            "kr": "뮤엘시스 BOC",
+            "cn": "缪尔赛思 BOC"
+        },
+        "nation": "columbia",
+        "rating": 6
+    },
+    {
+        "fullid": "char_1045_svash2",
+        "nameid": "svash2",
+        "numberid": "1045",
+        "name": {
+            "en": "SilverAsh the Reignfrost",
+            "jp": "凛御シルバーアッシュ",
+            "kr": "실버애쉬 더 레인프로스트",
+            "cn": "凛御银灰"
+        },
+        "nation": "kjerag",
+        "rating": 6
+    },
+    {
+        "fullid": "char_4087_ines",
+        "nameid": "ines",
+        "numberid": "4087",
+        "name": {
+            "en": "Ines",
+            "jp": "イネス",
+            "kr": "이네스",
+            "cn": "伊内丝"
+        },
+        "nation": null,
+        "rating": 6
+    },
+    {
+        "fullid": "char_134_ifrit",
+        "nameid": "ifrit",
+        "numberid": "134",
+        "name": {
+            "en": "Ifrit",
+            "jp": "イフリータ",
+            "kr": "이프리트",
+            "cn": "伊芙利特"
+        },
+        "nation": "columbia",
+        "rating": 6
+    },
+    {
+        "fullid": "char_213_mostma",
+        "nameid": "mostma",
+        "numberid": "213",
+        "name": {
+            "en": "Mostima",
+            "jp": "モスティマ",
+            "kr": "모스티마",
+            "cn": "莫斯提马"
+        },
+        "nation": "laterano",
+        "rating": 6
+    },
+    {
+        "fullid": "char_180_amgoat",
+        "nameid": "amgoat",
+        "numberid": "180",
+        "name": {
+            "en": "Eyjafjalla",
+            "jp": "エイヤフィヤトラ",
+            "kr": "에이야퍄들라",
+            "cn": "艾雅法拉"
+        },
+        "nation": "leithanien",
+        "rating": 6
+    },
+    {
+        "fullid": "char_2013_cerber",
+        "nameid": "cerber",
+        "numberid": "2013",
+        "name": {
+            "en": "Ceobe",
+            "jp": "ケオベ",
+            "kr": "케오베",
+            "cn": "刻俄柏"
+        },
+        "nation": "rhodes",
+        "rating": 6
+    },
+    {
+        "fullid": "char_4027_heyak",
+        "nameid": "heyak",
+        "numberid": "4027",
+        "name": {
+            "en": "Ho'olheyak",
+            "jp": "ホルハイヤ",
+            "kr": "오올헤약",
+            "cn": "霍尔海雅"
+        },
+        "nation": "columbia",
+        "rating": 6
+    },
+    {
+        "fullid": "char_4133_logos",
+        "nameid": "logos",
+        "numberid": "4133",
+        "name": {
+            "en": "Logos",
+            "jp": "ロゴス",
+            "kr": "로고스",
+            "cn": "逻各斯"
+        },
+        "nation": "rhodes",
+        "rating": 6
+    },
+    {
+        "fullid": "char_2015_dusk",
+        "nameid": "dusk",
+        "numberid": "2015",
+        "name": {
+            "en": "Dusk",
+            "jp": "シー",
+            "kr": "시",
+            "cn": "夕"
+        },
+        "nation": "yan",
+        "rating": 6
+    },
+    {
+        "fullid": "char_4141_marcil",
+        "nameid": "marcil",
+        "numberid": "4141",
+        "name": {
+            "en": "Marcille",
+            "jp": "マルシル",
+            "kr": "마르실",
+            "cn": "玛露西尔"
+        },
+        "nation": null,
+        "rating": 6
+    },
+    {
+        "fullid": "char_472_pasngr",
+        "nameid": "pasngr",
+        "numberid": "472",
+        "name": {
+            "en": "Passenger",
+            "jp": "パッセンジャー",
+            "kr": "패신저",
+            "cn": "异客"
+        },
+        "nation": "sargon",
+        "rating": 6
+    },
+    {
+        "fullid": "char_472_pasngr_epoque#17",
+        "nameid": "pasngr-epoque",
+        "numberid": "472",
+        "name": {
+            "en": "Passenger EPOQUE",
+            "jp": "パッセンジャー EPOQUE",
+            "kr": "패신저 EPOQUE",
+            "cn": "异客 EPOQUE"
+        },
+        "nation": "sargon",
+        "rating": 6
+    },
+    {
+        "fullid": "char_426_billro",
+        "nameid": "billro",
+        "numberid": "426",
+        "name": {
+            "en": "Carnelian",
+            "jp": "カーネリアン",
+            "kr": "카넬리안",
+            "cn": "卡涅利安"
+        },
+        "nation": "leithanien",
+        "rating": 6
+    },
+    {
+        "fullid": "char_4080_lin",
+        "nameid": "lin",
+        "numberid": "4080",
+        "name": {
+            "en": "Lin",
+            "jp": "リン",
+            "kr": "린",
+            "cn": "林"
+        },
+        "nation": "lungmen",
+        "rating": 6
+    },
+    {
+        "fullid": "char_1046_sbell2",
+        "nameid": "sbell2",
+        "numberid": "1046",
+        "name": {
+            "en": "Pramanix the Prerita",
+            "jp": "聖聆プラマニクス",
+            "kr": "프라마닉스 더 프레리타",
+            "cn": "圣聆初雪"
+        },
+        "nation": "kjerag",
+        "rating": 6
+    },
+    {
+        "fullid": "char_377_gdglow",
+        "nameid": "gdglow",
+        "numberid": "377",
+        "name": {
+            "en": "Goldenglow",
+            "jp": "ゴールデングロー",
+            "kr": "골든글로우",
+            "cn": "澄闪"
+        },
+        "nation": "victoria",
+        "rating": 6
+    },
+    {
+        "fullid": "char_1038_whitw2",
+        "nameid": "whitw2",
+        "numberid": "1038",
+        "name": {
+            "en": "Lappland the Decadenza",
+            "jp": "荒蕪ラップランド",
+            "kr": "라플란드 더 데카덴차",
+            "cn": "荒芜拉普兰德"
+        },
+        "nation": "siracusa",
+        "rating": 6
+    },
+    {
+        "fullid": "char_1038_whitw2_sale#15",
+        "nameid": "whitw2-sale",
+        "numberid": "1038",
+        "name": {
+            "en": "Lappland the Decadenza SALE",
+            "jp": "荒蕪ラップランド SALE",
+            "kr": "라플란드 더 데카덴차 SALE",
+            "cn": "荒芜拉普兰德 SALE"
+        },
+        "nation": "siracusa",
+        "rating": 6
+    },
+    {
+        "fullid": "char_4046_ebnhlz",
+        "nameid": "ebnhlz",
+        "numberid": "4046",
+        "name": {
+            "en": "Ebenholz",
+            "jp": "エーベンホルツ",
+            "kr": "에벤홀츠",
+            "cn": "黑键"
+        },
+        "nation": "leithanien",
+        "rating": 6
+    },
+    {
+        "fullid": "char_4146_nymph",
+        "nameid": "nymph",
+        "numberid": "4146",
+        "name": {
+            "en": "Nymph",
+            "jp": "ニンフ",
+            "kr": "님프",
+            "cn": "妮芙"
+        },
+        "nation": "rhodes",
+        "rating": 6
+    },
+    {
+        "fullid": "char_1040_blaze2",
+        "nameid": "blaze2",
+        "numberid": "1040",
+        "name": {
+            "en": "Blaze the Igniting Spark",
+            "jp": "熾炎ブレイズ",
+            "kr": "블레이즈 디 이그나이팅 스파크",
+            "cn": "烛煌"
+        },
+        "nation": "rhodes",
+        "rating": 6
+    },
+    {
+        "fullid": "char_4204_mantra",
+        "nameid": "mantra",
+        "numberid": "4204",
+        "name": {
+            "en": "Mantra",
+            "jp": "マントラ",
+            "kr": "만트라",
+            "cn": "真言"
+        },
+        "nation": "rhodes",
+        "rating": 6
+    },
+    {
+        "fullid": "char_450_necras",
+        "nameid": "necras",
+        "numberid": "450",
+        "name": {
+            "en": "Necrass",
+            "jp": "ネクラス",
+            "kr": "네크라스",
+            "cn": "死芒"
+        },
+        "nation": "victoria",
+        "rating": 6
+    },
+    {
+        "fullid": "char_206_gnosis",
+        "nameid": "gnosis",
+        "numberid": "206",
+        "name": {
+            "en": "Gnosis",
+            "jp": "ノーシス",
+            "kr": "노시스",
+            "cn": "灵知"
+        },
+        "nation": "kjerag",
+        "rating": 6
+    },
+    {
+        "fullid": "char_291_aglina",
+        "nameid": "aglina",
+        "numberid": "291",
+        "name": {
+            "en": "Angelina",
+            "jp": "アンジェリーナ",
+            "kr": "안젤리나",
+            "cn": "安洁莉娜"
+        },
+        "nation": "siracusa",
+        "rating": 6
+    },
+    {
+        "fullid": "char_358_lisa",
+        "nameid": "lisa",
+        "numberid": "358",
+        "name": {
+            "en": "Suzuran",
+            "jp": "スズラン",
+            "kr": "스즈란",
+            "cn": "铃兰"
+        },
+        "nation": "siracusa",
+        "rating": 6
+    },
+    {
+        "fullid": "char_1047_halo2",
+        "nameid": "halo2",
+        "numberid": "1047",
+        "name": {
+            "en": "Astgenne the Lightchaser",
+            "jp": "溯光アステジーニ",
+            "kr": "아스트젠 더 라이트체이서",
+            "cn": "溯光星源"
+        },
+        "nation": "columbia",
+        "rating": 6
+    },
+    {
+        "fullid": "char_248_mgllan",
+        "nameid": "mgllan",
+        "numberid": "248",
+        "name": {
+            "en": "Magallan",
+            "jp": "マゼラン",
+            "kr": "마젤란",
+            "cn": "麦哲伦"
+        },
+        "nation": "columbia",
+        "rating": 6
+    },
+    {
+        "fullid": "char_4195_radian",
+        "nameid": "radian",
+        "numberid": "4195",
+        "name": {
+            "en": "Raidian",
+            "jp": "レイディアン",
+            "kr": "라이디언",
+            "cn": "电弧"
+        },
+        "nation": "rhodes",
+        "rating": 6
+    },
+    {
+        "fullid": "char_1012_skadi2",
+        "nameid": "skadi2",
+        "numberid": "1012",
+        "name": {
+            "en": "Skadi the Corrupting Heart",
+            "jp": "濁心スカジ",
+            "kr": "스카디 더 커럽팅 하트",
+            "cn": "浊心斯卡蒂"
+        },
+        "nation": "egir",
+        "rating": 6
+    },
+    {
+        "fullid": "char_1012_skadi2_iteration#2",
+        "nameid": "skadi2-iteration",
+        "numberid": "1012",
+        "name": {
+            "en": "Skadi the Corrupting Heart ITERATION",
+            "jp": "濁心スカジ ITERATION",
+            "kr": "스카디 더 커럽팅 하트 ITERATION",
+            "cn": "浊心斯卡蒂 ITERATION"
+        },
+        "nation": "egir",
+        "rating": 6
+    },
+    {
+        "fullid": "char_4134_cetsyr",
+        "nameid": "cetsyr",
+        "numberid": "4134",
+        "name": {
+            "en": "Civilight Eterna",
+            "jp": "シヴィライト・エテルナ",
+            "kr": "시빌라이트 에테르나",
+            "cn": "魔王"
+        },
+        "nation": "rhodes",
+        "rating": 6
+    },
+    {
+        "fullid": "char_4134_cetsyr_epoque#50",
+        "nameid": "cetsyr-epoque",
+        "numberid": "4134",
+        "name": {
+            "en": "Civilight Eterna EPOQUE",
+            "jp": "シヴィライト・エテルナ EPOQUE",
+            "kr": "시빌라이트 에테르나 EPOQUE",
+            "cn": "魔王 EPOQUE"
+        },
+        "nation": "rhodes",
+        "rating": 6
+    },
+    {
+        "fullid": "char_1031_slent2",
+        "nameid": "slent2",
+        "numberid": "1031",
+        "name": {
+            "en": "Silence the Paradigmatic",
+            "jp": "淬羽サイレンス",
+            "kr": "사일런스 더 패러디그매틱",
+            "cn": "淬羽赫默"
+        },
+        "nation": "columbia",
+        "rating": 6
+    },
+    {
+        "fullid": "char_4202_haruka",
+        "nameid": "haruka",
+        "numberid": "4202",
+        "name": {
+            "en": "Haruka",
+            "jp": "ハルカ",
+            "kr": "하루카",
+            "cn": "遥"
+        },
+        "nation": "higashi",
+        "rating": 6
+    },
+    {
+        "fullid": "char_2023_ling",
+        "nameid": "ling",
+        "numberid": "2023",
+        "name": {
+            "en": "Ling",
+            "jp": "リィン",
+            "kr": "링",
+            "cn": "令"
+        },
+        "nation": "yan",
+        "rating": 6
+    },
+    {
+        "fullid": "char_2023_ling_nian#12",
+        "nameid": "ling-nian",
+        "numberid": "2023",
+        "name": {
+            "en": "Ling NIAN",
+            "jp": "リィン NIAN",
+            "kr": "링 NIAN",
+            "cn": "令 NIAN"
+        },
+        "nation": "yan",
+        "rating": 6
+    },
+    {
+        "fullid": "char_4072_ironmn",
+        "nameid": "ironmn",
+        "numberid": "4072",
+        "name": {
+            "en": "Stainless",
+            "jp": "ステインレス",
+            "kr": "스테인리스",
+            "cn": "白铁"
+        },
+        "nation": "victoria",
+        "rating": 6
+    },
+    {
+        "fullid": "char_4212_nasti",
+        "nameid": "nasti",
+        "numberid": "4212",
+        "name": {
+            "en": "Nasti",
+            "jp": "ナスティ",
+            "kr": "내스티",
+            "cn": "娜斯提"
+        },
+        "nation": "columbia",
+        "rating": 6
+    },
+    {
+        "fullid": "char_245_cello",
+        "nameid": "cello",
+        "numberid": "245",
+        "name": {
+            "en": "Virtuosa",
+            "jp": "ヴィルトゥオーサ",
+            "kr": "비르투오사",
+            "cn": "塑心"
+        },
+        "nation": "laterano",
+        "rating": 6
+    },
+    {
+        "fullid": "char_245_cello_sale#12",
+        "nameid": "cello-sale",
+        "numberid": "245",
+        "name": {
+            "en": "Virtuosa SALE",
+            "jp": "ヴィルトゥオーサ SALE",
+            "kr": "비르투오사 SALE",
+            "cn": "塑心 SALE"
+        },
+        "nation": "laterano",
+        "rating": 6
+    },
+    {
+        "fullid": "char_1042_phatm2",
+        "nameid": "phatm2",
+        "numberid": "1042",
+        "name": {
+            "en": "Tragodia",
+            "jp": "トラゴーディア",
+            "kr": "트라고디아",
+            "cn": "酒神"
+        },
+        "nation": "victoria",
+        "rating": 6
+    },
+    {
+        "fullid": "char_250_phatom",
+        "nameid": "phatom",
+        "numberid": "250",
+        "name": {
+            "en": "Phantom",
+            "jp": "ファントム",
+            "kr": "팬텀",
+            "cn": "傀影"
+        },
+        "nation": "victoria",
+        "rating": 6
+    },
+    {
+        "fullid": "char_1028_texas2",
+        "nameid": "texas2",
+        "numberid": "1028",
+        "name": {
+            "en": "Texas the Omertosa",
+            "jp": "血掟テキサス",
+            "kr": "텍사스 디 오메르토사",
+            "cn": "缄默德克萨斯"
+        },
+        "nation": "lungmen",
+        "rating": 6
+    },
+    {
+        "fullid": "char_1029_yato2",
+        "nameid": "yato2",
+        "numberid": "1029",
+        "name": {
+            "en": "Kirin R Yato",
+            "jp": "キリンRヤトウ",
+            "kr": "키린R 야토",
+            "cn": "麒麟R夜刀"
+        },
+        "nation": "rhodes",
+        "rating": 6
+    },
+    {
+        "fullid": "char_1502_crosly",
+        "nameid": "crosly",
+        "numberid": "1502",
+        "name": {
+            "en": "Crownslayer",
+            "jp": "クラウンスレイヤー",
+            "kr": "크라운슬레이어",
+            "cn": "弑君者"
+        },
+        "nation": "rhodes",
+        "rating": 6
+    },
+    {
+        "fullid": "char_322_lmlee",
+        "nameid": "lmlee",
+        "numberid": "322",
+        "name": {
+            "en": "Lee",
+            "jp": "リー",
+            "kr": "리",
+            "cn": "老鲤"
+        },
+        "nation": "lungmen",
+        "rating": 6
+    },
+    {
+        "fullid": "char_1033_swire2",
+        "nameid": "swire2",
+        "numberid": "1033",
+        "name": {
+            "en": "Swire the Elegant Wit",
+            "jp": "琳琅スワイヤー",
+            "kr": "스와이어 디 엘리건트 위트",
+            "cn": "琳琅诗怀雅"
+        },
+        "nation": "lungmen",
+        "rating": 6
+    },
+    {
+        "fullid": "char_400_weedy",
+        "nameid": "weedy",
+        "numberid": "400",
+        "name": {
+            "en": "Weedy",
+            "jp": "ウィーディ",
+            "kr": "위디",
+            "cn": "温蒂"
+        },
+        "nation": "rhodes",
+        "rating": 6
+    },
+    {
+        "fullid": "char_225_haak",
+        "nameid": "haak",
+        "numberid": "225",
+        "name": {
+            "en": "Aak",
+            "jp": "ア",
+            "kr": "아",
+            "cn": "阿"
+        },
+        "nation": "lungmen",
+        "rating": 6
+    },
+    {
+        "fullid": "char_1041_angel2",
+        "nameid": "angel2",
+        "numberid": "1041",
+        "name": {
+            "en": "Exusiai the New Covenant",
+            "jp": "新約エクシア",
+            "kr": "엑시아 더 뉴 커버넌트",
+            "cn": "新约能天使"
+        },
+        "nation": "lungmen",
+        "rating": 6
+    },
+    {
+        "fullid": "char_474_glady",
+        "nameid": "glady",
+        "numberid": "474",
+        "name": {
+            "en": "Gladiia",
+            "jp": "グレイディーア",
+            "kr": "글래디아",
+            "cn": "歌蕾蒂娅"
+        },
+        "nation": "egir",
+        "rating": 6
+    },
+    {
+        "fullid": "char_437_mizuki",
+        "nameid": "mizuki",
+        "numberid": "437",
+        "name": {
+            "en": "Mizuki",
+            "jp": "ミヅキ",
+            "kr": "미즈키",
+            "cn": "水月"
+        },
+        "nation": "higashi",
+        "rating": 6
+    },
+    {
+        "fullid": "char_4132_ascln",
+        "nameid": "ascln",
+        "numberid": "4132",
+        "name": {
+            "en": "Ascalon",
+            "jp": "アスカロン",
+            "kr": "아스카론",
+            "cn": "阿斯卡纶"
+        },
+        "nation": "rhodes",
+        "rating": 6
+    },
+    {
+        "fullid": "char_1023_ghost2",
+        "nameid": "ghost2",
+        "numberid": "1023",
+        "name": {
+            "en": "Specter the Unchained",
+            "jp": "帰溟スペクター",
+            "kr": "스펙터 디 언체인드",
+            "cn": "归溟幽灵鲨"
+        },
+        "nation": "egir",
+        "rating": 6
+    },
+    {
+        "fullid": "char_4048_doroth",
+        "nameid": "doroth",
+        "numberid": "4048",
+        "name": {
+            "en": "Dorothy",
+            "jp": "ドロシー",
+            "kr": "도로시",
+            "cn": "多萝西"
+        },
+        "nation": "columbia",
+        "rating": 6
+    },
+    {
+        "fullid": "char_4123_ela",
+        "nameid": "ela",
+        "numberid": "4123",
+        "name": {
+            "en": "Ela",
+            "jp": "Ela",
+            "kr": "Ela",
+            "cn": "艾拉"
+        },
+        "nation": null,
+        "rating": 6
+    },
+    {
+        "fullid": "char_2027_wang",
+        "nameid": "wang",
+        "numberid": "2027",
+        "name": {
+            "en": "Wang",
+            "jp": "ウァン",
+            "kr": "왕",
+            "cn": "望"
+        },
+        "nation": "yan",
+        "rating": 6
+    },
+    {
+        "fullid": "char_1039_thorn2",
+        "nameid": "thorn2",
+        "numberid": "1039",
+        "name": {
+            "en": "Thorns the Lodestar",
+            "jp": "引星ソーンズ",
+            "kr": "쏜즈 더 로드스타",
+            "cn": "引星棘刺"
+        },
+        "nation": "iberia",
+        "rating": 6
+    },
+    {
+        "fullid": "char_147_shining",
+        "nameid": "shining",
+        "numberid": "147",
+        "name": {
+            "en": "Shining",
+            "jp": "シャイニング",
+            "kr": "샤이닝",
+            "cn": "闪灵"
+        },
+        "nation": null,
+        "rating": 6
+    },
+    {
+        "fullid": "char_179_cgbird",
+        "nameid": "cgbird",
+        "numberid": "179",
+        "name": {
+            "en": "Nightingale",
+            "jp": "ナイチンゲール",
+            "kr": "나이팅게일",
+            "cn": "夜莺"
+        },
+        "nation": null,
+        "rating": 6
+    },
+    {
+        "fullid": "char_003_kalts",
+        "nameid": "kalts",
+        "numberid": "003",
+        "name": {
+            "en": "Kal'tsit",
+            "jp": "ケルシー",
+            "kr": "켈시",
+            "cn": "凯尔希"
+        },
+        "nation": "rhodes",
+        "rating": 6
+    },
+    {
+        "fullid": "char_003_kalts_boc#6",
+        "nameid": "kalts-boc",
+        "numberid": "003",
+        "name": {
+            "en": "Kal'tsit BOC",
+            "jp": "ケルシー BOC",
+            "kr": "켈시 BOC",
+            "cn": "凯尔希 BOC"
+        },
+        "nation": "rhodes",
+        "rating": 6
+    },
+    {
+        "fullid": "char_4042_lumen",
+        "nameid": "lumen",
+        "numberid": "4042",
+        "name": {
+            "en": "Lumen",
+            "jp": "ルーメン",
+            "kr": "루멘",
+            "cn": "流明"
+        },
+        "nation": "iberia",
+        "rating": 6
+    },
+    {
+        "fullid": "char_1016_agoat2",
+        "nameid": "agoat2",
+        "numberid": "1016",
+        "name": {
+            "en": "Eyjafjalla the Hvít Aska",
+            "jp": "純燼エイヤフィヤトラ",
+            "kr": "에이야퍄들라 더 크비트 아스카",
+            "cn": "纯烬艾雅法拉"
+        },
+        "nation": "leithanien",
+        "rating": 6
+    },
+    {
+        "fullid": "char_1016_agoat2_epoque#34",
+        "nameid": "agoat2-epoque",
+        "numberid": "1016",
+        "name": {
+            "en": "Eyjafjalla the Hvít Aska EPOQUE",
+            "jp": "純燼エイヤフィヤトラ EPOQUE",
+            "kr": "에이야퍄들라 더 크비트 아스카 EPOQUE",
+            "cn": "纯烬艾雅法拉 EPOQUE"
+        },
+        "nation": "leithanien",
+        "rating": 6
+    },
+    {
+        "fullid": "char_1020_reed2",
+        "nameid": "reed2",
+        "numberid": "1020",
+        "name": {
+            "en": "Reed the Flame Shadow",
+            "jp": "焔影リード",
+            "kr": "리드 더 플레임 섀도우",
+            "cn": "焰影苇草"
+        },
+        "nation": "victoria",
+        "rating": 6
+    },
+    {
+        "fullid": "char_4056_titi",
+        "nameid": "titi",
+        "numberid": "4056",
+        "name": {
+            "en": "Titi",
+            "jp": "ティティ",
+            "kr": "티티",
+            "cn": "缇缇"
+        },
+        "nation": "sargon",
+        "rating": 6
+    },
+    {
+        "fullid": "char_4179_monstr",
+        "nameid": "monstr",
+        "numberid": "4179",
+        "name": {
+            "en": "Mon3tr",
+            "jp": "Mon3tr",
+            "kr": "Mon3tr",
+            "cn": "Mon3tr"
+        },
+        "nation": "rhodes",
+        "rating": 6
+    },
+    {
+        "fullid": "char_136_hsguma",
+        "nameid": "hsguma",
+        "numberid": "136",
+        "name": {
+            "en": "Hoshiguma",
+            "jp": "ホシグマ",
+            "kr": "호시구마",
+            "cn": "星熊"
+        },
+        "nation": "lungmen",
+        "rating": 6
+    },
+    {
+        "fullid": "char_202_demkni",
+        "nameid": "demkni",
+        "numberid": "202",
+        "name": {
+            "en": "Saria",
+            "jp": "サリア",
+            "kr": "사리아",
+            "cn": "塞雷娅"
+        },
+        "nation": "columbia",
+        "rating": 6
+    },
+    {
+        "fullid": "char_423_blemsh",
+        "nameid": "blemsh",
+        "numberid": "423",
+        "name": {
+            "en": "Blemishine",
+            "jp": "ブレミシャイン",
+            "kr": "블레미샤인",
+            "cn": "瑕光"
+        },
+        "nation": "kazimierz",
+        "rating": 6
+    },
+    {
+        "fullid": "char_2025_shu",
+        "nameid": "shu",
+        "numberid": "2025",
+        "name": {
+            "en": "Shu",
+            "jp": "シュウ",
+            "kr": "슈",
+            "cn": "黍"
+        },
+        "nation": "yan",
+        "rating": 6
+    },
+    {
+        "fullid": "char_2014_nian",
+        "nameid": "nian",
+        "numberid": "2014",
+        "name": {
+            "en": "Nian",
+            "jp": "ニェン",
+            "kr": "니엔",
+            "cn": "年"
+        },
+        "nation": "yan",
+        "rating": 6
+    },
+    {
+        "fullid": "char_311_mudrok",
+        "nameid": "mudrok",
+        "numberid": "311",
+        "name": {
+            "en": "Mudrock",
+            "jp": "マドロック",
+            "kr": "머드락",
+            "cn": "泥岩"
+        },
+        "nation": "rhodes",
+        "rating": 6
+    },
+    {
+        "fullid": "char_311_mudrok#1",
+        "nameid": "mudrok-e2",
+        "numberid": "311",
+        "name": {
+            "en": "Mudrock E2",
+            "jp": "マドロック E2",
+            "kr": "머드락 E2",
+            "cn": "泥岩 E2"
+        },
+        "nation": "rhodes",
+        "rating": 6
+    },
+    {
+        "fullid": "char_4065_judge",
+        "nameid": "judge",
+        "numberid": "4065",
+        "name": {
+            "en": "Penance",
+            "jp": "ペナンス",
+            "kr": "페넌스",
+            "cn": "斥罪"
+        },
+        "nation": "siracusa",
+        "rating": 6
+    },
+    {
+        "fullid": "char_416_zumama",
+        "nameid": "zumama",
+        "numberid": "416",
+        "name": {
+            "en": "Eunectes",
+            "jp": "ユーネクテス",
+            "kr": "유넥티스",
+            "cn": "森蚺"
+        },
+        "nation": "sargon",
+        "rating": 6
+    },
+    {
+        "fullid": "char_4039_horn",
+        "nameid": "horn",
+        "numberid": "4039",
+        "name": {
+            "en": "Horn",
+            "jp": "ホルン",
+            "kr": "혼",
+            "cn": "号角"
+        },
+        "nation": "victoria",
+        "rating": 6
+    },
+    {
+        "fullid": "char_1034_jesca2",
+        "nameid": "jesca2",
+        "numberid": "1034",
+        "name": {
+            "en": "Jessica the Liberated",
+            "jp": "滌火ジェシカ",
+            "kr": "제시카 더 리버레이티드",
+            "cn": "涤火杰西卡"
+        },
+        "nation": "columbia",
+        "rating": 6
+    },
+    {
+        "fullid": "char_4194_rmixer",
+        "nameid": "rmixer",
+        "numberid": "4194",
+        "name": {
+            "en": "Sankta Miksaparato",
+            "jp": "サンクタ・ミキサー",
+            "kr": "산크타 믹사파라토",
+            "cn": "信仰搅拌机"
+        },
+        "nation": "laterano",
+        "rating": 6
+    },
+    {
+        "fullid": "char_2026_yu",
+        "nameid": "yu",
+        "numberid": "2026",
+        "name": {
+            "en": "Yu",
+            "jp": "ユー",
+            "kr": "위",
+            "cn": "余"
+        },
+        "nation": "yan",
+        "rating": 6
+    },
+    {
+        "fullid": "char_1044_hsgma2",
+        "nameid": "hsgma2",
+        "numberid": "1044",
+        "name": {
+            "en": "Hoshiguma the Breacher",
+            "jp": "斬業ホシグマ",
+            "kr": "호시구마 더 브리처",
+            "cn": "斩业星熊"
+        },
+        "nation": "lungmen",
+        "rating": 6
+    },
+    {
+        "fullid": "char_264_f12yin",
+        "nameid": "f12yin",
+        "numberid": "264",
+        "name": {
+            "en": "Mountain",
+            "jp": "マウンテン",
+            "kr": "마운틴",
+            "cn": "山"
+        },
+        "nation": "columbia",
+        "rating": 6
+    },
+    {
+        "fullid": "char_2024_chyue",
+        "nameid": "chyue",
+        "numberid": "2024",
+        "name": {
+            "en": "Chongyue",
+            "jp": "チョンユエ",
+            "kr": "총웨",
+            "cn": "重岳"
+        },
+        "nation": "yan",
+        "rating": 6
+    },
+    {
+        "fullid": "char_2024_chyue_cfa#1",
+        "nameid": "chyue-cfa",
+        "numberid": "2024",
+        "name": {
+            "en": "Chongyue CFA",
+            "jp": "チョンユエ CFA",
+            "kr": "총웨 CFA",
+            "cn": "重岳 CFA"
+        },
+        "nation": "yan",
+        "rating": 6
+    },
+    {
+        "fullid": "char_4037_demetr",
+        "nameid": "demetr",
+        "numberid": "4037",
+        "name": {
+            "en": "Bellone",
+            "jp": "ベッローネ",
+            "kr": "벨로네",
+            "cn": "贝洛内"
+        },
+        "nation": "siracusa",
+        "rating": 6
+    },
+    {
+        "fullid": "char_172_svrash",
+        "nameid": "svrash",
+        "numberid": "172",
+        "name": {
+            "en": "SilverAsh",
+            "jp": "シルバーアッシュ",
+            "kr": "실버애쉬",
+            "cn": "银灰"
+        },
+        "nation": "kjerag",
+        "rating": 6
+    },
+    {
+        "fullid": "char_293_thorns",
+        "nameid": "thorns",
+        "numberid": "293",
+        "name": {
+            "en": "Thorns",
+            "jp": "ソーンズ",
+            "kr": "쏜즈",
+            "cn": "棘刺"
+        },
+        "nation": "iberia",
+        "rating": 6
+    },
+    {
+        "fullid": "char_4082_qiubai",
+        "nameid": "qiubai",
+        "numberid": "4082",
+        "name": {
+            "en": "Qiubai",
+            "jp": "チューバイ",
+            "kr": "치우바이",
+            "cn": "仇白"
+        },
+        "nation": "yan",
+        "rating": 6
+    },
+    {
+        "fullid": "char_4182_oblvns",
+        "nameid": "oblvns",
+        "numberid": "4182",
+        "name": {
+            "en": "Sakiko Togawa",
+            "jp": "豊川祥子",
+            "kr": "토가와 사키코",
+            "cn": "丰川祥子"
+        },
+        "nation": null,
+        "rating": 6
+    },
+    {
+        "fullid": "char_4088_hodrer",
+        "nameid": "hodrer",
+        "numberid": "4088",
+        "name": {
+            "en": "Hoederer",
+            "jp": "ヘドリー",
+            "kr": "외드레르",
+            "cn": "赫德雷"
+        },
+        "nation": null,
+        "rating": 6
+    },
+    {
+        "fullid": "char_4145_ulpia",
+        "nameid": "ulpia",
+        "numberid": "4145",
+        "name": {
+            "en": "Ulpianus",
+            "jp": "ウルピアヌス",
+            "kr": "울피아누스",
+            "cn": "乌尔比安"
+        },
+        "nation": "egir",
+        "rating": 6
+    },
+    {
+        "fullid": "char_4058_pepe",
+        "nameid": "pepe",
+        "numberid": "4058",
+        "name": {
+            "en": "Pepe",
+            "jp": "ペペ",
+            "kr": "페페",
+            "cn": "佩佩"
+        },
+        "nation": "sargon",
+        "rating": 6
+    },
+    {
+        "fullid": "char_010_chen",
+        "nameid": "chen",
+        "numberid": "010",
+        "name": {
+            "en": "Ch'en",
+            "jp": "チェン",
+            "kr": "첸",
+            "cn": "陈"
+        },
+        "nation": "lungmen",
+        "rating": 6
+    },
+    {
+        "fullid": "char_4009_irene",
+        "nameid": "irene",
+        "numberid": "4009",
+        "name": {
+            "en": "Irene",
+            "jp": "アイリーニ",
+            "kr": "아이린",
+            "cn": "艾丽妮"
+        },
+        "nation": "iberia",
+        "rating": 6
+    },
+    {
+        "fullid": "char_4116_blkkgt",
+        "nameid": "blkkgt",
+        "numberid": "4116",
+        "name": {
+            "en": "Degenbrecher",
+            "jp": "デーゲンブレヒャー",
+            "kr": "데겐블레허",
+            "cn": "锏"
+        },
+        "nation": "kjerag",
+        "rating": 6
+    },
+    {
+        "fullid": "char_017_huang",
+        "nameid": "huang",
+        "numberid": "017",
+        "name": {
+            "en": "Blaze",
+            "jp": "ブレイズ",
+            "kr": "블레이즈",
+            "cn": "煌"
+        },
+        "nation": "rhodes",
+        "rating": 6
+    },
+    {
+        "fullid": "char_1026_gvial2",
+        "nameid": "gvial2",
+        "numberid": "1026",
+        "name": {
+            "en": "Gavial the Invincible",
+            "jp": "百錬ガヴィル",
+            "kr": "가비알 디 인빈서블",
+            "cn": "百炼嘉维尔"
+        },
+        "nation": "rhodes",
+        "rating": 6
+    },
+    {
+        "fullid": "char_350_surtr",
+        "nameid": "surtr",
+        "numberid": "350",
+        "name": {
+            "en": "Surtr",
+            "jp": "スルト",
+            "kr": "수르트",
+            "cn": "史尔特尔"
+        },
+        "nation": "rhodes",
+        "rating": 6
+    },
+    {
+        "fullid": "char_4098_vvana",
+        "nameid": "vvana",
+        "numberid": "4098",
+        "name": {
+            "en": "Viviana",
+            "jp": "ヴィヴィアナ",
+            "kr": "비비아나",
+            "cn": "薇薇安娜"
+        },
+        "nation": "leithanien",
+        "rating": 6
+    },
+    {
+        "fullid": "char_1019_siege2",
+        "nameid": "siege2",
+        "numberid": "1019",
+        "name": {
+            "en": "Vina Victoria",
+            "jp": "ヴィーナ・ヴィクトリア",
+            "kr": "비나 빅토리아",
+            "cn": "维娜·维多利亚"
+        },
+        "nation": "victoria",
+        "rating": 6
+    },
+    {
+        "fullid": "char_1050_chen3",
+        "nameid": "chen3",
+        "numberid": "1050",
+        "name": {
+            "en": "Ch'en the Dawnstreak",
+            "jp": "赤刃明霄チェン",
+            "kr": "첸 더 던스트릭",
+            "cn": "赤刃明霄陈"
+        },
+        "nation": "yan",
+        "rating": 6
+    },
+    {
+        "fullid": "char_188_helage",
+        "nameid": "helage",
+        "numberid": "188",
+        "name": {
+            "en": "Hellagur",
+            "jp": "ヘラグ",
+            "kr": "헬라그",
+            "cn": "赫拉格"
+        },
+        "nation": "ursus",
+        "rating": 6
+    },
+    {
+        "fullid": "char_4121_zuole",
+        "nameid": "zuole",
+        "numberid": "4121",
+        "name": {
+            "en": "Zuo Le",
+            "jp": "ズオ・ラウ",
+            "kr": "좌락",
+            "cn": "左乐"
+        },
+        "nation": "yan",
+        "rating": 6
+    },
+    {
+        "fullid": "char_485_pallas",
+        "nameid": "pallas",
+        "numberid": "485",
+        "name": {
+            "en": "Pallas",
+            "jp": "パラス",
+            "kr": "팔라스",
+            "cn": "帕拉斯"
+        },
+        "nation": "minos",
+        "rating": 6
+    },
+    {
+        "fullid": "char_1014_nearl2",
+        "nameid": "nearl2",
+        "numberid": "1014",
+        "name": {
+            "en": "Nearl the Radiant Knight",
+            "jp": "耀騎士ニアール",
+            "kr": "니어 더 래디언트 나이트",
+            "cn": "耀骑士临光"
+        },
+        "nation": "kazimierz",
+        "rating": 6
+    },
+    {
+        "fullid": "char_4011_lessng",
+        "nameid": "lessng",
+        "numberid": "4011",
+        "name": {
+            "en": "Lessing",
+            "jp": "レッシング",
+            "kr": "레싱",
+            "cn": "止颂"
+        },
+        "nation": "leithanien",
+        "rating": 6
+    },
+    {
+        "fullid": "char_1032_excu2",
+        "nameid": "excu2",
+        "numberid": "1032",
+        "name": {
+            "en": "Executor the Ex Foedere",
+            "jp": "聖約イグゼキュター",
+            "kr": "이그제큐터 디 엑스 포에데레",
+            "cn": "圣约送葬人"
+        },
+        "nation": "laterano",
+        "rating": 6
+    },
+    {
+        "fullid": "char_1032_excu2_sale#12",
+        "nameid": "excu2-sale",
+        "numberid": "1032",
+        "name": {
+            "en": "Executor the Ex Foedere SALE",
+            "jp": "聖約イグゼキュター SALE",
+            "kr": "이그제큐터 디 엑스 포에데레 SALE",
+            "cn": "圣约送葬人 SALE"
+        },
+        "nation": "laterano",
+        "rating": 6
+    },
+    {
+        "fullid": "char_4010_etlchi",
+        "nameid": "etlchi",
+        "numberid": "4010",
+        "name": {
+            "en": "Entelechia",
+            "jp": "エンテレケイア",
+            "kr": "엔텔레키아",
+            "cn": "隐德来希"
+        },
+        "nation": "rhodes",
+        "rating": 6
+    },
+    {
+        "fullid": "char_4064_mlynar",
+        "nameid": "mlynar",
+        "numberid": "4064",
+        "name": {
+            "en": "Młynar",
+            "jp": "ムリナール",
+            "kr": "무에나",
+            "cn": "玛恩纳"
+        },
+        "nation": "kazimierz",
+        "rating": 6
+    },
+    {
+        "fullid": "char_4064_mlynar_epoque#28",
+        "nameid": "mlynar-epoque",
+        "numberid": "4064",
+        "name": {
+            "en": "Młynar EPOQUE",
+            "jp": "ムリナール EPOQUE",
+            "kr": "무에나 EPOQUE",
+            "cn": "玛恩纳 EPOQUE"
+        },
+        "nation": "kazimierz",
+        "rating": 6
+    },
+    {
+        "fullid": "char_1043_leizi2",
+        "nameid": "leizi2",
+        "numberid": "1043",
+        "name": {
+            "en": "Leizi the Thunderbringer",
+            "jp": "司霆レイズ",
+            "kr": "레이즈 더 썬더브링어",
+            "cn": "司霆惊蛰"
+        },
+        "nation": "yan",
+        "rating": 6
+    },
+    {
+        "fullid": "char_4214_cairn",
+        "nameid": "cairn",
+        "numberid": "4214",
+        "name": {
+            "en": "Cairn",
+            "jp": "ケルン",
+            "kr": "케언",
+            "cn": "响石"
+        },
+        "nation": "columbia",
+        "rating": 5
+    },
+    {
+        "fullid": "char_230_savage",
+        "nameid": "savage",
+        "numberid": "230",
+        "name": {
+            "en": "Savage",
+            "jp": "サベージ",
+            "kr": "새비지",
+            "cn": "暴行"
+        },
+        "nation": "rim",
+        "rating": 5
+    },
+    {
+        "fullid": "char_282_catap",
+        "nameid": "catap",
+        "numberid": "282",
+        "name": {
+            "en": "Catapult",
+            "jp": "カタパルト",
+            "kr": "캐터펄트",
+            "cn": "空爆"
+        },
+        "nation": "rhodes",
+        "rating": 3
+    },
+    {
+        "fullid": "char_283_midn",
+        "nameid": "midn",
+        "numberid": "283",
+        "name": {
+            "en": "Midnight",
+            "jp": "ミッドナイト",
+            "kr": "미드나이트",
+            "cn": "月见夜"
+        },
+        "nation": "rhodes",
+        "rating": 3
+    },
+    {
+        "fullid": "char_137_brownb",
+        "nameid": "brownb",
+        "numberid": "137",
+        "name": {
+            "en": "Beehunter",
+            "jp": "ビーハンター",
+            "kr": "비헌터",
+            "cn": "猎蜂"
+        },
+        "nation": "ursus",
+        "rating": 4
+    },
+    {
+        "fullid": "char_347_jaksel",
+        "nameid": "jaksel",
+        "numberid": "347",
+        "name": {
+            "en": "Jackie",
+            "jp": "ジャッキー",
+            "kr": "재키",
+            "cn": "杰克"
+        },
+        "nation": "columbia",
+        "rating": 4
+    },
+    {
+        "fullid": "char_164_nightm",
+        "nameid": "nightm",
+        "numberid": "164",
+        "name": {
+            "en": "Nightmare",
+            "jp": "ナイトメア",
+            "kr": "나이트메어",
+            "cn": "夜魔"
+        },
+        "nation": "victoria",
+        "rating": 5
+    },
+    {
+        "fullid": "char_220_grani",
+        "nameid": "grani",
+        "numberid": "220",
+        "name": {
+            "en": "Grani",
+            "jp": "グラニ",
+            "kr": "그라니",
+            "cn": "格拉尼"
+        },
+        "nation": "victoria",
+        "rating": 5
+    },
+    {
+        "fullid": "char_263_skadi",
+        "nameid": "skadi",
+        "numberid": "263",
+        "name": {
+            "en": "Skadi",
+            "jp": "スカジ",
+            "kr": "스카디",
+            "cn": "斯卡蒂"
+        },
+        "nation": "egir",
+        "rating": 6
+    }
+]

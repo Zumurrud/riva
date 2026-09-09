@@ -21,4 +21,4 @@ update-json: ensure-directory-structure
 
 do-the-thing: ensure-directory-structure
   uv run --with requests doeverything.py
-  cp miscdata.json welcome.json ../site/static/data
+  cp charlist.json miscdata.json welcome.json ../site/src/lib/data

@@ -7,15 +7,25 @@
   import RatingFilter from "./RatingFilter.svelte";
   import FactionFilter from "./FactionFilter.svelte";
   import MobileFilterMenu from "./MobileFilterMenu.svelte";
+  import charlist from "$lib/data/charlist.json";
+  import miscdata from "$lib/data/miscdata.json";
 
-  import type { SingleChar } from "./+page.server";
-  export let data;
+  interface SingleChar {
+    fullid: string,
+    nameid: string,
+    numberid: string,
+    name: {
+      en: string,
+      cn: string,
+      jp: string,
+      kr: string,
+    },
+    nation: string | null,
+    rating: number,
+  }
 
-  let charlist: SingleChar[];
   let filteredCharlist: SingleChar[];
-  let nations: string[];
 
-  charlist = data.charlist;
   charlist.sort((a, b) => {
     // TODO: sort lexicographically by selected language
     if (a.name.en < b.name.en) {
@@ -26,7 +36,7 @@
   })
 
   $: filteredCharlist = filterCharlist(charlist, appliedFilters)
-  $: nations = data.miscdata.nations.filter(n => !!n);
+  $: nations = miscdata.nations.filter(n => !!n);
 
   type Filters = {
     name: string,
@@ -57,7 +67,7 @@
       }
 
       if (include && filter.nation.length > 0) {
-        include = filter.nation.includes(char.nation);
+        include = char.nation != null && filter.nation.includes(char.nation);
       }
 
       return include;
