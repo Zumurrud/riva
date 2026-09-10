@@ -1,6 +1,11 @@
 <script lang="ts">
   import SiteHeader from "./SiteHeader.svelte";
   import SiteFooter from "./SiteFooter.svelte";
+  interface Props {
+    children?: import("svelte").Snippet;
+  }
+
+  let { children }: Props = $props();
 </script>
 
 <svelte:head>
@@ -17,7 +22,7 @@
   />
 </svelte:head>
 <SiteHeader />
-<slot></slot>
+{@render children?.()}
 <SiteFooter />
 
 <style>

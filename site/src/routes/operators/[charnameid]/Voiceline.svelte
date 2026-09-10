@@ -2,9 +2,13 @@
   import { currentLang } from "$lib/stores";
   import AudioPlayer from "./AudioPlayer.svelte";
 
-  export let voicedata: Voicedata;
-  export let availability: string[] = [];
-  export let pathOverride;
+  interface Props {
+    voicedata: Voicedata;
+    availability?: string[];
+    pathOverride: any;
+  }
+
+  let { voicedata, availability = [], pathOverride }: Props = $props();
 
   interface Voicedata {
     title: {

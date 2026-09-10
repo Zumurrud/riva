@@ -1,9 +1,14 @@
 <script lang="ts">
-  export let label: string = "N/A";
-  export let selected: boolean = false;
+  interface Props {
+    label?: string;
+    selected?: boolean;
+    onclick: () => void;
+  }
+
+  let { label = "N/A", selected = false, onclick }: Props = $props();
 </script>
 
-<button class:selected on:click>
+<button class:selected {onclick}>
   {label}
 </button>
 

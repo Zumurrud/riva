@@ -3,7 +3,7 @@
   import MenuIcon from "$lib/icons/MenuIcon.svelte";
   import Drawer from "svelte-drawer-component";
 
-  let open = false;
+  let open = $state(false);
 
   function closeDrawer() {
     open = false;
@@ -12,16 +12,16 @@
 
 <header>
   <a href="{base}/"><h1>RIVA</h1></a>
-  <button class="burger-button" on:click={() => (open = true)}
+  <button class="burger-button" onclick={() => (open = true)}
     ><MenuIcon /></button
   >
 
   <h2>Rhodes Island Voice Archive</h2>
 
   <nav class="fullsize-nav">
-    <a href="{base}/" on:click={closeDrawer}>Home</a>
-    <a href="{base}/credits" on:click={closeDrawer}>Credits</a>
-    <a href="{base}/operators" on:click={closeDrawer}>Operators</a>
+    <a href="{base}/" onclick={closeDrawer}>Home</a>
+    <a href="{base}/credits" onclick={closeDrawer}>Credits</a>
+    <a href="{base}/operators" onclick={closeDrawer}>Operators</a>
   </nav>
 </header>
 
@@ -33,9 +33,9 @@
     on:clickAway={() => (open = false)}
   >
     <nav>
-      <a href="{base}/" on:click={closeDrawer}>Home</a>
-      <a href="{base}/credits" on:click={closeDrawer}>Credits</a>
-      <a href="{base}/operators" on:click={closeDrawer}>Operators</a>
+      <a href="{base}/" onclick={closeDrawer}>Home</a>
+      <a href="{base}/credits" onclick={closeDrawer}>Credits</a>
+      <a href="{base}/operators" onclick={closeDrawer}>Operators</a>
     </nav>
   </Drawer>
 </div>

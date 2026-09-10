@@ -1,12 +1,16 @@
 <script lang="ts">
   import StarIcon from "$lib/icons/StarIcon.svelte";
 
-  export let rating = 0;
-  $: starArray = Array(rating);
+  interface Props {
+    rating: number;
+    onclick: () => void;
+  }
+
+  let { rating, onclick }: Props = $props();
 </script>
 
-<button on:click class="single-rating">
-  {#each starArray as _, __}
+<button class="single-rating" {onclick}>
+  {#each { length: rating }}
     <StarIcon />
   {/each}
 </button>

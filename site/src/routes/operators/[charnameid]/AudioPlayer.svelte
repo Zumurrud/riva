@@ -1,12 +1,16 @@
 <script lang="ts">
   import AudioIcon from "$lib/icons/AudioIcon.svelte";
 
-  export let assetloc: string;
-  export let availability: string[] = [];
-  export let pathOverride: { [key: string]: string };
+  interface Props {
+    assetloc: string;
+    availability?: string[];
+    pathOverride: { [key: string]: string };
+  }
+
+  let { assetloc, availability = [], pathOverride }: Props = $props();
 
   // Some skins have # in the name, which has to be escaped in the URL
-  $: assetlocClean = assetloc.replace("#", "%23").toLowerCase();
+  let assetlocClean = $derived(assetloc.replace("#", "%23").toLowerCase());
 
   const sourceurl =
     "https://raw.githubusercontent.com/Zumurrud/riva-voices/main";
@@ -71,12 +75,9 @@
     return null;
   }
 
-  let audiofile: string | null;
-  $: audiofile = getAudioFileUrl(selectedLang);
-
-  let selectedLang: string | null = null;
-  let showAudio: boolean;
-  $: showAudio = selectedLang != null && audiofile != null;
+  let selectedLang: string | null = $state(null);
+  let audiofile: string | null = $derived(getAudioFileUrl(selectedLang));
+  let showAudio: boolean = $derived(selectedLang != null && audiofile != null);
 
   function clickLang(lang: string) {
     if (lang === selectedLang) {
@@ -93,7 +94,7 @@
     <AudioIcon />
     {#each availability as lang}
       <button
-        on:click={() => clickLang(lang)}
+        onclick={() => clickLang(lang)}
         class:selected={selectedLang === lang}
         class:no-width={oldLangs.includes(lang)}
         >{nameMapping.has(lang)

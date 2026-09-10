@@ -6,9 +6,10 @@
   import Photocard from "$lib/char/Photocard.svelte";
   import VoiceCredits from "./VoiceCredits.svelte";
   import Voiceline from "./Voiceline.svelte";
+  import type { Chardata } from "./+page.server";
 
-  export let data;
-  let photosrc = getAvatarUrl(data.nameid, base);
+  let { data }: { data: Chardata } = $props();
+  let photosrc = $derived(getAvatarUrl(data.nameid, base));
 </script>
 
 <svelte:head>

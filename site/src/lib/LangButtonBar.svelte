@@ -8,26 +8,13 @@
 </script>
 
 <div class="lang-buttons">
-  <LangButton
-    label="EN"
-    selected={$currentLang == "en"}
-    on:click={() => langClicked("en")}
-  />
-  <LangButton
-    label="CN"
-    selected={$currentLang == "cn"}
-    on:click={() => langClicked("cn")}
-  />
-  <LangButton
-    label="JP"
-    selected={$currentLang == "jp"}
-    on:click={() => langClicked("jp")}
-  />
-  <LangButton
-    label="KR"
-    selected={$currentLang == "kr"}
-    on:click={() => langClicked("kr")}
-  />
+  {#each ["en", "cn", "jp", "kr"] as lang}
+    <LangButton
+      label={lang.toUpperCase()}
+      selected={$currentLang == lang}
+      onclick={() => langClicked(lang as textLang)}
+    />
+  {/each}
 </div>
 
 <style>

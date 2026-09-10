@@ -3,7 +3,7 @@
   import { currentLang } from "$lib/stores";
   import * as welcomeText from "$lib/data/welcome.json";
 
-  $: welcome = welcomeText[$currentLang];
+  let welcome = $derived(welcomeText[$currentLang]);
 </script>
 
 <svelte:head>

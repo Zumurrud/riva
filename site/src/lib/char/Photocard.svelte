@@ -1,6 +1,10 @@
 <script lang="ts">
-  export let imgsrc: string;
-  export let text: string;
+  interface Props {
+    imgsrc: string;
+    text: string;
+  }
+
+  let { imgsrc, text }: Props = $props();
 </script>
 
 <div class="photocard">

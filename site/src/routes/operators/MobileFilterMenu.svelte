@@ -1,15 +1,17 @@
 <script lang="ts">
+  import { createBubbler } from "svelte/legacy";
+
+  const bubble = createBubbler();
   import Drawer from "svelte-drawer-component";
   import FilterIcon from "$lib/icons/FilterIcon.svelte";
   import CloseFilterIcon from "$lib/icons/CloseFilterIcon.svelte";
   import RatingFilter from "./RatingFilter.svelte";
   import FactionFilter from "./FactionFilter.svelte";
 
-  export let nations: string[];
-  let filterDrawerOpen: boolean = false;
+  let filterDrawerOpen: boolean = $state(false);
 </script>
 
-<button class="search-button" on:click={() => (filterDrawerOpen = true)}>
+<button class="search-button" onclick={() => (filterDrawerOpen = true)}>
   <FilterIcon />
 </button>
 
@@ -22,18 +24,17 @@
   >
     <button
       class="close-drawer-button"
-      on:click={() => (filterDrawerOpen = false)}
+      onclick={() => (filterDrawerOpen = false)}
     >
       <CloseFilterIcon />
     </button>
 
     <div class="mobile-search">
-      <input type="text" placeholder="Search" on:input />
+      <input type="text" placeholder="Search" oninput={bubble("input")} />
     </div>
 
-    <RatingFilter on:onRatingsChange />
-
-    <FactionFilter {nations} on:nationsChange />
+    <RatingFilter />
+    <FactionFilter />
   </Drawer>
 </div>
 

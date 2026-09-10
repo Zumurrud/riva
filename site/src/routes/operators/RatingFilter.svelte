@@ -1,19 +1,15 @@
 <script lang="ts">
-  import { createEventDispatcher } from "svelte";
   import StarIcon from "$lib/icons/StarIcon.svelte";
   import SingleRating from "./SingleRating.svelte";
+  import { rarity_filter_set } from "./filterstate.svelte";
 
-  const dispatch = createEventDispatcher();
   const ratings: number[] = [1, 2, 3, 4, 5, 6];
 
-  let selectedStatus: boolean[] = ratings.map((_) => false);
-  let selectedRatings: number[] = [];
-
-  $: dispatch("onRatingsChange", selectedRatings);
+  let selectedStatus: boolean[] = $state(ratings.map((_) => false));
 
   function onSelect(idx: number) {
-    if (!selectedRatings.includes(ratings[idx])) {
-      selectedRatings = [...selectedRatings, ratings[idx]];
+    if (!rarity_filter_set.has(ratings[idx])) {
+      rarity_filter_set.add(ratings[idx]);
     }
 
     // Reset selected display
@@ -21,11 +17,8 @@
   }
 
   function onHover(selectedIdx: number) {
-    selectedStatus = selectedStatus.map((rating, idx) => {
-      if (idx <= selectedIdx) {
-        return true;
-      }
-      return false;
+    selectedStatus = selectedStatus.map((_, idx) => {
+      return idx <= selectedIdx;
     });
   }
 
@@ -35,19 +28,17 @@
   }
 
   function removeRating(ratingToRemove: number) {
-    selectedRatings = selectedRatings.filter(
-      (rating) => rating !== ratingToRemove,
-    );
+    rarity_filter_set.delete(ratingToRemove);
   }
 </script>
 
-<h2>Rating</h2>
+<h2>Rarity</h2>
 <div class="selector">
   {#each ratings as _, index}
     <button
-      on:click={() => onSelect(index)}
-      on:pointerover={() => onHover(index)}
-      on:pointerleave={onUnhover}
+      onclick={() => onSelect(index)}
+      onpointerover={() => onHover(index)}
+      onpointerleave={onUnhover}
       class:selected={selectedStatus[index]}
     >
       <StarIcon />
@@ -56,8 +47,8 @@
 </div>
 
 <ol>
-  {#each selectedRatings as rating}
-    <li><SingleRating on:click={() => removeRating(rating)} {rating} /></li>
+  {#each rarity_filter_set as rating}
+    <li><SingleRating onclick={() => removeRating(rating)} {rating} /></li>
   {/each}
 </ol>
 

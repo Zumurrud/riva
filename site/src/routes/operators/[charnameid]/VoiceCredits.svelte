@@ -1,5 +1,5 @@
 <script lang="ts">
-  export let actors;
+  let { actors } = $props();
 </script>
 
 <div class="voiceinfo">
