@@ -1,0 +1,93 @@
+{
+  "oldvoices": {
+    "platnm": {
+      "lang": "jp",
+      "actor": {
+        "native": "茅野愛衣",
+        "global": "Ai Kayano"
+      },
+      "baseurl": "https://raw.githubusercontent.com/Zumurrud/riva-voices/main/old_voices/voice/char_204_platnm/CN_###.mp3"
+    },
+
+    "jesica": {
+      "lang": "en",
+      "actor": {
+        "native": "Rebecca LaChance",
+        "global": "Rebecca LaChance"
+      },
+      "baseurl": "https://raw.githubusercontent.com/Zumurrud/riva-voices/main/old_voices/voice_en/char_235_jesica/CN_###.mp3"
+    },
+
+    "angel": {
+      "lang": "en",
+      "actor": {
+        "native": "Leonora Haig",
+        "global": "Leonora Haig"
+      },
+      "baseurl": "https://raw.githubusercontent.com/Zumurrud/riva-voices/main/old_voices/voice_en/char_103_angel/CN_###.mp3"
+    },
+
+    "elysm": {
+      "lang": "jp",
+      "actor": {
+        "native": "森久保祥太郎",
+        "global": "Showtaro Morikubo"
+      },
+      "baseurl": "https://raw.githubusercontent.com/Zumurrud/riva-voices/main/old_voices/voice/char_401_elysm/CN_###.mp3"
+    },
+
+    "rope": {
+      "lang": "jp",
+      "actor": {
+        "native": "藤村歩",
+        "global": "Ayumi Fujimura"
+      },
+      "baseurl": "https://raw.githubusercontent.com/Zumurrud/riva-voices/main/old_voices/voice/char_236_rope/CN_###.mp3"
+    },
+
+    "savage": {
+      "lang": "jp",
+      "actor": {
+        "native": "藤村歩",
+        "global": "Ayumi Fujimura"
+      },
+      "baseurl": "https://raw.githubusercontent.com/Zumurrud/riva-voices/main/old_voices/voice/char_230_savage/CN_###.mp3"
+    },
+
+    "hsguma": {
+      "lang": "cn",
+      "actor": {
+        "native": "蔡欣纯",
+        "global": "X.Chai"
+      },
+      "baseurl": "https://raw.githubusercontent.com/Zumurrud/riva-voices/main/old_voices/voice_cn/char_136_hsguma/CN_###.mp3"
+    },
+
+    "mberry": {
+      "lang": "cn",
+      "actor": {
+        "native": "蔡欣纯",
+        "global": "X.Chai"
+      },
+      "baseurl": "https://raw.githubusercontent.com/Zumurrud/riva-voices/main/old_voices/voice_cn/char_473_mberry/CN_###.mp3"
+    },
+
+    "red": {
+      "lang": "cn",
+      "actor": {
+        "native": "蔡欣纯",
+        "global": "X.Chai"
+      },
+      "baseurl": "https://raw.githubusercontent.com/Zumurrud/riva-voices/main/old_voices/voice_cn/char_144_red/CN_###.mp3"
+    },
+
+    "catap": {
+      "lang": "cn",
+      "actor": {
+        "native": "伽月",
+        "global": "Hart Lau"
+      },
+      "baseurl": "https://raw.githubusercontent.com/Zumurrud/riva-voices/main/old_voices/voice_cn/char_282_catap/CN_###.mp3"
+    }
+  }
+}

@@ -1,13 +1,59 @@
 import json
+from pathlib import Path
+from functools import cache
+
+import config as cfg
+
+LANGS = ["en", "jp", "kr", "cn"]
 
 
-def save_json(data, target, prettify=True):
-    indent = 4 if prettify else None
-    with open(target, "w", encoding="utf-8") as targetfile:
-        json.dump(data, targetfile, ensure_ascii=False, indent=indent)
+def ensure_dir(file: Path):
+    """
+    Creates the given file's parent directory/ies, if needed.
+    """
+    file.parent.mkdir(parents=True, exist_ok=True)
 
 
-def load_json(source):
-    with open(source, "r", encoding="utf-8") as sourcefile:
-        data = json.load(sourcefile)
-    return data
+def ensure_dir_and_write(data, dst: Path):
+    """
+    Writes `data` to `dst` after ensuring that the
+    containing directory exists.
+    """
+    ensure_dir(dst)
+
+    if type(data) == str:
+        dst.write_text(data, encoding="utf-8", newline="\n")
+    else:
+        dst.write_bytes(data)
+
+
+def save_json(data, dst: Path, prettify=True):
+    indent = 2 if prettify else None
+    # json.dumps doesn't add a trailing newline and
+    # a lot of editors are offended by files without one
+    j = json.dumps(data, ensure_ascii=False, indent=indent) + '\n'
+    ensure_dir_and_write(j, dst)
+
+
+def load_json(source: Path):
+    return json.loads(source.read_bytes())
+
+
+@cache
+def load_chartable(lang):
+    sourcepath = cfg.cached(lang, "character_table.json")
+    return load_json(sourcepath)
+
+
+def load_chartables():
+    return {lang: load_chartable(lang) for lang in LANGS}
+
+
+@cache
+def load_wordtable(lang):
+    sourcepath = cfg.cached(lang, "charword_table.json")
+    return load_json(sourcepath)
+
+
+def load_wordtables():
+    return {lang: load_wordtable(lang) for lang in LANGS}

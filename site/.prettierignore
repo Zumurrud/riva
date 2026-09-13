@@ -1,0 +1,3 @@
+# don't touch the generated and version-controlled files
+static/data/chardata/
+src/lib/data/

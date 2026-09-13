@@ -1,0 +1,4 @@
+# Everything in this directory comes from external sources or can be regenerated whenever.
+# We don't want it under version control.
+*
+!.gitignore

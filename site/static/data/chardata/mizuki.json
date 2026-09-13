@@ -1,0 +1,644 @@
+{
+  "charid": "char_437_mizuki",
+  "nameid": "mizuki",
+  "names": {
+    "en": "Mizuki",
+    "jp": "ミヅキ",
+    "kr": "미즈키",
+    "cn": "水月"
+  },
+  "voices": [
+    {
+      "id": "char_437_mizuki_CN_001",
+      "title": {
+        "en": "Appointed as Assistant",
+        "jp": "秘書任命",
+        "kr": "어시스턴트 임명",
+        "cn": "任命助理"
+      },
+      "text": {
+        "en": "Dr. Kal'tsit told me if you ever chose to place me at your side, it means you've decided to protect me. But maybe you're just as clueless as I am with her riddle, Doctor. Still, I'm sure she must've said it for a reason.",
+        "jp": "ケルシー先生が言ってたよ。ドクターが僕を側に置くようになったら、それは僕を守ることを決めたんだって。でもドクター自身は、それが何を意味するか理解してないみたいだね。だけど僕にはわかるんだ、ケルシー先生は適当を言ってるわけじゃないってね。",
+        "kr": "켈시 선생님이 그랬어. 박사가 나를 옆에 두기로 결정했다면, 그건 박사가 나를 지키기로 마음먹은 거라고. 하지만 보아하니 박사 스스로도 그게 무엇을 의미하는지 이해하지 못한 모양이네. 하지만 나는 알 수 있어. 켈시 선생님이 그냥 해본 말은 아니라는 걸.",
+        "cn": "凯尔希医生跟我说过，如果博士选择把我安置在身边，那么就意味着博士决定要保护我。但看样子，博士也还不太明白是什么意思？不过我感觉得出来，她有她这么说的把握。"
+      },
+      "asset": "char_437_mizuki/CN_001"
+    },
+    {
+      "id": "char_437_mizuki_CN_002",
+      "title": {
+        "en": "Talk 1",
+        "jp": "会話1",
+        "kr": "대화 1",
+        "cn": "交谈1"
+      },
+      "text": {
+        "en": "Tasty food, manga, and video games… I see them all as poetry scattered under the starry sky. I intend to relish them all on my journey... and eliminate anything that threatens their existence.",
+        "jp": "グルメ、マンガ、ゲーム、そしてそれを創り出す人たち、みーんな星空の下に散らばる詩なんだ。僕の旅の目的は、そういうものを全部味わうこと――そして、それを邪魔するものを片付けることだよ。",
+        "kr": "미식, 만화, 게임, 그리고 그걸 만들어내는 사람들, 다들 밤하늘 아래에 흩어진 시와 같아. 내 여행의 목적은 그런 걸 전부 맛보는 것…… 그리고 그걸 방해하는 것을 처리하는 거야.",
+        "cn": "美食、漫画、游戏，以及创造了它们的人们，都是散落在星空下的诗篇。而我的旅途就是品遍它们——还有处理掉可能对这一切造成妨害的东西。"
+      },
+      "asset": "char_437_mizuki/CN_002"
+    },
+    {
+      "id": "char_437_mizuki_CN_003",
+      "title": {
+        "en": "Talk 2",
+        "jp": "会話2",
+        "kr": "대화 2",
+        "cn": "交谈2"
+      },
+      "text": {
+        "en": "Ah, Doctor! Perfect timing! Please try this special sashimi I made. With my secret technique, the nutrients and vitality of the ingredients are best preserved.",
+        "jp": "あ、ドクター、ちょうどいいところに来た。これ食べてみて、食材の栄養と生命力を最大限キープできる極秘の調理法で作った刺し身料理だよ！",
+        "kr": "아, 박사, 마침 잘 왔어. 이거 먹어 봐. 재료의 영양과 생명력을 최대한 유지할 수 있게 나만의 조리법으로 만든 '특제 회' 요리야!",
+        "cn": "啊，博士，你来得正好，快尝尝看，我这采用了最能保留食材营养和生命力的独家秘诀做出来的特色刺身料理！"
+      },
+      "asset": "char_437_mizuki/CN_003"
+    },
+    {
+      "id": "char_437_mizuki_CN_004",
+      "title": {
+        "en": "Talk 3",
+        "jp": "会話3",
+        "kr": "대화 3",
+        "cn": "交谈3"
+      },
+      "text": {
+        "en": "Oh, this? It's a classic arcade game that used to be popular in Higashi. Want to have a go, Doctor? Here, just move that yellow mouth to eat and grow. However… until you've absorbed enough nutrients to grow strong, you'll only be prey to others.",
+        "jp": "これ？極東で流行ってたレトロゲームだよ、今はもうあんまり人気ないけどね。ドクターもやってみる？あの黄色い顔を、周りのものを食べるように操作するんだ。でもたくさん栄養を摂ってパワーアップするまでは、他の敵から獲物として狙われちゃうんだ。",
+        "kr": "이거? 극동에서 유행했던 고전 게임이야. 지금은 별로 인기가 없지만. 박사도 한번 해 볼래? 이 노란 얼굴을 컨트롤해서 주위에 있는 것들을 먹으면 돼. 간단하지? 근데 영양분을 잔뜩 섭취해서 파워업하기 전까진 넌 다른 적들이 노리는 사냥감이야.",
+        "cn": "这个吗？是东国早些年的经典游戏哦，虽说现在已经不太流行了。博士要试试看吗？来，操纵那个黄色的嘴去吃东西就行。不过在吸收到足够的营养、获得足够的力量之前，都只会被别人当作猎物呢。"
+      },
+      "asset": "char_437_mizuki/CN_004"
+    },
+    {
+      "id": "char_437_mizuki_CN_005",
+      "title": {
+        "en": "Talk after Promotion 1",
+        "jp": "昇進後会話1",
+        "kr": "1차 정예화 후 대화",
+        "cn": "晋升后交谈1"
+      },
+      "text": {
+        "en": "A sense of justice? No, You got me wrong, Doctor. I don't really care much about bad guys. It's just… for some reason, good people always let them get away with bad things. What if... someone came along and got rid of them? No one would feel bad for them, right? Everyone would just be happy.",
+        "jp": "正義感？いや、ドクターは誤解してるよ。僕は別に悪人をなんとも思ってないよ。でもみんなは、色々事情があって悪人に手を焼かされてるんでしょ？そんな時に悪人を消してあげれば……誰も困らないし、みんなホッとするでしょ？",
+        "kr": "정의감? 아니, 박사는 오해하고 있어. 나는 악인에 대해 딱히 특별한 감정이 있는 게 아니야. 하지만 다들 여러 사정 때문에 그들을 어쩌지 못하고 애만 먹고 있잖아? 그럴 때에 만약 악인을 사라지게 만들 수 있다면…… 아무도 곤란해지지 않고, 다들 한시름 덜겠지?",
+        "cn": "正义感？博士误会啦。我自己对坏人其实是无所谓的，但出于种种理由大家往往不能把坏人怎么样吧？这种时候如果能让坏人消失……也不会有人感到困扰，只会觉得松了口气吧？"
+      },
+      "asset": "char_437_mizuki/CN_005"
+    },
+    {
+      "id": "char_437_mizuki_CN_006",
+      "title": {
+        "en": "Talk after Promotion 2",
+        "jp": "昇進後会話2",
+        "kr": "2차 정예화 후 대화",
+        "cn": "晋升后交谈2"
+      },
+      "text": {
+        "en": "Hmm… I still don't get your point, Doctor, but I just need to take out the ones you say are bad, yes? After all, I know the Doctor is a good person. What if you're the bad guy? Don't ask me that! I would be crushed. Even if you are, I really, really don't wanna…",
+        "jp": "ドクターの理屈はよくわからないけど、とにかくドクターが悪人って判定した奴だけ片付ければいいんでしょ？だってドクターは良い人だから。もしドクターが実は悪人だったらどうするか？やめてよ、そんなの困るんだ。だってそしたら、僕はドクターを……",
+        "kr": "박사가 알려준 이치 같은 건 아직 잘 이해하지 못했지만, 아무튼 박사가 악인이라 판단한 녀석만 처리하면 되는 거잖아? 왜냐면 박사는 착한 사람이니까. 박사도 사실은 악인이라면 어쩔 거냐고? 그만해, 그럼 곤란하단 말이야. 정말 그렇다고 해도, 나는 박사를……",
+        "cn": "虽然还是不太明白博士讲的道理，但是总之，只处理掉博士认证过是坏人的家伙就没问题了吧？因为博士是好人呀。如果博士其实是坏人的话？不要吧，那我会很困扰啊。我，总不能……"
+      },
+      "asset": "char_437_mizuki/CN_006"
+    },
+    {
+      "id": "char_437_mizuki_CN_007",
+      "title": {
+        "en": "Talk after Trust Increase 1",
+        "jp": "信頼上昇後会話1",
+        "kr": "신뢰도 상승 후 대화 1",
+        "cn": "信赖提升后交谈1"
+      },
+      "text": {
+        "en": "There's something on this ship that's both familiar and strange... gentle, yet hostile. It's making me uneasy, Doctor.",
+        "jp": "時々感じるんだ。この艦内には……懐かしくて、でもどこか馴染みのない……優しくて、でも敵意に満ちた何かがあるって。ドクター、僕、ちょっと不安だよ……",
+        "kr": "가끔씩 난, 이 함내에는…… 익숙하지만 왠지 낯선…… 상냥하지만 또 적의로 가득 찬 무언가가 있다는 걸 느껴. 박사, 나, 좀 불안해……",
+        "cn": "有时会感到舰船内好像有什么……熟悉的，又有些陌生……亲切，又好像充满敌意的气息。博士，我有些不安……"
+      },
+      "asset": "char_437_mizuki/CN_007"
+    },
+    {
+      "id": "char_437_mizuki_CN_008",
+      "title": {
+        "en": "Talk after Trust Increase 2",
+        "jp": "信頼上昇後会話2",
+        "kr": "신뢰도 상승 후 대화 2",
+        "cn": "信赖提升后交谈2"
+      },
+      "text": {
+        "en": "Doctor, what does it feel like to hold the lives of others in your hands? If it were me, their warmth would make me tremble with excitement. Hm? Oh, I was talking about you as a commander, holding everyone's lifeline.",
+        "jp": "ドクター、人の命を握ってる時ってどんな気分？もし僕なら、すごくあったかく感じて、それで身体が震えちゃうと思う……えっ？いやいや、ドクターが指揮官としてみんなの命を預かってる時の感想を聞いてるだけだよ。",
+        "kr": "박사, 다른 사람의 생명을 손에 쥐고 있으면 어떤 기분일까? 만약 나라면, 굉장히 따뜻하게 느껴져서 몸이 떨릴 것 같아…… 응? 아니, 박사가 지휘관으로서 모두의 목숨을 책임질 때의 기분을 묻는 것뿐이야.",
+        "cn": "博士觉得，把别人的生命掌握在自己手中时是什么样的感觉呢？如果换作我的话会感到很温暖，甚至忍不住为此有些颤抖……嗯？我是指博士在作为指挥官，握持着大家生命线时的感想。"
+      },
+      "asset": "char_437_mizuki/CN_008"
+    },
+    {
+      "id": "char_437_mizuki_CN_009",
+      "title": {
+        "en": "Talk after Trust Increase 3",
+        "jp": "信頼上昇後会話3",
+        "kr": "신뢰도 상승 후 대화 3",
+        "cn": "信赖提升后交谈3"
+      },
+      "text": {
+        "en": "The food and nutrients we take in sustain and shape us. So sometimes I wonder... if we ate the same food and did the same things, would we gradually become the same? Doctor, would we?",
+        "jp": "たまに思うけど、呑み込んだ食べ物と吸収した栄養が僕たちを造り上げたんなら、もし同じものを食べて、同じことをしてたら、どんどん同じになっていくのかなって。ドクター、僕たちに……できるかな？",
+        "kr": "난 가끔 이런 생각이 들어. 우리가 삼킨 음식물, 흡수한 영양분이 우리를 구성하고 있는 거잖아. 그럼 만약 같은 걸 먹고 같은 일을 하면, 우리는 점점 비슷해지지 않을까? 박사, 우리도…… 가능할까?",
+        "cn": "我有时候会想，既然是我们吃下去的食物和汲取的营养造就了我们，那么如果我们吃下了同样的东西，做着同样的事情，我们就会渐渐变得一样吗？博士，我们……能吗？"
+      },
+      "asset": "char_437_mizuki/CN_009"
+    },
+    {
+      "id": "char_437_mizuki_CN_010",
+      "title": {
+        "en": "Idle",
+        "jp": "放置",
+        "kr": "방치",
+        "cn": "闲置"
+      },
+      "text": {
+        "en": "It's time to take a little break, Doctor. Come here, lie down. I'll go grab a blanket.",
+        "jp": "ちょっと休んだ方がいいよ、ドクター。ほら来て、ここで寝てて。僕が毛布を取ってくるから。",
+        "kr": "좀 쉬는 게 좋겠어, 박사. 자, 이리 와. 여기서 자. 내가 담요 가져다줄 테니까.",
+        "cn": "是该休息一下啦，博士。来来，睡这边，我去拿毯子。"
+      },
+      "asset": "char_437_mizuki/CN_010"
+    },
+    {
+      "id": "char_437_mizuki_CN_011",
+      "title": {
+        "en": "Onboard",
+        "jp": "入職会話",
+        "kr": "오퍼레이터 입사",
+        "cn": "干员报到"
+      },
+      "text": {
+        "en": "Ah, hello there, Doctor. Dr. Kal'tsit tells me you're my commander from today on! It's too bad I don't count as an official operator, but as long as you need my help, I'll do whatever I can.",
+        "jp": "あ、ドクターこんにちは。ケルシー先生が、今日から僕はドクターの配下になるって言ってたよ！相変わらず正式なオペレーターとしては認められないみたいだけど、ドクターが手伝ってほしいことがあれば、何でも力になるからね。",
+        "kr": "아, 박사, 안녕. 켈시 선생님이 오늘부터 나는 박사의 부하라고 했어! 아쉽게도 여전히 정식 오퍼레이터로는 인정받지 못하는 모양이지만, 박사가 도움이 필요한 일이 있다면 내가 뭐든 힘이 되어 줄게.",
+        "cn": "啊，博士你好，凯尔希医生说从今天开始我就正式纳入博士的指挥啦！虽然可惜依旧不能算正式干员的样子，不过只要是博士找我帮忙，我一定会尽力的。"
+      },
+      "asset": "char_437_mizuki/CN_011"
+    },
+    {
+      "id": "char_437_mizuki_CN_012",
+      "title": {
+        "en": "Watching Battle Record",
+        "jp": "経験値上昇",
+        "kr": "작전기록 학습",
+        "cn": "观看作战记录"
+      },
+      "text": {
+        "en": "I need to digest and absorb all this, right? I'll do my best.",
+        "jp": "これを吸い込んで消化すればいいんでしょ。頑張るよ。",
+        "kr": "이걸 흡수해서 잘 소화하면 되는 거지? 열심히 할게.",
+        "cn": "要吸收和消化掉这些对吧，我会努力的。"
+      },
+      "asset": "char_437_mizuki/CN_012"
+    },
+    {
+      "id": "char_437_mizuki_CN_013",
+      "title": {
+        "en": "Promotion 1",
+        "jp": "昇進Ⅰ",
+        "kr": "1차 정예화 (승진)",
+        "cn": "精英化晋升1"
+      },
+      "text": {
+        "en": "I've earned your approval? Does that mean I can go to more places with you and get rid of more bad guys?",
+        "jp": "僕が認められたの？これからはドクターともっと色んな場所に行って、悪人を片付けていいってこと？",
+        "kr": "나 인정받은 거야? 그럼 이제 박사랑 더 다양한 곳에 가서 악인을 처리할 수 있는 거지?",
+        "cn": "我被认可了？之后是不是就可以跟博士去更多不同的地方解决坏人？"
+      },
+      "asset": "char_437_mizuki/CN_013"
+    },
+    {
+      "id": "char_437_mizuki_CN_014",
+      "title": {
+        "en": "Promotion 2",
+        "jp": "昇進Ⅱ",
+        "kr": "2차 정예화 (승진)",
+        "cn": "精英化晋升2"
+      },
+      "text": {
+        "en": "On one rainy day, I received an unexpected gift that changed me, but I was not taught how to face the future… Doctor, if it were you, would you have shown me the path yourself?",
+        "jp": "あの時もこんな雨の日だったなぁ。予想外の贈り物を受け取って、僕は変わったんだ。でもあの人はこれからの将来とどうやって向き合えばいいか教えてくれなかった。ドクター、君なら手を取って僕に教えてくれる？",
+        "kr": "그때도 이렇게 비가 내리는 날이었어. 그날 예상 밖의 선물을 받고, 나는 변했지. 하지만 그 사람은 앞으로의 미래를 어떻게 마주해야 하는지는 알려주지 않았어. 박사, 박사라면 알고 있을 것 같은데, 내게 가르쳐줄래?",
+        "cn": "曾经也是一个下着雨的日子，我得到了一些预想之外的、改变了我的馈赠，但那个人并没有教我该怎么面对将来的事。博士，如果是你的话会亲自指导我吗？"
+      },
+      "asset": "char_437_mizuki/CN_014"
+    },
+    {
+      "id": "char_437_mizuki_CN_017",
+      "title": {
+        "en": "Added to Squad",
+        "jp": "編成",
+        "kr": "팀 배치",
+        "cn": "编入队伍"
+      },
+      "text": {
+        "en": "I should stay hidden, even from my teammates? Understood, I'll do as you say, Doctor.",
+        "jp": "チームメイト同士でも、みんなの前に出ない方がいい？わかった、ドクターの言う通りにするよ。",
+        "kr": "다른 사람들 눈엔 띄지 않는 게 좋다고? 팀원들이라 해도? 알았어, 박사 말대로 할게.",
+        "cn": "不要暴露在大家面前比较好，哪怕是队友？嗯，我听博士的。"
+      },
+      "asset": "char_437_mizuki/CN_017"
+    },
+    {
+      "id": "char_437_mizuki_CN_018",
+      "title": {
+        "en": "Appointed as Squad Leader",
+        "jp": "隊長任命",
+        "kr": "팀장 임명",
+        "cn": "任命队长"
+      },
+      "text": {
+        "en": "I will protect you from the shadows, Doctor, as well as everyone else in our squad.",
+        "jp": "ドクターのことも、作戦に参加するみんなのことも、陰から守るよ。",
+        "kr": "박사도, 작전에 참가하는 모두도, 내가 그늘 속에서 지켜 줄게.",
+        "cn": "我会暗中保护好博士的，还有参与作战的大家。"
+      },
+      "asset": "char_437_mizuki/CN_018"
+    },
+    {
+      "id": "char_437_mizuki_CN_019",
+      "title": {
+        "en": "Depart",
+        "jp": "作戦準備",
+        "kr": "작전 출발",
+        "cn": "行动出发"
+      },
+      "text": {
+        "en": "The deployment plan and secret missions for this operation... Mhm, all confirmed.",
+        "jp": "今回の作戦計画と秘密任務は、っと……うん、間違いなし。",
+        "kr": "이번 작전 계획과 비밀 임무는…… 음, 문제없어.",
+        "cn": "本次作战的部署计划和隐秘任务……嗯，确认无误。"
+      },
+      "asset": "char_437_mizuki/CN_019"
+    },
+    {
+      "id": "char_437_mizuki_CN_020",
+      "title": {
+        "en": "Begin Operation",
+        "jp": "戦闘開始",
+        "kr": "작전 개시",
+        "cn": "行动开始"
+      },
+      "text": {
+        "en": "Are they the enemies? They don't look half bad.",
+        "jp": "あれが敵？なかなかうまそうに見えるね。",
+        "kr": "저게 적인가? 제법 맛있게 생겼네.",
+        "cn": "敌人吗，看上去还不赖嘛。"
+      },
+      "asset": "char_437_mizuki/CN_020"
+    },
+    {
+      "id": "char_437_mizuki_CN_021",
+      "title": {
+        "en": "Selecting Operator 1",
+        "jp": "選択時1",
+        "kr": "오퍼레이터 선택 1",
+        "cn": "选中干员1"
+      },
+      "text": {
+        "en": "Your orders are my beacon.",
+        "jp": "ドクターの指示が僕の道標だよ。",
+        "kr": "박사의 지시가 내가 가야 할 길이야.",
+        "cn": "博士的指示就是我的道标。"
+      },
+      "asset": "char_437_mizuki/CN_021"
+    },
+    {
+      "id": "char_437_mizuki_CN_022",
+      "title": {
+        "en": "Selecting Operator 2",
+        "jp": "選択時2",
+        "kr": "오퍼레이터 선택 2",
+        "cn": "选中干员2"
+      },
+      "text": {
+        "en": "Ready whenever.",
+        "jp": "いつでもいいよ。",
+        "kr": "언제든지 좋아.",
+        "cn": "随时都可以上哦。"
+      },
+      "asset": "char_437_mizuki/CN_022"
+    },
+    {
+      "id": "char_437_mizuki_CN_023",
+      "title": {
+        "en": "Deployment 1",
+        "jp": "配置1",
+        "kr": "배치 1",
+        "cn": "部署1"
+      },
+      "text": {
+        "en": "You always help me find my place.",
+        "jp": "ドクターはいつだって僕の居場所を見つけてくれるんだ。",
+        "kr": "박사는 언제든 내가 있을 곳을 찾아 주는구나.",
+        "cn": "博士总能帮我找到自己的位置呢。"
+      },
+      "asset": "char_437_mizuki/CN_023"
+    },
+    {
+      "id": "char_437_mizuki_CN_024",
+      "title": {
+        "en": "Deployment 2",
+        "jp": "配置2",
+        "kr": "배치 2",
+        "cn": "部署2"
+      },
+      "text": {
+        "en": "Be bold, Doctor, trust what the mind says.",
+        "jp": "思うがままの戦術でいいよ。",
+        "kr": "걱정 말고 마음껏 전술을 펼쳐봐.",
+        "cn": "放心大胆地布置战术吧。"
+      },
+      "asset": "char_437_mizuki/CN_024"
+    },
+    {
+      "id": "char_437_mizuki_CN_025",
+      "title": {
+        "en": "In Battle 1",
+        "jp": "作戦中1",
+        "kr": "작전 중 1",
+        "cn": "作战中1"
+      },
+      "text": {
+        "en": "Looks like a piece of cake.",
+        "jp": "前菜代わりにもならないね。",
+        "kr": "애피타이저 정도도 안 되겠네.",
+        "cn": "小菜一碟。"
+      },
+      "asset": "char_437_mizuki/CN_025"
+    },
+    {
+      "id": "char_437_mizuki_CN_026",
+      "title": {
+        "en": "In Battle 2",
+        "jp": "作戦中2",
+        "kr": "작전 중 2",
+        "cn": "作战中2"
+      },
+      "text": {
+        "en": "Thanks for the treat.",
+        "jp": "ごちそうさまでした。",
+        "kr": "잘 먹었습니다.",
+        "cn": "多谢款待。"
+      },
+      "asset": "char_437_mizuki/CN_026"
+    },
+    {
+      "id": "char_437_mizuki_CN_027",
+      "title": {
+        "en": "In Battle 3",
+        "jp": "作戦中3",
+        "kr": "작전 중 3",
+        "cn": "作战中3"
+      },
+      "text": {
+        "en": "These tentacles are illusions? Why delude yourself?",
+        "jp": "一体いつから、この触手はまやかしに過ぎないって錯覚してたの？",
+        "kr": "대체 언제부터, 이 촉수들은 그저 속임수일 거라고 생각한 거야?",
+        "cn": "你什么时候产生了这些附肢只是幻象的错觉？"
+      },
+      "asset": "char_437_mizuki/CN_027"
+    },
+    {
+      "id": "char_437_mizuki_CN_028",
+      "title": {
+        "en": "In Battle 4",
+        "jp": "作戦中4",
+        "kr": "작전 중 4",
+        "cn": "作战中4"
+      },
+      "text": {
+        "en": "Evildoers need to be culled. They always will be culled.",
+        "jp": "悪徒は討たれるべきだし、その執行人は必ず現れる。",
+        "kr": "누군가는 악인을 처리해야 하는 법이지.",
+        "cn": "总得有人，也总会有人来处理掉恶徒呢。"
+      },
+      "asset": "char_437_mizuki/CN_028"
+    },
+    {
+      "id": "char_437_mizuki_CN_029",
+      "title": {
+        "en": "4-star Result",
+        "jp": "高難度作戦クリア",
+        "kr": "고난이도 작전 종료",
+        "cn": "完成高难行动"
+      },
+      "text": {
+        "en": "What a tough nut to crack. It'll take some time to digest this battle.",
+        "jp": "なんて手強い連中なんだろう。今回の作戦を消化するのには時間がかかりそう。",
+        "kr": "정말 어려운 상대였어. 이번 작전을 소화하려면 시간이 좀 걸릴 것 같아.",
+        "cn": "真是难啃的骨头，我需要花点时间消化这次的作战呢。"
+      },
+      "asset": "char_437_mizuki/CN_029"
+    },
+    {
+      "id": "char_437_mizuki_CN_030",
+      "title": {
+        "en": "3-star Result",
+        "jp": "★3で戦闘終了",
+        "kr": "3★ 작전 종료",
+        "cn": "3星结束行动"
+      },
+      "text": {
+        "en": "There are fewer bad guys out there now, and it's all thanks to you, Doctor!",
+        "jp": "また悪人の数を減らせたね。全部ドクターのおかげだよ！",
+        "kr": "또 악인의 수를 줄였어. 전부 박사 덕분이야!",
+        "cn": "这下坏人的数量又减少了呢，都是多亏了博士！"
+      },
+      "asset": "char_437_mizuki/CN_030"
+    },
+    {
+      "id": "char_437_mizuki_CN_031",
+      "title": {
+        "en": "Sub 3-star Result",
+        "jp": "★2以下戦闘終了",
+        "kr": "비 3★ 작전 종료",
+        "cn": "非3星结束行动"
+      },
+      "text": {
+        "en": "Huh? Doctor, why'd you let some bad guys through? I'll go clean them up for you.",
+        "jp": "あれ？ドクター、何人か逃がしてるよ？僕が代わりに片付けてくるね。",
+        "kr": "어라? 박사, 몇 명 놓쳤는데? 내가 대신 정리하고 올게.",
+        "cn": "嗯？博士怎么放跑了几个坏人？我去替博士收拾一下吧。"
+      },
+      "asset": "char_437_mizuki/CN_031"
+    },
+    {
+      "id": "char_437_mizuki_CN_032",
+      "title": {
+        "en": "Operation Failure",
+        "jp": "作戦失敗",
+        "kr": "작전 실패",
+        "cn": "行动失败"
+      },
+      "text": {
+        "en": "If it's only to cover everyone's retreat, I can do that… No, just saving everyone is not enough, the bad guys still need to be eliminated…",
+        "jp": "みんなの撤退を援護するなら手はあるよ……いや、援護するだけじゃダメだ、ここで悪人を全員始末しないと……",
+        "kr": "모두의 퇴각을 엄호하는 거라면 방법은 있어…… 아니, 엄호하는 것만으로는 부족해, 여기서 악인을 모두 처리해야……",
+        "cn": "如果是要掩护大家撤离的话我还有办法……不，光是救人的话是不够的，只有在这里把坏人全都……"
+      },
+      "asset": "char_437_mizuki/CN_032"
+    },
+    {
+      "id": "char_437_mizuki_CN_033",
+      "title": {
+        "en": "Assigned to Facility",
+        "jp": "基地配属",
+        "kr": "시설에 배치",
+        "cn": "进驻设施"
+      },
+      "text": {
+        "en": "Shall I whip up something tasty to help everyone unwind?",
+        "jp": "何か美味しいものでも作って、みんなにリラックスしてもらうってのはどう？",
+        "kr": "뭔가 맛있는 걸 만들어서 모두가 릴랙스할 수 있게 해볼까?",
+        "cn": "我来给大家做点好吃的放松下吧？"
+      },
+      "asset": "char_437_mizuki/CN_033"
+    },
+    {
+      "id": "char_437_mizuki_CN_034",
+      "title": {
+        "en": "Tap",
+        "jp": "タッチ1",
+        "kr": "터치",
+        "cn": "戳一下"
+      },
+      "text": {
+        "en": "Hmm? What's up?",
+        "jp": "あれ、どうしたの？",
+        "kr": "어라, 왜 그래?",
+        "cn": "嗯？怎么啦？"
+      },
+      "asset": "char_437_mizuki/CN_034"
+    },
+    {
+      "id": "char_437_mizuki_CN_036",
+      "title": {
+        "en": "Trust Tap",
+        "jp": "信頼タッチ",
+        "kr": "신뢰도 터치",
+        "cn": "信赖触摸"
+      },
+      "text": {
+        "en": "Achoo! Ugh... Why does it feel like someone's looking right through me...",
+        "jp": "ハクションッ！うっ……誰かに見透かされてるような気がする……",
+        "kr": "에취! 으…… 누군가가 들여다보는 것 같은 느낌이야……",
+        "cn": "啊嚏！唔……怎么有一种想法被人看穿了的感觉……"
+      },
+      "asset": "char_437_mizuki/CN_036"
+    },
+    {
+      "id": "char_437_mizuki_CN_037",
+      "title": {
+        "en": "Title",
+        "jp": "タイトルコール",
+        "kr": "타이틀",
+        "cn": "标题"
+      },
+      "text": {
+        "en": "Arknights.",
+        "jp": "アークナイツ。",
+        "kr": "명일방주.",
+        "cn": "明日方舟。"
+      },
+      "asset": "char_437_mizuki/CN_037"
+    },
+    {
+      "id": "char_437_mizuki_CN_038",
+      "title": {
+        "en": "New Year's blessing",
+        "jp": "新年",
+        "kr": "새해",
+        "cn": "新年祝福"
+      },
+      "text": {
+        "en": "Happy New Year, Doctor! We've all grown by another year, and I've absorbed plenty of nutrients. I really hope everyone can keep evolving and become even better.",
+        "jp": "ドクター、明けましておめでとう！また一年成長したね、僕もたくさん栄養を摂取できたよ。みんなもどんどん良く進化していけたらいいね。",
+        "kr": "박사, 새해 복 많이 받아! 또 1년 성장했네, 나도 많은 영양분을 섭취했어! 다들 점점 더 좋은 쪽으로 진화할 수 있으면 좋겠다.",
+        "cn": "新年快乐，博士！又成长了一年，我汲取了不少营养呢，真希望大家都能进化得越来越好呀。"
+      },
+      "asset": "char_437_mizuki/CN_038"
+    },
+    {
+      "id": "char_437_mizuki_CN_042",
+      "title": {
+        "en": "Greeting",
+        "jp": "挨拶",
+        "kr": "인사",
+        "cn": "问候"
+      },
+      "text": {
+        "en": "Did you miss me, Doctor?",
+        "jp": "ドクター、僕が恋しかった？",
+        "kr": "박사, 내가 그리웠어?",
+        "cn": "想我了没有，博士？"
+      },
+      "asset": "char_437_mizuki/CN_042"
+    },
+    {
+      "id": "char_437_mizuki_CN_043",
+      "title": {
+        "en": "Birthday",
+        "jp": "誕生日",
+        "kr": "생일",
+        "cn": "生日"
+      },
+      "text": {
+        "en": "I dunno where it came from… But they say if you mix a little of yourself into a cake, then whoever eats it will go crazy for you. Sounds… sick, right? Wait, Doctor, don't run away! I didn't put anything weird in this birthday cake, I swear!",
+        "jp": "どこから伝わってきた話かは知らないけど、ケーキを作る時に自分の血肉を少し入れると、食べた人をぞっこんにできるらしいよ。なかなか悪くな……ってちょっと、逃げないでよドクター、今作ってるやつには入れてないって！誓うから！",
+        "kr": "나도 어디서 전해져 온 이야기인지는 모르겠는데, 케이크를 만들 때 자신의 피와 살점을 넣으면, 그 케이크를 먹은 사람들을 만든 이한테 홀딱 반하게 만들 수 있다고 하더라고. 꽤 흥미로운 아이디어…… 앗, 잠깐 박사. 도망치지 마. 지금 만들고 있는 케이크에는 정말 안 넣었어. 정말이야, 나 맹세해!",
+        "cn": "不知道是哪里传出来的说法，说是在做蛋糕时混一点自己的血肉进去，就能让吃下去的人死心塌地耶。听起来还蛮……咦，博士你别跑嘛，我正在做的这个没有放啦，没有的，我发誓！"
+      },
+      "asset": "char_437_mizuki/CN_043"
+    },
+    {
+      "id": "char_437_mizuki_CN_044",
+      "title": {
+        "en": "Anniversary Celebration",
+        "jp": "周年",
+        "kr": "애니버서리",
+        "cn": "周年庆典"
+      },
+      "text": {
+        "en": "Doctor, when you look at me now, what do you see? Am I still just a kid, or have I grown strong enough… maybe even stronger than you? If that were true… Then shouldn't I protect you instead?",
+        "jp": "ドクター、今の僕はどう見える？もう十分力がついてて、ドクターよりも強くなってたりして？もし僕が本当にドクターより強いのなら、今度は……僕がドクターを守る番になるのかな？",
+        "kr": "박사, 박사가 보기에 지금의 난, 어때? 이미 충분한 힘을 가진 것 같지 않아? 어쩌면 박사보다 더 강할 수도 있다고! 근데 만약 내가 정말로 박사보다 강하다면 말이야, 이제…… 내가 박사를 지킬 차례인가?",
+        "cn": "博士，你看我现在的样子怎么样？看起来是不是已经获得了足够多的力量，甚至比博士都还要厉害？如果我比博士厉害的话，该被保护的……是不是就是博士了？"
+      },
+      "asset": "char_437_mizuki/CN_044"
+    }
+  ],
+  "actors": {
+    "en": {
+      "native": "Summer Natsuki",
+      "global": "Summer Natsuki"
+    },
+    "cn": {
+      "native": "绿绮",
+      "global": "Ruth"
+    },
+    "jp": {
+      "native": "村瀬歩",
+      "global": "Ayumu Murase"
+    },
+    "kr": {
+      "native": "김율",
+      "global": "Kim Yul"
+    }
+  },
+  "availability": [
+    "en",
+    "cn",
+    "jp",
+    "kr"
+  ]
+}

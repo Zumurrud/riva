@@ -1,0 +1,649 @@
+{
+  "charid": "char_383_snsant",
+  "nameid": "snsant",
+  "names": {
+    "en": "Snowsant",
+    "jp": "スノーズント",
+    "kr": "스노우상트",
+    "cn": "雪雉"
+  },
+  "voices": [
+    {
+      "id": "char_383_snsant_CN_001",
+      "title": {
+        "en": "Appointed as Assistant",
+        "jp": "秘書任命",
+        "kr": "어시스턴트 임명",
+        "cn": "任命助理"
+      },
+      "text": {
+        "en": "D-Doctor! Excuse me, but could you please move a little? You're stepping on a coin...",
+        "jp": "ど、ドクターさん！すみませんです、ちょっと失礼しますね？お足元にコインが……",
+        "kr": "헉, 박사님! 죄송합니다, 잠깐 실례할게요. 발밑에 동전이……",
+        "cn": "博、博士！不好意思，能让一下吗？你脚下有一枚硬币……"
+      },
+      "asset": "char_383_snsant/CN_001"
+    },
+    {
+      "id": "char_383_snsant_CN_002",
+      "title": {
+        "en": "Talk 1",
+        "jp": "会話1",
+        "kr": "대화 1",
+        "cn": "交谈1"
+      },
+      "text": {
+        "en": "My dream is for all Terra to know… Okay, maybe just Lungmen… Umm, well, maybe I'll just start with Rhodes Island, or even just you! Yes, my dream is for you to know my skill…",
+        "jp": "わたしの夢はこのテラに……あ、いや、その前に龍門か……ううん、まずはロドスに認めていただくこと、それか、ドクターさんに心から褒めてもらうことです！うん、今のところは……",
+        "kr": "제 꿈은 이 테라에서…… 아, 아니…… 그 전에 용문이려나…… 아니, 우선은 로도스 아일랜드에서 인정받는 것, 아니면 박사님께 진심 어린 칭찬을 받는 거예요! 네, 지금은요……",
+        "cn": "我的理想就是让整个泰拉……啊，不，还是先从龙门……不，首先要让罗德岛认可我，或者，让博士你由衷地表扬我！对，暂时就是这个理想……"
+      },
+      "asset": "char_383_snsant/CN_002"
+    },
+    {
+      "id": "char_383_snsant_CN_003",
+      "title": {
+        "en": "Talk 2",
+        "jp": "会話2",
+        "kr": "대화 2",
+        "cn": "交谈2"
+      },
+      "text": {
+        "en": "Aaaugh… I forgot to turn out the lights when I left the office yesterday… Hm? Rhodes Island has power generation facilities so we don't have to pay for electricity? R-Really? Does that mean I can start eating dinner every day?",
+        "jp": "うぅ、昨日執務室を出るときに電気を消し忘れちゃいました……え？ロドスは発電所があるから電気代は払わなくていいんですか？本当ですか？じゃあこれからは晩ごはん代を削らなくっていいってことですか？",
+        "kr": "으으, 어제 사무실 나갈 때 불 끄는 걸 깜빡했어요…… 네? 로도스 아일랜드엔 발전소가 있어서 전기세를 내지 않아도 된다고요? 정말요? 그럼 앞으로는 저녁값을 줄이지 않아도 된다는 건가요?!",
+        "cn": "呜，昨天离开办公室的时候忘记关灯了……欸？罗德岛有发电室所以不需要缴纳电费？真的？那以后岂不是能吃得起晚饭了？"
+      },
+      "asset": "char_383_snsant/CN_003"
+    },
+    {
+      "id": "char_383_snsant_CN_004",
+      "title": {
+        "en": "Talk 3",
+        "jp": "会話3",
+        "kr": "대화 3",
+        "cn": "交谈3"
+      },
+      "text": {
+        "en": "So this is the Originium ammunition that Jessica ordered... Uh, D-Doctor, the amount on the bill, is it right? Or maybe it's in the currency of some small, remote country? It's not? It's Lungmen Dollars? I-I-I-I see... Nonono, I-I'm just a-a-a little surprised, hehehe...",
+        "jp": "これがジェシカさんの注文した源石の弾薬ですか……え？ド、ドクターさん、この金額って計算ミスじゃないですか？それともどこか遠い別の国の通貨での表記、とか……違う？ちゃんと龍門幣？……な、なっななるほどですねー！？だだ大丈夫ですちちちょっとびっびっびっくりしてるだっ、だけです！！",
+        "kr": "이게 제시카 씨가 주문한 오리지늄 탄약인가요…… 어? 바, 박사님, 이 금액이요, 잘못된 거 아닌가요? 아니면 어디 먼 나라의 화폐 단위거나…… 아니라고요? 용문폐 맞다고요? ……그그그그렇군요?! 괘괘괜찮아요, 조조조금 노노놀랐을 뿌뿐이에요!!",
+        "cn": "这就是杰西卡订购的源石弹药……呃？博、博士，这个金额是不是算错了？还是说这是什么偏远小国的货币？不是？就是龙门币？原原原原来如此，我我我没事，只是有点意意意意外。"
+      },
+      "asset": "char_383_snsant/CN_004"
+    },
+    {
+      "id": "char_383_snsant_CN_005",
+      "title": {
+        "en": "Talk after Promotion 1",
+        "jp": "昇進後会話1",
+        "kr": "1차 정예화 후 대화",
+        "cn": "晋升后交谈1"
+      },
+      "text": {
+        "en": "Oripathy... Hm, even though it's a bit outside my field of study, it might be worth looking into... But if I add another research project, I'll go from two meals a day to two days a meal... Aww…",
+        "jp": "鉱石病……うーん、わたしの専門分野からはちょっと外れてますが、検討する価値はありそうですね……でもこれ以上研究課題を増やしたら一日二食から二日で一食になっちゃうな……うぅ……",
+        "kr": "광석병이라…… 으음…… 제 전문 분야에선 좀 벗어나지만, 검토할 가치는 있어 보이네요…… 근데 여기서 더 연구 과제를 늘렸다간, 1일 2식에서 2일 1식이 될 텐데…… 하아……",
+        "cn": "矿石病……唔，虽然有点超出我的专业领域，但似乎是个值得探讨的方向……可是如果再多出一个课题，就要从一日两餐变成两日一餐了，呜……"
+      },
+      "asset": "char_383_snsant/CN_005"
+    },
+    {
+      "id": "char_383_snsant_CN_006",
+      "title": {
+        "en": "Talk after Promotion 2",
+        "jp": "昇進後会話2",
+        "kr": "2차 정예화 후 대화",
+        "cn": "晋升后交谈2"
+      },
+      "text": {
+        "en": "Frugality is a virtue, but for me, it's more like a habit... E-Even so, if you or my friends ever have money troubles, I'll gladly help out! I'm serious!",
+        "jp": "質素倹約は美徳だなんて言われますが、わたしにとってはもう習慣みたいなものなんですよね……いや、こ、こう見えてもわたし、もしお友達やドクターさんが本当にお金に困っていたら、勿論お財布を開きますよぅ！本当ですって！",
+        "kr": "다들 근검절약은 미덕이라고 하지만, 저한텐 이미 습관 같은 거거든요…… 아뇨, 이, 이렇게 보여도 저, 만약 친구나 박사님이 정말로 돈이 궁하다 그러면, 그땐 제대로 돈 쓸 거예요! 정말이라니까요!",
+        "cn": "勤俭节约是一种美德，但其实对我而言，更接近一种习惯吧……别、别看我这样，如果朋友或者博士你真的需要帮助的话，我还是会慷慨解囊的！真的！"
+      },
+      "asset": "char_383_snsant/CN_006"
+    },
+    {
+      "id": "char_383_snsant_CN_007",
+      "title": {
+        "en": "Talk after Trust Increase 1",
+        "jp": "信頼上昇後会話1",
+        "kr": "신뢰도 상승 후 대화 1",
+        "cn": "信赖提升后交谈1"
+      },
+      "text": {
+        "en": "You'd like to take a look at my clawhook? That's probably fine... B-But whatever you do, don't push this button. And watch your thumb when you're holding the grip... W-Wait, you're not winding the rope correctly, and... Oh, I-I'm sorry, don't mind me, you can keep looking at it...",
+        "jp": "ドクターさんもわたしのフックが見てみたいんですか？良いっちゃ良いですけど……くれぐれもこのボタンは押さないでくださいね。それから握るときには親指に気を付けて……待って、ワイヤーの巻き方も違います。あと……はっ！ご、ごめんなさい！わたしのことは気にせず、どうぞ続けてくださいです……",
+        "kr": "박사님도 제 후크가 보고 싶으세요? 괜찮기는 한데…… 아 일단 이 버튼은 누르지 말아 주세요. 그리고 손에 쥘 때는 엄지손가락을 조심하고…… 아 잠깐만요, 와이어 감는 법도 틀리셨어요. 그리고 또…… 헉! 죄, 죄송해요! 저는 신경 쓰지 마시고, 편하게 보고 싶은 만큼 보세요……",
+        "cn": "您想看看我的钩爪？可以是可以……但是千万不要碰这个按钮，还有握住握把的时候小心拇指……等等，缠绳索方法也不对，还有——啊，抱歉，别在意我，您接着看吧……"
+      },
+      "asset": "char_383_snsant/CN_007"
+    },
+    {
+      "id": "char_383_snsant_CN_008",
+      "title": {
+        "en": "Talk after Trust Increase 2",
+        "jp": "信頼上昇後会話2",
+        "kr": "신뢰도 상승 후 대화 2",
+        "cn": "信赖提升后交谈2"
+      },
+      "text": {
+        "en": "After I become a great, world-famous scientist with lots of money, I swear I'll have three meals a day and dessert too, just like Jessica... And then, with the money I can't even spend, I'll invest it into making Lungmen a better place. Um... if a day like that ever comes.",
+        "jp": "誰もが注目するような大科学者になって、いっぱいいーっぱいお金が入ってきたら、わたしは絶対毎日三食デザート付きにするんです！ジェシカさんみたいに！それから、なに不自由なく龍門の発展に力を……うん、もしそんな日が来れば、ですけどね。",
+        "kr": "모두가 주목하는 대과학자가 돼서, 잔~뜩, 진짜 자안~뜩 돈을 벌게 되면, 저는 꼭 매일 세 끼에 디저트까지 먹을 거예요! 제시카 씨처럼요! 그리고 아무런 제약 없이 용문의 발전에 힘을…… 네, 만약 그런 날이 온다면…… 말이지만요.",
+        "cn": "等我成为万众瞩目的大科学家，赚到好多好多的钱之后，我一定要每日三餐都加上甜点，和杰西卡一样，然后，毫无负担地为龙门建设出一份力，嗯……如果有那一天呢。"
+      },
+      "asset": "char_383_snsant/CN_008"
+    },
+    {
+      "id": "char_383_snsant_CN_009",
+      "title": {
+        "en": "Talk after Trust Increase 3",
+        "jp": "信頼上昇後会話3",
+        "kr": "신뢰도 상승 후 대화 3",
+        "cn": "信赖提升后交谈3"
+      },
+      "text": {
+        "en": "Money is very important. Before I went back to Lungmen, I turned down a big retention fee from the research institute, so my self-funded research project went under... But, it's more important to be home. I can always save up again, and now I won't go dizzy looking at all those big numbers!",
+        "jp": "お金はとっても大事ですが、龍門に帰ることの方がもっと大事ですから、研究所から提示された高額の引き止め料をお断りして戻ってきたんです。それまでの研究課題も全部水の泡になっちゃいましたけど……まぁお金はまた貯められますし。あと今のわたし、もう桁違いの金額にめまいを起こしたりしませんよ！",
+        "kr": "돈이야 굉장히 중요하지만, 용문으로 돌아가는 게 더 중요하니까요. 그래서 그때 연구소에서도 저 붙잡겠다고 돈 많이 준다 그랬는데, 그냥 거절하고 돌아왔어요. 그때까지 하던 연구 과제도 전부 수포로 돌아갔지만요…… 뭐, 돈은 또 모을 수 있잖아요. 그리고 전, 이제 차원이 다른 금액을 봐도 현기증이 나거나 그러진 않는다고요.",
+        "cn": "钱可是很重要的，回龙门之前，我拒绝过研究所的一大笔挽留费，所以我的自研课题全泡汤了……不过还是回家更重要啦，钱可以再攒，而且现在我已经不会因为数字太大而头晕目眩了！"
+      },
+      "asset": "char_383_snsant/CN_009"
+    },
+    {
+      "id": "char_383_snsant_CN_010",
+      "title": {
+        "en": "Idle",
+        "jp": "放置",
+        "kr": "방치",
+        "cn": "闲置"
+      },
+      "text": {
+        "en": "…Doctor fell asleep? Then I'll handle the rest of the work, though I am a bit hungry.",
+        "jp": "……お休み中です？じゃあ残りの書類はわたしにお任せあれ、です。ちょっとお腹すいてきちゃったけど。",
+        "kr": "쉬고 계신…… 가요? 그럼 남은 서류는 제게 맡겨주세요. 조금 배고프긴 하지만.",
+        "cn": "……睡着了？那剩下的就交给我吧，虽然肚子有点饿。"
+      },
+      "asset": "char_383_snsant/CN_010"
+    },
+    {
+      "id": "char_383_snsant_CN_011",
+      "title": {
+        "en": "Onboard",
+        "jp": "入職会話",
+        "kr": "오퍼레이터 입사",
+        "cn": "干员报到"
+      },
+      "text": {
+        "en": "Oww... my head! Sorry... Oh, a-are you the Doctor? It's a pleasure to meet you! My name is Snowsant. Sorry, I shouldn't be walking with my head down…",
+        "jp": "あいたっ、頭ぶつけた……すみませんです、あ、あなたがドクターさんですか？初めまして、スノーズントって言います。本当にごめんなさいです、俯いて歩いてちゃだめですね……",
+        "kr": "아야! 머리 부딪혔다…… 죄송합니다. 다, 당신이 박사님인가요? 처음 뵙겠습니다, 스노우상트라고 합니다. 정말 죄송해요. 땅 보면서 걸으면 안 되는데……",
+        "cn": "呜，我的头！不好意思，您、您就是博士？初次见面，我叫雪雉，对不起，不该低着头走路的……"
+      },
+      "asset": "char_383_snsant/CN_011"
+    },
+    {
+      "id": "char_383_snsant_CN_012",
+      "title": {
+        "en": "Watching Battle Record",
+        "jp": "経験値上昇",
+        "kr": "작전기록 학습",
+        "cn": "观看作战记录"
+      },
+      "text": {
+        "en": "Woah... This isn't something you can learn with more effort...",
+        "jp": "ひょわぁ、これは頑張ればできるようになるとかいうレベルじゃないですね……",
+        "kr": "흐아아! 이건 열심히 하면 할 수 있게 되는 뭐 그런 레벨이 아닌 거 같은데요오오……",
+        "cn": "唔啊，这可真不是加把劲就能学得来的呀……"
+      },
+      "asset": "char_383_snsant/CN_012"
+    },
+    {
+      "id": "char_383_snsant_CN_013",
+      "title": {
+        "en": "Promotion 1",
+        "jp": "昇進Ⅰ",
+        "kr": "1차 정예화 (승진)",
+        "cn": "精英化晋升1"
+      },
+      "text": {
+        "en": "Wha-what? A promotion? I… feel a bit more pressure, but I'll be okay. This is proof that I'm one step closer to making something of myself!",
+        "jp": "ええっ？しょ、昇進ですか？ちょっとプレッシャーです。でも大丈夫です、こうやって出世に一歩近づきましたから！",
+        "kr": "네? 스, 승진이요? 좀 부담되는데…… 아 그래도 괜찮아요! 이렇게, 출세에 한 걸음 더 다가간 셈이니까요!",
+        "cn": "诶诶？晋、晋升吗？稍微感觉到了一点压力，不过没关系，这样就离出人头地更进一步了！"
+      },
+      "asset": "char_383_snsant/CN_013"
+    },
+    {
+      "id": "char_383_snsant_CN_014",
+      "title": {
+        "en": "Promotion 2",
+        "jp": "昇進Ⅱ",
+        "kr": "2차 정예화 (승진)",
+        "cn": "精英化晋升2"
+      },
+      "text": {
+        "en": " 'Heaven rewards the hard-working.' Wouldn't you agree, Doctor?",
+        "jp": "「お天道様は必ず勤勉な人に報いてくれる」。そういうことですね、ドクターさん！",
+        "kr": "하늘은 스스로 돕는 자를 돕는다…… 그거죠? 박사님!",
+        "cn": "“天道酬勤”，你说对吧，博士？"
+      },
+      "asset": "char_383_snsant/CN_014"
+    },
+    {
+      "id": "char_383_snsant_CN_017",
+      "title": {
+        "en": "Added to Squad",
+        "jp": "編成",
+        "kr": "팀 배치",
+        "cn": "编入队伍"
+      },
+      "text": {
+        "en": "It'll be all right. I just need to remember my training and work hard… ",
+        "jp": "大丈夫です、訓練の時みたいにしっかり頑張ればいいんです……うぅ……",
+        "kr": "괜찮아요, 훈련할 때처럼 정신 차리고 열심히 하면 돼요…… 으으……",
+        "cn": "没关系，只要像训练时那样好好努力就行了，呜……"
+      },
+      "asset": "char_383_snsant/CN_017"
+    },
+    {
+      "id": "char_383_snsant_CN_018",
+      "title": {
+        "en": "Appointed as Squad Leader",
+        "jp": "隊長任命",
+        "kr": "팀장 임명",
+        "cn": "任命队长"
+      },
+      "text": {
+        "en": "You want m-me to be the squad leader? But I really don't know anything about battle…",
+        "jp": "わ、わたしが隊長ですか？戦いのことは本当に何もわかりませんよ？",
+        "kr": "제, 제가 팀장이요? 전투에 대해선 진짜 아무것도 모르는데도요?!",
+        "cn": "让我、我来做队长吗？我真的不懂战斗的事情喔？"
+      },
+      "asset": "char_383_snsant/CN_018"
+    },
+    {
+      "id": "char_383_snsant_CN_019",
+      "title": {
+        "en": "Depart",
+        "jp": "作戦準備",
+        "kr": "작전 출발",
+        "cn": "行动出发"
+      },
+      "text": {
+        "en": "Clawhook checked and ready! Take a deep breath... I can do this!",
+        "jp": "フックのチェック完了です。落ち着いて、わたしはできる！",
+        "kr": "후크 점검 끝났습니다. 침착하자, 난 할 수 있어!",
+        "cn": "钩爪检查完毕，深呼吸，我可以的！"
+      },
+      "asset": "char_383_snsant/CN_019"
+    },
+    {
+      "id": "char_383_snsant_CN_020",
+      "title": {
+        "en": "Begin Operation",
+        "jp": "戦闘開始",
+        "kr": "작전 개시",
+        "cn": "行动开始"
+      },
+      "text": {
+        "en": "I see the enemy!",
+        "jp": "敵発見です！",
+        "kr": "적 발견했습니다!",
+        "cn": "发现敌人！"
+      },
+      "asset": "char_383_snsant/CN_020"
+    },
+    {
+      "id": "char_383_snsant_CN_021",
+      "title": {
+        "en": "Selecting Operator 1",
+        "jp": "選択時1",
+        "kr": "오퍼레이터 선택 1",
+        "cn": "选中干员1"
+      },
+      "text": {
+        "en": "M-Me?",
+        "jp": "わ、わたしです？",
+        "kr": "저, 저요?",
+        "cn": "我、我吗？"
+      },
+      "asset": "char_383_snsant/CN_021"
+    },
+    {
+      "id": "char_383_snsant_CN_022",
+      "title": {
+        "en": "Selecting Operator 2",
+        "jp": "選択時2",
+        "kr": "오퍼레이터 선택 2",
+        "cn": "选中干员2"
+      },
+      "text": {
+        "en": "I'll do my best!",
+        "jp": "かんばります！",
+        "kr": "열심히 할게요!",
+        "cn": "我尽力！"
+      },
+      "asset": "char_383_snsant/CN_022"
+    },
+    {
+      "id": "char_383_snsant_CN_023",
+      "title": {
+        "en": "Deployment 1",
+        "jp": "配置1",
+        "kr": "배치 1",
+        "cn": "部署1"
+      },
+      "text": {
+        "en": "I hope my clawhook won't malfunction…",
+        "jp": "フック、ちゃんと動くよね？",
+        "kr": "후크, 제대로 작동하겠지?",
+        "cn": "钩爪，不会出问题吧？"
+      },
+      "asset": "char_383_snsant/CN_023"
+    },
+    {
+      "id": "char_383_snsant_CN_024",
+      "title": {
+        "en": "Deployment 2",
+        "jp": "配置2",
+        "kr": "배치 2",
+        "cn": "部署2"
+      },
+      "text": {
+        "en": "This is my first time being so close to a battlefield...",
+        "jp": "今回の戦場は、初めてです……",
+        "kr": "처음이에요, 이렇게 전장에서 가까운 건……",
+        "cn": "第一次，离战场这么近……"
+      },
+      "asset": "char_383_snsant/CN_024"
+    },
+    {
+      "id": "char_383_snsant_CN_025",
+      "title": {
+        "en": "In Battle 1",
+        "jp": "作戦中1",
+        "kr": "작전 중 1",
+        "cn": "作战中1"
+      },
+      "text": {
+        "en": "Clawhook standing by!",
+        "jp": "フック、スタンバイです！",
+        "kr": "후크, 스탠바이입니다!",
+        "cn": "钩爪准备！"
+      },
+      "asset": "char_383_snsant/CN_025"
+    },
+    {
+      "id": "char_383_snsant_CN_026",
+      "title": {
+        "en": "In Battle 2",
+        "jp": "作戦中2",
+        "kr": "작전 중 2",
+        "cn": "作战中2"
+      },
+      "text": {
+        "en": "Please hold still, don't make it hard on you!",
+        "jp": "じっとしてくれれば楽になりますよ！",
+        "kr": "얌전히만 있어 주면, 금방 편해질 거예요!",
+        "cn": "别动喔，这样会轻松点！"
+      },
+      "asset": "char_383_snsant/CN_026"
+    },
+    {
+      "id": "char_383_snsant_CN_027",
+      "title": {
+        "en": "In Battle 3",
+        "jp": "作戦中3",
+        "kr": "작전 중 3",
+        "cn": "作战中3"
+      },
+      "text": {
+        "en": "So… heavy…",
+        "jp": "お、おもたい……です……！",
+        "kr": "무, 무거워……요……!",
+        "cn": "好、好重！"
+      },
+      "asset": "char_383_snsant/CN_027"
+    },
+    {
+      "id": "char_383_snsant_CN_028",
+      "title": {
+        "en": "In Battle 4",
+        "jp": "作戦中4",
+        "kr": "작전 중 4",
+        "cn": "作战中4"
+      },
+      "text": {
+        "en": "Claw's all good for a catch!",
+        "jp": "装備の調子、問題なさそうです！",
+        "kr": "장비 상태는 문제없는 거 같네요!",
+        "cn": "装备状态不错！"
+      },
+      "asset": "char_383_snsant/CN_028"
+    },
+    {
+      "id": "char_383_snsant_CN_029",
+      "title": {
+        "en": "4-star Result",
+        "jp": "高難度作戦クリア",
+        "kr": "고난이도 작전 종료",
+        "cn": "完成高难行动"
+      },
+      "text": {
+        "en": "As long as we work together, there's no obstacle we can't overcome! R-Right, Doctor?",
+        "jp": "わたしたちが一丸になれば、乗り越えられない壁なんてないんですね、ドクターさん！",
+        "kr": "우리가 하나로 뭉치면 넘지 못할 벽 따윈 없네요, 박사님!",
+        "cn": "只要我们齐心协力，没有迈不过去的坎，博士！"
+      },
+      "asset": "char_383_snsant/CN_029"
+    },
+    {
+      "id": "char_383_snsant_CN_030",
+      "title": {
+        "en": "3-star Result",
+        "jp": "★3で戦闘終了",
+        "kr": "3★ 작전 종료",
+        "cn": "3星结束行动"
+      },
+      "text": {
+        "en": "Not a single resource wasted, a flawless victory!",
+        "jp": "少しの無駄もない、完璧な勝利です！",
+        "kr": "조금의 낭비도 없는 완벽한 승리예요!",
+        "cn": "没有一丁点浪费，完美的胜利！"
+      },
+      "asset": "char_383_snsant/CN_030"
+    },
+    {
+      "id": "char_383_snsant_CN_031",
+      "title": {
+        "en": "Sub 3-star Result",
+        "jp": "★2以下戦闘終了",
+        "kr": "비 3★ 작전 종료",
+        "cn": "非3星结束行动"
+      },
+      "text": {
+        "en": "Some enemies got away, sh-should we chase after them?",
+        "jp": "逃げた敵って、お、追いますか？",
+        "kr": "도망친 적은, 쪼, 쫓아갈까요?",
+        "cn": "有逃跑的敌人，要、要追吗？"
+      },
+      "asset": "char_383_snsant/CN_031"
+    },
+    {
+      "id": "char_383_snsant_CN_032",
+      "title": {
+        "en": "Operation Failure",
+        "jp": "作戦失敗",
+        "kr": "작전 실패",
+        "cn": "行动失败"
+      },
+      "text": {
+        "en": "I, I'll go salvage some damaged parts, to at least reduce our losses…",
+        "jp": "わ、わたし、破損したパーツを集めてきます。少しでも損失を減らせるかも……",
+        "kr": "저, 저는 파손된 부품을 모아올게요. 이, 이러면 조금은 손실을 줄일 수 있을지도……",
+        "cn": "我、我去把那些损坏的零件都收集起来，至少可以减少损失……"
+      },
+      "asset": "char_383_snsant/CN_032"
+    },
+    {
+      "id": "char_383_snsant_CN_033",
+      "title": {
+        "en": "Assigned to Facility",
+        "jp": "基地配属",
+        "kr": "시설에 배치",
+        "cn": "进驻设施"
+      },
+      "text": {
+        "en": "Wooooah, so this is what it's like inside Rhodes Island... I'm so jealous…",
+        "jp": "ひょわぁ、これがロドスの中ですか……いいなあ……",
+        "kr": "와아~! 이게 로도스 아일랜드의 내부인가요…… 좋다아……",
+        "cn": "唔啊，这就是罗德岛的内部吗，好羡慕……"
+      },
+      "asset": "char_383_snsant/CN_033"
+    },
+    {
+      "id": "char_383_snsant_CN_034",
+      "title": {
+        "en": "Tap",
+        "jp": "タッチ1",
+        "kr": "터치",
+        "cn": "戳一下"
+      },
+      "text": {
+        "en": "Eeh-eeh!",
+        "jp": "あうぅ……！",
+        "kr": "아으으……!",
+        "cn": "咿呀！"
+      },
+      "asset": "char_383_snsant/CN_034"
+    },
+    {
+      "id": "char_383_snsant_CN_036",
+      "title": {
+        "en": "Trust Tap",
+        "jp": "信頼タッチ",
+        "kr": "신뢰도 터치",
+        "cn": "信赖触摸"
+      },
+      "text": {
+        "en": "Yes, Doctor?",
+        "jp": "ドクターさん？",
+        "kr": "박사님?",
+        "cn": "博士？"
+      },
+      "asset": "char_383_snsant/CN_036"
+    },
+    {
+      "id": "char_383_snsant_CN_037",
+      "title": {
+        "en": "Title",
+        "jp": "タイトルコール",
+        "kr": "타이틀",
+        "cn": "标题"
+      },
+      "text": {
+        "en": "Arknights.",
+        "jp": "アークナイツ。",
+        "kr": "명일방주.",
+        "cn": "明日方舟。"
+      },
+      "asset": "char_383_snsant/CN_037"
+    },
+    {
+      "id": "char_383_snsant_CN_038",
+      "title": {
+        "en": "New Year's blessing",
+        "jp": "新年",
+        "kr": "새해",
+        "cn": "新年祝福"
+      },
+      "text": {
+        "en": "So today's a holiday? No wonder the canteen has such an amazing spread. I can finally enjoy a proper meal, heheh. Speaking of which, Rhodes Island sure has a lot of holidays. If I take another job in the downtime, maybe I can make a little more money...",
+        "jp": "今日は祝日なんですか？だから食堂にあんな豪華なビュッフェが用意されていたんですね。久しぶりにちゃんとしたものが食べられそうです、えへへ。そういえば、ロドスの祝日って多いですよね。その時間を使って副業をすれば、もっと研究費を稼げたりしませんかね……",
+        "kr": "오늘이 특별한 날인가 봐요. 어쩐지 식당에 뷔페가 준비되어 있더라고요. 드디어 제대로 한 끼를 먹을 수 있겠어요, 헤헤. 그나저나 이렇게 매번 로도스 아일랜드의 명절 때마다 아르바이트를 한다면 경비를 조금 더 벌 수 있을 것 같기도 한데……",
+        "cn": "原来今天是节日吗？怪不得食堂准备了丰盛的自助餐，终于可以好好吃一顿了，嘿嘿。说起来，罗德岛的节日真的好多啊，如果用这些时间再去打一份工的话，是不是可以多赚一点经费呢……"
+      },
+      "asset": "char_383_snsant/CN_038"
+    },
+    {
+      "id": "char_383_snsant_CN_042",
+      "title": {
+        "en": "Greeting",
+        "jp": "挨拶",
+        "kr": "인사",
+        "cn": "问候"
+      },
+      "text": {
+        "en": "Good day, Doctor.",
+        "jp": "こんにちは、ドクターさん！",
+        "kr": "안녕하세요, 박사님!",
+        "cn": "您好，博士。"
+      },
+      "asset": "char_383_snsant/CN_042"
+    },
+    {
+      "id": "char_383_snsant_CN_043",
+      "title": {
+        "en": "Birthday",
+        "jp": "誕生日",
+        "kr": "생일",
+        "cn": "生日"
+      },
+      "text": {
+        "en": "Doctor, happy birthday! Thank you for always looking out for me, I got you a present. Here's an ergonomic chair to correct your posture, and an automatic document sorter, I made them both myself. I-I know they're made of really cheap materials, but I can promise they're great quality!",
+        "jp": "ドクター、ハッピーバースデーです！いつもお世話になっているお礼として、ささやかながらプレゼントを用意しました。姿勢を矯正できるエルゴノミクスチェアと、書類の自動整理装置です。どちらも安価な材料で自作したものですが、品質は保証しますよ。",
+        "kr": "박사님, 생일 축하드려요! 박사님께 감사하는 마음을 전하고 싶어서 선물을 준비했어요. 인체공학적으로 설계한 자세 교정 의자랑 서류 자동 분류기예요. 다 제가 직접 만들었어요. 비록 매우 저렴한 재료를 사용하긴 했지만…… 품질만큼은 보장 드릴 수 있어요.",
+        "cn": "博士，生日快乐！感谢您一直以来的照顾，我为您准备了礼物。可以纠正坐姿的人体工程学椅还有文件自动整理装置，都是我自己做的。虽然用的是很便宜的材料，但质量一定没有问题的。"
+      },
+      "asset": "char_383_snsant/CN_043"
+    },
+    {
+      "id": "char_383_snsant_CN_044",
+      "title": {
+        "en": "Anniversary Celebration",
+        "jp": "周年",
+        "kr": "애니버서리",
+        "cn": "周年庆典"
+      },
+      "text": {
+        "en": "Rhodes Island maybe can't offer me a super comfortable life... No, I get enough food and warm clothes here, that's already pretty comfy... A-Anyway, I'm extremely grateful to have a work environment that supports my R&D like this. I will double up my efforts, and get results worth the experimental funding.",
+        "jp": "ロドスの研究環境は研究所には及びませんが……い、いえ、衣食住保証されているだけで、かなり恵まれている方だと思います……とにかく、こうやって研究を支えてくださる環境に置いていただけて、本当に感謝感激です！もっともっと頑張って、研究費に見合った成果を出さないとですね！",
+        "kr": "로도스 아일랜드에서 풍족하게 지내는 건 아니지만, 아, 아뇨…… 배불리 먹고, 따뜻하게 지낼 수 있는 것만으로도 충분해요. ……어쨌든 이렇게 제가 과학 연구를 할 수 있는 환경을 만들어 주셔서 감사합니다. 저도 실험 경비에 부응하는 성과를 내기 위해 더 노력해볼게요!",
+        "cn": "虽然罗德岛的条件不算很宽裕，不，能吃饱穿暖，已经相当宽裕了……总之，能有这样支持我做科研工作的环境，我真的很感激！我也要加倍努力，做出对得起实验经费的成果才行！"
+      },
+      "asset": "char_383_snsant/CN_044"
+    }
+  ],
+  "actors": {
+    "en": {
+      "native": "Ariel Fournier",
+      "global": "Ariel Fournier"
+    },
+    "cn": {
+      "native": "周童",
+      "global": "Atom"
+    },
+    "cn_topolect": {
+      "native": "猫倩",
+      "global": "Mao Qian"
+    },
+    "jp": {
+      "native": "阿澄佳奈",
+      "global": "Kana Asumi"
+    },
+    "kr": {
+      "native": "방시우",
+      "global": "Bang Si-u"
+    }
+  },
+  "availability": [
+    "en",
+    "cn",
+    "cn_topolect",
+    "jp",
+    "kr"
+  ]
+}

@@ -1,0 +1,644 @@
+{
+  "charid": "char_190_clour",
+  "nameid": "clour",
+  "names": {
+    "en": "Vermeil",
+    "jp": "ヴァーミル",
+    "kr": "버메일",
+    "cn": "红云"
+  },
+  "voices": [
+    {
+      "id": "char_190_clour_CN_001",
+      "title": {
+        "en": "Appointed as Assistant",
+        "jp": "秘書任命",
+        "kr": "어시스턴트 임명",
+        "cn": "任命助理"
+      },
+      "text": {
+        "en": "Did you call me here for a new hunt? No? Gah…",
+        "jp": "オレを呼んだってことは新しい任務だな？なんだよ、違うのか……",
+        "kr": "나를 불렀다는 건 새 임무가 있다는 거지? 뭐야, 아닌가……",
+        "cn": "你叫我来，是有新的狩猎任务吗？哦，没有吗……"
+      },
+      "asset": "char_190_clour/CN_001"
+    },
+    {
+      "id": "char_190_clour_CN_002",
+      "title": {
+        "en": "Talk 1",
+        "jp": "会話1",
+        "kr": "대화 1",
+        "cn": "交谈1"
+      },
+      "text": {
+        "en": "This claw pendant? It's a symbol of revenge. The Ursus mercenaries who hurt my people treat these things as dogtags, so there's no mistaking them.",
+        "jp": "この爪形の首飾りか？これはオレの復讐の記念品だ。オレの仲間を奪ったウルサスの傭兵共がこれをドッグタグ代わりに身に着けていてな、奴らを絶対に見間違わないようにってオレも持ってんだ。",
+        "kr": "이 발톱 모양 목걸이? 이건 내 복수의 기념품이야. 내 동료를 앗아간 우르수스 용병들이 이걸 군번줄 대신 몸에 달고 다니더라고. 녀석들을 절대로 착각하지 않도록, 나도 갖고 있는 거야.",
+        "cn": "这个爪形吊坠？是我的复仇的纪念品，那些伤害过我同伴的乌萨斯佣兵会把类似的东西当成狗牌，所以我才不会认错他们。"
+      },
+      "asset": "char_190_clour/CN_002"
+    },
+    {
+      "id": "char_190_clour_CN_003",
+      "title": {
+        "en": "Talk 2",
+        "jp": "会話2",
+        "kr": "대화 2",
+        "cn": "交谈2"
+      },
+      "text": {
+        "en": "A beast took my left hand when I was hunting. Luckily, a mechanic gave me a prosthetic limb, so I can draw my bowstring again.",
+        "jp": "オレの左腕は狩りの最中に野獣に引きちぎられちまったんだ。だが、運がいいことにある機械師が義手を作ってくれてな。おかげで今もこうして弓を引けてるってわけさ。",
+        "kr": "내 왼팔은 사냥 도중에 야수한테 뜯겨버렸어. 뭐 근데, 운 좋게도 어떤 기계공이 의수를 만들어 줬거든. 덕분에 지금도 이렇게 활을 쏠 수 있는 거지.",
+        "cn": "我的左手是在一次狩猎中被野兽撕碎的，幸好一位机械师帮我制作了义肢，我才能重新拉动弓弦。"
+      },
+      "asset": "char_190_clour/CN_003"
+    },
+    {
+      "id": "char_190_clour_CN_004",
+      "title": {
+        "en": "Talk 3",
+        "jp": "会話3",
+        "kr": "대화 3",
+        "cn": "交谈3"
+      },
+      "text": {
+        "en": "There was a time when I would've turned anyone who mocked my scars into a pincushion! But if you ask me now... Well, people like that aren't even worth the trouble.",
+        "jp": "昔はオレの傷跡をあざ笑う奴がいれば絶対針山にしてやってたが……今は、そんな奴には手を出す価値もないんだってわかったよ。",
+        "kr": "옛날엔 내 흉터를 비웃는 녀석이 있으면 반드시 고슴도치로 만들어 줬는데…… 지금은 그런 녀석한테는 손 쓸 가치도 없다는 걸 깨달았어.",
+        "cn": "若是以前，我绝对会把嘲讽我伤痕的家伙一箭一箭地射成筛子！不过现在……呵，为了那种人动手，真是一点都不值得。"
+      },
+      "asset": "char_190_clour/CN_004"
+    },
+    {
+      "id": "char_190_clour_CN_005",
+      "title": {
+        "en": "Talk after Promotion 1",
+        "jp": "昇進後会話1",
+        "kr": "1차 정예화 후 대화",
+        "cn": "晋升后交谈1"
+      },
+      "text": {
+        "en": "If you're ever facing a difficult decision, let your instincts decide for you. Your body won't lie—This is what I've learned after a lifetime of hunts.",
+        "jp": "決断が難しい時は直感で決めちまえばいい。自分の身体は嘘をつかねぇからな。ハンターの経験則ってやつだ。",
+        "kr": "결단을 내리기 어려울 때는 직감으로 정해버리면 돼. 자기 몸은 거짓말을 안 하니까. 이것도 나름 사냥꾼의 경험이라 할 수 있겠지.",
+        "cn": "若是有实在难以决断的事就凭直觉去选择，身体是不会骗人的，这可是资深猎手的经验。"
+      },
+      "asset": "char_190_clour/CN_005"
+    },
+    {
+      "id": "char_190_clour_CN_006",
+      "title": {
+        "en": "Talk after Promotion 2",
+        "jp": "昇進後会話2",
+        "kr": "2차 정예화 후 대화",
+        "cn": "晋升后交谈2"
+      },
+      "text": {
+        "en": "I've been living alone ever since my village was wiped out.  So, I… I'm still getting used to being around people... But since you trust me and give me important work, I swear I'll return the favor.",
+        "jp": "同胞たちがみんな逝っちまって、一人きりで生活をするようになって長い。だから、今みたいに毎日誰かと接するのにはまだ慣れないんだ……でもあんたはオレのことを信頼してくれてるから、それには絶対応えてみせるぜ。",
+        "kr": "동포들이 모두 죽어버려서, 혼자서 생활한 지는 꽤 됐거든. 그래서, 지금처럼 매일 누군가와 접하는 건 아직 적응이 안 돼…… 하지만 넌 나를 신뢰해 주니까, 거기엔 반드시 보답하도록 할게.",
+        "cn": "自从同伴们逝去之后，我一个人生活很久了，所以这种每天都要和人打交道的日子，我还不太适应……但既然你给了我充分的信任，任用我，那我一定得回报你。"
+      },
+      "asset": "char_190_clour/CN_006"
+    },
+    {
+      "id": "char_190_clour_CN_007",
+      "title": {
+        "en": "Talk after Trust Increase 1",
+        "jp": "信頼上昇後会話1",
+        "kr": "신뢰도 상승 후 대화 1",
+        "cn": "信赖提升后交谈1"
+      },
+      "text": {
+        "en": "Ehh, a pebble got stuck in my prosthetic finger...? Darn it, I'm going to need a mechanic to fix it... N-No, I don't need you, I can handle this myself!",
+        "jp": "うっ、指の関節に小石が入り込んじまったみたい。ちっ、機械師に見てもらわないとな……だ、大丈夫だって、オレ一人でどうにかなる！",
+        "kr": "윽, 손가락 관절에 돌멩이가 들어갔나 봐. 쳇, 기계공한테 봐달라고 해야겠네…… 괘, 괜찮다니까, 나 혼자 해결할 수 있어!",
+        "cn": "呃，义肢手指好像被小石子卡住了？讨厌，得去找机械师调整一下……不、不用你帮忙，我一个人也能行！"
+      },
+      "asset": "char_190_clour/CN_007"
+    },
+    {
+      "id": "char_190_clour_CN_008",
+      "title": {
+        "en": "Talk after Trust Increase 2",
+        "jp": "信頼上昇後会話2",
+        "kr": "신뢰도 상승 후 대화 2",
+        "cn": "信赖提升后交谈2"
+      },
+      "text": {
+        "en": "You'll make sure I don't ever lose anyone else? Hmph. Big words. But I'll see for myself if you can back those up.",
+        "jp": "「もう同胞を失うことはない」って？ふん、でかい口を叩くのはいいが、この目で確かめるまで信じねぇから覚悟しとけよ！",
+        "kr": "“이제 동포를 잃을 일은 없다”고? 흥, 큰소리치는 건 좋지만, 내 눈으로 직접 확인할 때까진 못 믿으니까 각오해 두라고!",
+        "cn": "你说，今后不会让我再失去同伴了？哼，是不是在说大话，我可是要亲眼见证的！"
+      },
+      "asset": "char_190_clour/CN_008"
+    },
+    {
+      "id": "char_190_clour_CN_009",
+      "title": {
+        "en": "Talk after Trust Increase 3",
+        "jp": "信頼上昇後会話3",
+        "kr": "신뢰도 상승 후 대화 3",
+        "cn": "信赖提升后交谈3"
+      },
+      "text": {
+        "en": "The doctors here offered to get rid of my more recent scars, but I said no. I want to keep them. They're proof of my work here... You, you understand what I'm getting at?",
+        "jp": "ここの医者にかかれば最近の傷跡ならキレイに取っちまえるらしいが、断っといた。あんたのために戦ってできた傷跡は残しておきたいんだ……オレの言ってる意味、わかるか？",
+        "kr": "여기 의사가 요즘 생긴 흉터는 깨끗하게 없앨 수 있다 그랬는데, 내가 됐다 그랬어. 널 위해 싸우다 생긴 흉터는 남겨두고 싶거든…… 내가 하는 말, 무슨 뜻인지 알았지?",
+        "cn": "这里的医生说可以抹去我身上新添的伤疤，但我拒绝了。我要留着它们，因为这是为你战斗时留下的……你，能明白我的意思吗？"
+      },
+      "asset": "char_190_clour/CN_009"
+    },
+    {
+      "id": "char_190_clour_CN_010",
+      "title": {
+        "en": "Idle",
+        "jp": "放置",
+        "kr": "방치",
+        "cn": "闲置"
+      },
+      "text": {
+        "en": "You're sleeping? Looks like this one can fall asleep almost anywhere. Well, that's a trait we hunters share…",
+        "jp": "寝てんのか？……こいつはどんな状況でも寝れるんだな。ハンターにゃ向いてるかもな……",
+        "kr": "자는 거야? ……이 녀석은 어떤 상황에서도 잠이 드는구나. 사냥꾼이 체질일지도 모르겠는데……",
+        "cn": "睡着了？这个人什么场合都睡得着吗？这种体质倒是挺像我们猎人的……"
+      },
+      "asset": "char_190_clour/CN_010"
+    },
+    {
+      "id": "char_190_clour_CN_011",
+      "title": {
+        "en": "Onboard",
+        "jp": "入職会話",
+        "kr": "오퍼레이터 입사",
+        "cn": "干员报到"
+      },
+      "text": {
+        "en": "Vermeil, hunter. You won't regret giving me work.",
+        "jp": "ヴァーミル、ハンターだ。オレに仕事をくれ、失望はさせねぇからさ。",
+        "kr": "버메일, 사냥꾼이야. 나한테 일을 줘. 실망은 시키지 않을 테니까.",
+        "cn": "红云，猎人。给我工作吧，你不会失望的。"
+      },
+      "asset": "char_190_clour/CN_011"
+    },
+    {
+      "id": "char_190_clour_CN_012",
+      "title": {
+        "en": "Watching Battle Record",
+        "jp": "経験値上昇",
+        "kr": "작전기록 학습",
+        "cn": "观看作战记录"
+      },
+      "text": {
+        "en": "Can I take another look at that?",
+        "jp": "もっとたくさん見せてくれるか？",
+        "kr": "이런 거, 더 보여줄 수 있어?",
+        "cn": "还可以观看更多一些吗？"
+      },
+      "asset": "char_190_clour/CN_012"
+    },
+    {
+      "id": "char_190_clour_CN_013",
+      "title": {
+        "en": "Promotion 1",
+        "jp": "昇進Ⅰ",
+        "kr": "1차 정예화 (승진)",
+        "cn": "精英化晋升1"
+      },
+      "text": {
+        "en": "Thank you, but... are you sure it's okay to promote someone like me?",
+        "jp": "ありがてぇが……これでいいのか？オレみたいなのを昇進させて。",
+        "kr": "고맙기는 한데…… 이래도…… 돼? 나 같은 걸 승진시켜도.",
+        "cn": "谢谢你，可……让我这样的人晋升，真的没问题吗？"
+      },
+      "asset": "char_190_clour/CN_013"
+    },
+    {
+      "id": "char_190_clour_CN_014",
+      "title": {
+        "en": "Promotion 2",
+        "jp": "昇進Ⅱ",
+        "kr": "2차 정예화 (승진)",
+        "cn": "精英化晋升2"
+      },
+      "text": {
+        "en": "I don't really care about stuff like Oripathy or 'the rest of my life.' Right now, the happiest thing I can imagine is fighting by your side.",
+        "jp": "鉱石病とか、残りの寿命とか、もうどうでもいいんだ。今のオレが一番楽しいと思えるのは、あんたと肩を並べて戦うことだからな。",
+        "kr": "광석병이나 남은 수명 같은 건 이제 아무래도 상관없어. 지금의 나에게 가장 즐거운 건 너와 어깨를 나란히 하고 싸우는 거니까.",
+        "cn": "矿石病也好，剩下的生命也好，已经全都无所谓了。现在让我最快乐的事，不就是和你一起并肩作战吗？"
+      },
+      "asset": "char_190_clour/CN_014"
+    },
+    {
+      "id": "char_190_clour_CN_017",
+      "title": {
+        "en": "Added to Squad",
+        "jp": "編成",
+        "kr": "팀 배치",
+        "cn": "编入队伍"
+      },
+      "text": {
+        "en": "I'm here.",
+        "jp": "任せろ。",
+        "kr": "맡겨둬.",
+        "cn": "来了。"
+      },
+      "asset": "char_190_clour/CN_017"
+    },
+    {
+      "id": "char_190_clour_CN_018",
+      "title": {
+        "en": "Appointed as Squad Leader",
+        "jp": "隊長任命",
+        "kr": "팀장 임명",
+        "cn": "任命队长"
+      },
+      "text": {
+        "en": "You want me to be the captain? Am I... really cut out for the job?",
+        "jp": "隊長をオレに任せるだと？オレに……できるか？",
+        "kr": "팀장을 나한테 맡긴다고? 내가…… 할 수 있을까?",
+        "cn": "要我当队长？我……真的合适吗？"
+      },
+      "asset": "char_190_clour/CN_018"
+    },
+    {
+      "id": "char_190_clour_CN_019",
+      "title": {
+        "en": "Depart",
+        "jp": "作戦準備",
+        "kr": "작전 출발",
+        "cn": "行动出发"
+      },
+      "text": {
+        "en": "The big game hunt is about to start!",
+        "jp": "ワイルドハントを始めようぜ！",
+        "kr": "와일드 헌트를 시작해 보자고!",
+        "cn": "大捕猎，即将开幕！"
+      },
+      "asset": "char_190_clour/CN_019"
+    },
+    {
+      "id": "char_190_clour_CN_020",
+      "title": {
+        "en": "Begin Operation",
+        "jp": "戦闘開始",
+        "kr": "작전 개시",
+        "cn": "行动开始"
+      },
+      "text": {
+        "en": "You don't seem to understand your situation here. You've fallen into my trap.",
+        "jp": "お前らはもう罠の中だ。まだ気付かねぇのか？",
+        "kr": "너희는 이미 함정에 빠진 거야. 아직도 모르겠어?",
+        "cn": "踏入陷阱的你们，还没明白自己的处境吗？"
+      },
+      "asset": "char_190_clour/CN_020"
+    },
+    {
+      "id": "char_190_clour_CN_021",
+      "title": {
+        "en": "Selecting Operator 1",
+        "jp": "選択時1",
+        "kr": "오퍼레이터 선택 1",
+        "cn": "选中干员1"
+      },
+      "text": {
+        "en": "I'll go ahead.",
+        "jp": "オレにやらせろ。",
+        "kr": "내가 하게 해줘.",
+        "cn": "让我上。"
+      },
+      "asset": "char_190_clour/CN_021"
+    },
+    {
+      "id": "char_190_clour_CN_022",
+      "title": {
+        "en": "Selecting Operator 2",
+        "jp": "選択時2",
+        "kr": "오퍼레이터 선택 2",
+        "cn": "选中干员2"
+      },
+      "text": {
+        "en": "Give me the order.",
+        "jp": "命令をくれ。",
+        "kr": "명령을 내려줘.",
+        "cn": "下令吧。"
+      },
+      "asset": "char_190_clour/CN_022"
+    },
+    {
+      "id": "char_190_clour_CN_023",
+      "title": {
+        "en": "Deployment 1",
+        "jp": "配置1",
+        "kr": "배치 1",
+        "cn": "部署1"
+      },
+      "text": {
+        "en": "I can smell the game on the wind.",
+        "jp": "風に獲物のにおいが混じってる。",
+        "kr": "바람에 사냥감의 냄새가 섞여 있어.",
+        "cn": "我闻到风中的猎物气味了。"
+      },
+      "asset": "char_190_clour/CN_023"
+    },
+    {
+      "id": "char_190_clour_CN_024",
+      "title": {
+        "en": "Deployment 2",
+        "jp": "配置2",
+        "kr": "배치 2",
+        "cn": "部署2"
+      },
+      "text": {
+        "en": "I'll be waiting here.",
+        "jp": "オレはここで待ってる。",
+        "kr": "나는 여기서 기다릴게.",
+        "cn": "我就在这等着。"
+      },
+      "asset": "char_190_clour/CN_024"
+    },
+    {
+      "id": "char_190_clour_CN_025",
+      "title": {
+        "en": "In Battle 1",
+        "jp": "作戦中1",
+        "kr": "작전 중 1",
+        "cn": "作战中1"
+      },
+      "text": {
+        "en": "You'd better start running, or there's only one way this ends.",
+        "jp": "逃げねぇってんなら、お前らの結末は一つだ！",
+        "kr": "도망치지 않는다면 너희의 결말은 하나다!",
+        "cn": "再不逃的话，你就只有一个下场了！"
+      },
+      "asset": "char_190_clour/CN_025"
+    },
+    {
+      "id": "char_190_clour_CN_026",
+      "title": {
+        "en": "In Battle 2",
+        "jp": "作戦中2",
+        "kr": "작전 중 2",
+        "cn": "作战中2"
+      },
+      "text": {
+        "en": "Don't underestimate the people of the wilderness.",
+        "jp": "荒野育ちをなめんな！",
+        "kr": "황야에서 자란 사람을 얕보지 마라!",
+        "cn": "别小看荒野的子民！"
+      },
+      "asset": "char_190_clour/CN_026"
+    },
+    {
+      "id": "char_190_clour_CN_027",
+      "title": {
+        "en": "In Battle 3",
+        "jp": "作戦中3",
+        "kr": "작전 중 3",
+        "cn": "作战中3"
+      },
+      "text": {
+        "en": "Watch where this arrow goes!",
+        "jp": "この矢を見ろ！",
+        "kr": "이 화살을 봐라!",
+        "cn": "再看这一箭！"
+      },
+      "asset": "char_190_clour/CN_027"
+    },
+    {
+      "id": "char_190_clour_CN_028",
+      "title": {
+        "en": "In Battle 4",
+        "jp": "作戦中4",
+        "kr": "작전 중 4",
+        "cn": "作战中4"
+      },
+      "text": {
+        "en": "This arrow will find your throat!",
+        "jp": "この一射でお前の喉を貫く！",
+        "kr": "이 한발로, 네 목을 꿰뚫어주마!",
+        "cn": "这一箭，绝对会射穿你的喉咙！"
+      },
+      "asset": "char_190_clour/CN_028"
+    },
+    {
+      "id": "char_190_clour_CN_029",
+      "title": {
+        "en": "4-star Result",
+        "jp": "高難度作戦クリア",
+        "kr": "고난이도 작전 종료",
+        "cn": "完成高难行动"
+      },
+      "text": {
+        "en": "Strong game is still just game.",
+        "jp": "どんなに強い獲物だろうと、しょせん獲物だ。",
+        "kr": "사냥감이 아무리 강해봤자, 결국은 사냥감이지.",
+        "cn": "再强大的猎物，也只是猎物而已。"
+      },
+      "asset": "char_190_clour/CN_029"
+    },
+    {
+      "id": "char_190_clour_CN_030",
+      "title": {
+        "en": "3-star Result",
+        "jp": "★3で戦闘終了",
+        "kr": "3★ 작전 종료",
+        "cn": "3星结束行动"
+      },
+      "text": {
+        "en": "Nice. If you were born in Siracusa, you would've been a great hunter.",
+        "jp": "やるじゃねぇか。もしシラクーザに生まれてたら、あんたは間違いなく凄腕のハンターになってたぜ。",
+        "kr": "제법이잖아. 만약 시라쿠사에서 태어났다면 넌 틀림없이 굉장한 실력의 사냥꾼이 됐을 거야.",
+        "cn": "真厉害。如果你生在叙拉古，一定会是位技艺超绝的猎人。"
+      },
+      "asset": "char_190_clour/CN_030"
+    },
+    {
+      "id": "char_190_clour_CN_031",
+      "title": {
+        "en": "Sub 3-star Result",
+        "jp": "★2以下戦闘終了",
+        "kr": "비 3★ 작전 종료",
+        "cn": "非3星结束行动"
+      },
+      "text": {
+        "en": "The target got away. I'm going after it.",
+        "jp": "獲物に逃げられたか。追ってくる。",
+        "kr": "사냥감이 도망쳤나. 쫓아갈게.",
+        "cn": "猎物逃走了，我去追。"
+      },
+      "asset": "char_190_clour/CN_031"
+    },
+    {
+      "id": "char_190_clour_CN_032",
+      "title": {
+        "en": "Operation Failure",
+        "jp": "作戦失敗",
+        "kr": "작전 실패",
+        "cn": "行动失败"
+      },
+      "text": {
+        "en": "We can't let it end like this…",
+        "jp": "こんなんじゃ終われねぇ……",
+        "kr": "이렇게는 못 끝내……",
+        "cn": "不能就这样结束……"
+      },
+      "asset": "char_190_clour/CN_032"
+    },
+    {
+      "id": "char_190_clour_CN_033",
+      "title": {
+        "en": "Assigned to Facility",
+        "jp": "基地配属",
+        "kr": "시설에 배치",
+        "cn": "进驻设施"
+      },
+      "text": {
+        "en": "This place has walls and a roof… that's enough for me.",
+        "jp": "壁も天井もあるなんて、いい部屋じゃねぇか。",
+        "kr": "벽에 천장도 있다니…… 좋은 방이잖아.",
+        "cn": "有墙和天花板，已经是很棒的屋子了啊。"
+      },
+      "asset": "char_190_clour/CN_033"
+    },
+    {
+      "id": "char_190_clour_CN_034",
+      "title": {
+        "en": "Tap",
+        "jp": "タッチ1",
+        "kr": "터치",
+        "cn": "戳一下"
+      },
+      "text": {
+        "en": "Wha?",
+        "jp": "えっ……",
+        "kr": "앗……",
+        "cn": "呣……"
+      },
+      "asset": "char_190_clour/CN_034"
+    },
+    {
+      "id": "char_190_clour_CN_036",
+      "title": {
+        "en": "Trust Tap",
+        "jp": "信頼タッチ",
+        "kr": "신뢰도 터치",
+        "cn": "信赖触摸"
+      },
+      "text": {
+        "en": "...My plans for the day? Help you with missions. Shoot at enemies. Use up all my arrows. Finish the mission. Eat dinner, go to sleep. Simple enough.",
+        "jp": "……今日の予定？あんたにもらった任務に、敵めがけてありったけの矢をぶっ放す。それが終わったら、メシを食って寝る。それだけ。",
+        "kr": "……오늘 일정? 너한테 받은 임무를 수행하면서, 적을 향해 있는 대로 화살을 날려댈 거야. 그게 끝나면 밥 먹고 잘 거고. 그게 다야.",
+        "cn": "……今天的安排吗？帮你做任务，对着敌人射箭，把箭射光；任务结束，吃饭睡觉。就这么简单。"
+      },
+      "asset": "char_190_clour/CN_036"
+    },
+    {
+      "id": "char_190_clour_CN_037",
+      "title": {
+        "en": "Title",
+        "jp": "タイトルコール",
+        "kr": "타이틀",
+        "cn": "标题"
+      },
+      "text": {
+        "en": "Arknights.",
+        "jp": "アークナイツ。",
+        "kr": "명일방주.",
+        "cn": "明日方舟。"
+      },
+      "asset": "char_190_clour/CN_037"
+    },
+    {
+      "id": "char_190_clour_CN_038",
+      "title": {
+        "en": "New Year's blessing",
+        "jp": "新年",
+        "kr": "새해",
+        "cn": "新年祝福"
+      },
+      "text": {
+        "en": "Everyone's celebrating New Year's... It was never this easy in the wild. We got a little cured meat out, ate a few berries we had stored, and that's how we celebrated surviving another year. Maybe it wasn't worth celebrating...",
+        "jp": "みんな新年を祝ってるのか……荒野にいた頃はこんな安らげる環境なんてなかったから、干し肉を少し出してきて、貯めといたベリーをチマチマ食いながら、また一年生き延びたってお祝いするくらいだった。まあ、祝うほどのことでもねぇかもしれねぇけどな……",
+        "kr": "다들 새해를 축하하고 있구나…… 황야에 있을 땐 이런 안락한 환경은 상상도 할 수 없었어. 육포 조금에, 저장해 둔 베리 몇 알을 먹으면서, 또 한 해를 살아남았다는 걸 자축하곤 했지. 뭐, 축하할 일이 아닐 수도 있지만……",
+        "cn": "大家都在庆祝新年啊……在荒野的时候可没有这么安逸的环境，取出一点腌好的肉，再吃几颗储藏的莓果，来庆祝自己又活了一年。或许也不是什么值得庆祝的事吧……"
+      },
+      "asset": "char_190_clour/CN_038"
+    },
+    {
+      "id": "char_190_clour_CN_042",
+      "title": {
+        "en": "Greeting",
+        "jp": "挨拶",
+        "kr": "인사",
+        "cn": "问候"
+      },
+      "text": {
+        "en": "Ah, it's you.",
+        "jp": "あぁ、あんたか。",
+        "kr": "아, 너구나.",
+        "cn": "哈，是你啊。"
+      },
+      "asset": "char_190_clour/CN_042"
+    },
+    {
+      "id": "char_190_clour_CN_043",
+      "title": {
+        "en": "Birthday",
+        "jp": "誕生日",
+        "kr": "생일",
+        "cn": "生日"
+      },
+      "text": {
+        "en": "This cloak's for you. I learned to make this back with the other hunters. If you get lost in the wild one day, that hood you've got isn't gonna save you from sandstorms. Obviously, I'd rather be there with you to protect you, if I could.",
+        "jp": "このマントをやる。部族にいた頃に編み方を習ったんだ。もし荒野で迷っちまうことがあれば、あんたのそのフードじゃ砂嵐は凌げねぇからな。もちろん、できればオレが側で守ってやりてぇけど……",
+        "kr": "이 망토 줄게. 부족에 있을 때 뜨개질하는 법을 배웠거든. 만약 황야에서 길을 잃게 된다면, 지금 네가 입고 있는 그 후드로는 모래폭풍을 막을 수 없을 거야. 물론 가능하다면 내가 계속 박사의 곁을 지켜주고 싶지만……",
+        "cn": "这件披风送给你，是我在部落的时候学到的手艺。如果哪天你不小心在荒野上迷路了，你的那身兜帽可没法挡风沙。当然，如果可能的话，我还是希望能在你身边保护你……"
+      },
+      "asset": "char_190_clour/CN_043"
+    },
+    {
+      "id": "char_190_clour_CN_044",
+      "title": {
+        "en": "Anniversary Celebration",
+        "jp": "周年",
+        "kr": "애니버서리",
+        "cn": "周年庆典"
+      },
+      "text": {
+        "en": "I never forgave any of my old enemies, and I'll never forget those who showed me kindness. The old Lateran guy's dead, but there's still Rhodes Island. I have a clear reason to fight with the time I've got left.",
+        "jp": "昔の仇を一人も見逃さなかったように、オレは人から受けた恩は一つだって忘れねぇ。あのラテラーノの爺さんはもう逝っちまったが、ロドスはまだここにある。オレの残りの人生にも、はっきりとした戦う理由ができたってことだ。",
+        "kr": "과거의 원수는 한 명도 놓치지 않았어. 그리고 난 받은 은혜도 절대 잊지 않아. 그 라테라노 할아버지는 이미 세상을 떠났지만, 로도스 아일랜드는 아직 여기 있지. 난 내 목숨이 다하는 날까지 무엇을 위해 싸워야 하는지 아주 명확히 알고 있어.",
+        "cn": "过去的仇人我一个也没有放过，别人给予我的恩情我也绝不会忘记。那位拉特兰老爷爷已经去世了，但罗德岛还在这里。在剩下的生命里，我清楚战斗的理由。"
+      },
+      "asset": "char_190_clour/CN_044"
+    }
+  ],
+  "actors": {
+    "en": {
+      "native": "Lara Jill Miller",
+      "global": "Lara Jill Miller"
+    },
+    "cn": {
+      "native": "钟可",
+      "global": "Ke Zhong"
+    },
+    "jp": {
+      "native": "齋藤彩夏",
+      "global": "Ayaka Saito"
+    },
+    "kr": {
+      "native": "김서영",
+      "global": "Kim Seo-young"
+    }
+  },
+  "availability": [
+    "en",
+    "cn",
+    "jp",
+    "kr"
+  ]
+}

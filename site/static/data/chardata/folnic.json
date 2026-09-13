@@ -1,0 +1,644 @@
+{
+  "charid": "char_345_folnic",
+  "nameid": "folnic",
+  "names": {
+    "en": "Folinic",
+    "jp": "フォリニック",
+    "kr": "폴리닉",
+    "cn": "亚叶"
+  },
+  "voices": [
+    {
+      "id": "char_345_folnic_CN_001",
+      "title": {
+        "en": "Appointed as Assistant",
+        "jp": "秘書任命",
+        "kr": "어시스턴트 임명",
+        "cn": "任命助理"
+      },
+      "text": {
+        "en": "Tabletop, 60 points. Floor, 63 points. Air quality...... 56 points. There's room for improvement, Doctor.",
+        "jp": "机、60点。床、63点。空気……56点。要改善ですよ、ドクター。",
+        "kr": "책상, 60점. 바닥, 63점. 공기…… 56점. 개선이 필요합니다, 박사님.",
+        "cn": "桌面，60分；地面，63分；空气……56分。有待改进啊，博士。"
+      },
+      "asset": "char_345_folnic/CN_001"
+    },
+    {
+      "id": "char_345_folnic_CN_002",
+      "title": {
+        "en": "Talk 1",
+        "jp": "会話1",
+        "kr": "대화 1",
+        "cn": "交谈1"
+      },
+      "text": {
+        "en": "Have you experienced any bodily discomfort recently? Umm, dry skin, stiff shoulders... dry eyeballs, hair loss, fatigue? ...Very good, just old problems then, nothing serious. As long as you start exercising, these problems should go away in no time.",
+        "jp": "最近体調の優れないところはありますか。はい、肌の乾燥、ええ、肩のこり、目の乾燥、抜け毛、脱力感……なるほど。いつもの症状ですから特に問題はありません。あなたが運動をするようになれば、すぐにでも改善しますよ。",
+        "kr": "최근 불편한 곳이 있으신가요? 네, 피부가 건조하고. 네네, 어깨가 뭉치고, 눈도 건조하고, 머리카락도 빠지고, 무기력하다고요…… 그렇군요. 평소와 같네요, 딱히 문제 될 건 없는 것 같습니다. 이런 건 당신이 운동만 시작해도 금세 좋아질 거예요.",
+        "cn": "最近身体有什么感觉不适的地方吗。嗯，皮肤干燥，嗯嗯，肩膀僵硬，眼球干涩，掉头发，乏力……很好，老问题而已，没什么大碍。只要您开始运动，这些很快就能解决。"
+      },
+      "asset": "char_345_folnic/CN_002"
+    },
+    {
+      "id": "char_345_folnic_CN_003",
+      "title": {
+        "en": "Talk 2",
+        "jp": "会話2",
+        "kr": "대화 2",
+        "cn": "交谈2"
+      },
+      "text": {
+        "en": "Life in the Medical Department is just daily meetings, visits around the Island, learning the operators' physical conditions, and developing new drugs. Nothing really fresh or exciting.",
+        "jp": "医療部の生活は、定例会議、艦内往診、オペレーターのヘルスデータの把握、新薬の研究開発といったことの繰り返しです。何も目新しいことはありませんよ。",
+        "kr": "의료부의 일상은 정기 회의, 함선 내 왕진, 오퍼레이터들의 건강 상태 모니터링, 신약 연구 개발 같은 일의 반복입니다. 아무것도 새로울 게 없죠.",
+        "cn": "医疗部的生活就是日常会议、岛内出诊、掌握干员身体情况、新药研究与开发，没什么新鲜事。"
+      },
+      "asset": "char_345_folnic/CN_003"
+    },
+    {
+      "id": "char_345_folnic_CN_004",
+      "title": {
+        "en": "Talk 3",
+        "jp": "会話3",
+        "kr": "대화 3",
+        "cn": "交谈3"
+      },
+      "text": {
+        "en": "Mother, no matter where you are, please watch over me.",
+        "jp": "母さん、どこにいても見守っていてね。",
+        "kr": "엄마, 어디에 있든 지켜봐 줘.",
+        "cn": "妈妈，不管您在哪里，请保佑我吧。"
+      },
+      "asset": "char_345_folnic/CN_004"
+    },
+    {
+      "id": "char_345_folnic_CN_005",
+      "title": {
+        "en": "Talk after Promotion 1",
+        "jp": "昇進後会話1",
+        "kr": "1차 정예화 후 대화",
+        "cn": "晋升后交谈1"
+      },
+      "text": {
+        "en": "Thanks for always taking care of us medics. I feel so much less anxiety while working, and I'm very happy. Of course, there are troublesome things to deal with as well, for example, when Blaze comes back, her body is always covered in blood, each and every time! Does she know how hard it is to clean up those bodily fluids?",
+        "jp": "私たち医療スタッフが皆さんにご協力いただいているおかげで、仕事中の不安も減り、楽しく働けています。とは言え、もちろんまだまだ頭を抱える問題も残っています。例えばブレイズ氏がいつも血まみれで帰ってくることとか、ええ、毎回ですよ。体液の清掃がどれだけ面倒なのか、あの人は知らないんでしょうか？",
+        "kr": "여러분의 협력 덕분에 저희 의료부 오퍼레이터들의 업무 중 불안이 많이 줄었습니다. 아주 즐겁게 일하고 있고요. 다만 아직 해결되지 않은 골치 아픈 문제가 남아 있는데…… 예를 들면 블레이즈 씨가 매번 피투성이로 돌아오는 거라든가! 네, 매번! 체액 청소가 얼마나 성가신지 그 사람은 모르나 보죠?",
+        "cn": "多亏大家照顾我们这些负责医疗的人，工作起来焦虑感少了很多，很快乐。当然，也有很多头疼的事情，比如煌干员回来时总搞得浑身是血，每次都是，她不知道清理那些体液有多麻烦吗？"
+      },
+      "asset": "char_345_folnic/CN_005"
+    },
+    {
+      "id": "char_345_folnic_CN_006",
+      "title": {
+        "en": "Talk after Promotion 2",
+        "jp": "昇進後会話2",
+        "kr": "2차 정예화 후 대화",
+        "cn": "晋升后交谈2"
+      },
+      "text": {
+        "en": "How many times have I told you, don't stay up late, and don't overeat! You just won't listen, right? How are you going to take care of your health then? You might as well spend the rest of your life in that chair!! ...... I'm sorry, I need to go calm down first.",
+        "jp": "夜更しも暴飲暴食もダメだと何度も言ったでしょう、聞く耳を持たないということですか？じゃ何のための健康管理なのよ、一生椅子に寝てればいいじゃない！！……すみません、ちょっと頭を冷やしてきます。",
+        "kr": "밤을 새우는 것도, 과음 폭식도 안 된다고 몇 번이나 말씀드렸던 것 같은데, 아주 귓등으로도 안 듣겠다는 건가요? 그럼 뭘 위해 건강을 관리하는 거야, 평생 의자에서 잠이나 잘 것이지!! ……죄송합니다. 잠시 머리를 식히고 오겠습니다.",
+        "cn": "我说过多少次了不要熬夜不要暴饮暴食，您就是听不进去，对不对？那你还管理什么健康，一辈子都躺在椅子上算了！！……不好意思，我去冷静一下。"
+      },
+      "asset": "char_345_folnic/CN_006"
+    },
+    {
+      "id": "char_345_folnic_CN_007",
+      "title": {
+        "en": "Talk after Trust Increase 1",
+        "jp": "信頼上昇後会話1",
+        "kr": "신뢰도 상승 후 대화 1",
+        "cn": "信赖提升后交谈1"
+      },
+      "text": {
+        "en": "I never quite know what Dr. Kal'tsit is thinking. Has she always been that... unique? I hope I can catch up to her one day, even if it's in just one area.",
+        "jp": "ケルシー先生が何を考えてらっしゃるのか、私にはよく理解できません。ずっとああいう風な……変わった方なんですか？ほんの少しだけでも、先生のペースについていけたらなと思っています。",
+        "kr": "켈시 선생님이 무슨 생각을 하고 계시는지 저는 도저히 이해할 수가 없어요. 전부터 이렇게…… 독특하셨나요? 아주 조금이라도 선생님의 페이스를 따라갈 수 있다면 좋겠네요.",
+        "cn": "我不太能理解凯尔希老师在思考什么，她一直是那样……独特的人吗？哪怕只有一点，我也希望自己能追上她的步伐。"
+      },
+      "asset": "char_345_folnic/CN_007"
+    },
+    {
+      "id": "char_345_folnic_CN_008",
+      "title": {
+        "en": "Talk after Trust Increase 2",
+        "jp": "信頼上昇後会話2",
+        "kr": "신뢰도 상승 후 대화 2",
+        "cn": "信赖提升后交谈2"
+      },
+      "text": {
+        "en": "As long as the wicked can be punished, what's a little bit of criticism? I don't mind spilling these poisons on my enemies. They deserve it.",
+        "jp": "悪に報いを受けさせるためなら、非難されても構いません。これらの毒薬を敵に向けて散布することも厭いませんよ。彼らが当然受けるべき罰なんですから。",
+        "kr": "악인이 자기가 저지른 죄에 상응하는 대가를 치르도록 하기 위해서라면, 비난받는 것 따위 상관없어요. 전 이 독약을 적에게 살포하는 것조차 주저하지 않을 거예요. 이건 그들이 마땅히 받아야 하는 벌이니까요.",
+        "cn": "只要恶人能受到惩罚，被非议又怎么样？我不介意把这些毒剂泼洒给敌人，这是他们应得的。"
+      },
+      "asset": "char_345_folnic/CN_008"
+    },
+    {
+      "id": "char_345_folnic_CN_009",
+      "title": {
+        "en": "Talk after Trust Increase 3",
+        "jp": "信頼上昇後会話3",
+        "kr": "신뢰도 상승 후 대화 3",
+        "cn": "信赖提升后交谈3"
+      },
+      "text": {
+        "en": "The word 'Ursus' only gives me pain. I don't want to hear it, not again for the rest of my life. But it's giant, its voice deafening, and I'm the only one it's going to drive mad.",
+        "jp": "「ウルサス」という言葉は、苦しみをもたらすだけですから聴きたくありません。ええ、一生涯聴きたくない言葉です。ですが、あれは巨人です、耳をふさいでいてもこの鼓膜を震わせるんです。狂わされるのは、私だけです。",
+        "kr": "'우르수스' 라는 단어는 제게 고통만을 안겨줘요. 정말 평생 다신 듣고 싶지 않은 단어죠. 하지만 그건 거인과도 같아서, 포효하는 울음소리가 틀어막은 제 귀를 뚫고 들어오곤 해요. 미쳐가는 건…… 저뿐이에요.",
+        "cn": "乌萨斯这个单词只会给我痛苦，我不想听，我一辈子都不想再听到。但它，是个巨人，发声振聋发聩。会被逼疯的，只有我。"
+      },
+      "asset": "char_345_folnic/CN_009"
+    },
+    {
+      "id": "char_345_folnic_CN_010",
+      "title": {
+        "en": "Idle",
+        "jp": "放置",
+        "kr": "방치",
+        "cn": "闲置"
+      },
+      "text": {
+        "en": "You also know that your previous environmental cleanliness evaluation scores weren't very high, right? If you don't turn things around, Doctor, you'll be on the business end of the Rhodes Island sanitation crane. ... I'll help you take care of these for now, so make sure you clean up the rest in your free time.",
+        "jp": "環境衛生評価の点数が良くなかったことはご自身でも分かっていますよね。このままだとドクターがロドスで最下位になってしまいますよ。ふぅ、ひとまずこの辺のものは片付けておきました。残りはお手すきの際にきれいにしてくださいね。",
+        "kr": "환경위생평가 점수가 좋지 않다는 건 본인도 알고 계시겠죠? 이대로라면 박사님이 로도스 아일랜드의 위생 꼴찌 자리를 차지하게 될 거예요. 후우, 이쪽은 일단 제가 정리해 뒀으니까, 남은 건 시간 날 때 틈틈이 청소해 주세요.",
+        "cn": "你也知道自己之前环境清洁评测的分不高吧，再这样下去，博士可就是罗德岛的卫生吊车尾了。呼，这些我暂时帮你收拾了，剩下的记得空闲时清扫一下。"
+      },
+      "asset": "char_345_folnic/CN_010"
+    },
+    {
+      "id": "char_345_folnic_CN_011",
+      "title": {
+        "en": "Onboard",
+        "jp": "入職会話",
+        "kr": "오퍼레이터 입사",
+        "cn": "干员报到"
+      },
+      "text": {
+        "en": "I am Folinic from the Medical Department, and I am now participating in field medic missions. Meanwhile, per Dr. Kal'tsit's request, I will also help you manage your health. I look forward to working with you.",
+        "jp": "医療部のフォリニックです。今後は戦場医療任務にも参加します。また、ケルシー先生の要請により、あなたの健康管理も担当します。よろしくお願いします。",
+        "kr": "의료부의 폴리닉입니다. 앞으로는 전장 의료 임무에도 참가할 예정입니다. 그리고, 켈시 선생님의 요청으로 당신의 건강 관리도 담당하게 되었으니 잘 부탁드립니다.",
+        "cn": "我是医疗部的亚叶，现在开始参加战地医疗任务，同时应凯尔希老师的要求，对您的健康情况进行管理，请多指教。"
+      },
+      "asset": "char_345_folnic/CN_011"
+    },
+    {
+      "id": "char_345_folnic_CN_012",
+      "title": {
+        "en": "Watching Battle Record",
+        "jp": "経験値上昇",
+        "kr": "작전기록 학습",
+        "cn": "观看作战记录"
+      },
+      "text": {
+        "en": "It seems that the volume of drug input was insufficient last time, and it should be able to achieve its intended effect next time at triple the dosage.",
+        "jp": "当時の薬剤投与量は足りていなかったようですね。次はあと三倍追加投与すれば想定通りの効果が期待できそう。",
+        "kr": "당시의 약물 투여량이 부족했던 모양이군요. 다음에 세 배 추가 투약을 하면 기대했던 효과가 나올 것 같네요.",
+        "cn": "看来那时候药物的投入量还不够，下次再加三倍应该能达到预定效果。"
+      },
+      "asset": "char_345_folnic/CN_012"
+    },
+    {
+      "id": "char_345_folnic_CN_013",
+      "title": {
+        "en": "Promotion 1",
+        "jp": "昇進Ⅰ",
+        "kr": "1차 정예화 (승진)",
+        "cn": "精英化晋升1"
+      },
+      "text": {
+        "en": "Thank you for your acknowledgment. I am simply doing what I should.",
+        "jp": "認めていただきありがとうございます。私がやるべき仕事ですから。",
+        "kr": "인정해 주셔서 감사합니다. 다만 이건 원래 제가 해야할 일인걸요.",
+        "cn": "感谢认可，这些都是我应当做的。"
+      },
+      "asset": "char_345_folnic/CN_013"
+    },
+    {
+      "id": "char_345_folnic_CN_014",
+      "title": {
+        "en": "Promotion 2",
+        "jp": "昇進Ⅱ",
+        "kr": "2차 정예화 (승진)",
+        "cn": "精英化晋升2"
+      },
+      "text": {
+        "en": "One day, I will become as capable a physician as Dr. Kal'tsit. Just you wait and see.",
+        "jp": "いつか必ず、ケルシー先生のような医師になってみせます。期待していてください。",
+        "kr": "언젠가 반드시, 켈시 선생님 같은 의사가 되어 보이겠습니다. 기대해 주세요.",
+        "cn": "总有一天，我会成为像凯尔希老师那样的医生，拭目以待吧。"
+      },
+      "asset": "char_345_folnic/CN_014"
+    },
+    {
+      "id": "char_345_folnic_CN_017",
+      "title": {
+        "en": "Added to Squad",
+        "jp": "編成",
+        "kr": "팀 배치",
+        "cn": "编入队伍"
+      },
+      "text": {
+        "en": "Medical support ready. I'll protect everyone's life.",
+        "jp": "職責を全うし、皆さんの命を守ります。",
+        "kr": "맡은 바 임무를 다해, 여러분의 생명을 지키겠습니다.",
+        "cn": "我会尽到职责，保护各位的生命。"
+      },
+      "asset": "char_345_folnic/CN_017"
+    },
+    {
+      "id": "char_345_folnic_CN_018",
+      "title": {
+        "en": "Appointed as Squad Leader",
+        "jp": "隊長任命",
+        "kr": "팀장 임명",
+        "cn": "任命队长"
+      },
+      "text": {
+        "en": "Medical support has covered the whole squad. The rest is up to you, Doctor.",
+        "jp": "医療支援は全隊員に行き渡りました。あとはドクター次第です。",
+        "kr": "전원 의료 지원 완료. 나머지는 박사님께 달렸습니다.",
+        "cn": "医疗支援已覆盖全队，接下来就看博士你的了。"
+      },
+      "asset": "char_345_folnic/CN_018"
+    },
+    {
+      "id": "char_345_folnic_CN_019",
+      "title": {
+        "en": "Depart",
+        "jp": "作戦準備",
+        "kr": "작전 출발",
+        "cn": "行动出发"
+      },
+      "text": {
+        "en": "No problem, I can handle some psychological burden.",
+        "jp": "大丈夫です、プレッシャーなどありません。",
+        "kr": "괜찮습니다. 제가 부담가질 일이 뭐가 있겠어요.",
+        "cn": "没事，我能有什么心理负担。"
+      },
+      "asset": "char_345_folnic/CN_019"
+    },
+    {
+      "id": "char_345_folnic_CN_020",
+      "title": {
+        "en": "Begin Operation",
+        "jp": "戦闘開始",
+        "kr": "작전 개시",
+        "cn": "行动开始"
+      },
+      "text": {
+        "en": "Enemy engaged. Prepare for counterattack and treatment.",
+        "jp": "敵に接触、反撃と治療の準備を。",
+        "kr": "적 확인, 반격과 치료 준비를 하겠습니다.",
+        "cn": "已接敌，准备反击与治疗。"
+      },
+      "asset": "char_345_folnic/CN_020"
+    },
+    {
+      "id": "char_345_folnic_CN_021",
+      "title": {
+        "en": "Selecting Operator 1",
+        "jp": "選択時1",
+        "kr": "오퍼레이터 선택 1",
+        "cn": "选中干员1"
+      },
+      "text": {
+        "en": "Haven't decided yet?",
+        "jp": "まだ考えているんですか？",
+        "kr": "아직도 생각하고 계시나요?",
+        "cn": "还没想好？"
+      },
+      "asset": "char_345_folnic/CN_021"
+    },
+    {
+      "id": "char_345_folnic_CN_022",
+      "title": {
+        "en": "Selecting Operator 2",
+        "jp": "選択時2",
+        "kr": "오퍼레이터 선택 2",
+        "cn": "选中干员2"
+      },
+      "text": {
+        "en": "The clock's ticking.",
+        "jp": "時間は待ってくれませんよ。",
+        "kr": "시간은 기다려 주지 않는답니다.",
+        "cn": "时不我待。"
+      },
+      "asset": "char_345_folnic/CN_022"
+    },
+    {
+      "id": "char_345_folnic_CN_023",
+      "title": {
+        "en": "Deployment 1",
+        "jp": "配置1",
+        "kr": "배치 1",
+        "cn": "部署1"
+      },
+      "text": {
+        "en": "Medical support has arrived.",
+        "jp": "医療支援が入ります。",
+        "kr": "의료 지원 들어갑니다.",
+        "cn": "医疗支援已介入。"
+      },
+      "asset": "char_345_folnic/CN_023"
+    },
+    {
+      "id": "char_345_folnic_CN_024",
+      "title": {
+        "en": "Deployment 2",
+        "jp": "配置2",
+        "kr": "배치 2",
+        "cn": "部署2"
+      },
+      "text": {
+        "en": "Permission to attack has been granted.",
+        "jp": "攻撃の許可が下りました。",
+        "kr": "공격 허가가 떨어졌습니다.",
+        "cn": "已获得攻击许可。"
+      },
+      "asset": "char_345_folnic/CN_024"
+    },
+    {
+      "id": "char_345_folnic_CN_025",
+      "title": {
+        "en": "In Battle 1",
+        "jp": "作戦中1",
+        "kr": "작전 중 1",
+        "cn": "作战中1"
+      },
+      "text": {
+        "en": "Start medication.",
+        "jp": "投薬開始。",
+        "kr": "투약 시작.",
+        "cn": "开始投药。"
+      },
+      "asset": "char_345_folnic/CN_025"
+    },
+    {
+      "id": "char_345_folnic_CN_026",
+      "title": {
+        "en": "In Battle 2",
+        "jp": "作戦中2",
+        "kr": "작전 중 2",
+        "cn": "作战中2"
+      },
+      "text": {
+        "en": "Don't worry, the effects will kick in soon.",
+        "jp": "心配しないでください、すぐに薬効があらわれます。",
+        "kr": "걱정하지 마세요. 금방 약효가 나타날 겁니다.",
+        "cn": "别担心，马上就起效了。"
+      },
+      "asset": "char_345_folnic/CN_026"
+    },
+    {
+      "id": "char_345_folnic_CN_027",
+      "title": {
+        "en": "In Battle 3",
+        "jp": "作戦中3",
+        "kr": "작전 중 3",
+        "cn": "作战中3"
+      },
+      "text": {
+        "en": "Three, two, one!",
+        "jp": "三、二、一！",
+        "kr": "3, 2, 1!",
+        "cn": "三、二、一！"
+      },
+      "asset": "char_345_folnic/CN_027"
+    },
+    {
+      "id": "char_345_folnic_CN_028",
+      "title": {
+        "en": "In Battle 4",
+        "jp": "作戦中4",
+        "kr": "작전 중 4",
+        "cn": "作战中4"
+      },
+      "text": {
+        "en": "Overdose decoction prepared, begin use!",
+        "jp": "多量の薬剤を装填しました、使用開始します！",
+        "kr": "대량의 약제를 장전했습니다. 사용을 개시합니다!",
+        "cn": "已配置过量药物，开始使用！"
+      },
+      "asset": "char_345_folnic/CN_028"
+    },
+    {
+      "id": "char_345_folnic_CN_029",
+      "title": {
+        "en": "4-star Result",
+        "jp": "高難度作戦クリア",
+        "kr": "고난이도 작전 종료",
+        "cn": "完成高难行动"
+      },
+      "text": {
+        "en": "I was able to be of some help, right?",
+        "jp": "私も、少しは役に立ちましたよね？",
+        "kr": "저도 조금은 도움이 되었죠?",
+        "cn": "我应该，也帮上了一点忙吧？"
+      },
+      "asset": "char_345_folnic/CN_029"
+    },
+    {
+      "id": "char_345_folnic_CN_030",
+      "title": {
+        "en": "3-star Result",
+        "jp": "★3で戦闘終了",
+        "kr": "3★ 작전 종료",
+        "cn": "3星结束行动"
+      },
+      "text": {
+        "en": "Saving medical supplies is a good thing, but there's no need for that on the battlefield, is there?",
+        "jp": "医療資源の節約は良いことですが、戦場ではその必要はありませんよ。",
+        "kr": "의료 자원을 절약하는 건 좋지만, 전장에선 그럴 필요 없어요.",
+        "cn": "节省医疗资源是件好事，但在战场上没这个必要哦？"
+      },
+      "asset": "char_345_folnic/CN_030"
+    },
+    {
+      "id": "char_345_folnic_CN_031",
+      "title": {
+        "en": "Sub 3-star Result",
+        "jp": "★2以下戦闘終了",
+        "kr": "비 3★ 작전 종료",
+        "cn": "非3星结束行动"
+      },
+      "text": {
+        "en": "Luckily, it's just a scratch. Just apply a bandage after cleansing the wound.",
+        "jp": "心配しないで、ただのかすり傷です。消毒して絆創膏を貼っておけば治ります。",
+        "kr": "걱정하지 마세요. 그냥 긁힌 거예요. 소독하고 반창고만 붙이면 돼요.",
+        "cn": "还好，只是擦伤，清创以后贴个创可贴就行。"
+      },
+      "asset": "char_345_folnic/CN_031"
+    },
+    {
+      "id": "char_345_folnic_CN_032",
+      "title": {
+        "en": "Operation Failure",
+        "jp": "作戦失敗",
+        "kr": "작전 실패",
+        "cn": "行动失败"
+      },
+      "text": {
+        "en": "Transfer the wounded! Get ready for emergency operation! Prepare for intraosseous infusion!",
+        "jp": "負傷者を搬送、緊急手術を！骨髄輸液の準備もお願いします！",
+        "kr": "부상자를 운송하고 긴급 수술을 준비해 주세요! 골수 수액 준비도 부탁합니다!",
+        "cn": "转移伤员，紧急手术！准备骨髓内输液！"
+      },
+      "asset": "char_345_folnic/CN_032"
+    },
+    {
+      "id": "char_345_folnic_CN_033",
+      "title": {
+        "en": "Assigned to Facility",
+        "jp": "基地配属",
+        "kr": "시설에 배치",
+        "cn": "进驻设施"
+      },
+      "text": {
+        "en": "Inspection complete. This area is habitable.",
+        "jp": "検査完了、入居できそうです。",
+        "kr": "검사 완료. 입주해도 문제 없을 것 같네요.",
+        "cn": "检测完毕，可以入住了。"
+      },
+      "asset": "char_345_folnic/CN_033"
+    },
+    {
+      "id": "char_345_folnic_CN_034",
+      "title": {
+        "en": "Tap",
+        "jp": "タッチ1",
+        "kr": "터치",
+        "cn": "戳一下"
+      },
+      "text": {
+        "en": "Huh?",
+        "jp": "えっ？",
+        "kr": "네?",
+        "cn": "欸？"
+      },
+      "asset": "char_345_folnic/CN_034"
+    },
+    {
+      "id": "char_345_folnic_CN_036",
+      "title": {
+        "en": "Trust Tap",
+        "jp": "信頼タッチ",
+        "kr": "신뢰도 터치",
+        "cn": "信赖触摸"
+      },
+      "text": {
+        "en": "Sometimes the things I say to you can be a bit... excessive, but you should also recognize that you have your shortcomings, all right?",
+        "jp": "時々あなたへの言葉が少し……厳しくなることもあります。ですがご自身でも足りないところをしっかり理解してください、いいですか。",
+        "kr": "가끔 당신한테 하는 말이 좀…… 격해질 때도 있지만, 당신도 자신의 부족한 점을 분명히 인식했으면 좋겠어요. 그래 줄 거죠?",
+        "cn": "有时候对你的言词是有点……过激了，但您也得明白自己的不足之处，可以吗。"
+      },
+      "asset": "char_345_folnic/CN_036"
+    },
+    {
+      "id": "char_345_folnic_CN_037",
+      "title": {
+        "en": "Title",
+        "jp": "タイトルコール",
+        "kr": "타이틀",
+        "cn": "标题"
+      },
+      "text": {
+        "en": "Arknights.",
+        "jp": "アークナイツ。",
+        "kr": "명일방주.",
+        "cn": "明日方舟。"
+      },
+      "asset": "char_345_folnic/CN_037"
+    },
+    {
+      "id": "char_345_folnic_CN_038",
+      "title": {
+        "en": "New Year's blessing",
+        "jp": "新年",
+        "kr": "새해",
+        "cn": "新年祝福"
+      },
+      "text": {
+        "en": "Happy New Year, Doctor. Why don't we take this chance to look back on your health over the last year? Let's see... Forget it. I have to admit my management of your health still has room for improvement. I will work extra hard on that this year.",
+        "jp": "ドクター、あけましておめでとうございます。この機会に、あなたの去年の健康状態の振り返りと評価をさせてください。では早速……いえ、やめておきましょう。あなたの健康管理については、私にも至らない点があったと言わざるを得ません。新たな一年は、これまでの倍努力するつもりです。",
+        "kr": "박사님, 새해 복 많이 받으세요. 이참에 작년 건강 상태에 대한 전반적인 리뷰를 해드리겠습니다. 어디 보자…… 에휴 됐다. 당신의 건강 관리에 있어서, 제가 소홀했다는 걸 인정해야겠군요. 올해는 두 배로 열심히 관리해 드리겠습니다.",
+        "cn": "博士，新年快乐。趁此机会，让我对您去年的健康状态做一个回顾评分吧。让我看看……算了。我必须得承认，在您的健康管理上，我的工作有所疏漏。今年，我一定会加倍努力的。"
+      },
+      "asset": "char_345_folnic/CN_038"
+    },
+    {
+      "id": "char_345_folnic_CN_042",
+      "title": {
+        "en": "Greeting",
+        "jp": "挨拶",
+        "kr": "인사",
+        "cn": "问候"
+      },
+      "text": {
+        "en": "You've been working hard.",
+        "jp": "お疲れさまです。",
+        "kr": "수고 많으십니다.",
+        "cn": "工作辛苦了。"
+      },
+      "asset": "char_345_folnic/CN_042"
+    },
+    {
+      "id": "char_345_folnic_CN_043",
+      "title": {
+        "en": "Birthday",
+        "jp": "誕生日",
+        "kr": "생일",
+        "cn": "生日"
+      },
+      "text": {
+        "en": "Happy birthday, Doctor. I prepared a gift for you. This is a neck massager developed by the Medical Department. Why don't you give it a try now? It might hurt a little, but it's good for your health. Hey, don't try to escape. I <i>will</i> manage your health one way or another.",
+        "jp": "ドクター、誕生日おめでとうございます。プレゼントに医療部が開発した頸椎マッサージ機を用意しておいたので、早速使ってみてください。少し痛むかもしれませんが、身体にはいいものなので安心してください。ああ、逃げようだなんて思わないでくださいね。あなたの健康管理という責務は、何が何でも果たしますから。",
+        "kr": "박사님, 생일 축하합니다. 오늘은 제가 당신을 위해 특별히 선물을 준비해봤답니다. 이건 의료부에서 개발한 경추 안마기예요. 지금 한번 해보시겠어요? 처음엔 조금 아플 수 있지만, 그 아픔은 모두 박사님의 건강을 위한 것이랍니다. 앗, 도망치시려는 생각이라면 접으세요. 저는 박사님의 건강을 책임지는 사람으로서 최선을 다할 겁니다.",
+        "cn": "博士，生日快乐。我特意为您准备了礼物，是一套医疗部研发的颈椎按摩仪。请您现在就试试吧，可能会有点痛，但对您的健康一定是有好处的。啊，别想逃跑。我一定会履行好健康管理的责任的。"
+      },
+      "asset": "char_345_folnic/CN_043"
+    },
+    {
+      "id": "char_345_folnic_CN_044",
+      "title": {
+        "en": "Anniversary Celebration",
+        "jp": "周年",
+        "kr": "애니버서리",
+        "cn": "周年庆典"
+      },
+      "text": {
+        "en": "Ever since my mother went missing, I haven't had a place to call home. Rhodes Island is the closest I have. Dr. Kal'tsit invested her ideals in this company, and so have I. Doctor, bear witness to my determination.",
+        "jp": "母が消息を絶ったことで、私にとっての「家」はこの大地から失われてしまいました。今ではロドスが一番「家」に近い存在だと思います。ここにはケルシー先生の理想や、私の理想が居着いていますから。ドクター、どうか私の決意を見届けてください。",
+        "kr": "엄마와의 연락이 끊긴 이후, 이 대지엔 더이상 '집'이라 부를 곳이 없게 되었습니다. 그러던 제게 로도스 아일랜드가 집 같은 존재가 되었죠. 여기에는 켈시 선생님의 이상과 저의 이상이 깃들어 있습니다. 박사님, 제 결심이 옳았음을 확인시켜 주세요.",
+        "cn": "在母亲的消息断绝之后，于我而言，这片大地上就不存在“家”了。而罗德岛是最像家的地方了。这里寄寓了凯尔希老师的理想，也有我的理想。博士，请见证我的决心。"
+      },
+      "asset": "char_345_folnic/CN_044"
+    }
+  ],
+  "actors": {
+    "en": {
+      "native": "Skyler Davenport",
+      "global": "Skyler Davenport"
+    },
+    "cn": {
+      "native": "浮梦若薇",
+      "global": "Tracy"
+    },
+    "jp": {
+      "native": "近藤玲奈",
+      "global": "Reina Kondo"
+    },
+    "kr": {
+      "native": "이보희",
+      "global": "Lee Bo-hee"
+    }
+  },
+  "availability": [
+    "en",
+    "cn",
+    "jp",
+    "kr"
+  ]
+}

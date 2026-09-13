@@ -1,137 +1,105 @@
 import logging
 from functools import cache
-from os import path
+import subprocess
 
-from utils import load_json, save_json
+from utils import (
+    load_json,
+    save_json,
+    LANGS,
+    load_wordtables,
+    load_chartables,
+    ensure_dir,
+)
+import config as cfg
 
 logging.basicConfig()
 logger = logging.getLogger(__name__)
 
-LANGS = ["en", "jp", "kr", "cn"]
-MUTE_CHARS = {
-    "accast",
-    "acfend",
-    "acguad",
-    "acmedc",
-    "acnipe",
-    "acpion",
-    "acspec",
-    "acsupo",
-    "aprot",
-    "ccast",
-    "cdfend",
-    "cguard",
-    "cmedic",
-    "cpione",
-    "csnipe",
-    "cspec",
-    "csuppo",
-    "pithst",
-    "rcast",
-    "rdfend",
-    "rguard",
-    "rmedic",
-    "rsnipe",
-    "sharp2",
-}
 
+def get_new_names(names, wordkey):
+    """
+    Handles naming for 'extra' voices, those that aren't the only voice
+    the character has (skins, E2s with different voices, Amiya's forms).
+    """
+    match wordkey.split("_")[2:]:
+        case [op, outfit]:
+            disc = outfit.partition("#")[0]
+            name = f"{op}-{disc}"
+        case [op] if op.endswith("#1"):
+            disc = "e2"
+            name = f"{op.partition('#')[0]}-{disc}"
+        case [op] if op.startswith("amiya"):
+            disc = op[5:]
+            name = op
+        case _:
+            raise ValueError(f"extra voice with weird discriminator: {wordkey}")
 
-def rarity_str_to_int(raritystr):
-    # Transform rarity data from e.g. TIER_6 to 6 as an integer
-    return int(raritystr.split("_")[-1])
+    newnames = {k: (v + " " + disc.upper()) for k, v in names.items()}
 
-
-def load_chartable(lang):
-    sourcepath = path.join(lang, "character_table.json")
-    return load_json(sourcepath)
-
-
-def load_chartables():
-    return {lang: load_chartable(lang) for lang in LANGS}
-
-
-def load_wordtable(lang):
-    sourcepath = path.join(lang, "charword_table.json")
-    return load_json(sourcepath)
-
-
-def load_wordtables():
-    return {lang: load_wordtable(lang) for lang in LANGS}
+    return (newnames, name)
 
 
 def make_charlist():
     chartables = load_chartables()
+    wordtables = load_wordtables()
+
+    # char_512_aprot and char_4025_aprot2 are both Shalem and have the same lines
+    voices = {
+        (x["charId"], x["wordKey"])
+        for x in wordtables["en"]["charWords"].values()
+        if x["charId"] != "char_512_aprot"
+    }
 
     charlist = []
 
-    # Use EN as base
-    for charid in chartables["en"]:
-        splitid = charid.split("_")
+    for char_id, wordkey in voices:
+        _, char_num, char_name = char_id.split("_")
+        fulldata = chartables["en"][char_id]
+        char_names = {lang: x[char_id]["name"] for lang, x in chartables.items()}
 
-        if splitid[0] != "char":
-            continue
+        if char_id == wordkey:
+            # handle a basic voice
+            newchar = {
+                "fullid": char_id,
+                "nameid": char_name,
+                "numberid": char_num,
+                "name": char_names,
+                "nation": fulldata["nationId"],
+                "rating": int(fulldata["rarity"][-1]),
+            }
+            charlist.append(newchar)
+        else:
+            # handle an extra voice, e.g. voiced skins or Amiya's extra forms
+            if wordkey.endswith("_ITA") or wordkey.endswith("_CN_TOPOLECT"):
+                # These don't have separate voice texts and don't need further handling
+                continue
 
-        charname = splitid[-1]
+            # Only changes for Amiya
+            _, char_num, _ = wordkey.split("_", maxsplit=2)
 
-        if charname in MUTE_CHARS:
-            logger.debug(f"Found mute char {charname}, skipping")
-            continue
+            names, name_id = get_new_names(char_names, wordkey)
 
-        newchar = {
-            "fullid": charid,
-            "nameid": charname,
-            "numberid": splitid[1],
-            "name": {},
-        }
+            newchar = {
+                "fullid": wordkey,
+                "nameid": name_id,
+                "numberid": char_num,
+                "name": names,
+                "nation": fulldata["nationId"],
+                "rating": int(fulldata["rarity"][-1]),
+            }
+            charlist.append(newchar)
 
-        for lang in LANGS:
-            regional_name = chartables[lang][charid]["name"]
-            newchar["name"][lang] = regional_name
-
-        # Set additional data
-        fulldata = chartables["en"][charid]  # just use en as base
-        newchar["nation"] = fulldata["nationId"]
-        rarity = rarity_str_to_int(fulldata["rarity"])
-        newchar["rating"] = rarity
-
-        charlist.append(newchar)
-
-        if charid == "char_002_amiya":
-            amiya_alter1, amiya_alter2 = make_amiya_alters_data(newchar)
-            charlist.append(amiya_alter1)
-            charlist.append(amiya_alter2)
-
-    return charlist
-
-
-def make_amiya_alters_data(base_amiya):
-    amiya_alter1 = base_amiya.copy()
-    amiya_alter2 = base_amiya.copy()
-
-    amiya_alter1["name"] = base_amiya["name"].copy()
-    for lang in amiya_alter1["name"]:
-        amiya_alter1["name"][lang] = base_amiya["name"][lang] + " 2"
-
-    amiya_alter2["name"] = base_amiya["name"].copy()
-    for lang in amiya_alter2["name"]:
-        amiya_alter2["name"][lang] = base_amiya["name"][lang] + " 3"
-
-    amiya_alter1["fullid"] = "char_1001_amiya2"
-    amiya_alter2["fullid"] = "char_1037_amiya3"
-
-    amiya_alter1["nameid"] = "amiya2"
-    amiya_alter2["nameid"] = "amiya3"
-
-    amiya_alter1["numberid"] = "1001"
-    amiya_alter2["numberid"] = "1037"
-
-    return (amiya_alter1, amiya_alter2)
+    return sorted(charlist, key=lambda x: x["fullid"])
 
 
 def make_and_save_charlist():
     charlist = make_charlist()
     logger.info(f"Loaded {len(charlist)} characters")
-    save_json(charlist, "charlist.json")
+    # site uses it directly, but other datascript components can too
+    save_json(charlist, cfg.cached("charlist.json"))
+    save_json(charlist, cfg.output("charlist.json"))
+
+    return charlist
 
 
 def get_welcome():
@@ -144,7 +112,7 @@ def get_welcome():
         result[lang] = voice_data["voiceText"]
 
     logger.info("Texts in key found. Now saving...")
-    save_json(result, "welcome.json")
+    save_json(result, cfg.output("welcome.json"))
 
 
 def get_voices(wordkey, wordtables):
@@ -249,7 +217,7 @@ def get_actors(charid, wordtables):
 
 
 def add_old_voices(chardata):
-    manualdata = load_json("manual.json")
+    manualdata = load_json(cfg.manual("old-voices.json"))
 
     try:
         old_voice_data = manualdata["oldvoices"][chardata["nameid"]]
@@ -289,17 +257,65 @@ def get_chardata(charid, wordtables, names=None):
     return chardata
 
 
-def get_and_write_chardata(charid, wordtables, names=None):
+def mangle_char_id(orig: str):
+    """
+    `orig` should be a char id (`char_002_amiya`).
+
+    Returns a form of that ID suitable for use in a URL.
+    """
+    match orig.split("_")[2:]:
+        case [op, outfit]:
+            # e.g. whitw2_sale#15
+            return f"{op}-{outfit.partition('#')[0]}"
+        case [op] if "#" in op:
+            # e.g. mudrok#1, lolxh#1 - E2s with different voices
+            return f"{op.partition('#')[0]}-e2"
+        case [op]:
+            return op
+        case _:
+            raise NotImplementedError(
+                f"mangle_char_id doesn't know what to do with '{orig}'"
+            )
+
+
+def convert_and_write_image(sourcefile, targetfile):
+    ensure_dir(targetfile)
+    cwebp_params = ["-m", "6", "-alpha_q", "40", "-alpha_filter", "best"]
+    run_args = ["cwebp", *cwebp_params, sourcefile, "-o", targetfile]
+    subprocess.run(run_args, capture_output=True, check=True)
+
+
+def process_images():
+    def convert_if_needed(src, dst):
+        if dst.is_file():
+            logger.debug(f"{dst} already exists, skipping")
+        else:
+            convert_and_write_image(src, dst)
+
+    for avapath in cfg.cached("images/avatars").glob("*.png"):
+        targetpath = (
+            cfg.output(*avapath.parts[1:])
+            .with_stem(mangle_char_id(avapath.stem))
+            .with_suffix(".webp")
+        )
+        convert_if_needed(avapath, targetpath)
+
+    for factionpath in cfg.cached("images/factions").glob("*.png"):
+        targetpath = cfg.output(*factionpath.parts[1:]).with_suffix(".webp")
+        convert_if_needed(factionpath, targetpath)
+
+
+def get_and_write_chardata(charid, names=None):
+    wordtables = load_wordtables()
     logger.debug(f"Getting chardata for {charid}")
     chardata = get_chardata(charid, wordtables, names)
-    save_json(chardata, f"chardata/{charid}.json")
+    mangled = mangle_char_id(charid)
+    save_json(chardata, cfg.output(f"chardata/{mangled}.json"))
 
 
-def process_all_characters(charlist, wordtables):
+def process_all_characters(charlist):
     for char in charlist:
-        get_and_write_chardata(char["fullid"], wordtables, char["name"])
-
-    return wordtables
+        get_and_write_chardata(char["fullid"], char["name"])
 
 
 def get_and_save_misc_data(charlist):
@@ -307,18 +323,13 @@ def get_and_save_misc_data(charlist):
 
     miscdata = {"nations": sorted(nations)}
 
-    save_json(miscdata, "miscdata.json")
+    save_json(miscdata, cfg.output("miscdata.json"))
     logger.info("Created misc data file")
 
 
 def run_transformer():
     logger.info("Running")
-    make_and_save_charlist()
-
-    charlist = load_json("charlist.json")
-    wordtables = load_wordtables()
-
+    charlist = make_and_save_charlist()
     get_and_save_misc_data(charlist)
-    process_all_characters(charlist, wordtables)
-
-    return charlist, wordtables
+    process_all_characters(charlist)
+    get_welcome()

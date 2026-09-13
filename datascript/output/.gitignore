@@ -1,0 +1,5 @@
+# Nothing in this directory needs to get checked in
+# The outputs the site needs are version-controlled in
+# site/static/ and site/src/lib/data/
+*
+!.gitignore
