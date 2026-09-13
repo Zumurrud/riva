@@ -23,6 +23,7 @@
     };
     nation: string | null;
     rating: number;
+    release_date: string;
   }
 
   let name_filter: string = $state("");

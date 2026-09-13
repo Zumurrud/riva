@@ -10,7 +10,8 @@
       "cn": "阿米娅"
     },
     "nation": "rhodes",
-    "rating": 5
+    "rating": 5,
+    "release_date": "2020-01-16"
   },
   {
     "fullid": "char_003_kalts",
@@ -23,7 +24,8 @@
       "cn": "凯尔希"
     },
     "nation": "rhodes",
-    "rating": 6
+    "rating": 6,
+    "release_date": "2021-10-21"
   },
   {
     "fullid": "char_003_kalts_boc#6",
@@ -36,7 +38,8 @@
       "cn": "凯尔希 BOC"
     },
     "nation": "rhodes",
-    "rating": 6
+    "rating": 6,
+    "release_date": "2021-10-21"
   },
   {
     "fullid": "char_009_12fce",
@@ -49,7 +52,8 @@
       "cn": "12F"
     },
     "nation": "rhodes",
-    "rating": 2
+    "rating": 2,
+    "release_date": "2020-01-16"
   },
   {
     "fullid": "char_010_chen",
@@ -62,7 +66,8 @@
       "cn": "陈"
     },
     "nation": "lungmen",
-    "rating": 6
+    "rating": 6,
+    "release_date": "2020-02-26"
   },
   {
     "fullid": "char_017_huang",
@@ -75,7 +80,8 @@
       "cn": "煌"
     },
     "nation": "rhodes",
-    "rating": 6
+    "rating": 6,
+    "release_date": "2020-06-30"
   },
   {
     "fullid": "char_1001_amiya2",
@@ -88,7 +94,8 @@
       "cn": "阿米娅 2"
     },
     "nation": "rhodes",
-    "rating": 5
+    "rating": 5,
+    "release_date": "2020-01-16"
   },
   {
     "fullid": "char_1011_lava2",
@@ -101,7 +108,8 @@
       "cn": "炎狱炎熔"
     },
     "nation": "rhodes",
-    "rating": 5
+    "rating": 5,
+    "release_date": "2021-07-30"
   },
   {
     "fullid": "char_1012_skadi2",
@@ -114,7 +122,8 @@
       "cn": "浊心斯卡蒂"
     },
     "nation": "egir",
-    "rating": 6
+    "rating": 6,
+    "release_date": "2021-10-21"
   },
   {
     "fullid": "char_1012_skadi2_iteration#2",
@@ -127,7 +136,8 @@
       "cn": "浊心斯卡蒂 ITERATION"
     },
     "nation": "egir",
-    "rating": 6
+    "rating": 6,
+    "release_date": "2021-10-21"
   },
   {
     "fullid": "char_1013_chen2",
@@ -140,7 +150,8 @@
       "cn": "假日威龙陈"
     },
     "nation": "rhodes",
-    "rating": 6
+    "rating": 6,
+    "release_date": "2022-01-14"
   },
   {
     "fullid": "char_1014_nearl2",
@@ -153,7 +164,8 @@
       "cn": "耀骑士临光"
     },
     "nation": "kazimierz",
-    "rating": 6
+    "rating": 6,
+    "release_date": "2022-04-28"
   },
   {
     "fullid": "char_1016_agoat2",
@@ -166,7 +178,8 @@
       "cn": "纯烬艾雅法拉"
     },
     "nation": "leithanien",
-    "rating": 6
+    "rating": 6,
+    "release_date": "2024-01-16"
   },
   {
     "fullid": "char_1016_agoat2_epoque#34",
@@ -179,7 +192,8 @@
       "cn": "纯烬艾雅法拉 EPOQUE"
     },
     "nation": "leithanien",
-    "rating": 6
+    "rating": 6,
+    "release_date": "2024-01-16"
   },
   {
     "fullid": "char_1019_siege2",
@@ -192,7 +206,8 @@
       "cn": "维娜·维多利亚"
     },
     "nation": "victoria",
-    "rating": 6
+    "rating": 6,
+    "release_date": "2025-04-08"
   },
   {
     "fullid": "char_101_sora",
@@ -205,7 +220,8 @@
       "cn": "空"
     },
     "nation": "lungmen",
-    "rating": 5
+    "rating": 5,
+    "release_date": "2020-01-16"
   },
   {
     "fullid": "char_1020_reed2",
@@ -218,7 +234,8 @@
       "cn": "焰影苇草"
     },
     "nation": "victoria",
-    "rating": 6
+    "rating": 6,
+    "release_date": "2023-07-13"
   },
   {
     "fullid": "char_1021_kroos2",
@@ -231,7 +248,8 @@
       "cn": "寒芒克洛丝"
     },
     "nation": "rhodes",
-    "rating": 5
+    "rating": 5,
+    "release_date": "2022-07-29"
   },
   {
     "fullid": "char_1022_flwr2",
@@ -244,7 +262,8 @@
       "cn": "撷英调香师"
     },
     "nation": "rhodes",
-    "rating": 5
+    "rating": 5,
+    "release_date": "2026-06-22"
   },
   {
     "fullid": "char_1023_ghost2",
@@ -257,7 +276,8 @@
       "cn": "归溟幽灵鲨"
     },
     "nation": "egir",
-    "rating": 6
+    "rating": 6,
+    "release_date": "2022-11-03"
   },
   {
     "fullid": "char_1024_hbisc2",
@@ -270,7 +290,8 @@
       "cn": "濯尘芙蓉"
     },
     "nation": "rhodes",
-    "rating": 5
+    "rating": 5,
+    "release_date": "2022-12-27"
   },
   {
     "fullid": "char_1026_gvial2",
@@ -283,7 +304,8 @@
       "cn": "百炼嘉维尔"
     },
     "nation": "rhodes",
-    "rating": 6
+    "rating": 6,
+    "release_date": "2023-01-13"
   },
   {
     "fullid": "char_1027_greyy2",
@@ -296,7 +318,8 @@
       "cn": "承曦格雷伊"
     },
     "nation": "rhodes",
-    "rating": 5
+    "rating": 5,
+    "release_date": "2023-03-14"
   },
   {
     "fullid": "char_1028_texas2",
@@ -309,7 +332,8 @@
       "cn": "缄默德克萨斯"
     },
     "nation": "lungmen",
-    "rating": 6
+    "rating": 6,
+    "release_date": "2023-05-23"
   },
   {
     "fullid": "char_1029_yato2",
@@ -322,7 +346,8 @@
       "cn": "麒麟R夜刀"
     },
     "nation": "rhodes",
-    "rating": 6
+    "rating": 6,
+    "release_date": "2023-09-07"
   },
   {
     "fullid": "char_102_texas",
@@ -335,7 +360,8 @@
       "cn": "德克萨斯"
     },
     "nation": "lungmen",
-    "rating": 5
+    "rating": 5,
+    "release_date": "2020-01-16"
   },
   {
     "fullid": "char_1030_noirc2",
@@ -348,7 +374,8 @@
       "cn": "火龙S黑角"
     },
     "nation": "rhodes",
-    "rating": 5
+    "rating": 5,
+    "release_date": "2023-09-07"
   },
   {
     "fullid": "char_1031_slent2",
@@ -361,7 +388,8 @@
       "cn": "淬羽赫默"
     },
     "nation": "columbia",
-    "rating": 6
+    "rating": 6,
+    "release_date": "2023-11-07"
   },
   {
     "fullid": "char_1032_excu2",
@@ -374,7 +402,8 @@
       "cn": "圣约送葬人"
     },
     "nation": "laterano",
-    "rating": 6
+    "rating": 6,
+    "release_date": "2023-12-21"
   },
   {
     "fullid": "char_1032_excu2_sale#12",
@@ -387,7 +416,8 @@
       "cn": "圣约送葬人 SALE"
     },
     "nation": "laterano",
-    "rating": 6
+    "rating": 6,
+    "release_date": "2023-12-21"
   },
   {
     "fullid": "char_1033_swire2",
@@ -400,7 +430,8 @@
       "cn": "琳琅诗怀雅"
     },
     "nation": "lungmen",
-    "rating": 6
+    "rating": 6,
+    "release_date": "2024-01-16"
   },
   {
     "fullid": "char_1034_jesca2",
@@ -413,7 +444,8 @@
       "cn": "涤火杰西卡"
     },
     "nation": "columbia",
-    "rating": 6
+    "rating": 6,
+    "release_date": "2024-03-19"
   },
   {
     "fullid": "char_1035_wisdel",
@@ -426,7 +458,8 @@
       "cn": "维什戴尔"
     },
     "nation": null,
-    "rating": 6
+    "rating": 6,
+    "release_date": "2024-10-31"
   },
   {
     "fullid": "char_1035_wisdel_sale#14",
@@ -439,7 +472,8 @@
       "cn": "维什戴尔 SALE"
     },
     "nation": null,
-    "rating": 6
+    "rating": 6,
+    "release_date": "2024-10-31"
   },
   {
     "fullid": "char_1036_fang2",
@@ -452,7 +486,8 @@
       "cn": "历阵锐枪芬"
     },
     "nation": "rhodes",
-    "rating": 5
+    "rating": 5,
+    "release_date": "2024-10-31"
   },
   {
     "fullid": "char_1037_amiya3",
@@ -465,7 +500,8 @@
       "cn": "阿米娅 3"
     },
     "nation": "rhodes",
-    "rating": 5
+    "rating": 5,
+    "release_date": "2020-01-16"
   },
   {
     "fullid": "char_1038_whitw2",
@@ -478,7 +514,8 @@
       "cn": "荒芜拉普兰德"
     },
     "nation": "siracusa",
-    "rating": 6
+    "rating": 6,
+    "release_date": "2025-04-24"
   },
   {
     "fullid": "char_1038_whitw2_sale#15",
@@ -491,7 +528,8 @@
       "cn": "荒芜拉普兰德 SALE"
     },
     "nation": "siracusa",
-    "rating": 6
+    "rating": 6,
+    "release_date": "2025-04-24"
   },
   {
     "fullid": "char_1039_thorn2",
@@ -504,7 +542,8 @@
       "cn": "引星棘刺"
     },
     "nation": "iberia",
-    "rating": 6
+    "rating": 6,
+    "release_date": "2025-06-05"
   },
   {
     "fullid": "char_103_angel",
@@ -517,7 +556,8 @@
       "cn": "能天使"
     },
     "nation": "lungmen",
-    "rating": 6
+    "rating": 6,
+    "release_date": "2020-01-16"
   },
   {
     "fullid": "char_1040_blaze2",
@@ -530,7 +570,8 @@
       "cn": "烛煌"
     },
     "nation": "rhodes",
-    "rating": 6
+    "rating": 6,
+    "release_date": "2025-07-17"
   },
   {
     "fullid": "char_1041_angel2",
@@ -543,7 +584,8 @@
       "cn": "新约能天使"
     },
     "nation": "lungmen",
-    "rating": 6
+    "rating": 6,
+    "release_date": "2025-10-14"
   },
   {
     "fullid": "char_1042_phatm2",
@@ -556,7 +598,8 @@
       "cn": "酒神"
     },
     "nation": "victoria",
-    "rating": 6
+    "rating": 6,
+    "release_date": "2025-11-13"
   },
   {
     "fullid": "char_1043_leizi2",
@@ -569,7 +612,8 @@
       "cn": "司霆惊蛰"
     },
     "nation": "yan",
-    "rating": 6
+    "rating": 6,
+    "release_date": "2025-12-11"
   },
   {
     "fullid": "char_1044_hsgma2",
@@ -582,7 +626,8 @@
       "cn": "斩业星熊"
     },
     "nation": "lungmen",
-    "rating": 6
+    "rating": 6,
+    "release_date": "2026-01-16"
   },
   {
     "fullid": "char_1045_svash2",
@@ -595,7 +640,8 @@
       "cn": "凛御银灰"
     },
     "nation": "kjerag",
-    "rating": 6
+    "rating": 6,
+    "release_date": "2026-04-14"
   },
   {
     "fullid": "char_1046_sbell2",
@@ -608,7 +654,8 @@
       "cn": "圣聆初雪"
     },
     "nation": "kjerag",
-    "rating": 6
+    "rating": 6,
+    "release_date": "2026-04-14"
   },
   {
     "fullid": "char_1047_halo2",
@@ -621,7 +668,8 @@
       "cn": "溯光星源"
     },
     "nation": "columbia",
-    "rating": 6
+    "rating": 6,
+    "release_date": "2026-04-14"
   },
   {
     "fullid": "char_1050_chen3",
@@ -634,7 +682,8 @@
       "cn": "赤刃明霄陈"
     },
     "nation": "yan",
-    "rating": 6
+    "rating": 6,
+    "release_date": "2026-07-16"
   },
   {
     "fullid": "char_106_franka",
@@ -647,7 +696,8 @@
       "cn": "芙兰卡"
     },
     "nation": "columbia",
-    "rating": 5
+    "rating": 5,
+    "release_date": "2020-01-16"
   },
   {
     "fullid": "char_107_liskam",
@@ -660,7 +710,8 @@
       "cn": "雷蛇"
     },
     "nation": "columbia",
-    "rating": 5
+    "rating": 5,
+    "release_date": "2020-01-16"
   },
   {
     "fullid": "char_108_silent",
@@ -673,7 +724,8 @@
       "cn": "赫默"
     },
     "nation": "columbia",
-    "rating": 5
+    "rating": 5,
+    "release_date": "2020-01-16"
   },
   {
     "fullid": "char_109_fmout",
@@ -686,7 +738,8 @@
       "cn": "远山"
     },
     "nation": "sami",
-    "rating": 4
+    "rating": 4,
+    "release_date": "2020-01-16"
   },
   {
     "fullid": "char_110_deepcl",
@@ -699,7 +752,8 @@
       "cn": "深海色"
     },
     "nation": "egir",
-    "rating": 4
+    "rating": 4,
+    "release_date": "2020-01-16"
   },
   {
     "fullid": "char_112_siege",
@@ -712,7 +766,8 @@
       "cn": "推进之王"
     },
     "nation": "victoria",
-    "rating": 6
+    "rating": 6,
+    "release_date": "2020-01-16"
   },
   {
     "fullid": "char_113_cqbw",
@@ -725,7 +780,8 @@
       "cn": "W"
     },
     "nation": null,
-    "rating": 6
+    "rating": 6,
+    "release_date": "2020-12-30"
   },
   {
     "fullid": "char_113_cqbw_epoque#7",
@@ -738,7 +794,8 @@
       "cn": "W EPOQUE"
     },
     "nation": null,
-    "rating": 6
+    "rating": 6,
+    "release_date": "2020-12-30"
   },
   {
     "fullid": "char_115_headbr",
@@ -751,7 +808,8 @@
       "cn": "凛冬"
     },
     "nation": "ursus",
-    "rating": 5
+    "rating": 5,
+    "release_date": "2020-01-16"
   },
   {
     "fullid": "char_117_myrrh",
@@ -764,7 +822,8 @@
       "cn": "末药"
     },
     "nation": "rhodes",
-    "rating": 4
+    "rating": 4,
+    "release_date": "2020-01-16"
   },
   {
     "fullid": "char_118_yuki",
@@ -777,7 +836,8 @@
       "cn": "白雪"
     },
     "nation": "higashi",
-    "rating": 4
+    "rating": 4,
+    "release_date": "2020-01-16"
   },
   {
     "fullid": "char_120_hibisc",
@@ -790,7 +850,8 @@
       "cn": "芙蓉"
     },
     "nation": "rhodes",
-    "rating": 3
+    "rating": 3,
+    "release_date": "2020-01-16"
   },
   {
     "fullid": "char_121_lava",
@@ -803,7 +864,8 @@
       "cn": "炎熔"
     },
     "nation": "rhodes",
-    "rating": 3
+    "rating": 3,
+    "release_date": "2020-01-16"
   },
   {
     "fullid": "char_122_beagle",
@@ -816,7 +878,8 @@
       "cn": "米格鲁"
     },
     "nation": "rhodes",
-    "rating": 3
+    "rating": 3,
+    "release_date": "2020-01-16"
   },
   {
     "fullid": "char_123_fang",
@@ -829,7 +892,8 @@
       "cn": "芬"
     },
     "nation": "rhodes",
-    "rating": 3
+    "rating": 3,
+    "release_date": "2020-01-16"
   },
   {
     "fullid": "char_124_kroos",
@@ -842,7 +906,8 @@
       "cn": "克洛丝"
     },
     "nation": "rhodes",
-    "rating": 3
+    "rating": 3,
+    "release_date": "2020-01-16"
   },
   {
     "fullid": "char_126_shotst",
@@ -855,7 +920,8 @@
       "cn": "流星"
     },
     "nation": "kazimierz",
-    "rating": 4
+    "rating": 4,
+    "release_date": "2020-01-16"
   },
   {
     "fullid": "char_127_estell",
@@ -868,7 +934,8 @@
       "cn": "艾丝黛尔"
     },
     "nation": "sargon",
-    "rating": 4
+    "rating": 4,
+    "release_date": "2020-01-16"
   },
   {
     "fullid": "char_128_plosis",
@@ -881,7 +948,8 @@
       "cn": "白面鸮"
     },
     "nation": "columbia",
-    "rating": 5
+    "rating": 5,
+    "release_date": "2020-01-16"
   },
   {
     "fullid": "char_129_bluep",
@@ -894,7 +962,8 @@
       "cn": "蓝毒"
     },
     "nation": "iberia",
-    "rating": 5
+    "rating": 5,
+    "release_date": "2020-01-16"
   },
   {
     "fullid": "char_130_doberm",
@@ -907,7 +976,8 @@
       "cn": "杜宾"
     },
     "nation": "rhodes",
-    "rating": 4
+    "rating": 4,
+    "release_date": "2020-01-16"
   },
   {
     "fullid": "char_131_flameb",
@@ -920,7 +990,8 @@
       "cn": "炎客"
     },
     "nation": "rhodes",
-    "rating": 5
+    "rating": 5,
+    "release_date": "2020-03-25"
   },
   {
     "fullid": "char_133_mm",
@@ -933,7 +1004,8 @@
       "cn": "梅"
     },
     "nation": "victoria",
-    "rating": 4
+    "rating": 4,
+    "release_date": "2020-05-27"
   },
   {
     "fullid": "char_134_ifrit",
@@ -946,7 +1018,8 @@
       "cn": "伊芙利特"
     },
     "nation": "columbia",
-    "rating": 6
+    "rating": 6,
+    "release_date": "2020-01-16"
   },
   {
     "fullid": "char_135_halo",
@@ -959,7 +1032,8 @@
       "cn": "星源"
     },
     "nation": "columbia",
-    "rating": 5
+    "rating": 5,
+    "release_date": "2023-03-14"
   },
   {
     "fullid": "char_136_hsguma",
@@ -972,7 +1046,8 @@
       "cn": "星熊"
     },
     "nation": "lungmen",
-    "rating": 6
+    "rating": 6,
+    "release_date": "2020-01-16"
   },
   {
     "fullid": "char_137_brownb",
@@ -985,7 +1060,8 @@
       "cn": "猎蜂"
     },
     "nation": "ursus",
-    "rating": 4
+    "rating": 4,
+    "release_date": "2020-02-05"
   },
   {
     "fullid": "char_140_whitew",
@@ -998,7 +1074,8 @@
       "cn": "拉普兰德"
     },
     "nation": "siracusa",
-    "rating": 5
+    "rating": 5,
+    "release_date": "2020-01-16"
   },
   {
     "fullid": "char_141_nights",
@@ -1011,7 +1088,8 @@
       "cn": "夜烟"
     },
     "nation": "victoria",
-    "rating": 4
+    "rating": 4,
+    "release_date": "2020-01-16"
   },
   {
     "fullid": "char_143_ghost",
@@ -1024,7 +1102,8 @@
       "cn": "幽灵鲨"
     },
     "nation": "egir",
-    "rating": 5
+    "rating": 5,
+    "release_date": "2020-01-16"
   },
   {
     "fullid": "char_144_red",
@@ -1037,7 +1116,8 @@
       "cn": "红"
     },
     "nation": "rhodes",
-    "rating": 5
+    "rating": 5,
+    "release_date": "2020-01-16"
   },
   {
     "fullid": "char_145_prove",
@@ -1050,7 +1130,8 @@
       "cn": "普罗旺斯"
     },
     "nation": "siracusa",
-    "rating": 5
+    "rating": 5,
+    "release_date": "2020-01-16"
   },
   {
     "fullid": "char_147_shining",
@@ -1063,7 +1144,8 @@
       "cn": "闪灵"
     },
     "nation": null,
-    "rating": 6
+    "rating": 6,
+    "release_date": "2020-01-16"
   },
   {
     "fullid": "char_148_nearl",
@@ -1076,7 +1158,8 @@
       "cn": "临光"
     },
     "nation": null,
-    "rating": 5
+    "rating": 5,
+    "release_date": "2020-01-16"
   },
   {
     "fullid": "char_149_scave",
@@ -1089,7 +1172,8 @@
       "cn": "清道夫"
     },
     "nation": "rhodes",
-    "rating": 4
+    "rating": 4,
+    "release_date": "2020-01-16"
   },
   {
     "fullid": "char_1502_crosly",
@@ -1102,7 +1186,8 @@
       "cn": "弑君者"
     },
     "nation": "rhodes",
-    "rating": 6
+    "rating": 6,
+    "release_date": "2025-04-24"
   },
   {
     "fullid": "char_150_snakek",
@@ -1115,7 +1200,8 @@
       "cn": "蛇屠箱"
     },
     "nation": "columbia",
-    "rating": 4
+    "rating": 4,
+    "release_date": "2020-01-16"
   },
   {
     "fullid": "char_151_myrtle",
@@ -1128,7 +1214,8 @@
       "cn": "桃金娘"
     },
     "nation": "rhodes",
-    "rating": 4
+    "rating": 4,
+    "release_date": "2020-04-15"
   },
   {
     "fullid": "char_154_morgan",
@@ -1141,7 +1228,8 @@
       "cn": "摩根"
     },
     "nation": "victoria",
-    "rating": 5
+    "rating": 5,
+    "release_date": "2023-10-24"
   },
   {
     "fullid": "char_155_tiger",
@@ -1154,7 +1242,8 @@
       "cn": "因陀罗"
     },
     "nation": "victoria",
-    "rating": 5
+    "rating": 5,
+    "release_date": "2020-01-16"
   },
   {
     "fullid": "char_157_dagda",
@@ -1167,7 +1256,8 @@
       "cn": "达格达"
     },
     "nation": "victoria",
-    "rating": 5
+    "rating": 5,
+    "release_date": "2023-04-27"
   },
   {
     "fullid": "char_158_milu",
@@ -1180,7 +1270,8 @@
       "cn": "守林人"
     },
     "nation": "rhodes",
-    "rating": 5
+    "rating": 5,
+    "release_date": "2020-01-16"
   },
   {
     "fullid": "char_159_peacok",
@@ -1193,7 +1284,8 @@
       "cn": "断罪者"
     },
     "nation": "minos",
-    "rating": 4
+    "rating": 4,
+    "release_date": "2021-04-01"
   },
   {
     "fullid": "char_163_hpsts",
@@ -1206,7 +1298,8 @@
       "cn": "火神"
     },
     "nation": "minos",
-    "rating": 5
+    "rating": 5,
+    "release_date": "2020-01-16"
   },
   {
     "fullid": "char_164_nightm",
@@ -1219,7 +1312,8 @@
       "cn": "夜魔"
     },
     "nation": "victoria",
-    "rating": 5
+    "rating": 5,
+    "release_date": "2020-02-05"
   },
   {
     "fullid": "char_166_skfire",
@@ -1232,7 +1326,8 @@
       "cn": "天火"
     },
     "nation": "victoria",
-    "rating": 5
+    "rating": 5,
+    "release_date": "2020-01-16"
   },
   {
     "fullid": "char_171_bldsk",
@@ -1245,7 +1340,8 @@
       "cn": "华法琳"
     },
     "nation": "rhodes",
-    "rating": 5
+    "rating": 5,
+    "release_date": "2020-01-16"
   },
   {
     "fullid": "char_172_svrash",
@@ -1258,7 +1354,8 @@
       "cn": "银灰"
     },
     "nation": "kjerag",
-    "rating": 6
+    "rating": 6,
+    "release_date": "2020-01-16"
   },
   {
     "fullid": "char_173_slchan",
@@ -1271,7 +1368,8 @@
       "cn": "崖心"
     },
     "nation": "kjerag",
-    "rating": 5
+    "rating": 5,
+    "release_date": "2020-01-16"
   },
   {
     "fullid": "char_174_slbell",
@@ -1284,7 +1382,8 @@
       "cn": "初雪"
     },
     "nation": "kjerag",
-    "rating": 5
+    "rating": 5,
+    "release_date": "2020-01-16"
   },
   {
     "fullid": "char_179_cgbird",
@@ -1297,7 +1396,8 @@
       "cn": "夜莺"
     },
     "nation": null,
-    "rating": 6
+    "rating": 6,
+    "release_date": "2020-01-16"
   },
   {
     "fullid": "char_180_amgoat",
@@ -1310,7 +1410,8 @@
       "cn": "艾雅法拉"
     },
     "nation": "leithanien",
-    "rating": 6
+    "rating": 6,
+    "release_date": "2020-01-16"
   },
   {
     "fullid": "char_181_flower",
@@ -1323,7 +1424,8 @@
       "cn": "调香师"
     },
     "nation": "rhodes",
-    "rating": 4
+    "rating": 4,
+    "release_date": "2020-01-16"
   },
   {
     "fullid": "char_183_skgoat",
@@ -1336,7 +1438,8 @@
       "cn": "地灵"
     },
     "nation": "leithanien",
-    "rating": 4
+    "rating": 4,
+    "release_date": "2020-01-16"
   },
   {
     "fullid": "char_185_frncat",
@@ -1349,7 +1452,8 @@
       "cn": "慕斯"
     },
     "nation": "victoria",
-    "rating": 4
+    "rating": 4,
+    "release_date": "2020-01-16"
   },
   {
     "fullid": "char_187_ccheal",
@@ -1362,7 +1466,8 @@
       "cn": "嘉维尔"
     },
     "nation": "rhodes",
-    "rating": 4
+    "rating": 4,
+    "release_date": "2020-01-16"
   },
   {
     "fullid": "char_188_helage",
@@ -1375,7 +1480,8 @@
       "cn": "赫拉格"
     },
     "nation": "ursus",
-    "rating": 6
+    "rating": 6,
+    "release_date": "2020-04-15"
   },
   {
     "fullid": "char_190_clour",
@@ -1388,7 +1494,8 @@
       "cn": "红云"
     },
     "nation": "siracusa",
-    "rating": 4
+    "rating": 4,
+    "release_date": "2020-03-25"
   },
   {
     "fullid": "char_192_falco",
@@ -1401,7 +1508,8 @@
       "cn": "翎羽"
     },
     "nation": "laterano",
-    "rating": 3
+    "rating": 3,
+    "release_date": "2020-01-16"
   },
   {
     "fullid": "char_193_frostl",
@@ -1414,7 +1522,8 @@
       "cn": "霜叶"
     },
     "nation": "rhodes",
-    "rating": 4
+    "rating": 4,
+    "release_date": "2020-01-16"
   },
   {
     "fullid": "char_194_leto",
@@ -1427,7 +1536,8 @@
       "cn": "烈夏"
     },
     "nation": "ursus",
-    "rating": 5
+    "rating": 5,
+    "release_date": "2024-06-21"
   },
   {
     "fullid": "char_195_glassb",
@@ -1440,7 +1550,8 @@
       "cn": "真理"
     },
     "nation": "ursus",
-    "rating": 5
+    "rating": 5,
+    "release_date": "2020-01-16"
   },
   {
     "fullid": "char_196_sunbr",
@@ -1453,7 +1564,8 @@
       "cn": "古米"
     },
     "nation": "ursus",
-    "rating": 4
+    "rating": 4,
+    "release_date": "2020-01-16"
   },
   {
     "fullid": "char_197_poca",
@@ -1466,7 +1578,8 @@
       "cn": "早露"
     },
     "nation": "ursus",
-    "rating": 6
+    "rating": 6,
+    "release_date": "2020-09-29"
   },
   {
     "fullid": "char_198_blackd",
@@ -1479,7 +1592,8 @@
       "cn": "讯使"
     },
     "nation": "kjerag",
-    "rating": 4
+    "rating": 4,
+    "release_date": "2020-01-16"
   },
   {
     "fullid": "char_199_yak",
@@ -1492,7 +1606,8 @@
       "cn": "角峰"
     },
     "nation": "kjerag",
-    "rating": 4
+    "rating": 4,
+    "release_date": "2020-01-16"
   },
   {
     "fullid": "char_2012_typhon",
@@ -1505,7 +1620,8 @@
       "cn": "提丰"
     },
     "nation": "sami",
-    "rating": 6
+    "rating": 6,
+    "release_date": "2024-02-27"
   },
   {
     "fullid": "char_2013_cerber",
@@ -1518,7 +1634,8 @@
       "cn": "刻俄柏"
     },
     "nation": "rhodes",
-    "rating": 6
+    "rating": 6,
+    "release_date": "2020-08-26"
   },
   {
     "fullid": "char_2014_nian",
@@ -1531,7 +1648,8 @@
       "cn": "年"
     },
     "nation": "yan",
-    "rating": 6
+    "rating": 6,
+    "release_date": "2020-07-29"
   },
   {
     "fullid": "char_2015_dusk",
@@ -1544,7 +1662,8 @@
       "cn": "夕"
     },
     "nation": "yan",
-    "rating": 6
+    "rating": 6,
+    "release_date": "2021-07-30"
   },
   {
     "fullid": "char_201_moeshd",
@@ -1557,7 +1676,8 @@
       "cn": "可颂"
     },
     "nation": "lungmen",
-    "rating": 5
+    "rating": 5,
+    "release_date": "2020-01-16"
   },
   {
     "fullid": "char_2023_ling",
@@ -1570,7 +1690,8 @@
       "cn": "令"
     },
     "nation": "yan",
-    "rating": 6
+    "rating": 6,
+    "release_date": "2022-07-29"
   },
   {
     "fullid": "char_2023_ling_nian#12",
@@ -1583,7 +1704,8 @@
       "cn": "令 NIAN"
     },
     "nation": "yan",
-    "rating": 6
+    "rating": 6,
+    "release_date": "2022-07-29"
   },
   {
     "fullid": "char_2024_chyue",
@@ -1596,7 +1718,8 @@
       "cn": "重岳"
     },
     "nation": "yan",
-    "rating": 6
+    "rating": 6,
+    "release_date": "2023-07-28"
   },
   {
     "fullid": "char_2024_chyue_cfa#1",
@@ -1609,7 +1732,8 @@
       "cn": "重岳 CFA"
     },
     "nation": "yan",
-    "rating": 6
+    "rating": 6,
+    "release_date": "2023-07-28"
   },
   {
     "fullid": "char_2025_shu",
@@ -1622,7 +1746,8 @@
       "cn": "黍"
     },
     "nation": "yan",
-    "rating": 6
+    "rating": 6,
+    "release_date": "2024-07-31"
   },
   {
     "fullid": "char_2026_yu",
@@ -1635,7 +1760,8 @@
       "cn": "余"
     },
     "nation": "yan",
-    "rating": 6
+    "rating": 6,
+    "release_date": "2025-07-17"
   },
   {
     "fullid": "char_2027_wang",
@@ -1648,7 +1774,8 @@
       "cn": "望"
     },
     "nation": "yan",
-    "rating": 6
+    "rating": 6,
+    "release_date": "2026-07-16"
   },
   {
     "fullid": "char_202_demkni",
@@ -1661,7 +1788,8 @@
       "cn": "塞雷娅"
     },
     "nation": "columbia",
-    "rating": 6
+    "rating": 6,
+    "release_date": "2020-01-16"
   },
   {
     "fullid": "char_204_platnm",
@@ -1674,7 +1802,8 @@
       "cn": "白金"
     },
     "nation": "kazimierz",
-    "rating": 5
+    "rating": 5,
+    "release_date": "2020-01-16"
   },
   {
     "fullid": "char_206_gnosis",
@@ -1687,7 +1816,8 @@
       "cn": "灵知"
     },
     "nation": "kjerag",
-    "rating": 6
+    "rating": 6,
+    "release_date": "2022-06-30"
   },
   {
     "fullid": "char_208_melan",
@@ -1700,7 +1830,8 @@
       "cn": "玫兰莎"
     },
     "nation": "rhodes",
-    "rating": 3
+    "rating": 3,
+    "release_date": "2020-01-16"
   },
   {
     "fullid": "char_209_ardign",
@@ -1713,7 +1844,8 @@
       "cn": "卡缇"
     },
     "nation": "rhodes",
-    "rating": 3
+    "rating": 3,
+    "release_date": "2020-01-16"
   },
   {
     "fullid": "char_210_stward",
@@ -1726,7 +1858,8 @@
       "cn": "史都华德"
     },
     "nation": "rhodes",
-    "rating": 3
+    "rating": 3,
+    "release_date": "2020-01-16"
   },
   {
     "fullid": "char_211_adnach",
@@ -1739,7 +1872,8 @@
       "cn": "安德切尔"
     },
     "nation": "rhodes",
-    "rating": 3
+    "rating": 3,
+    "release_date": "2020-01-16"
   },
   {
     "fullid": "char_212_ansel",
@@ -1752,7 +1886,8 @@
       "cn": "安赛尔"
     },
     "nation": "rhodes",
-    "rating": 3
+    "rating": 3,
+    "release_date": "2020-01-16"
   },
   {
     "fullid": "char_213_mostma",
@@ -1765,7 +1900,8 @@
       "cn": "莫斯提马"
     },
     "nation": "laterano",
-    "rating": 6
+    "rating": 6,
+    "release_date": "2020-05-27"
   },
   {
     "fullid": "char_214_kafka",
@@ -1778,7 +1914,8 @@
       "cn": "卡夫卡"
     },
     "nation": "columbia",
-    "rating": 5
+    "rating": 5,
+    "release_date": "2021-06-22"
   },
   {
     "fullid": "char_215_mantic",
@@ -1791,7 +1928,8 @@
       "cn": "狮蝎"
     },
     "nation": "sargon",
-    "rating": 5
+    "rating": 5,
+    "release_date": "2020-01-16"
   },
   {
     "fullid": "char_218_cuttle",
@@ -1804,7 +1942,8 @@
       "cn": "安哲拉"
     },
     "nation": "egir",
-    "rating": 5
+    "rating": 5,
+    "release_date": "2021-01-20"
   },
   {
     "fullid": "char_219_meteo",
@@ -1817,7 +1956,8 @@
       "cn": "陨星"
     },
     "nation": "rhodes",
-    "rating": 5
+    "rating": 5,
+    "release_date": "2020-01-16"
   },
   {
     "fullid": "char_220_grani",
@@ -1830,7 +1970,8 @@
       "cn": "格拉尼"
     },
     "nation": "victoria",
-    "rating": 5
+    "rating": 5,
+    "release_date": "2020-02-05"
   },
   {
     "fullid": "char_222_bpipe",
@@ -1843,7 +1984,8 @@
       "cn": "风笛"
     },
     "nation": "victoria",
-    "rating": 6
+    "rating": 6,
+    "release_date": "2020-09-10"
   },
   {
     "fullid": "char_225_haak",
@@ -1856,7 +1998,8 @@
       "cn": "阿"
     },
     "nation": "lungmen",
-    "rating": 6
+    "rating": 6,
+    "release_date": "2020-07-29"
   },
   {
     "fullid": "char_226_hmau",
@@ -1869,7 +2012,8 @@
       "cn": "吽"
     },
     "nation": "lungmen",
-    "rating": 5
+    "rating": 5,
+    "release_date": "2020-07-29"
   },
   {
     "fullid": "char_230_savage",
@@ -1882,7 +2026,8 @@
       "cn": "暴行"
     },
     "nation": "rim",
-    "rating": 5
+    "rating": 5,
+    "release_date": "2020-01-16"
   },
   {
     "fullid": "char_235_jesica",
@@ -1895,7 +2040,8 @@
       "cn": "杰西卡"
     },
     "nation": "columbia",
-    "rating": 4
+    "rating": 4,
+    "release_date": "2020-01-16"
   },
   {
     "fullid": "char_236_rope",
@@ -1908,7 +2054,8 @@
       "cn": "暗索"
     },
     "nation": "lungmen",
-    "rating": 4
+    "rating": 4,
+    "release_date": "2020-01-16"
   },
   {
     "fullid": "char_237_gravel",
@@ -1921,7 +2068,8 @@
       "cn": "砾"
     },
     "nation": "kazimierz",
-    "rating": 4
+    "rating": 4,
+    "release_date": "2020-01-16"
   },
   {
     "fullid": "char_240_wyvern",
@@ -1934,7 +2082,8 @@
       "cn": "香草"
     },
     "nation": "columbia",
-    "rating": 3
+    "rating": 3,
+    "release_date": "2020-01-16"
   },
   {
     "fullid": "char_241_panda",
@@ -1947,7 +2096,8 @@
       "cn": "食铁兽"
     },
     "nation": "lungmen",
-    "rating": 5
+    "rating": 5,
+    "release_date": "2020-01-16"
   },
   {
     "fullid": "char_242_otter",
@@ -1960,7 +2110,8 @@
       "cn": "梅尔"
     },
     "nation": "columbia",
-    "rating": 5
+    "rating": 5,
+    "release_date": "2020-01-16"
   },
   {
     "fullid": "char_243_waaifu",
@@ -1973,7 +2124,8 @@
       "cn": "槐琥"
     },
     "nation": "lungmen",
-    "rating": 5
+    "rating": 5,
+    "release_date": "2020-05-27"
   },
   {
     "fullid": "char_245_cello",
@@ -1986,7 +2138,8 @@
       "cn": "塑心"
     },
     "nation": "laterano",
-    "rating": 6
+    "rating": 6,
+    "release_date": "2024-04-30"
   },
   {
     "fullid": "char_245_cello_sale#12",
@@ -1999,7 +2152,8 @@
       "cn": "塑心 SALE"
     },
     "nation": "laterano",
-    "rating": 6
+    "rating": 6,
+    "release_date": "2024-04-30"
   },
   {
     "fullid": "char_248_mgllan",
@@ -2012,7 +2166,8 @@
       "cn": "麦哲伦"
     },
     "nation": "columbia",
-    "rating": 6
+    "rating": 6,
+    "release_date": "2020-03-25"
   },
   {
     "fullid": "char_249_mlyss",
@@ -2025,7 +2180,8 @@
       "cn": "缪尔赛思"
     },
     "nation": "columbia",
-    "rating": 6
+    "rating": 6,
+    "release_date": "2023-11-07"
   },
   {
     "fullid": "char_249_mlyss_boc#8",
@@ -2038,7 +2194,8 @@
       "cn": "缪尔赛思 BOC"
     },
     "nation": "columbia",
-    "rating": 6
+    "rating": 6,
+    "release_date": "2023-11-07"
   },
   {
     "fullid": "char_250_phatom",
@@ -2051,7 +2208,8 @@
       "cn": "傀影"
     },
     "nation": "victoria",
-    "rating": 6
+    "rating": 6,
+    "release_date": "2020-12-10"
   },
   {
     "fullid": "char_252_bibeak",
@@ -2064,7 +2222,8 @@
       "cn": "柏喙"
     },
     "nation": "sami",
-    "rating": 5
+    "rating": 5,
+    "release_date": "2020-09-10"
   },
   {
     "fullid": "char_253_greyy",
@@ -2077,7 +2236,8 @@
       "cn": "格雷伊"
     },
     "nation": "bolivar",
-    "rating": 4
+    "rating": 4,
+    "release_date": "2020-02-26"
   },
   {
     "fullid": "char_254_vodfox",
@@ -2090,7 +2250,8 @@
       "cn": "巫恋"
     },
     "nation": "siracusa",
-    "rating": 5
+    "rating": 5,
+    "release_date": "2020-12-10"
   },
   {
     "fullid": "char_258_podego",
@@ -2103,7 +2264,8 @@
       "cn": "波登可"
     },
     "nation": "rhodes",
-    "rating": 4
+    "rating": 4,
+    "release_date": "2020-09-29"
   },
   {
     "fullid": "char_260_durnar",
@@ -2116,7 +2278,8 @@
       "cn": "坚雷"
     },
     "nation": "rhodes",
-    "rating": 4
+    "rating": 4,
+    "release_date": "2020-05-20"
   },
   {
     "fullid": "char_261_sddrag",
@@ -2129,7 +2292,8 @@
       "cn": "苇草"
     },
     "nation": "victoria",
-    "rating": 5
+    "rating": 5,
+    "release_date": "2020-07-15"
   },
   {
     "fullid": "char_263_skadi",
@@ -2142,7 +2306,8 @@
       "cn": "斯卡蒂"
     },
     "nation": "egir",
-    "rating": 6
+    "rating": 6,
+    "release_date": "2020-02-05"
   },
   {
     "fullid": "char_264_f12yin",
@@ -2155,7 +2320,8 @@
       "cn": "山"
     },
     "nation": "columbia",
-    "rating": 6
+    "rating": 6,
+    "release_date": "2021-06-22"
   },
   {
     "fullid": "char_265_sophia",
@@ -2168,7 +2334,8 @@
       "cn": "鞭刃"
     },
     "nation": "kazimierz",
-    "rating": 5
+    "rating": 5,
+    "release_date": "2021-04-08"
   },
   {
     "fullid": "char_271_spikes",
@@ -2181,7 +2348,8 @@
       "cn": "芳汀"
     },
     "nation": "laterano",
-    "rating": 4
+    "rating": 4,
+    "release_date": "2021-03-25"
   },
   {
     "fullid": "char_272_strong",
@@ -2194,7 +2362,8 @@
       "cn": "孑"
     },
     "nation": "lungmen",
-    "rating": 4
+    "rating": 4,
+    "release_date": "2021-01-20"
   },
   {
     "fullid": "char_274_astesi",
@@ -2207,7 +2376,8 @@
       "cn": "星极"
     },
     "nation": "columbia",
-    "rating": 5
+    "rating": 5,
+    "release_date": "2020-04-15"
   },
   {
     "fullid": "char_275_breeze",
@@ -2220,7 +2390,8 @@
       "cn": "微风"
     },
     "nation": "victoria",
-    "rating": 5
+    "rating": 5,
+    "release_date": "2020-05-20"
   },
   {
     "fullid": "char_277_sqrrel",
@@ -2233,7 +2404,8 @@
       "cn": "阿消"
     },
     "nation": "lungmen",
-    "rating": 4
+    "rating": 4,
+    "release_date": "2020-01-16"
   },
   {
     "fullid": "char_278_orchid",
@@ -2246,7 +2418,8 @@
       "cn": "梓兰"
     },
     "nation": "rhodes",
-    "rating": 3
+    "rating": 3,
+    "release_date": "2020-01-16"
   },
   {
     "fullid": "char_279_excu",
@@ -2259,7 +2432,8 @@
       "cn": "送葬人"
     },
     "nation": "laterano",
-    "rating": 5
+    "rating": 5,
+    "release_date": "2020-03-25"
   },
   {
     "fullid": "char_281_popka",
@@ -2272,7 +2446,8 @@
       "cn": "泡普卡"
     },
     "nation": "rhodes",
-    "rating": 3
+    "rating": 3,
+    "release_date": "2020-02-26"
   },
   {
     "fullid": "char_282_catap",
@@ -2285,7 +2460,8 @@
       "cn": "空爆"
     },
     "nation": "rhodes",
-    "rating": 3
+    "rating": 3,
+    "release_date": "2020-01-22"
   },
   {
     "fullid": "char_283_midn",
@@ -2298,7 +2474,8 @@
       "cn": "月见夜"
     },
     "nation": "rhodes",
-    "rating": 3
+    "rating": 3,
+    "release_date": "2020-02-05"
   },
   {
     "fullid": "char_284_spot",
@@ -2311,7 +2488,8 @@
       "cn": "斑点"
     },
     "nation": "rhodes",
-    "rating": 3
+    "rating": 3,
+    "release_date": "2020-02-22"
   },
   {
     "fullid": "char_285_medic2",
@@ -2324,7 +2502,8 @@
       "cn": "Lancet-2"
     },
     "nation": "rhodes",
-    "rating": 1
+    "rating": 1,
+    "release_date": "2020-01-16"
   },
   {
     "fullid": "char_286_cast3",
@@ -2337,7 +2516,8 @@
       "cn": "Castle-3"
     },
     "nation": "rhodes",
-    "rating": 1
+    "rating": 1,
+    "release_date": "2020-01-16"
   },
   {
     "fullid": "char_289_gyuki",
@@ -2350,7 +2530,8 @@
       "cn": "缠丸"
     },
     "nation": "higashi",
-    "rating": 4
+    "rating": 4,
+    "release_date": "2020-01-16"
   },
   {
     "fullid": "char_290_vigna",
@@ -2363,7 +2544,8 @@
       "cn": "红豆"
     },
     "nation": "columbia",
-    "rating": 4
+    "rating": 4,
+    "release_date": "2020-01-16"
   },
   {
     "fullid": "char_291_aglina",
@@ -2376,7 +2558,8 @@
       "cn": "安洁莉娜"
     },
     "nation": "siracusa",
-    "rating": 6
+    "rating": 6,
+    "release_date": "2020-01-16"
   },
   {
     "fullid": "char_293_thorns",
@@ -2389,7 +2572,8 @@
       "cn": "棘刺"
     },
     "nation": "iberia",
-    "rating": 6
+    "rating": 6,
+    "release_date": "2021-01-20"
   },
   {
     "fullid": "char_294_ayer",
@@ -2402,7 +2586,8 @@
       "cn": "断崖"
     },
     "nation": "rim",
-    "rating": 5
+    "rating": 5,
+    "release_date": "2020-10-28"
   },
   {
     "fullid": "char_297_hamoni",
@@ -2415,7 +2600,8 @@
       "cn": "和弦"
     },
     "nation": "victoria",
-    "rating": 5
+    "rating": 5,
+    "release_date": "2023-07-13"
   },
   {
     "fullid": "char_298_susuro",
@@ -2428,7 +2614,8 @@
       "cn": "苏苏洛"
     },
     "nation": "rhodes",
-    "rating": 4
+    "rating": 4,
+    "release_date": "2020-04-29"
   },
   {
     "fullid": "char_300_phenxi",
@@ -2441,7 +2628,8 @@
       "cn": "菲亚梅塔"
     },
     "nation": "laterano",
-    "rating": 6
+    "rating": 6,
+    "release_date": "2022-09-16"
   },
   {
     "fullid": "char_301_cutter",
@@ -2454,7 +2642,8 @@
       "cn": "刻刀"
     },
     "nation": "columbia",
-    "rating": 4
+    "rating": 4,
+    "release_date": "2020-12-10"
   },
   {
     "fullid": "char_302_glaze",
@@ -2467,7 +2656,8 @@
       "cn": "安比尔"
     },
     "nation": "laterano",
-    "rating": 4
+    "rating": 4,
+    "release_date": "2020-06-30"
   },
   {
     "fullid": "char_304_zebra",
@@ -2480,7 +2670,8 @@
       "cn": "暴雨"
     },
     "nation": "rhodes",
-    "rating": 5
+    "rating": 5,
+    "release_date": "2021-09-30"
   },
   {
     "fullid": "char_306_leizi",
@@ -2493,7 +2684,8 @@
       "cn": "惊蛰"
     },
     "nation": "yan",
-    "rating": 5
+    "rating": 5,
+    "release_date": "2020-08-26"
   },
   {
     "fullid": "char_308_swire",
@@ -2506,7 +2698,8 @@
       "cn": "诗怀雅"
     },
     "nation": "lungmen",
-    "rating": 5
+    "rating": 5,
+    "release_date": "2020-02-26"
   },
   {
     "fullid": "char_311_mudrok",
@@ -2519,7 +2712,8 @@
       "cn": "泥岩"
     },
     "nation": "rhodes",
-    "rating": 6
+    "rating": 6,
+    "release_date": "2021-04-30"
   },
   {
     "fullid": "char_311_mudrok#1",
@@ -2532,7 +2726,8 @@
       "cn": "泥岩 E2"
     },
     "nation": "rhodes",
-    "rating": 6
+    "rating": 6,
+    "release_date": "2021-04-30"
   },
   {
     "fullid": "char_322_lmlee",
@@ -2545,7 +2740,8 @@
       "cn": "老鲤"
     },
     "nation": "lungmen",
-    "rating": 6
+    "rating": 6,
+    "release_date": "2022-07-29"
   },
   {
     "fullid": "char_325_bison",
@@ -2558,7 +2754,8 @@
       "cn": "拜松"
     },
     "nation": "lungmen",
-    "rating": 5
+    "rating": 5,
+    "release_date": "2020-05-27"
   },
   {
     "fullid": "char_326_glacus",
@@ -2571,7 +2768,8 @@
       "cn": "格劳克斯"
     },
     "nation": "iberia",
-    "rating": 5
+    "rating": 5,
+    "release_date": "2020-04-29"
   },
   {
     "fullid": "char_328_cammou",
@@ -2584,7 +2782,8 @@
       "cn": "卡达"
     },
     "nation": "rhodes",
-    "rating": 4
+    "rating": 4,
+    "release_date": "2020-10-28"
   },
   {
     "fullid": "char_332_archet",
@@ -2597,7 +2796,8 @@
       "cn": "空弦"
     },
     "nation": "laterano",
-    "rating": 6
+    "rating": 6,
+    "release_date": "2021-07-06"
   },
   {
     "fullid": "char_333_sidero",
@@ -2610,7 +2810,8 @@
       "cn": "铸铁"
     },
     "nation": "minos",
-    "rating": 5
+    "rating": 5,
+    "release_date": "2020-12-10"
   },
   {
     "fullid": "char_336_folivo",
@@ -2623,7 +2824,8 @@
       "cn": "稀音"
     },
     "nation": "sargon",
-    "rating": 5
+    "rating": 5,
+    "release_date": "2021-02-04"
   },
   {
     "fullid": "char_337_utage",
@@ -2636,7 +2838,8 @@
       "cn": "宴"
     },
     "nation": "higashi",
-    "rating": 4
+    "rating": 4,
+    "release_date": "2020-09-10"
   },
   {
     "fullid": "char_338_iris",
@@ -2649,7 +2852,8 @@
       "cn": "爱丽丝"
     },
     "nation": "victoria",
-    "rating": 5
+    "rating": 5,
+    "release_date": "2021-07-06"
   },
   {
     "fullid": "char_340_shwaz",
@@ -2662,7 +2866,8 @@
       "cn": "黑"
     },
     "nation": "columbia",
-    "rating": 6
+    "rating": 6,
+    "release_date": "2020-04-29"
   },
   {
     "fullid": "char_341_sntlla",
@@ -2675,7 +2880,8 @@
       "cn": "寒檀"
     },
     "nation": "sami",
-    "rating": 5
+    "rating": 5,
+    "release_date": "2024-02-27"
   },
   {
     "fullid": "char_343_tknogi",
@@ -2688,7 +2894,8 @@
       "cn": "月禾"
     },
     "nation": "higashi",
-    "rating": 5
+    "rating": 5,
+    "release_date": "2020-11-11"
   },
   {
     "fullid": "char_344_beewax",
@@ -2701,7 +2908,8 @@
       "cn": "蜜蜡"
     },
     "nation": "sargon",
-    "rating": 5
+    "rating": 5,
+    "release_date": "2020-11-26"
   },
   {
     "fullid": "char_345_folnic",
@@ -2714,7 +2922,8 @@
       "cn": "亚叶"
     },
     "nation": "rhodes",
-    "rating": 5
+    "rating": 5,
+    "release_date": "2020-10-28"
   },
   {
     "fullid": "char_346_aosta",
@@ -2727,7 +2936,8 @@
       "cn": "奥斯塔"
     },
     "nation": "siracusa",
-    "rating": 5
+    "rating": 5,
+    "release_date": "2021-04-08"
   },
   {
     "fullid": "char_347_jaksel",
@@ -2740,7 +2950,8 @@
       "cn": "杰克"
     },
     "nation": "columbia",
-    "rating": 4
+    "rating": 4,
+    "release_date": "2021-04-30"
   },
   {
     "fullid": "char_348_ceylon",
@@ -2753,7 +2964,8 @@
       "cn": "锡兰"
     },
     "nation": "columbia",
-    "rating": 5
+    "rating": 5,
+    "release_date": "2020-04-29"
   },
   {
     "fullid": "char_349_chiave",
@@ -2766,7 +2978,8 @@
       "cn": "贾维"
     },
     "nation": "siracusa",
-    "rating": 5
+    "rating": 5,
+    "release_date": "2020-11-26"
   },
   {
     "fullid": "char_350_surtr",
@@ -2779,7 +2992,8 @@
       "cn": "史尔特尔"
     },
     "nation": "rhodes",
-    "rating": 6
+    "rating": 6,
+    "release_date": "2021-03-25"
   },
   {
     "fullid": "char_355_ethan",
@@ -2792,7 +3006,8 @@
       "cn": "伊桑"
     },
     "nation": "rhodes",
-    "rating": 4
+    "rating": 4,
+    "release_date": "2020-05-20"
   },
   {
     "fullid": "char_356_broca",
@@ -2805,7 +3020,8 @@
       "cn": "布洛卡"
     },
     "nation": "siracusa",
-    "rating": 5
+    "rating": 5,
+    "release_date": "2020-07-15"
   },
   {
     "fullid": "char_358_lisa",
@@ -2818,7 +3034,8 @@
       "cn": "铃兰"
     },
     "nation": "siracusa",
-    "rating": 6
+    "rating": 6,
+    "release_date": "2020-10-28"
   },
   {
     "fullid": "char_362_saga",
@@ -2831,7 +3048,8 @@
       "cn": "嵯峨"
     },
     "nation": "higashi",
-    "rating": 6
+    "rating": 6,
+    "release_date": "2021-07-30"
   },
   {
     "fullid": "char_363_toddi",
@@ -2844,7 +3062,8 @@
       "cn": "熔泉"
     },
     "nation": "victoria",
-    "rating": 5
+    "rating": 5,
+    "release_date": "2021-09-30"
   },
   {
     "fullid": "char_365_aprl",
@@ -2857,7 +3076,8 @@
       "cn": "四月"
     },
     "nation": "rim",
-    "rating": 5
+    "rating": 5,
+    "release_date": "2021-03-25"
   },
   {
     "fullid": "char_366_acdrop",
@@ -2870,7 +3090,8 @@
       "cn": "酸糖"
     },
     "nation": "columbia",
-    "rating": 4
+    "rating": 4,
+    "release_date": "2021-02-25"
   },
   {
     "fullid": "char_367_swllow",
@@ -2883,7 +3104,8 @@
       "cn": "灰喉"
     },
     "nation": "rhodes",
-    "rating": 5
+    "rating": 5,
+    "release_date": "2020-06-30"
   },
   {
     "fullid": "char_369_bena",
@@ -2896,7 +3118,8 @@
       "cn": "贝娜"
     },
     "nation": "victoria",
-    "rating": 5
+    "rating": 5,
+    "release_date": "2021-12-09"
   },
   {
     "fullid": "char_373_lionhd",
@@ -2909,7 +3132,8 @@
       "cn": "莱恩哈特"
     },
     "nation": "rim",
-    "rating": 5
+    "rating": 5,
+    "release_date": "2020-09-29"
   },
   {
     "fullid": "char_376_therex",
@@ -2922,7 +3146,8 @@
       "cn": "THRM-EX"
     },
     "nation": "rhodes",
-    "rating": 1
+    "rating": 1,
+    "release_date": "2020-12-30"
   },
   {
     "fullid": "char_377_gdglow",
@@ -2935,7 +3160,8 @@
       "cn": "澄闪"
     },
     "nation": "victoria",
-    "rating": 6
+    "rating": 6,
+    "release_date": "2022-08-18"
   },
   {
     "fullid": "char_378_asbest",
@@ -2948,7 +3174,8 @@
       "cn": "石棉"
     },
     "nation": "rim",
-    "rating": 5
+    "rating": 5,
+    "release_date": "2020-11-11"
   },
   {
     "fullid": "char_379_sesa",
@@ -2961,7 +3188,8 @@
       "cn": "慑砂"
     },
     "nation": "sargon",
-    "rating": 5
+    "rating": 5,
+    "release_date": "2020-09-10"
   },
   {
     "fullid": "char_381_bubble",
@@ -2974,7 +3202,8 @@
       "cn": "泡泡"
     },
     "nation": "sargon",
-    "rating": 4
+    "rating": 4,
+    "release_date": "2021-04-08"
   },
   {
     "fullid": "char_383_snsant",
@@ -2987,7 +3216,8 @@
       "cn": "雪雉"
     },
     "nation": "lungmen",
-    "rating": 5
+    "rating": 5,
+    "release_date": "2020-07-29"
   },
   {
     "fullid": "char_385_finlpp",
@@ -3000,7 +3230,8 @@
       "cn": "清流"
     },
     "nation": "yan",
-    "rating": 4
+    "rating": 4,
+    "release_date": "2021-05-19"
   },
   {
     "fullid": "char_388_mint",
@@ -3013,7 +3244,8 @@
       "cn": "薄绿"
     },
     "nation": "victoria",
-    "rating": 5
+    "rating": 5,
+    "release_date": "2021-03-25"
   },
   {
     "fullid": "char_391_rosmon",
@@ -3026,7 +3258,8 @@
       "cn": "迷迭香"
     },
     "nation": "rhodes",
-    "rating": 6
+    "rating": 6,
+    "release_date": "2021-04-30"
   },
   {
     "fullid": "char_394_hadiya",
@@ -3039,7 +3272,8 @@
       "cn": "哈蒂娅"
     },
     "nation": "sargon",
-    "rating": 5
+    "rating": 5,
+    "release_date": "2026-04-14"
   },
   {
     "fullid": "char_4000_jnight",
@@ -3052,7 +3286,8 @@
       "cn": "正义骑士号"
     },
     "nation": "kazimierz",
-    "rating": 1
+    "rating": 1,
+    "release_date": "2022-04-28"
   },
   {
     "fullid": "char_4004_pudd",
@@ -3065,7 +3300,8 @@
       "cn": "布丁"
     },
     "nation": "columbia",
-    "rating": 4
+    "rating": 4,
+    "release_date": "2022-04-28"
   },
   {
     "fullid": "char_4006_melnte",
@@ -3078,7 +3314,8 @@
       "cn": "玫拉"
     },
     "nation": "columbia",
-    "rating": 5
+    "rating": 5,
+    "release_date": "2023-11-07"
   },
   {
     "fullid": "char_4009_irene",
@@ -3091,7 +3328,8 @@
       "cn": "艾丽妮"
     },
     "nation": "iberia",
-    "rating": 6
+    "rating": 6,
+    "release_date": "2022-11-03"
   },
   {
     "fullid": "char_400_weedy",
@@ -3104,7 +3342,8 @@
       "cn": "温蒂"
     },
     "nation": "rhodes",
-    "rating": 6
+    "rating": 6,
+    "release_date": "2020-12-30"
   },
   {
     "fullid": "char_4010_etlchi",
@@ -3117,7 +3356,8 @@
       "cn": "隐德来希"
     },
     "nation": "rhodes",
-    "rating": 6
+    "rating": 6,
+    "release_date": "2025-08-07"
   },
   {
     "fullid": "char_4011_lessng",
@@ -3130,7 +3370,8 @@
       "cn": "止颂"
     },
     "nation": "leithanien",
-    "rating": 6
+    "rating": 6,
+    "release_date": "2024-04-30"
   },
   {
     "fullid": "char_4013_kjera",
@@ -3143,7 +3384,8 @@
       "cn": "耶拉"
     },
     "nation": "kjerag",
-    "rating": 5
+    "rating": 5,
+    "release_date": "2022-06-30"
   },
   {
     "fullid": "char_4014_lunacu",
@@ -3156,7 +3398,8 @@
       "cn": "子月"
     },
     "nation": "siracusa",
-    "rating": 5
+    "rating": 5,
+    "release_date": "2023-05-23"
   },
   {
     "fullid": "char_4015_spuria",
@@ -3169,7 +3412,8 @@
       "cn": "空构"
     },
     "nation": "laterano",
-    "rating": 5
+    "rating": 5,
+    "release_date": "2023-12-21"
   },
   {
     "fullid": "char_4016_kazema",
@@ -3182,7 +3426,8 @@
       "cn": "风丸"
     },
     "nation": "higashi",
-    "rating": 5
+    "rating": 5,
+    "release_date": "2022-09-16"
   },
   {
     "fullid": "char_4017_puzzle",
@@ -3195,7 +3440,8 @@
       "cn": "谜图"
     },
     "nation": "victoria",
-    "rating": 5
+    "rating": 5,
+    "release_date": "2023-07-13"
   },
   {
     "fullid": "char_4019_ncdeer",
@@ -3208,7 +3454,8 @@
       "cn": "九色鹿"
     },
     "nation": "yan",
-    "rating": 5
+    "rating": 5,
+    "release_date": "2022-07-14"
   },
   {
     "fullid": "char_401_elysm",
@@ -3221,7 +3468,8 @@
       "cn": "极境"
     },
     "nation": "rhodes",
-    "rating": 5
+    "rating": 5,
+    "release_date": "2020-12-30"
   },
   {
     "fullid": "char_4023_rfalcn",
@@ -3234,7 +3482,8 @@
       "cn": "红隼"
     },
     "nation": "sargon",
-    "rating": 5
+    "rating": 5,
+    "release_date": "2024-08-07"
   },
   {
     "fullid": "char_4025_aprot2",
@@ -3247,7 +3496,8 @@
       "cn": "暮落"
     },
     "nation": "victoria",
-    "rating": 5
+    "rating": 5,
+    "release_date": "2022-07-14"
   },
   {
     "fullid": "char_4026_vulpis",
@@ -3260,7 +3510,8 @@
       "cn": "忍冬"
     },
     "nation": "siracusa",
-    "rating": 6
+    "rating": 6,
+    "release_date": "2025-04-24"
   },
   {
     "fullid": "char_4027_heyak",
@@ -3273,7 +3524,8 @@
       "cn": "霍尔海雅"
     },
     "nation": "columbia",
-    "rating": 6
+    "rating": 6,
+    "release_date": "2023-11-07"
   },
   {
     "fullid": "char_402_tuye",
@@ -3286,7 +3538,8 @@
       "cn": "图耶"
     },
     "nation": "sargon",
-    "rating": 5
+    "rating": 5,
+    "release_date": "2021-07-13"
   },
   {
     "fullid": "char_4031_liesel",
@@ -3299,7 +3552,8 @@
       "cn": "复奏"
     },
     "nation": "siracusa",
-    "rating": 5
+    "rating": 5,
+    "release_date": "2026-08-13"
   },
   {
     "fullid": "char_4032_provs",
@@ -3312,7 +3566,8 @@
       "cn": "但书"
     },
     "nation": "kazimierz",
-    "rating": 5
+    "rating": 5,
+    "release_date": "2023-03-31"
   },
   {
     "fullid": "char_4036_forcer",
@@ -3325,7 +3580,8 @@
       "cn": "见行者"
     },
     "nation": "laterano",
-    "rating": 5
+    "rating": 5,
+    "release_date": "2022-09-16"
   },
   {
     "fullid": "char_4037_demetr",
@@ -3338,7 +3594,8 @@
       "cn": "贝洛内"
     },
     "nation": "siracusa",
-    "rating": 6
+    "rating": 6,
+    "release_date": "2026-08-13"
   },
   {
     "fullid": "char_4039_horn",
@@ -3351,7 +3608,8 @@
       "cn": "号角"
     },
     "nation": "victoria",
-    "rating": 6
+    "rating": 6,
+    "release_date": "2022-10-19"
   },
   {
     "fullid": "char_4040_rockr",
@@ -3364,7 +3622,8 @@
       "cn": "洛洛"
     },
     "nation": "victoria",
-    "rating": 5
+    "rating": 5,
+    "release_date": "2022-10-19"
   },
   {
     "fullid": "char_4041_chnut",
@@ -3377,7 +3636,8 @@
       "cn": "褐果"
     },
     "nation": "rhodes",
-    "rating": 4
+    "rating": 4,
+    "release_date": "2022-10-19"
   },
   {
     "fullid": "char_4042_lumen",
@@ -3390,7 +3650,8 @@
       "cn": "流明"
     },
     "nation": "iberia",
-    "rating": 6
+    "rating": 6,
+    "release_date": "2022-11-03"
   },
   {
     "fullid": "char_4043_erato",
@@ -3403,7 +3664,8 @@
       "cn": "埃拉托"
     },
     "nation": "minos",
-    "rating": 5
+    "rating": 5,
+    "release_date": "2022-12-08"
   },
   {
     "fullid": "char_4045_heidi",
@@ -3416,7 +3678,8 @@
       "cn": "海蒂"
     },
     "nation": "victoria",
-    "rating": 5
+    "rating": 5,
+    "release_date": "2022-10-19"
   },
   {
     "fullid": "char_4046_ebnhlz",
@@ -3429,7 +3692,8 @@
       "cn": "黑键"
     },
     "nation": "leithanien",
-    "rating": 6
+    "rating": 6,
+    "release_date": "2022-12-27"
   },
   {
     "fullid": "char_4047_pianst",
@@ -3442,7 +3706,8 @@
       "cn": "车尔尼"
     },
     "nation": "leithanien",
-    "rating": 5
+    "rating": 5,
+    "release_date": "2022-12-27"
   },
   {
     "fullid": "char_4048_doroth",
@@ -3455,7 +3720,8 @@
       "cn": "多萝西"
     },
     "nation": "columbia",
-    "rating": 6
+    "rating": 6,
+    "release_date": "2023-03-14"
   },
   {
     "fullid": "char_4051_akkord",
@@ -3468,7 +3734,8 @@
       "cn": "协律"
     },
     "nation": "leithanien",
-    "rating": 4
+    "rating": 4,
+    "release_date": "2026-04-14"
   },
   {
     "fullid": "char_4052_surfer",
@@ -3481,7 +3748,8 @@
       "cn": "寻澜"
     },
     "nation": "columbia",
-    "rating": 5
+    "rating": 5,
+    "release_date": "2025-07-17"
   },
   {
     "fullid": "char_4054_malist",
@@ -3494,7 +3762,8 @@
       "cn": "至简"
     },
     "nation": "sargon",
-    "rating": 5
+    "rating": 5,
+    "release_date": "2023-01-13"
   },
   {
     "fullid": "char_4055_bgsnow",
@@ -3507,7 +3776,8 @@
       "cn": "鸿雪"
     },
     "nation": "rhodes",
-    "rating": 6
+    "rating": 6,
+    "release_date": "2023-01-13"
   },
   {
     "fullid": "char_4056_titi",
@@ -3520,7 +3790,8 @@
       "cn": "缇缇"
     },
     "nation": "sargon",
-    "rating": 6
+    "rating": 6,
+    "release_date": "2026-06-22"
   },
   {
     "fullid": "char_4058_pepe",
@@ -3533,7 +3804,8 @@
       "cn": "佩佩"
     },
     "nation": "sargon",
-    "rating": 6
+    "rating": 6,
+    "release_date": "2025-01-16"
   },
   {
     "fullid": "char_405_absin",
@@ -3546,7 +3818,8 @@
       "cn": "苦艾"
     },
     "nation": "ursus",
-    "rating": 5
+    "rating": 5,
+    "release_date": "2020-09-29"
   },
   {
     "fullid": "char_4062_totter",
@@ -3559,7 +3832,8 @@
       "cn": "铅踝"
     },
     "nation": "sargon",
-    "rating": 4
+    "rating": 4,
+    "release_date": "2023-04-27"
   },
   {
     "fullid": "char_4063_quartz",
@@ -3572,7 +3846,8 @@
       "cn": "石英"
     },
     "nation": "columbia",
-    "rating": 4
+    "rating": 4,
+    "release_date": "2023-05-23"
   },
   {
     "fullid": "char_4064_mlynar",
@@ -3585,7 +3860,8 @@
       "cn": "玛恩纳"
     },
     "nation": "kazimierz",
-    "rating": 6
+    "rating": 6,
+    "release_date": "2023-03-31"
   },
   {
     "fullid": "char_4064_mlynar_epoque#28",
@@ -3598,7 +3874,8 @@
       "cn": "玛恩纳 EPOQUE"
     },
     "nation": "kazimierz",
-    "rating": 6
+    "rating": 6,
+    "release_date": "2023-03-31"
   },
   {
     "fullid": "char_4065_judge",
@@ -3611,7 +3888,8 @@
       "cn": "斥罪"
     },
     "nation": "siracusa",
-    "rating": 6
+    "rating": 6,
+    "release_date": "2023-05-23"
   },
   {
     "fullid": "char_4066_highmo",
@@ -3624,7 +3902,8 @@
       "cn": "海沫"
     },
     "nation": "iberia",
-    "rating": 5
+    "rating": 5,
+    "release_date": "2023-05-23"
   },
   {
     "fullid": "char_4067_lolxh",
@@ -3637,7 +3916,8 @@
       "cn": "罗小黑"
     },
     "nation": "yan",
-    "rating": 4
+    "rating": 4,
+    "release_date": "2023-04-07"
   },
   {
     "fullid": "char_4067_lolxh#1",
@@ -3650,7 +3930,8 @@
       "cn": "罗小黑 E2"
     },
     "nation": "yan",
-    "rating": 4
+    "rating": 4,
+    "release_date": "2023-04-07"
   },
   {
     "fullid": "char_4071_peper",
@@ -3663,7 +3944,8 @@
       "cn": "明椒"
     },
     "nation": "rhodes",
-    "rating": 5
+    "rating": 5,
+    "release_date": "2023-04-27"
   },
   {
     "fullid": "char_4072_ironmn",
@@ -3676,7 +3958,8 @@
       "cn": "白铁"
     },
     "nation": "victoria",
-    "rating": 6
+    "rating": 6,
+    "release_date": "2023-04-27"
   },
   {
     "fullid": "char_4077_palico",
@@ -3689,7 +3972,8 @@
       "cn": "泰拉大陆调查团"
     },
     "nation": "rhodes",
-    "rating": 1
+    "rating": 1,
+    "release_date": "2023-09-07"
   },
   {
     "fullid": "char_4078_bdhkgt",
@@ -3702,7 +3986,8 @@
       "cn": "截云"
     },
     "nation": "yan",
-    "rating": 5
+    "rating": 5,
+    "release_date": "2023-07-28"
   },
   {
     "fullid": "char_4079_haini",
@@ -3715,7 +4000,8 @@
       "cn": "海霓"
     },
     "nation": "egir",
-    "rating": 5
+    "rating": 5,
+    "release_date": "2024-12-03"
   },
   {
     "fullid": "char_4080_lin",
@@ -3728,7 +4014,8 @@
       "cn": "林"
     },
     "nation": "lungmen",
-    "rating": 6
+    "rating": 6,
+    "release_date": "2023-07-28"
   },
   {
     "fullid": "char_4081_warmy",
@@ -3741,7 +4028,8 @@
       "cn": "温米"
     },
     "nation": "rim",
-    "rating": 5
+    "rating": 5,
+    "release_date": "2024-07-09"
   },
   {
     "fullid": "char_4082_qiubai",
@@ -3754,7 +4042,8 @@
       "cn": "仇白"
     },
     "nation": "yan",
-    "rating": 6
+    "rating": 6,
+    "release_date": "2023-08-22"
   },
   {
     "fullid": "char_4083_chimes",
@@ -3767,7 +4056,8 @@
       "cn": "铎铃"
     },
     "nation": "yan",
-    "rating": 5
+    "rating": 5,
+    "release_date": "2023-08-22"
   },
   {
     "fullid": "char_4087_ines",
@@ -3780,7 +4070,8 @@
       "cn": "伊内丝"
     },
     "nation": null,
-    "rating": 6
+    "rating": 6,
+    "release_date": "2023-10-24"
   },
   {
     "fullid": "char_4088_hodrer",
@@ -3793,7 +4084,8 @@
       "cn": "赫德雷"
     },
     "nation": null,
-    "rating": 6
+    "rating": 6,
+    "release_date": "2024-04-16"
   },
   {
     "fullid": "char_4091_ulika",
@@ -3806,7 +4098,8 @@
       "cn": "U-Official"
     },
     "nation": "rhodes",
-    "rating": 1
+    "rating": 1,
+    "release_date": "2024-04-01"
   },
   {
     "fullid": "char_4093_frston",
@@ -3819,7 +4112,8 @@
       "cn": "Friston-3"
     },
     "nation": "rhodes",
-    "rating": 1
+    "rating": 1,
+    "release_date": "2023-12-05"
   },
   {
     "fullid": "char_4098_vvana",
@@ -3832,7 +4126,8 @@
       "cn": "薇薇安娜"
     },
     "nation": "leithanien",
-    "rating": 6
+    "rating": 6,
+    "release_date": "2024-04-30"
   },
   {
     "fullid": "char_4100_caper",
@@ -3845,7 +4140,8 @@
       "cn": "跃跃"
     },
     "nation": "bolivar",
-    "rating": 4
+    "rating": 4,
+    "release_date": "2024-04-30"
   },
   {
     "fullid": "char_4102_threye",
@@ -3858,7 +4154,8 @@
       "cn": "凛视"
     },
     "nation": "sami",
-    "rating": 5
+    "rating": 5,
+    "release_date": "2024-03-05"
   },
   {
     "fullid": "char_4104_coldst",
@@ -3871,7 +4168,8 @@
       "cn": "冰酿"
     },
     "nation": "columbia",
-    "rating": 5
+    "rating": 5,
+    "release_date": "2024-03-19"
   },
   {
     "fullid": "char_4105_almond",
@@ -3884,7 +4182,8 @@
       "cn": "杏仁"
     },
     "nation": "columbia",
-    "rating": 5
+    "rating": 5,
+    "release_date": "2024-03-19"
   },
   {
     "fullid": "char_4106_bryota",
@@ -3897,7 +4196,8 @@
       "cn": "苍苔"
     },
     "nation": "columbia",
-    "rating": 5
+    "rating": 5,
+    "release_date": "2024-01-16"
   },
   {
     "fullid": "char_4107_vrdant",
@@ -3910,7 +4210,8 @@
       "cn": "维荻"
     },
     "nation": "victoria",
-    "rating": 4
+    "rating": 4,
+    "release_date": "2024-04-16"
   },
   {
     "fullid": "char_4109_baslin",
@@ -3923,7 +4224,8 @@
       "cn": "深律"
     },
     "nation": "leithanien",
-    "rating": 5
+    "rating": 5,
+    "release_date": "2024-04-30"
   },
   {
     "fullid": "char_4110_delphn",
@@ -3936,7 +4238,8 @@
       "cn": "戴菲恩"
     },
     "nation": "victoria",
-    "rating": 5
+    "rating": 5,
+    "release_date": "2024-04-16"
   },
   {
     "fullid": "char_4114_harold",
@@ -3949,7 +4252,8 @@
       "cn": "哈洛德"
     },
     "nation": "victoria",
-    "rating": 5
+    "rating": 5,
+    "release_date": "2024-06-21"
   },
   {
     "fullid": "char_4116_blkkgt",
@@ -3962,7 +4266,8 @@
       "cn": "锏"
     },
     "nation": "kjerag",
-    "rating": 6
+    "rating": 6,
+    "release_date": "2024-06-21"
   },
   {
     "fullid": "char_4117_ray",
@@ -3975,7 +4280,8 @@
       "cn": "莱伊"
     },
     "nation": "rim",
-    "rating": 6
+    "rating": 6,
+    "release_date": "2024-07-09"
   },
   {
     "fullid": "char_4119_wanqin",
@@ -3988,7 +4294,8 @@
       "cn": "万顷"
     },
     "nation": "yan",
-    "rating": 5
+    "rating": 5,
+    "release_date": "2024-07-31"
   },
   {
     "fullid": "char_411_tomimi",
@@ -4001,7 +4308,8 @@
       "cn": "特米米"
     },
     "nation": "sargon",
-    "rating": 5
+    "rating": 5,
+    "release_date": "2021-02-25"
   },
   {
     "fullid": "char_4121_zuole",
@@ -4014,7 +4322,8 @@
       "cn": "左乐"
     },
     "nation": "yan",
-    "rating": 6
+    "rating": 6,
+    "release_date": "2024-07-31"
   },
   {
     "fullid": "char_4122_grabds",
@@ -4027,7 +4336,8 @@
       "cn": "小满"
     },
     "nation": "yan",
-    "rating": 5
+    "rating": 5,
+    "release_date": "2024-07-31"
   },
   {
     "fullid": "char_4123_ela",
@@ -4040,7 +4350,8 @@
       "cn": "艾拉"
     },
     "nation": null,
-    "rating": 6
+    "rating": 6,
+    "release_date": "2024-09-05"
   },
   {
     "fullid": "char_4124_iana",
@@ -4053,7 +4364,8 @@
       "cn": "双月"
     },
     "nation": null,
-    "rating": 5
+    "rating": 5,
+    "release_date": "2024-09-05"
   },
   {
     "fullid": "char_4125_rdoc",
@@ -4066,7 +4378,8 @@
       "cn": "医生"
     },
     "nation": null,
-    "rating": 5
+    "rating": 5,
+    "release_date": "2024-09-05"
   },
   {
     "fullid": "char_4126_fuze",
@@ -4079,7 +4392,8 @@
       "cn": "导火索"
     },
     "nation": null,
-    "rating": 5
+    "rating": 5,
+    "release_date": "2024-09-05"
   },
   {
     "fullid": "char_4130_luton",
@@ -4092,7 +4406,8 @@
       "cn": "露托"
     },
     "nation": "bolivar",
-    "rating": 4
+    "rating": 4,
+    "release_date": "2024-10-10"
   },
   {
     "fullid": "char_4131_odda",
@@ -4105,7 +4420,8 @@
       "cn": "奥达"
     },
     "nation": "rhodes",
-    "rating": 5
+    "rating": 5,
+    "release_date": "2024-10-10"
   },
   {
     "fullid": "char_4132_ascln",
@@ -4118,7 +4434,8 @@
       "cn": "阿斯卡纶"
     },
     "nation": "rhodes",
-    "rating": 6
+    "rating": 6,
+    "release_date": "2024-10-10"
   },
   {
     "fullid": "char_4133_logos",
@@ -4131,7 +4448,8 @@
       "cn": "逻各斯"
     },
     "nation": "rhodes",
-    "rating": 6
+    "rating": 6,
+    "release_date": "2024-10-31"
   },
   {
     "fullid": "char_4134_cetsyr",
@@ -4144,7 +4462,8 @@
       "cn": "魔王"
     },
     "nation": "rhodes",
-    "rating": 6
+    "rating": 6,
+    "release_date": "2024-10-31"
   },
   {
     "fullid": "char_4134_cetsyr_epoque#50",
@@ -4157,7 +4476,8 @@
       "cn": "魔王 EPOQUE"
     },
     "nation": "rhodes",
-    "rating": 6
+    "rating": 6,
+    "release_date": "2024-10-31"
   },
   {
     "fullid": "char_4136_phonor",
@@ -4170,7 +4490,8 @@
       "cn": "PhonoR-0"
     },
     "nation": "rhodes",
-    "rating": 1
+    "rating": 1,
+    "release_date": "2024-10-31"
   },
   {
     "fullid": "char_4137_udflow",
@@ -4183,7 +4504,8 @@
       "cn": "深巡"
     },
     "nation": "egir",
-    "rating": 5
+    "rating": 5,
+    "release_date": "2024-12-03"
   },
   {
     "fullid": "char_4138_narant",
@@ -4196,7 +4518,8 @@
       "cn": "娜仁图亚"
     },
     "nation": "sargon",
-    "rating": 6
+    "rating": 6,
+    "release_date": "2025-01-16"
   },
   {
     "fullid": "char_4139_papyrs",
@@ -4209,7 +4532,8 @@
       "cn": "莎草"
     },
     "nation": "sargon",
-    "rating": 5
+    "rating": 5,
+    "release_date": "2025-01-16"
   },
   {
     "fullid": "char_4140_lasher",
@@ -4222,7 +4546,8 @@
       "cn": "衡沙"
     },
     "nation": "sargon",
-    "rating": 5
+    "rating": 5,
+    "release_date": "2025-01-16"
   },
   {
     "fullid": "char_4141_marcil",
@@ -4235,7 +4560,8 @@
       "cn": "玛露西尔"
     },
     "nation": null,
-    "rating": 6
+    "rating": 6,
+    "release_date": "2025-03-10"
   },
   {
     "fullid": "char_4142_laios",
@@ -4248,7 +4574,8 @@
       "cn": "莱欧斯"
     },
     "nation": null,
-    "rating": 5
+    "rating": 5,
+    "release_date": "2025-03-10"
   },
   {
     "fullid": "char_4143_sensi",
@@ -4261,7 +4588,8 @@
       "cn": "森西"
     },
     "nation": null,
-    "rating": 5
+    "rating": 5,
+    "release_date": "2025-03-10"
   },
   {
     "fullid": "char_4144_chilc",
@@ -4274,7 +4602,8 @@
       "cn": "齐尔查克"
     },
     "nation": null,
-    "rating": 5
+    "rating": 5,
+    "release_date": "2025-03-10"
   },
   {
     "fullid": "char_4145_ulpia",
@@ -4287,7 +4616,8 @@
       "cn": "乌尔比安"
     },
     "nation": "egir",
-    "rating": 6
+    "rating": 6,
+    "release_date": "2024-12-03"
   },
   {
     "fullid": "char_4146_nymph",
@@ -4300,7 +4630,8 @@
       "cn": "妮芙"
     },
     "nation": "rhodes",
-    "rating": 6
+    "rating": 6,
+    "release_date": "2025-02-07"
   },
   {
     "fullid": "char_4147_mitm",
@@ -4313,7 +4644,8 @@
       "cn": "渡桥"
     },
     "nation": "rhodes",
-    "rating": 5
+    "rating": 5,
+    "release_date": "2025-02-07"
   },
   {
     "fullid": "char_4148_philae",
@@ -4326,7 +4658,8 @@
       "cn": "菲莱"
     },
     "nation": "sargon",
-    "rating": 5
+    "rating": 5,
+    "release_date": "2025-04-24"
   },
   {
     "fullid": "char_4151_tinman",
@@ -4339,7 +4672,8 @@
       "cn": "锡人"
     },
     "nation": "columbia",
-    "rating": 5
+    "rating": 5,
+    "release_date": "2025-02-14"
   },
   {
     "fullid": "char_4155_talr",
@@ -4352,7 +4686,8 @@
       "cn": "裁度"
     },
     "nation": "siracusa",
-    "rating": 5
+    "rating": 5,
+    "release_date": "2025-04-24"
   },
   {
     "fullid": "char_415_flint",
@@ -4365,7 +4700,8 @@
       "cn": "燧石"
     },
     "nation": "sargon",
-    "rating": 5
+    "rating": 5,
+    "release_date": "2021-02-25"
   },
   {
     "fullid": "char_4162_cathy",
@@ -4378,7 +4714,8 @@
       "cn": "凯瑟琳"
     },
     "nation": "victoria",
-    "rating": 5
+    "rating": 5,
+    "release_date": "2025-04-08"
   },
   {
     "fullid": "char_4163_rosesa",
@@ -4391,7 +4728,8 @@
       "cn": "瑰盐"
     },
     "nation": "iberia",
-    "rating": 5
+    "rating": 5,
+    "release_date": "2025-06-05"
   },
   {
     "fullid": "char_4164_tecno",
@@ -4404,7 +4742,8 @@
       "cn": "特克诺"
     },
     "nation": "bolivar",
-    "rating": 5
+    "rating": 5,
+    "release_date": "2025-06-05"
   },
   {
     "fullid": "char_4165_ctrail",
@@ -4417,7 +4756,8 @@
       "cn": "云迹"
     },
     "nation": "columbia",
-    "rating": 4
+    "rating": 4,
+    "release_date": "2025-04-24"
   },
   {
     "fullid": "char_4166_varkis",
@@ -4430,7 +4770,8 @@
       "cn": "摆渡人"
     },
     "nation": "minos",
-    "rating": 5
+    "rating": 5,
+    "release_date": "2026-06-22"
   },
   {
     "fullid": "char_416_zumama",
@@ -4443,7 +4784,8 @@
       "cn": "森蚺"
     },
     "nation": "sargon",
-    "rating": 6
+    "rating": 6,
+    "release_date": "2021-02-25"
   },
   {
     "fullid": "char_4171_wulfen",
@@ -4456,7 +4798,8 @@
       "cn": "钼铅"
     },
     "nation": "sargon",
-    "rating": 5
+    "rating": 5,
+    "release_date": "2025-08-28"
   },
   {
     "fullid": "char_4172_xingzh",
@@ -4469,7 +4812,8 @@
       "cn": "行箸"
     },
     "nation": "yan",
-    "rating": 5
+    "rating": 5,
+    "release_date": "2025-07-17"
   },
   {
     "fullid": "char_4173_nowell",
@@ -4482,7 +4826,8 @@
       "cn": "诺威尔"
     },
     "nation": "victoria",
-    "rating": 5
+    "rating": 5,
+    "release_date": "2025-08-07"
   },
   {
     "fullid": "char_4177_brigid",
@@ -4495,7 +4840,8 @@
       "cn": "水灯心"
     },
     "nation": "victoria",
-    "rating": 5
+    "rating": 5,
+    "release_date": "2025-08-28"
   },
   {
     "fullid": "char_4178_alanna",
@@ -4508,7 +4854,8 @@
       "cn": "阿兰娜"
     },
     "nation": "rim",
-    "rating": 5
+    "rating": 5,
+    "release_date": "2025-09-16"
   },
   {
     "fullid": "char_4179_monstr",
@@ -4521,7 +4868,8 @@
       "cn": "Mon3tr"
     },
     "nation": "rhodes",
-    "rating": 6
+    "rating": 6,
+    "release_date": "2025-09-16"
   },
   {
     "fullid": "char_4182_oblvns",
@@ -4534,7 +4882,8 @@
       "cn": "丰川祥子"
     },
     "nation": null,
-    "rating": 6
+    "rating": 6,
+    "release_date": "2026-02-10"
   },
   {
     "fullid": "char_4183_mortis",
@@ -4547,7 +4896,8 @@
       "cn": "若叶睦"
     },
     "nation": null,
-    "rating": 5
+    "rating": 5,
+    "release_date": "2026-02-10"
   },
   {
     "fullid": "char_4184_dolris",
@@ -4560,7 +4910,8 @@
       "cn": "三角初华"
     },
     "nation": null,
-    "rating": 5
+    "rating": 5,
+    "release_date": "2026-02-10"
   },
   {
     "fullid": "char_4185_amoris",
@@ -4573,7 +4924,8 @@
       "cn": "祐天寺若麦"
     },
     "nation": null,
-    "rating": 5
+    "rating": 5,
+    "release_date": "2026-02-10"
   },
   {
     "fullid": "char_4186_tmoris",
@@ -4586,7 +4938,8 @@
       "cn": "八幡海铃"
     },
     "nation": null,
-    "rating": 5
+    "rating": 5,
+    "release_date": "2026-02-10"
   },
   {
     "fullid": "char_4187_graceb",
@@ -4599,7 +4952,8 @@
       "cn": "聆音"
     },
     "nation": "bolivar",
-    "rating": 5
+    "rating": 5,
+    "release_date": "2025-10-14"
   },
   {
     "fullid": "char_4188_confes",
@@ -4612,7 +4966,8 @@
       "cn": "CONFESS-47"
     },
     "nation": "laterano",
-    "rating": 1
+    "rating": 1,
+    "release_date": "2025-10-14"
   },
   {
     "fullid": "char_4191_tippi",
@@ -4625,7 +4980,8 @@
       "cn": "蒂比"
     },
     "nation": "columbia",
-    "rating": 5
+    "rating": 5,
+    "release_date": "2025-11-13"
   },
   {
     "fullid": "char_4193_lemuen",
@@ -4638,7 +4994,8 @@
       "cn": "蕾缪安"
     },
     "nation": "laterano",
-    "rating": 6
+    "rating": 6,
+    "release_date": "2025-10-14"
   },
   {
     "fullid": "char_4194_rmixer",
@@ -4651,7 +5008,8 @@
       "cn": "信仰搅拌机"
     },
     "nation": "laterano",
-    "rating": 6
+    "rating": 6,
+    "release_date": "2025-10-14"
   },
   {
     "fullid": "char_4195_radian",
@@ -4664,7 +5022,8 @@
       "cn": "电弧"
     },
     "nation": "rhodes",
-    "rating": 6
+    "rating": 6,
+    "release_date": "2025-12-18"
   },
   {
     "fullid": "char_4196_reckpr",
@@ -4677,7 +5036,8 @@
       "cn": "录武官"
     },
     "nation": "yan",
-    "rating": 5
+    "rating": 5,
+    "release_date": "2025-12-11"
   },
   {
     "fullid": "char_4198_christ",
@@ -4690,7 +5050,8 @@
       "cn": "Miss.Christine"
     },
     "nation": "victoria",
-    "rating": 5
+    "rating": 5,
+    "release_date": "2025-11-13"
   },
   {
     "fullid": "char_4199_makiri",
@@ -4703,7 +5064,8 @@
       "cn": "松桐"
     },
     "nation": "higashi",
-    "rating": 5
+    "rating": 5,
+    "release_date": "2026-01-16"
   },
   {
     "fullid": "char_4202_haruka",
@@ -4716,7 +5078,8 @@
       "cn": "遥"
     },
     "nation": "higashi",
-    "rating": 6
+    "rating": 6,
+    "release_date": "2026-01-16"
   },
   {
     "fullid": "char_4203_kichi",
@@ -4729,7 +5092,8 @@
       "cn": "吉星"
     },
     "nation": "higashi",
-    "rating": 5
+    "rating": 5,
+    "release_date": "2026-01-16"
   },
   {
     "fullid": "char_4204_mantra",
@@ -4742,7 +5106,8 @@
       "cn": "真言"
     },
     "nation": "rhodes",
-    "rating": 6
+    "rating": 6,
+    "release_date": "2026-03-19"
   },
   {
     "fullid": "char_4207_branch",
@@ -4755,7 +5120,8 @@
       "cn": "折桠"
     },
     "nation": "ursus",
-    "rating": 5
+    "rating": 5,
+    "release_date": "2026-03-19"
   },
   {
     "fullid": "char_4208_wintim",
@@ -4768,7 +5134,8 @@
       "cn": "冬时"
     },
     "nation": "ursus",
-    "rating": 4
+    "rating": 4,
+    "release_date": "2026-03-19"
   },
   {
     "fullid": "char_420_flamtl",
@@ -4781,7 +5148,8 @@
       "cn": "焰尾"
     },
     "nation": "kazimierz",
-    "rating": 6
+    "rating": 6,
+    "release_date": "2022-04-28"
   },
   {
     "fullid": "char_4211_snhunt",
@@ -4794,7 +5162,8 @@
       "cn": "雪猎"
     },
     "nation": "kjerag",
-    "rating": 5
+    "rating": 5,
+    "release_date": "2026-04-14"
   },
   {
     "fullid": "char_4212_nasti",
@@ -4807,7 +5176,8 @@
       "cn": "娜斯提"
     },
     "nation": "columbia",
-    "rating": 6
+    "rating": 6,
+    "release_date": "2026-05-21"
   },
   {
     "fullid": "char_4213_skybx",
@@ -4820,7 +5190,8 @@
       "cn": "天空盒"
     },
     "nation": "columbia",
-    "rating": 5
+    "rating": 5,
+    "release_date": "2026-05-21"
   },
   {
     "fullid": "char_4214_cairn",
@@ -4833,7 +5204,8 @@
       "cn": "响石"
     },
     "nation": "columbia",
-    "rating": 5
+    "rating": 5,
+    "release_date": "2026-05-21"
   },
   {
     "fullid": "char_421_crow",
@@ -4846,7 +5218,8 @@
       "cn": "羽毛笔"
     },
     "nation": "bolivar",
-    "rating": 5
+    "rating": 5,
+    "release_date": "2022-01-14"
   },
   {
     "fullid": "char_4221_ju",
@@ -4859,7 +5232,8 @@
       "cn": "矩"
     },
     "nation": "yan",
-    "rating": 5
+    "rating": 5,
+    "release_date": "2026-07-16"
   },
   {
     "fullid": "char_4222_taraxa",
@@ -4872,7 +5246,8 @@
       "cn": "风絮"
     },
     "nation": "yan",
-    "rating": 5
+    "rating": 5,
+    "release_date": "2026-07-16"
   },
   {
     "fullid": "char_422_aurora",
@@ -4885,7 +5260,8 @@
       "cn": "极光"
     },
     "nation": "kjerag",
-    "rating": 5
+    "rating": 5,
+    "release_date": "2022-06-30"
   },
   {
     "fullid": "char_423_blemsh",
@@ -4898,7 +5274,8 @@
       "cn": "瑕光"
     },
     "nation": "kazimierz",
-    "rating": 6
+    "rating": 6,
+    "release_date": "2021-04-08"
   },
   {
     "fullid": "char_426_billro",
@@ -4911,7 +5288,8 @@
       "cn": "卡涅利安"
     },
     "nation": "leithanien",
-    "rating": 6
+    "rating": 6,
+    "release_date": "2021-12-09"
   },
   {
     "fullid": "char_427_vigil",
@@ -4924,7 +5302,8 @@
       "cn": "伺夜"
     },
     "nation": "siracusa",
-    "rating": 6
+    "rating": 6,
+    "release_date": "2023-05-23"
   },
   {
     "fullid": "char_430_fartth",
@@ -4937,7 +5316,8 @@
       "cn": "远牙"
     },
     "nation": "kazimierz",
-    "rating": 6
+    "rating": 6,
+    "release_date": "2022-04-14"
   },
   {
     "fullid": "char_431_ashlok",
@@ -4950,7 +5330,8 @@
       "cn": "灰毫"
     },
     "nation": "kazimierz",
-    "rating": 5
+    "rating": 5,
+    "release_date": "2022-04-14"
   },
   {
     "fullid": "char_433_windft",
@@ -4963,7 +5344,8 @@
       "cn": "掠风"
     },
     "nation": "columbia",
-    "rating": 5
+    "rating": 5,
+    "release_date": "2022-11-03"
   },
   {
     "fullid": "char_436_whispr",
@@ -4976,7 +5358,8 @@
       "cn": "絮雨"
     },
     "nation": "iberia",
-    "rating": 5
+    "rating": 5,
+    "release_date": "2021-04-30"
   },
   {
     "fullid": "char_437_mizuki",
@@ -4989,7 +5372,8 @@
       "cn": "水月"
     },
     "nation": "higashi",
-    "rating": 6
+    "rating": 6,
+    "release_date": "2022-01-14"
   },
   {
     "fullid": "char_440_pinecn",
@@ -5002,7 +5386,8 @@
       "cn": "松果"
     },
     "nation": "columbia",
-    "rating": 4
+    "rating": 4,
+    "release_date": "2021-06-22"
   },
   {
     "fullid": "char_445_wscoot",
@@ -5015,7 +5400,8 @@
       "cn": "骋风"
     },
     "nation": "yan",
-    "rating": 4
+    "rating": 4,
+    "release_date": "2025-09-16"
   },
   {
     "fullid": "char_446_aroma",
@@ -5028,7 +5414,8 @@
       "cn": "阿罗玛"
     },
     "nation": "siracusa",
-    "rating": 5
+    "rating": 5,
+    "release_date": "2024-10-10"
   },
   {
     "fullid": "char_449_glider",
@@ -5041,7 +5428,8 @@
       "cn": "蜜莓"
     },
     "nation": "rim",
-    "rating": 5
+    "rating": 5,
+    "release_date": "2022-04-28"
   },
   {
     "fullid": "char_450_necras",
@@ -5054,7 +5442,8 @@
       "cn": "死芒"
     },
     "nation": "victoria",
-    "rating": 6
+    "rating": 6,
+    "release_date": "2025-08-28"
   },
   {
     "fullid": "char_451_robin",
@@ -5067,7 +5456,8 @@
       "cn": "罗宾"
     },
     "nation": "columbia",
-    "rating": 5
+    "rating": 5,
+    "release_date": "2021-06-22"
   },
   {
     "fullid": "char_452_bstalk",
@@ -5080,7 +5470,8 @@
       "cn": "豆苗"
     },
     "nation": "columbia",
-    "rating": 4
+    "rating": 4,
+    "release_date": "2021-07-06"
   },
   {
     "fullid": "char_455_nothin",
@@ -5093,7 +5484,8 @@
       "cn": "乌有"
     },
     "nation": "yan",
-    "rating": 5
+    "rating": 5,
+    "release_date": "2021-07-30"
   },
   {
     "fullid": "char_456_ash",
@@ -5106,7 +5498,8 @@
       "cn": "灰烬"
     },
     "nation": null,
-    "rating": 6
+    "rating": 6,
+    "release_date": "2021-08-18"
   },
   {
     "fullid": "char_457_blitz",
@@ -5119,7 +5512,8 @@
       "cn": "闪击"
     },
     "nation": null,
-    "rating": 5
+    "rating": 5,
+    "release_date": "2021-08-18"
   },
   {
     "fullid": "char_458_rfrost",
@@ -5132,7 +5526,8 @@
       "cn": "霜华"
     },
     "nation": null,
-    "rating": 5
+    "rating": 5,
+    "release_date": "2021-08-18"
   },
   {
     "fullid": "char_459_tachak",
@@ -5145,7 +5540,8 @@
       "cn": "战车"
     },
     "nation": null,
-    "rating": 5
+    "rating": 5,
+    "release_date": "2021-08-18"
   },
   {
     "fullid": "char_464_cement",
@@ -5158,7 +5554,8 @@
       "cn": "洋灰"
     },
     "nation": "rim",
-    "rating": 5
+    "rating": 5,
+    "release_date": "2023-10-24"
   },
   {
     "fullid": "char_466_qanik",
@@ -5171,7 +5568,8 @@
       "cn": "雪绒"
     },
     "nation": "sami",
-    "rating": 5
+    "rating": 5,
+    "release_date": "2023-05-23"
   },
   {
     "fullid": "char_469_indigo",
@@ -5184,7 +5582,8 @@
       "cn": "深靛"
     },
     "nation": "iberia",
-    "rating": 4
+    "rating": 4,
+    "release_date": "2021-12-09"
   },
   {
     "fullid": "char_472_pasngr",
@@ -5197,7 +5596,8 @@
       "cn": "异客"
     },
     "nation": "sargon",
-    "rating": 6
+    "rating": 6,
+    "release_date": "2021-09-30"
   },
   {
     "fullid": "char_472_pasngr_epoque#17",
@@ -5210,7 +5610,8 @@
       "cn": "异客 EPOQUE"
     },
     "nation": "sargon",
-    "rating": 6
+    "rating": 6,
+    "release_date": "2021-09-30"
   },
   {
     "fullid": "char_473_mberry",
@@ -5223,7 +5624,8 @@
       "cn": "桑葚"
     },
     "nation": "yan",
-    "rating": 5
+    "rating": 5,
+    "release_date": "2022-03-17"
   },
   {
     "fullid": "char_474_glady",
@@ -5236,7 +5638,8 @@
       "cn": "歌蕾蒂娅"
     },
     "nation": "egir",
-    "rating": 6
+    "rating": 6,
+    "release_date": "2021-10-21"
   },
   {
     "fullid": "char_475_akafyu",
@@ -5249,7 +5652,8 @@
       "cn": "赤冬"
     },
     "nation": "higashi",
-    "rating": 5
+    "rating": 5,
+    "release_date": "2021-10-21"
   },
   {
     "fullid": "char_476_blkngt",
@@ -5262,7 +5666,8 @@
       "cn": "夜半"
     },
     "nation": "rim",
-    "rating": 5
+    "rating": 5,
+    "release_date": "2022-07-29"
   },
   {
     "fullid": "char_478_kirara",
@@ -5275,7 +5680,8 @@
       "cn": "绮良"
     },
     "nation": "higashi",
-    "rating": 5
+    "rating": 5,
+    "release_date": "2021-12-09"
   },
   {
     "fullid": "char_479_sleach",
@@ -5288,7 +5694,8 @@
       "cn": "琴柳"
     },
     "nation": "victoria",
-    "rating": 6
+    "rating": 6,
+    "release_date": "2022-03-17"
   },
   {
     "fullid": "char_484_robrta",
@@ -5301,7 +5708,8 @@
       "cn": "罗比菈塔"
     },
     "nation": "columbia",
-    "rating": 4
+    "rating": 4,
+    "release_date": "2022-03-17"
   },
   {
     "fullid": "char_485_pallas",
@@ -5314,7 +5722,8 @@
       "cn": "帕拉斯"
     },
     "nation": "minos",
-    "rating": 6
+    "rating": 6,
+    "release_date": "2021-12-29"
   },
   {
     "fullid": "char_486_takila",
@@ -5327,7 +5736,8 @@
       "cn": "龙舌兰"
     },
     "nation": "bolivar",
-    "rating": 5
+    "rating": 5,
+    "release_date": "2022-01-14"
   },
   {
     "fullid": "char_487_bobb",
@@ -5340,7 +5750,8 @@
       "cn": "波卜"
     },
     "nation": "columbia",
-    "rating": 5
+    "rating": 5,
+    "release_date": "2025-04-08"
   },
   {
     "fullid": "char_488_buildr",
@@ -5353,7 +5764,8 @@
       "cn": "青枳"
     },
     "nation": "columbia",
-    "rating": 5
+    "rating": 5,
+    "release_date": "2024-01-16"
   },
   {
     "fullid": "char_489_serum",
@@ -5366,7 +5778,8 @@
       "cn": "蚀清"
     },
     "nation": "columbia",
-    "rating": 5
+    "rating": 5,
+    "release_date": "2022-04-28"
   },
   {
     "fullid": "char_491_humus",
@@ -5379,7 +5792,8 @@
       "cn": "休谟斯"
     },
     "nation": "rhodes",
-    "rating": 4
+    "rating": 4,
+    "release_date": "2023-10-24"
   },
   {
     "fullid": "char_492_quercu",
@@ -5392,7 +5806,8 @@
       "cn": "夏栎"
     },
     "nation": "rhodes",
-    "rating": 5
+    "rating": 5,
+    "release_date": "2022-08-18"
   },
   {
     "fullid": "char_493_firwhl",
@@ -5405,7 +5820,8 @@
       "cn": "火哨"
     },
     "nation": "rim",
-    "rating": 5
+    "rating": 5,
+    "release_date": "2023-07-28"
   },
   {
     "fullid": "char_494_vendla",
@@ -5418,7 +5834,8 @@
       "cn": "刺玫"
     },
     "nation": "victoria",
-    "rating": 5
+    "rating": 5,
+    "release_date": "2024-04-16"
   },
   {
     "fullid": "char_496_wildmn",
@@ -5431,7 +5848,8 @@
       "cn": "野鬃"
     },
     "nation": "kazimierz",
-    "rating": 5
+    "rating": 5,
+    "release_date": "2022-04-28"
   },
   {
     "fullid": "char_497_ctable",
@@ -5444,7 +5862,8 @@
       "cn": "晓歌"
     },
     "nation": "rhodes",
-    "rating": 5
+    "rating": 5,
+    "release_date": "2023-01-13"
   },
   {
     "fullid": "char_498_inside",
@@ -5457,7 +5876,8 @@
       "cn": "隐现"
     },
     "nation": "laterano",
-    "rating": 5
+    "rating": 5,
+    "release_date": "2023-12-21"
   },
   {
     "fullid": "char_499_kaitou",
@@ -5470,7 +5890,8 @@
       "cn": "折光"
     },
     "nation": "leithanien",
-    "rating": 5
+    "rating": 5,
+    "release_date": "2024-04-30"
   },
   {
     "fullid": "char_500_noirc",
@@ -5483,7 +5904,8 @@
       "cn": "黑角"
     },
     "nation": "rhodes",
-    "rating": 2
+    "rating": 2,
+    "release_date": "2020-01-16"
   },
   {
     "fullid": "char_501_durin",
@@ -5496,7 +5918,8 @@
       "cn": "杜林"
     },
     "nation": "rhodes",
-    "rating": 2
+    "rating": 2,
+    "release_date": "2020-01-16"
   },
   {
     "fullid": "char_502_nblade",
@@ -5509,7 +5932,8 @@
       "cn": "夜刀"
     },
     "nation": "rhodes",
-    "rating": 2
+    "rating": 2,
+    "release_date": "2020-01-16"
   },
   {
     "fullid": "char_503_rang",
@@ -5522,7 +5946,8 @@
       "cn": "巡林者"
     },
     "nation": "rhodes",
-    "rating": 2
+    "rating": 2,
+    "release_date": "2020-01-16"
   },
   {
     "fullid": "char_508_aguard",
@@ -5535,7 +5960,8 @@
       "cn": "Sharp"
     },
     "nation": null,
-    "rating": 5
+    "rating": 5,
+    "release_date": "2021-02-25"
   },
   {
     "fullid": "char_509_acast",
@@ -5548,7 +5974,8 @@
       "cn": "Pith"
     },
     "nation": null,
-    "rating": 5
+    "rating": 5,
+    "release_date": "2021-02-25"
   },
   {
     "fullid": "char_510_amedic",
@@ -5561,7 +5988,8 @@
       "cn": "Touch"
     },
     "nation": null,
-    "rating": 5
+    "rating": 5,
+    "release_date": "2021-02-25"
   },
   {
     "fullid": "char_511_asnipe",
@@ -5574,7 +6002,8 @@
       "cn": "Stormeye"
     },
     "nation": null,
-    "rating": 5
+    "rating": 5,
+    "release_date": "2021-02-25"
   },
   {
     "fullid": "char_513_apionr",
@@ -5587,6 +6016,7 @@
       "cn": "郁金香"
     },
     "nation": null,
-    "rating": 5
+    "rating": 5,
+    "release_date": "2023-05-23"
   }
 ]
