@@ -44,7 +44,7 @@ def make_charlist():
     wordtables = load_wordtables()
 
     release_dates = load_json(cfg.manual("global-release.json"))
-    id_to_release = {x['char_key']: x['date_global'] for x in release_dates}
+    id_to_release = {x["char_key"]: x["date_global"] for x in release_dates}
 
     # char_512_aprot and char_4025_aprot2 are both Shalem and have the same lines
     voices = {

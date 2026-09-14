@@ -31,7 +31,7 @@ def save_json(data, dst: Path, prettify=True):
     indent = 2 if prettify else None
     # json.dumps doesn't add a trailing newline and
     # a lot of editors are offended by files without one
-    j = json.dumps(data, ensure_ascii=False, indent=indent) + '\n'
+    j = json.dumps(data, ensure_ascii=False, indent=indent) + "\n"
     ensure_dir_and_write(j, dst)
 
 
