@@ -1,3 +1,5 @@
+import { asset } from "$app/paths"
+
 export async function loadJson<T>(dataurl: string): Promise<T> {
   const response = await fetch(dataurl);
 
@@ -10,6 +12,6 @@ export interface LoadArgs {
   };
 }
 
-export function getAvatarUrl(file: string, base: string): string {
-  return `${base}/images/avatars/${file}.webp`;
+export function getAvatarUrl(file: string): string {
+  return asset(`/images/avatars/${file}.webp`);
 }

@@ -105,7 +105,7 @@
             href="{base}/operators/{char.nameid}"
           >
             <Photocard
-              imgsrc={getAvatarUrl(char.nameid, base)}
+              imgsrc={getAvatarUrl(char.nameid)}
               text={char.name[$currentLang]}
             />
           </a>

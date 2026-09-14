@@ -241,15 +241,18 @@ def add_old_voices(chardata):
     return
 
 
-def get_chardata(charid, wordtables, names=None):
-    voices = get_voices(charid, wordtables)
-    actors = get_actors(charid, wordtables)
+def get_chardata(char):
+    char_id = char["fullid"]
+
+    wordtables = load_wordtables()
+    voices = get_voices(char_id, wordtables)
+    actors = get_actors(char_id, wordtables)
     availability = [k for k in actors]
 
     chardata = {
-        "charid": charid,
-        "nameid": charid.split("_")[-1],
-        "names": {} if names is None else names,
+        "charid": char_id,
+        "nameid": char["nameid"],
+        "names": char["name"],
         "voices": voices,
         "actors": actors,
         "availability": availability,
@@ -258,27 +261,6 @@ def get_chardata(charid, wordtables, names=None):
     add_old_voices(chardata)
 
     return chardata
-
-
-def mangle_char_id(orig: str):
-    """
-    `orig` should be a char id (`char_002_amiya`).
-
-    Returns a form of that ID suitable for use in a URL.
-    """
-    match orig.split("_")[2:]:
-        case [op, outfit]:
-            # e.g. whitw2_sale#15
-            return f"{op}-{outfit.partition('#')[0]}"
-        case [op] if "#" in op:
-            # e.g. mudrok#1, lolxh#1 - E2s with different voices
-            return f"{op.partition('#')[0]}-e2"
-        case [op]:
-            return op
-        case _:
-            raise NotImplementedError(
-                f"mangle_char_id doesn't know what to do with '{orig}'"
-            )
 
 
 def convert_and_write_image(sourcefile, targetfile):
@@ -296,10 +278,13 @@ def process_images():
             convert_and_write_image(src, dst)
 
     for avapath in cfg.cached("images/avatars").glob("*.png"):
+        if "#" in avapath.stem:
+            _, new_stem = get_new_names({}, avapath.stem)
+        else:
+            new_stem = avapath.stem.split("_")[-1]
+
         targetpath = (
-            cfg.output(*avapath.parts[1:])
-            .with_stem(mangle_char_id(avapath.stem))
-            .with_suffix(".webp")
+            cfg.output(*avapath.parts[1:]).with_stem(new_stem).with_suffix(".webp")
         )
         convert_if_needed(avapath, targetpath)
 
@@ -308,17 +293,15 @@ def process_images():
         convert_if_needed(factionpath, targetpath)
 
 
-def get_and_write_chardata(charid, names=None):
-    wordtables = load_wordtables()
-    logger.debug(f"Getting chardata for {charid}")
-    chardata = get_chardata(charid, wordtables, names)
-    mangled = mangle_char_id(charid)
-    save_json(chardata, cfg.output(f"chardata/{mangled}.json"))
+def get_and_write_chardata(char):
+    logger.debug(f"Getting chardata for {char['fullid']}")
+    chardata = get_chardata(char)
+    save_json(chardata, cfg.output(f"chardata/{char['nameid']}.json"))
 
 
 def process_all_characters(charlist):
     for char in charlist:
-        get_and_write_chardata(char["fullid"], char["name"])
+        get_and_write_chardata(char)
 
 
 def get_and_save_misc_data(charlist):

@@ -1,5 +1,4 @@
 <script lang="ts">
-  import { base } from "$app/paths";
   import { currentLang } from "$lib/stores";
   import { getAvatarUrl } from "$lib/utils";
   import LangButtonBar from "$lib/LangButtonBar.svelte";
@@ -9,7 +8,7 @@
   import type { Chardata } from "./+page.server";
 
   let { data }: { data: Chardata } = $props();
-  let photosrc = $derived(getAvatarUrl(data.nameid, base));
+  let photosrc = $derived(getAvatarUrl(data.nameid));
 </script>
 
 <svelte:head>
