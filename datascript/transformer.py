@@ -183,10 +183,9 @@ def get_actors_from_voicedict(voicedict):
     for lang, d in voicedict.items():
         try:
             actors[LANG_MAPPING[lang]] = ",".join(d["cvName"])
-        except KeyError:
-            logger.warning(
-                f"Unknown language '{lang}' found for {d['wordkey']}, skipping"
-            )
+        except KeyError as e:
+            logger.error(f"Unknown language '{lang}' found for {d['wordkey']}")
+            raise e
 
     return {k: actors[k] for k in sorted(actors.keys(), key=get_lang_sort_key)}
 
@@ -198,11 +197,7 @@ def get_actors(charid, wordtables):
     # CN use CN names even for Korean and Japanese names with kana
     # So we use JP as base
     basetable = wordtables["jp"]
-    try:
-        voicedict = basetable["voiceLangDict"][charid]["dict"]
-    except KeyError:
-        # When there are no voice data associated yet
-        return {}
+    voicedict = basetable["voiceLangDict"][charid]["dict"]
     native_names = get_actors_from_voicedict(voicedict)
 
     # Add EN names as they're often the global preferred name
@@ -210,13 +205,16 @@ def get_actors(charid, wordtables):
     envoicedict = entable["voiceLangDict"][charid]["dict"]
     global_names = get_actors_from_voicedict(envoicedict)
 
-    actors = {}
-    for lang in native_names:
-        actors[lang] = {}
-        actors[lang]["native"] = native_names[lang]
-        actors[lang]["global"] = global_names[lang]
-
-    return actors
+    try:
+        return {
+            lang: {"native": native_names[lang], "global": global_names[lang]}
+            for lang in native_names
+        }
+    except KeyError as e:
+        logger.error(
+            f"JP and EN voicedicts don't have the same languages for {charid} (sources not fully updated?)"
+        )
+        raise e
 
 
 def add_old_voices(chardata):
