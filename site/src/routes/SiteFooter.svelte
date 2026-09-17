@@ -4,8 +4,8 @@
 
 <footer>
   <a href="https://github.com/Zumurrud/riva" target="_blank"><GithubIcon /></a>
-  <span>Site version 0.9</span>
-  <span>Data last updated: 2026-09-05 (Collection on global)</span>
+  <span>Site version 0.99</span>
+  <span>Data last updated: 2026-09-16 (People, a People on global)</span>
 </footer>
 
 <style>

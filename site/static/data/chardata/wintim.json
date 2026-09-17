@@ -633,12 +633,17 @@
     "kr": {
       "native": "주예진",
       "global": "Joo Ye-jin"
+    },
+    "ru": {
+      "native": "Elizaveta Chaban",
+      "global": "Elizaveta Chaban"
     }
   },
   "availability": [
     "en",
     "cn",
     "jp",
-    "kr"
+    "kr",
+    "ru"
   ]
 }

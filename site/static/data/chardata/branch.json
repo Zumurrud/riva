@@ -633,12 +633,17 @@
     "kr": {
       "native": "배하경",
       "global": "Bae Ha-gyoung"
+    },
+    "ru": {
+      "native": "Elizaveta Sheikh",
+      "global": "Elizaveta Sheikh"
     }
   },
   "availability": [
     "en",
     "cn",
     "jp",
-    "kr"
+    "kr",
+    "ru"
   ]
 }

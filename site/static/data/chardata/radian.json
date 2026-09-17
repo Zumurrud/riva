@@ -633,12 +633,17 @@
     "kr": {
       "native": "이이로",
       "global": "Lee I-ro"
+    },
+    "ru": {
+      "native": "Elizaveta Bulatova",
+      "global": "Elizaveta Bulatova"
     }
   },
   "availability": [
     "en",
     "cn",
     "jp",
-    "kr"
+    "kr",
+    "ru"
   ]
 }

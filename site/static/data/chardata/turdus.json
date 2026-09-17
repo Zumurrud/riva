@@ -1,0 +1,649 @@
+{
+  "charid": "char_4224_turdus",
+  "nameid": "turdus",
+  "names": {
+    "en": "Ukusik",
+    "jp": "ウクシク",
+    "kr": "우쿠시크",
+    "cn": "乌啾"
+  },
+  "voices": [
+    {
+      "id": "char_4224_turdus_CN_001",
+      "title": {
+        "en": "Appointed as Assistant",
+        "jp": "秘書任命",
+        "kr": "어시스턴트 임명",
+        "cn": "任命助理"
+      },
+      "text": {
+        "en": "Me, your assistant? You want to split your work with a sick little girl? Even if she can't read well? Or are you just keeping an eye on me in case I cause another fuss? No, I'm not complaining. <i>You're</i> the boss.",
+        "jp": "助手をやれって？つまり、文字すらろくに読めない病気の子供に仕事を振ろうって？それとも、あたしがまたやらかさないか見張っときたいの？別に、文句なんてない。言われたらやるよ。なんてったってボスはあんたなんだからね。",
+        "kr": "조수를 하라고? 그러니까, 글자도 제대로 못 읽는 아픈 애한테 일을 맡기겠다? 아니면, 내가 또 사고 안 치는지 감시하려는 거? 별로, 딱히 불만 없어. 하라면 할게. 어쨌거나 보스는 너니까.",
+        "cn": "做你的助理？你的意思是让一个字都没认全的小病人替你分担工作？还是说，你怕我又闯什么祸所以要盯紧我？不不，我没意见，你说了算，谁让你才是老大呢。"
+      },
+      "asset": "char_4224_turdus/CN_001"
+    },
+    {
+      "id": "char_4224_turdus_CN_002",
+      "title": {
+        "en": "Talk 1",
+        "jp": "会話1",
+        "kr": "대화 1",
+        "cn": "交谈1"
+      },
+      "text": {
+        "en": "How come you're so much taller than me? If I stare at you really hard while you're napping, will you get nightmares? Would you even notice? Tch, that's no fun. Can you give me some thumbtacks to play with? I promise you won't feel them—*ahem* I promise I won't stick them in you!",
+        "jp": "あんたってなんでそんなにデカいの？居眠りしてる時にじーっと見られてたら悪夢にうなされる？それとも気付いちゃう？ちぇー、つまんないの。じゃあ画鋲ちょうだい。絶対あんたに気付かれないように――コホン、あんたを傷付けないようにするから！",
+        "kr": "너는 왜 그렇게 큰 거야? 졸고 있을 때 빤히 쳐다보고 있으면 악몽을 꿀까? 아니면 눈치 챌까? 쳇, 재미없어. 그럼 압정 줘봐. 절대 네가 눈치 못 채게…… 크흠, 네가 안 다치게 할 테니까!",
+        "cn": "你为什么比我高那么多？如果我在你打盹的时候盯着你看，你会做噩梦吗？那你会发现吗？啧，太可惜了。可以给我些图钉玩儿吗？我保证不会让你感觉到——咳，保证不会扎到你的！"
+      },
+      "asset": "char_4224_turdus/CN_002"
+    },
+    {
+      "id": "char_4224_turdus_CN_003",
+      "title": {
+        "en": "Talk 2",
+        "jp": "会話2",
+        "kr": "대화 2",
+        "cn": "交谈2"
+      },
+      "text": {
+        "en": "It's super stuffy in the mobility layer of Deity Grypherburg. I used to go down there to clean the Originium piping, and I found tons of dead beetles and butterflies—it's okay, I don't have them on me. *sigh* I was so dumb when I was little. I used to think I had it better than a bug. But being down there just proves we had it the exact same.",
+        "jp": "サンクト・グリファーブルクの動力層って蒸し暑くてね、昔あそこの源石配管の掃除を代わってあげた時に、中で茹だって死んだ甲虫とか蝶々とかをたくさん拾ったの――持ってきてないから、怖がらなくていいよ。はぁ、小さい頃はマヌケだったから、あたしは虫よりツイてるって思ってたんだ。あんな場所にいた時点で、虫ケラと何も変わらないのにね。",
+        "kr": "디에티 그라이퍼부르크의 동력층은 찜통처럼 더워서 말이지. 예전에 거기 오리지늄 배관 청소를 대신해 줬을 때, 그 안에서 쪄죽은 딱정벌레나 나비 같은 걸 많이 주웠어…… 안 가져왔으니까 무서워하지 않아도 돼. 하아, 어릴 때는 멍청해서, 나는 벌레보다 운이 좋다고 생각했지. 그런 곳에 있던 시점에서 이미 벌레랑 다를 게 없는데 말이야.",
+        "cn": "圣骏堡动力层里又闷又热，我以前在那替人清扫源石管道，捡了很多被困死的甲虫和蝴蝶——别怕，我没带在身上。唉，小时候真笨，还以为自己比虫子幸运。但我当时在那里，就说明我们其实一样。"
+      },
+      "asset": "char_4224_turdus/CN_003"
+    },
+    {
+      "id": "char_4224_turdus_CN_004",
+      "title": {
+        "en": "Talk 3",
+        "jp": "会話3",
+        "kr": "대화 3",
+        "cn": "交谈3"
+      },
+      "text": {
+        "en": "I don't want to talk right now. I'm not moody, I'm just—I'm tired or something, okay? I'm thinking, it's nothing to do with you. I don't want any snacks, stop talking to me! *sigh* Now I lost my train of thought! Show me what snacks you've got? Never mind, wanna go to the vending machine and buy something?",
+        "jp": "今は喋りたくない。機嫌が悪いとかじゃなくて、ただ――喋り疲れたってことにしといて。考え事してるけど、あんたは関係ないでしょ。おやつもいらないから、話しかけないで！もう、頭の中がぐちゃぐちゃになっちゃったじゃない！で、どんなおやつを持ってるの？うーん微妙。じゃあ自販機まで買出しに行かない？",
+        "kr": "지금은 얘기하고 싶지 않아. 기분이 나쁘거나 한 게 아니고, 그냥…… 말하기 지쳤다는 걸로 해 둬. 생각 좀 하고 있는데, 너랑은 상관없잖아. 간식도 필요 없으니까 말 걸지 마! 진짜, 머릿속이 엉망진창이 됐잖아! 그래서, 간식은 뭔데? 으음, 애매해. 그러니까, 간식 사러 자판기 안 갈래?",
+        "cn": "我现在不想说话。和心情无关，只是——就当我说累了，好吗？我在想事情，和你无关的事。我不吃零食，别和我说话了！唉，思路全乱了！给我看看你有什么零食？算了，要一起去贩卖机上买点吗？"
+      },
+      "asset": "char_4224_turdus/CN_004"
+    },
+    {
+      "id": "char_4224_turdus_CN_005",
+      "title": {
+        "en": "Talk after Promotion 1",
+        "jp": "昇進後会話1",
+        "kr": "1차 정예화 후 대화",
+        "cn": "晋升后交谈1"
+      },
+      "text": {
+        "en": "Bored, bored, bored. Why is all this 'paperwork' the saaaame? Is this all you ever look at all day…? I pity you. Wanna play marbles? No, these are mine, they're not for you, go get your own.",
+        "jp": "つまんない、つまんない、つまんなーい。なんでこの「書類」ってのはどれもそっくりおんなじなの？あんたって毎日こんなのばかり見てたんだ……可哀想。ちょっとビー玉で遊ばない？いやいや、これ全部あたしのだから貸さないよ。やりたいなら自分で拾ってきて。",
+        "kr": "지루해, 지루해, 지~루~해. 이 '서류'라는 건 왜 다 똑같은 거야? 너 맨날 이런 것만 보고 있었구나…… 불쌍해. 잠깐 유리구슬 가지고 놀래? 아니아니, 이거 전부 내 거니까 안 빌려줄 거야. 하고 싶으면 알아서 주워 와.",
+        "cn": "无聊，无聊，无聊。这些“文件”怎么都长得一模一样？你每天看的就是这种东西吗……真可怜。要来玩一会儿玻璃弹珠吗？不不，这些是我的，不能借给你，你得自己去外面捡。"
+      },
+      "asset": "char_4224_turdus/CN_005"
+    },
+    {
+      "id": "char_4224_turdus_CN_006",
+      "title": {
+        "en": "Talk after Promotion 2",
+        "jp": "昇進後会話2",
+        "kr": "2차 정예화 후 대화",
+        "cn": "晋升后交谈2"
+      },
+      "text": {
+        "en": "This fowlbeast doesn't have a name. What do you mean 'why'? It's not my pet, and it's not being sold at market. Why does it need a name? I don't know why it hangs around me, it's not like it wants food or warmth. Maybe it will be gone tomorrow. Can't say anything for sure.",
+        "jp": "この羽獣に名前なんてないよ。なんでってなにが？別にペットじゃないし、店の商品でもないのに、どうして名前がいるの？この子があたしにくっついてるのだって、エサがほしいとか暖が取りたいとかってわけじゃないし。明日にはいなくなってるかもしれないし、先のことなんて誰にもわからないでしょ。",
+        "kr": "이 파울비스트는 이름 같은 거 없어. 왜냐니, 뭐가? 딱히 애완동물도 아니고, 가게 상품도 아닌데 왜 이름이 있어? 얘가 나한테 붙어 있는 것도, 먹이가 필요하거나 온기가 필요해서 그런 게 아닌걸. 내일이면 사라질지도 모르고, 앞일은 아무도 모르는 거잖아.",
+        "cn": "这只羽兽没有名字。什么为什么？它不是我的宠物，也不是商店里的商品，为什么需要一个名字？它愿意待在我身边，也不是为了食物或取暖。也许它明天就不来了，一切都说不定。"
+      },
+      "asset": "char_4224_turdus/CN_006"
+    },
+    {
+      "id": "char_4224_turdus_CN_007",
+      "title": {
+        "en": "Talk after Trust Increase 1",
+        "jp": "信頼上昇後会話1",
+        "kr": "신뢰도 상승 후 대화 1",
+        "cn": "信赖提升后交谈1"
+      },
+      "text": {
+        "en": "Did you find who stole the razor from the stationeries? I'm sorry for you. You're right, though, people just can't resist shiny things. Matvey's reading journal says some nobles will even hire hitmen just to loot necklaces for them—no, I'm not saying I stole it.",
+        "jp": "文具置き場からカミソリの刃を盗った奴は見つかった？まだ？残念。でもあんたの言うとおり、人ってキラキラしたものに惹きつけられるからね。マトヴェイの学習帳に書いてあったんだけど、ネックレス一本のために人を雇って強盗させる貴族もいるんだとか――違うって、あたしが犯人だなんて言ってないでしょ。",
+        "kr": "문구 두는 곳에서 면도칼 가져간 놈 찾았어? 아직? 유감이네. 그래도 네가 말한 것처럼 사람은 반짝거리는 것에 끌리니까. 마트베이의 학습장에 쓰여 있었는데, 목걸이 하나를 위해 사람을 써서 강도짓을 시키는 귀족도 있다고…… 아니, 내가 범인이라고는 안 했거든.",
+        "cn": "从文具架上偷拿刀片的人找到了吗？真遗憾。不过你说得对，人就是会被亮闪闪的东西吸引，我在马特维的读书笔记里看到过，有些贵族甚至会为一条项链而买凶抢劫——不，我可没说是我干的。"
+      },
+      "asset": "char_4224_turdus/CN_007"
+    },
+    {
+      "id": "char_4224_turdus_CN_008",
+      "title": {
+        "en": "Talk after Trust Increase 2",
+        "jp": "信頼上昇後会話2",
+        "kr": "신뢰도 상승 후 대화 2",
+        "cn": "信赖提升后交谈2"
+      },
+      "text": {
+        "en": "Biscuits and tea—are you trying to bribe me? You want me to make up with someone? Who? Her? You're not getting it, I don't <i>hate</i> Rosalind, but you know she almost beat Antosha into slug paste? No, I'm not making that up. Also, if you really want to bribe me, trade me razors, sewing pins, or moth specimens.",
+        "jp": "クッキーとホットティーなんて持って来て、あたしを買収でもするつもり？仲直りしてほしいって、誰と？なんか勘違いしてない？ロザリンのことは嫌いじゃないけど、あいつったらアントーシャをオリジムシのミンチみたいに叩きのめすとこだったから、それでちょっとね。いやいや、全然盛ってないって。あと、あたしを買収したいなら、カミソリの刃とか虫ピンとか、蛾の標本とかにしなさい。",
+        "kr": "쿠키랑 뜨거운 차 같은 걸 가져와서, 날 매수라도 할 생각? 화해했으면 한다니, 누구랑? 뭐 착각한 거 아냐? 로잘린드가 싫은 건 아닌데, 걔가 안토샤를 원석충 다진 고기처럼 뭉개버릴 뻔했으니까, 그게 좀. 아니아니, 진짜 과장한 거 아니라구. 그리고, 날 매수하고 싶으면 면도칼이나 곤충핀, 나방 표본 같은 걸로 해.",
+        "cn": "饼干和热茶——你想收买我？调解关系，和谁？你误会了，我并不讨厌罗莎琳，但是她差点把安托沙揍成一摊源石虫胶，不，我没夸张。另外，你要是真想收买我，不如用刀片、大头针或者飞蛾标本。"
+      },
+      "asset": "char_4224_turdus/CN_008"
+    },
+    {
+      "id": "char_4224_turdus_CN_009",
+      "title": {
+        "en": "Talk after Trust Increase 3",
+        "jp": "信頼上昇後会話3",
+        "kr": "신뢰도 상승 후 대화 3",
+        "cn": "信赖提升后交谈3"
+      },
+      "text": {
+        "en": "The book Matvey gave me? No, it's nothing heavy, it's just things he and Antosha went through. I'm a very slow reader, or well, to be honest, I'm just not very willing to read it. I know what you're about to ask. Yes, I miss them, and I always will. And I wish he could be reading it to me.",
+        "jp": "マトヴェイからもらったノート？ううん、説教臭いことは書いてないよ。マトヴェイとアントーシャの体験談がちょこっと書いてあるだけ。あたしは読むの遅いし……というか、あんまり読み進めたくないのかもね。聞きたいことくらいわかるよ。そう、これを読むと本人に会いたくなっちゃうの。きっと、いつまで経ってもね。文字で読むより、マトヴェイの口から直接聞きたかったなぁって。",
+        "kr": "마트베이한테 받은 노트? 아니, 설교 같은 건 안 쓰여있어. 마트베이랑 안토샤의 경험담만 조금 쓰여 있을 뿐이야. 난 읽는 게 느려서…… 라기보다는, 별로 안 읽고 싶은 걸지도 모르겠네. 묻고 싶은 게 뭔지는 알아. 그래. 이걸 읽으면 본인을 만나고 싶어져. 분명, 아무리 시간이 지나도 말이야. 글로 읽는 것보다, 마트베이 입으로 직접 듣고 싶었는데, 하고.",
+        "cn": "马特维给我的书？不，里面没写什么大道理，只有一些他和安托沙经历过的事。我读得很慢，或者说我其实不太情愿去读。我知道你想问什么，没错，我会想他们，一直会。我还是更想听他亲口讲。"
+      },
+      "asset": "char_4224_turdus/CN_009"
+    },
+    {
+      "id": "char_4224_turdus_CN_010",
+      "title": {
+        "en": "Idle",
+        "jp": "放置",
+        "kr": "방치",
+        "cn": "闲置"
+      },
+      "text": {
+        "en": "<i>Aj-aj-aj,</i> I didn't mean to scare you, I've been standing here watching you for ages—yeah, since the moment you fell asleep, something wrong with that?",
+        "jp": "あらら、驚かすつもりはなかったの。ずっとここで観察してただけ――あんたが眠り始めた時からだけど、どうかした？",
+        "kr": "어라라, 놀래킬 생각은 없었어. 여기서 계속 관찰하고 있었을 뿐…… 네가 잠들기 시작했을 때부터인데, 왜?",
+        "cn": "哎呀呀，不是故意要吓你的，我已经站在这里观察你很久了——从你刚睡着的时候开始的，怎么了？"
+      },
+      "asset": "char_4224_turdus/CN_010"
+    },
+    {
+      "id": "char_4224_turdus_CN_011",
+      "title": {
+        "en": "Onboard",
+        "jp": "入職会話",
+        "kr": "오퍼레이터 입사",
+        "cn": "干员报到"
+      },
+      "text": {
+        "en": "You, you're Sonya's boss? Just call me Ukusik. Sonya says you're the real deal, but you don't look like the type who could beat her. Relax, no worries, I'll help if you find yourself in a fight—Is something funny?",
+        "jp": "あんたがうちのボス――ソニアのボス？あたしのことはウクシクって呼んで。ソニアからは「スゲェ奴だ」って聞いてたけど、どう見てもあの人に勝てる腕っ節があるようには見えない。まあいいや。心配しなくても、喧嘩になったらあたしが助けてあげるから――なに笑ってんの？",
+        "kr": "네가 우리 소냐 보스의 보스? 난 우쿠시크라고 부르면 돼. 소냐한테는 “엄청난 놈이다”라고 들었는데, 아무리 봐도 그 사람을 이길만한 완력이 있어 보이진 않는걸. 뭐 됐어. 걱정 안 해도, 싸움 나면 내가 도와줄 테니까…… 왜 웃는 거야?",
+        "cn": "你就是索尼娅老大的老大？叫我乌啾就行。索尼娅说你很厉害，不过你看着不像是能打过她的样子。行吧，别担心，真打起来我会帮你的——你笑什么？"
+      },
+      "asset": "char_4224_turdus/CN_011"
+    },
+    {
+      "id": "char_4224_turdus_CN_012",
+      "title": {
+        "en": "Watching Battle Record",
+        "jp": "経験値上昇",
+        "kr": "작전기록 학습",
+        "cn": "观看作战记录"
+      },
+      "text": {
+        "en": "What shop <i>sold</i> this to you? I've never seen a movie look so clear, and there's no weird watermark either… What, this isn't a pirated version? And it's not a movie?!",
+        "jp": "これってどこの通りで仕入れた映画のビデオ？画質もくっきりしてるし、変な透かしもないし……どういうこと？コピー品じゃない？というか映画ですらないの！？",
+        "kr": "이건 어느 거리에서 구해온 영화 비디오야? 화질도 선명하고, 이상한 워터마크도 없고…… 무슨 말? 불법복제품이 아니야? 애초에 영화도 아니라고?!",
+        "cn": "你这东西在哪个街口买的，电影画面这么清晰，也没有奇怪的水印……什么意思，这不是盗版的？也不是电影？！"
+      },
+      "asset": "char_4224_turdus/CN_012"
+    },
+    {
+      "id": "char_4224_turdus_CN_013",
+      "title": {
+        "en": "Promotion 1",
+        "jp": "昇進Ⅰ",
+        "kr": "1차 정예화 (승진)",
+        "cn": "精英化晋升1"
+      },
+      "text": {
+        "en": "Is this for me? The design's so old-looking. Are you sure you got the right one—ohhh, it's a promotion medal, okay, thank you then. A speech? Uh, alright, 'keep at it'. Maybe you can get me a prettier one next time.",
+        "jp": "これ、あたしに？なんか古くさいデザインだけど、別のと間違えてない？なーんだ、昇進のメダルだったんだ。はいはい、ありがと。何か一言？えーっと、じゃあ「日々精進」ってことで。次はもっとキラキラしたのをもらえるように頑張らないとね。",
+        "kr": "이걸 나한테? 뭔가 좀 낡은 디자인인데, 다른 거랑 헷갈린 거 아냐? 뭐야, 승진 훈장이었나. 응응, 고마워. 소감 한 마디? 으음, 그러면 '나날이 정진'으로. 다음엔 더 반짝반짝한 걸 줄 수 있게 힘내야겠네.",
+        "cn": "这是给我的？款式这么老气，你确定没有拿错吗——哦，原来是晋升勋章，好吧，谢谢你。感言？呃，那么就“继续努力”吧，争取下次送我块更漂亮的。"
+      },
+      "asset": "char_4224_turdus/CN_013"
+    },
+    {
+      "id": "char_4224_turdus_CN_014",
+      "title": {
+        "en": "Promotion 2",
+        "jp": "昇進Ⅱ",
+        "kr": "2차 정예화 (승진)",
+        "cn": "精英化晋升2"
+      },
+      "text": {
+        "en": "Another medal? I approve. Now all that's missing for a perfect day is a spell of rain. Check the weather forecast? *sigh* This newspaper is a costume prop. Are you really asking about Grypherburg's weather from eight years ago?",
+        "jp": "またメダル？いいじゃない、ついでにひと雨降ってくれれば完璧な一日になりそう。天気予報を見ればって？あのね、あたしの新聞紙はただの変装用アイテム。八年前のサンクト・グリファーブルクの天気なんて知ってどうするの？",
+        "kr": "또 훈장이야? 좋네. 추가로 비 한 번만 오면 완벽한 하루가 될 것 같아. 일기예보를 보라구? 저기, 내 신문은 그냥 변장용 아이템이야. 8년 전 디에티 그라이퍼부르크의 날씨를 알아서 뭐하게?",
+        "cn": "又给我一块勋章？真不错，要是再下一场雨，今天就完美了。看看天气预报？唉，我手上的报纸只是伪装用的道具，你真想知道八年前的圣骏堡是什么天气吗？"
+      },
+      "asset": "char_4224_turdus/CN_014"
+    },
+    {
+      "id": "char_4224_turdus_CN_017",
+      "title": {
+        "en": "Added to Squad",
+        "jp": "編成",
+        "kr": "팀 배치",
+        "cn": "编入队伍"
+      },
+      "text": {
+        "en": "*hiss*—Nobody warned me there'd be this many people.",
+        "jp": "スゥ――こんなに人がいるなんて、誰も教えてくれなかったんだけど。",
+        "kr": "스읍…… 이렇게 사람이 많다고는 아무도 안 알려줬는데.",
+        "cn": "嘶——来之前也没人提醒我会有这么多人。"
+      },
+      "asset": "char_4224_turdus/CN_017"
+    },
+    {
+      "id": "char_4224_turdus_CN_018",
+      "title": {
+        "en": "Appointed as Squad Leader",
+        "jp": "隊長任命",
+        "kr": "팀장 임명",
+        "cn": "任命队长"
+      },
+      "text": {
+        "en": "Stop staring at me. All of you can just go do your thing.",
+        "jp": "あたしには注目しなくていいから、みんな自分の仕事をしなさい。",
+        "kr": "나한테 주목 안 해도 되니까, 다들 자기 일이나 해.",
+        "cn": "不用盯着我看，自己做自己的事吧。"
+      },
+      "asset": "char_4224_turdus/CN_018"
+    },
+    {
+      "id": "char_4224_turdus_CN_019",
+      "title": {
+        "en": "Depart",
+        "jp": "作戦準備",
+        "kr": "작전 출발",
+        "cn": "行动出发"
+      },
+      "text": {
+        "en": "There'll always be people who need to tear down others' feelings, and there'll always be a need for someone to heal those wounded spirits—everyone here's made sacrifices, haven't they? Don't worry, I'll heal them up.",
+        "jp": "あえて人を傷つける汚れ役も、それで傷付いた心を癒やしてあげる人も必要で――みんな何かしらを犠牲にして生きてる。そうでしょ？大丈夫、あたしがちゃんとみんなを癒やしてあげるから。",
+        "kr": "일부러 상처 주는 나쁜 역할도, 거기에 상처 입은 마음을 치유해 줄 사람도 필요해…… 다들 무언가를 희생하면서 살고 있어. 그렇지? 괜찮아. 내가 제대로 모두를 치료해 줄 거니까.",
+        "cn": "总有人得狠心去伤害别人的感情，也总得有人来疗愈那些受伤的心灵——看来大家都有所牺牲，对吧？放心，我会好好治疗他们的。"
+      },
+      "asset": "char_4224_turdus/CN_019"
+    },
+    {
+      "id": "char_4224_turdus_CN_020",
+      "title": {
+        "en": "Begin Operation",
+        "jp": "戦闘開始",
+        "kr": "작전 개시",
+        "cn": "行动开始"
+      },
+      "text": {
+        "en": "Shh—keep it down. Enemy movements? Don't ask me, I just wanted quiet.",
+        "jp": "シーッ――静かに。敵の気配？そんなの知らない。ただ静かにしててほしいだけだから。",
+        "kr": "쉿…… 조용히. 적의 기척? 그런 건 몰라. 그냥 조용히 있어줬으면 해서.",
+        "cn": "嘘——小声点。敌人的动静？我不知道呀，我只是想安静会儿。"
+      },
+      "asset": "char_4224_turdus/CN_020"
+    },
+    {
+      "id": "char_4224_turdus_CN_021",
+      "title": {
+        "en": "Selecting Operator 1",
+        "jp": "選択時1",
+        "kr": "오퍼레이터 선택 1",
+        "cn": "选中干员1"
+      },
+      "text": {
+        "en": "This'll do. Quit hesitating.",
+        "jp": "これでいいでしょ。ぐずぐずしないで。",
+        "kr": "이러면 되잖아. 꾸물거리지 마.",
+        "cn": "就这样吧，别犹豫了。"
+      },
+      "asset": "char_4224_turdus/CN_021"
+    },
+    {
+      "id": "char_4224_turdus_CN_022",
+      "title": {
+        "en": "Selecting Operator 2",
+        "jp": "選択時2",
+        "kr": "오퍼레이터 선택 2",
+        "cn": "选中干员2"
+      },
+      "text": {
+        "en": "You're the boss. You make the calls.",
+        "jp": "ボスはあんたでしょ、言われたらやる。",
+        "kr": "보스는 너잖아. 시키는 대로 할게.",
+        "cn": "你才是老大，听你的。"
+      },
+      "asset": "char_4224_turdus/CN_022"
+    },
+    {
+      "id": "char_4224_turdus_CN_023",
+      "title": {
+        "en": "Deployment 1",
+        "jp": "配置1",
+        "kr": "배치 1",
+        "cn": "部署1"
+      },
+      "text": {
+        "en": "Ayyyye-aye.",
+        "jp": "りょーかい。",
+        "kr": "네~에.",
+        "cn": "遵——命。"
+      },
+      "asset": "char_4224_turdus/CN_023"
+    },
+    {
+      "id": "char_4224_turdus_CN_024",
+      "title": {
+        "en": "Deployment 2",
+        "jp": "配置2",
+        "kr": "배치 2",
+        "cn": "部署2"
+      },
+      "text": {
+        "en": "Surrrrre thing.",
+        "jp": "とーぜん。",
+        "kr": "당연하지.",
+        "cn": "当——然。"
+      },
+      "asset": "char_4224_turdus/CN_024"
+    },
+    {
+      "id": "char_4224_turdus_CN_025",
+      "title": {
+        "en": "In Battle 1",
+        "jp": "作戦中1",
+        "kr": "작전 중 1",
+        "cn": "作战中1"
+      },
+      "text": {
+        "en": "I know you can handle the pain, but try this now—isn't that better?",
+        "jp": "痛いのがへっちゃらでも、これは試してみるよ――ほら、だいぶ楽になったでしょ？",
+        "kr": "아파도 끄떡 없더라도, 이건 써봐…… 자, 꽤 편해졌지?",
+        "cn": "知道你不怕疼，但还是试试这个吧——是不是好多了？"
+      },
+      "asset": "char_4224_turdus/CN_025"
+    },
+    {
+      "id": "char_4224_turdus_CN_026",
+      "title": {
+        "en": "In Battle 2",
+        "jp": "作戦中2",
+        "kr": "작전 중 2",
+        "cn": "作战中2"
+      },
+      "text": {
+        "en": "Hey! No hitting my patients! What? They're not ours?",
+        "jp": "ちょっと！あたしの患者に手出さないで！えっ？あいつ味方じゃないの？",
+        "kr": "잠깐! 내 환자한테 손 대지 마! 응? 쟤 우리 편 아냐?",
+        "cn": "喂！不许殴打我的病人！什么？那家伙不是我们这边的？"
+      },
+      "asset": "char_4224_turdus/CN_026"
+    },
+    {
+      "id": "char_4224_turdus_CN_027",
+      "title": {
+        "en": "In Battle 3",
+        "jp": "作戦中3",
+        "kr": "작전 중 3",
+        "cn": "作战中3"
+      },
+      "text": {
+        "en": "Yeah, sock 'em! I've got you, go for it!",
+        "jp": "そうそう、その調子！ビビらなくていいよ。あたしがついてる！",
+        "kr": "그래그래, 그 기세로! 쫄지마. 내가 있으니까!",
+        "cn": "对，就这么打！别怕，有我在呢！"
+      },
+      "asset": "char_4224_turdus/CN_027"
+    },
+    {
+      "id": "char_4224_turdus_CN_028",
+      "title": {
+        "en": "In Battle 4",
+        "jp": "作戦中4",
+        "kr": "작전 중 4",
+        "cn": "作战中4"
+      },
+      "text": {
+        "en": "I'll stitch your wounds up. Relax, I can sew you nice and pretty.",
+        "jp": "傷口縫ってあげる。大丈夫、絶対キレイに仕上げるから。",
+        "kr": "상처 꿰매 줄게. 괜찮아, 꼭 깔끔하게 마무리해 줄 테니까.",
+        "cn": "我来缝合伤口，放心，肯定会缝得很漂亮的。"
+      },
+      "asset": "char_4224_turdus/CN_028"
+    },
+    {
+      "id": "char_4224_turdus_CN_029",
+      "title": {
+        "en": "4-star Result",
+        "jp": "高難度作戦クリア",
+        "kr": "고난이도 작전 종료",
+        "cn": "完成高难行动"
+      },
+      "text": {
+        "en": "Now this calls for a pat on the back, boss.",
+        "jp": "今回はガチで胸張っていいと思うよ、ボス。",
+        "kr": "이번엔 진짜 뿌듯해해도 될 것 같아, 보스.",
+        "cn": "这次真的值得夸一夸自己哦，老大。"
+      },
+      "asset": "char_4224_turdus/CN_029"
+    },
+    {
+      "id": "char_4224_turdus_CN_030",
+      "title": {
+        "en": "3-star Result",
+        "jp": "★3で戦闘終了",
+        "kr": "3★ 작전 종료",
+        "cn": "3星结束行动"
+      },
+      "text": {
+        "en": "Why do you look antsy? I SAID I was going to help you!",
+        "jp": "そんな余裕なさそうな顔しちゃってさ。喧嘩になったら助けてあげるって言ったでしょ！",
+        "kr": "그렇게 여유 없어 보이는 얼굴이나 하고 말이야. 싸움 나면 도와준다고 했잖아!",
+        "cn": "瞧你紧张的样子，我都说了我会帮你的！"
+      },
+      "asset": "char_4224_turdus/CN_030"
+    },
+    {
+      "id": "char_4224_turdus_CN_031",
+      "title": {
+        "en": "Sub 3-star Result",
+        "jp": "★2以下戦闘終了",
+        "kr": "비 3★ 작전 종료",
+        "cn": "非3星结束行动"
+      },
+      "text": {
+        "en": "What are you looking at me for? You want to hear my opinion, or no? Hmph. Who knows, I could've said you did a pretty good job.",
+        "jp": "なにジロジロ見てるの？あたしの感想が聞きたい？やっぱりやめとく？あーあ、褒めるつもりだったかもしれないのに？",
+        "kr": "뭘 빤히 쳐다보는 거야? 내 감상이 듣고 싶어? 역시 됐다고? 아아, 칭찬해 줄 생각이었을지도 모르는데?",
+        "cn": "看我做什么？想听听我的评价吗，还是算了？啧，万一我打算夸夸你呢？"
+      },
+      "asset": "char_4224_turdus/CN_031"
+    },
+    {
+      "id": "char_4224_turdus_CN_032",
+      "title": {
+        "en": "Operation Failure",
+        "jp": "作戦失敗",
+        "kr": "작전 실패",
+        "cn": "行动失败"
+      },
+      "text": {
+        "en": "I smell danger—did someone spray perfume? No? Then we've got enemies on our tail, so let's move it.",
+        "jp": "危険なにおいがする――誰か香水でもつけた？そうじゃないなら、敵が追いついてきたってこと。早く逃げるよ。",
+        "kr": "위험한 냄새가 나…… 누가 향수라도 뿌렸어? 그게 아니라면 적이 쫓아왔다는 거야. 빨리 도망가자.",
+        "cn": "我闻到了危险的气息——是谁喷香水了吗？没有的话，应该就是敌人要追上来了，快跑吧。"
+      },
+      "asset": "char_4224_turdus/CN_032"
+    },
+    {
+      "id": "char_4224_turdus_CN_033",
+      "title": {
+        "en": "Assigned to Facility",
+        "jp": "基地配属",
+        "kr": "시설에 배치",
+        "cn": "进驻设施"
+      },
+      "text": {
+        "en": "Too bright! I need a cubby-hole with no light on it… That's how I like it, got a problem?",
+        "jp": "眩しすぎる。灯りが届かない隅っこがいいんだけど……あたしはそれがいいの、悪い？",
+        "kr": "너무 눈부셔. 빛이 안 닿는 구석이 좋은데…… 난 그게 좋거든. 왜, 문제 있어?",
+        "cn": "太亮了，我需要一个灯光照不到的角落……我就喜欢，怎么了？"
+      },
+      "asset": "char_4224_turdus/CN_033"
+    },
+    {
+      "id": "char_4224_turdus_CN_034",
+      "title": {
+        "en": "Tap",
+        "jp": "タッチ1",
+        "kr": "터치",
+        "cn": "戳一下"
+      },
+      "text": {
+        "en": "Have you washed your hands? I'm not being difficult, I just finished organizing my collection, you know. And you should probably go wash them again in a moment.",
+        "jp": "手は洗った？汚いって言いたいわけじゃなくて。あたしさっきまでコレクションを整理してたから、念のため手を洗った方が身のためってこと。",
+        "kr": "손은 씻었어? 더럽다는 건 아니고. 나 조금 전까지 컬렉션을 정리하고 있었으니까, 만약을 위해서, 손을 씻는 게 좋을 거라는 얘기야.",
+        "cn": "你洗过手了吗？不是嫌弃你，只是我刚整理完我的收藏，安全起见，你等会儿最好还是再洗一遍。"
+      },
+      "asset": "char_4224_turdus/CN_034"
+    },
+    {
+      "id": "char_4224_turdus_CN_036",
+      "title": {
+        "en": "Trust Tap",
+        "jp": "信頼タッチ",
+        "kr": "신뢰도 터치",
+        "cn": "信赖触摸"
+      },
+      "text": {
+        "en": "No comment. Yeah, you didn't ask yet, but that doesn't affect my answer… Oh, fine, you look like you're dying to ask, just ask—no, seriously, what were you going to ask? Tell me!",
+        "jp": "ノーコメント。うん、まだ何も聞かれてないけど、あたしの答えは決まってるから……あーもう、聞くだけ聞いたらいいじゃない。なにキョトンとしてるの――で、結局何を聞くつもりだったの？早く言いなさいよ！",
+        "kr": "노 코멘트. 응. 아직 아무것도 안 물어봤지만, 내 대답은 정해져 있으니까…… 아 진짜, 그냥 물어보면 되잖아. 뭘 멀뚱거리고 있어…… 그래서, 결국 뭘 물어보려고 했던 건데? 빨리 말해!",
+        "cn": "无可奉告。是的，你还没问，但不影响我的回答……哎呀，问吧问吧，瞧你那表情——说真的，你本来打算跟我说什么？快告诉我！"
+      },
+      "asset": "char_4224_turdus/CN_036"
+    },
+    {
+      "id": "char_4224_turdus_CN_037",
+      "title": {
+        "en": "Title",
+        "jp": "タイトルコール",
+        "kr": "타이틀",
+        "cn": "标题"
+      },
+      "text": {
+        "en": "Arknights.",
+        "jp": "アークナイツ。",
+        "kr": "명일방주.",
+        "cn": "明日方舟。"
+      },
+      "asset": "char_4224_turdus/CN_037"
+    },
+    {
+      "id": "char_4224_turdus_CN_038",
+      "title": {
+        "en": "New Year's blessing",
+        "jp": "新年",
+        "kr": "새해",
+        "cn": "新年祝福"
+      },
+      "text": {
+        "en": "I'm not a fan of kholodets or pirozhki on New Year's, but I do like the tradition where you write your wish on a piece of paper and burn it. I used to write 'somewhere to live', and then I met Antosha. Then I changed it to 'a full belly', and now I'm here. What do I write these days? I'm not telling you!",
+        "jp": "ウルサスの年越しで出てくる煮こごりとかパイは嫌いだったけど、紙切れに願い事を書いて燃やす習慣はけっこう好き。昔「住む場所が欲しい」って書き続けてたら、アントーシャと出会えたんだ。それから「いつでもお腹いっぱい食べたい」って書くようにしたら、ここに来ることになったの。今の願い事？――秘密！",
+        "kr": "우르수스의 연말연시에 나오는 고기 젤리나 파이는 싫어했지만, 종잇조각에 소원을 적어서 태우는 관습은 꽤 좋아해. 예전에 “살 곳이 필요하다”라고 계속 적었더니, 안토샤랑 만났거든. 그 뒤론 “언제든 배부르게 먹고 싶어”라고 적으니까, 여기로 오게 됐어. 지금 소원? ……비~밀!",
+        "cn": "我不喜欢新年肉冻和馅饼，但我倒是挺喜欢在小纸条上写下愿望再烧掉的传统。以往我都写“有地方住”，然后就认识了安托沙。后来我改成“能吃饱肚子”，就来了这里。现在嘛——不告诉你！"
+      },
+      "asset": "char_4224_turdus/CN_038"
+    },
+    {
+      "id": "char_4224_turdus_CN_042",
+      "title": {
+        "en": "Greeting",
+        "jp": "挨拶",
+        "kr": "인사",
+        "cn": "问候"
+      },
+      "text": {
+        "en": "This is strange, I <i>feel</i> like someone's staring at me… Oh, just in time! Look, can you check if something's weird with your desk humidifier? Nothing? No way, no way, my intuition's always correct!",
+        "jp": "おかしい、ずっと誰かの視線を感じる……あっ、ちょうどいいところに来た。ねぇ、デスクの加湿器に違和感ない？普通？そんなはずないでしょ、あたしの直感は鋭いんだから！",
+        "kr": "이상해, 계속 누군가의 시선이 느껴져…… 앗, 딱 좋을 때 왔네. 저기, 책상에 있는 가습기 좀 이상하지 않아? 멀쩡하다고? 그럴 리가 없는데. 내 직감은 날카롭다고!",
+        "cn": "奇怪，总有一种被人盯着的感觉……你来得正好，快看看你桌上的加湿器是不是有点古怪？没有？不可能不可能，我的直觉一向很准的！"
+      },
+      "asset": "char_4224_turdus/CN_042"
+    },
+    {
+      "id": "char_4224_turdus_CN_043",
+      "title": {
+        "en": "Birthday",
+        "jp": "誕生日",
+        "kr": "생일",
+        "cn": "生日"
+      },
+      "text": {
+        "en": "*sigh* You found me. I was <i>trying</i> to leave this here before you got to the office. Here, it's a rag doll, I sewed it to look like you. Isn't it cute? I know you're looking out for me all the time, so happy birthday! What do you mean you're not used to me talking this way? Hey! Explain that to me!",
+        "jp": "うわっ、見つかっちゃった。あんたが執務室に来る前にこっそり置いておこうと思ったのに。はい、あんたそっくりに作ったぬいぐるみ。可愛いでしょ？普段お世話になってるお返しということで、お誕生日おめでとう！らしくないからムズムズするって？ちょっと！どういうことか説明して！",
+        "kr": "우왓, 들켜버렸다. 네가 집무실에 오기 전에 몰래 두려고 했는데. 자, 너랑 똑같이 만든 인형. 귀엽지? 평소에 신세 지고 있는 보답인 걸로 하구, 생일 축하해! 나답지 않아서 간지럽다고? 잠깐! 무슨 말인지 설명해!",
+        "cn": "欸，被你发现了。本来想趁你到办公室之前偷偷放在这里的。给，我照着你的样子缝的布娃娃，可爱吧？毕竟你平时也挺照顾我的，祝你生日快乐！什么叫不习惯我这样说话？喂！你跟我讲清楚！"
+      },
+      "asset": "char_4224_turdus/CN_043"
+    },
+    {
+      "id": "char_4224_turdus_CN_044",
+      "title": {
+        "en": "Anniversary Celebration",
+        "jp": "周年",
+        "kr": "애니버서리",
+        "cn": "周年庆典"
+      },
+      "text": {
+        "en": "'Path'. That's a word Antosha kept teaching to me. He wanted to explain the meaning inside of it, but Matvey would never let him—he always said just being told it wouldn't help you understand it. You have to see it and walk it for yourself. Doctor, I've seen a lot on Rhodes Island, and I want to keep walking a long way still.",
+        "jp": "「道」って言葉について、アントーシャから何度も教わった。深い意味まで説明してくれたけど、いつもマトヴェイが「教わるだけでは理解できない。自分の目で見て、自分の足で確かめるべきだ」って横やりを入れてたなぁ。ドクター、あたしはロドスでたくさんの「道」を見てきたけど、もっともっと遠くまで歩んでいきたいの。",
+        "kr": "'길'이라는 말에 대해서, 안토샤가 몇 번이고 가르쳐줬어. 깊은 의미까지도 설명해 줬는데, 마트베이는 항상 “배우는 것만으로는 이해할 수 없어. 자신의 눈으로 보고, 자신의 발로 확인해야 해”라면서 끼어들었지. 박사, 나는 로도스 아일랜드에서 수많은 '길'을 봐왔지만, 더더욱 멀리까지 걸어가보고 싶어.",
+        "cn": "“道路”，这个词安托沙教过我很多次，想跟我说清楚它的含义，但马特维总会阻止他，说光听别人讲是没法明白的，最好还是自己去看，自己去走。博士，我在罗德岛上看了许多，我还想走更远。"
+      },
+      "asset": "char_4224_turdus/CN_044"
+    }
+  ],
+  "actors": {
+    "en": {
+      "native": "Vasilisa Eldarova",
+      "global": "Vasilisa Eldarova"
+    },
+    "cn": {
+      "native": "施丛昊",
+      "global": "Chloe"
+    },
+    "jp": {
+      "native": "寺澤百花",
+      "global": "Momoka Terasawa"
+    },
+    "kr": {
+      "native": "김순미",
+      "global": "Kim Soon-mi"
+    },
+    "ru": {
+      "native": "Vasilisa Eldarova",
+      "global": "Vasilisa Eldarova"
+    }
+  },
+  "availability": [
+    "en",
+    "cn",
+    "jp",
+    "kr",
+    "ru"
+  ]
+}

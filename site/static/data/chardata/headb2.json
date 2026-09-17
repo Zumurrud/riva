@@ -1,0 +1,649 @@
+{
+  "charid": "char_1051_headb2",
+  "nameid": "headb2",
+  "names": {
+    "en": "Zima the Raging Tide",
+    "jp": "怒潮ズィマー",
+    "kr": "지마 더 레이징 타이드",
+    "cn": "怒潮凛冬"
+  },
+  "voices": [
+    {
+      "id": "char_1051_headb2_CN_001",
+      "title": {
+        "en": "Appointed as Assistant",
+        "jp": "秘書任命",
+        "kr": "어시스턴트 임명",
+        "cn": "任命助理"
+      },
+      "text": {
+        "en": "You <i>do</i> know this isn't my kind of work… right?",
+        "jp": "こういう仕事はアタシに向いてねぇ……だよな？",
+        "kr": "이런 일은 나랑 안 맞아…… 그렇지?",
+        "cn": "你知道这不是最适合我的工作……对吧？"
+      },
+      "asset": "char_1051_headb2/CN_001"
+    },
+    {
+      "id": "char_1051_headb2_CN_002",
+      "title": {
+        "en": "Talk 1",
+        "jp": "会話1",
+        "kr": "대화 1",
+        "cn": "交谈1"
+      },
+      "text": {
+        "en": "I didn't think something this big would happen to Rhodes Island while I was away. You still hanging in there—Oh? Sounds like you never forget how I said I'd replace you. You need to keep working twice as hard, then, because I didn't forget either.",
+        "jp": "アタシがいない間に、ロドスがあんな大ごとになってるなんてな。オマエ、まだやれんのかよ――へぇ？オマエの座をぶん取ってやるって言ったこと、覚えてたのか。だったら、しっかりやれよ。なんせ、アタシはその目標を忘れたことなんてねぇからな。",
+        "kr": "나 없는 사이에 로도스 아일랜드에 그렇게 큰일이 났다니. 너, 아직 할 수 있는 거냐…… 호오? 네 자리를 뺏어버리겠다고 한 거, 기억하고 있었냐. 그럼 제대로 하라고. 어쨌든, 난 그 목표를 잊은 적이 없으니까.",
+        "cn": "没想到我不在的时候罗德岛出了那么大的变故，你还撑得住吗——哦？原来你记得我一直想取代你，那你得好好干了，毕竟，我可从来没忘记过这个目标。"
+      },
+      "asset": "char_1051_headb2/CN_002"
+    },
+    {
+      "id": "char_1051_headb2_CN_003",
+      "title": {
+        "en": "Talk 2",
+        "jp": "会話2",
+        "kr": "대화 2",
+        "cn": "交谈2"
+      },
+      "text": {
+        "en": "Medical decided we weren't ready when we first showed up, but this time, I brought everyone back without a scratch, and the Ursine office is all set up. I wasn't so optimistic myself, you say? Look, the job's done, so why <i>can't</i> I be a little happier now?",
+        "jp": "あの当時、医療部はアタシたちが万全の状態じゃないって評価を出してきた。でも今じゃこの通り、全員五体満足で連れ帰ったし、ウルサス事務所だって立ち上げられただろ。あの時はアタシもビビってたって？うまくいったんだから、少しくらい良い気分にさせてくれてもいいじゃねぇか。",
+        "kr": "그 당시 의료부는 우리 상태가 온전치 않다는 평가를 내렸지. 하지만 지금은 보다시피, 애들 다 사지 멀쩡하게 데려왔고, 우르수스 사무소도 세웠잖아. 그때는 나도 쫄아 있었다고? 어쨌든 잘 됐으니까, 좀 기분 좋게 해줘도 되잖아.",
+        "cn": "当初医疗部评估我们还没准备好，可现在，人都让我全须全尾地带回来了，乌萨斯的办事处也建上了。你说我自己那时候也不怎么乐观？事情办成了，还不能多高兴一会儿？"
+      },
+      "asset": "char_1051_headb2/CN_003"
+    },
+    {
+      "id": "char_1051_headb2_CN_004",
+      "title": {
+        "en": "Talk 3",
+        "jp": "会話3",
+        "kr": "대화 3",
+        "cn": "交谈3"
+      },
+      "text": {
+        "en": "Istina gave me a new list of books to read. She says if you want to unite more people, you need to learn lots of different things, and she's right. You're just about to head to the library? Then you tell the librarian I'm still reading those dozen or so books I borrowed last time. It's slow-going, but I <i>will</i> return them before the due date.",
+        "jp": "最近、イースチナに新しい読書リストを作ってもらったんだ。アイツの言う通り、もっと大勢の奴らをまとめ上げるには、色んな分野の知識が必要だからな。ん、オマエ図書室に行くところなのか？じゃあついでに、司書に伝えてくれ。前に借りた十何冊はじっくり読みたいから、返却日に遅れてもつべこべ言うなってな。間に合わせる努力はする。",
+        "kr": "최근에 이스티나한테 새로운 독서 목록을 만들어 달라고 했어. 걔 말대로, 더 많은 녀석들을 하나로 묶으려면 여러 분야의 지식이 필요하니까. 어, 너 도서실 가는 길이냐? 그럼 가는 김에 사서한테 전해줘. 전에 빌린 책 열 몇 권인가는 꼼꼼히 읽고 싶으니까, 반납이 늦어져도 이러쿵저러쿵 잔소리하지 말라고. 뭐, 맞추려고 노력은 할게.",
+        "cn": "最近找真理开了新的书单，她说得没错，要想团结更多人，就得学点不一样的知识。你正好要去一趟图书馆？那顺便帮我告诉图书管理员，上次借的十几本书我要慢慢看，交还嘛，尽量赶在期限之内。"
+      },
+      "asset": "char_1051_headb2/CN_004"
+    },
+    {
+      "id": "char_1051_headb2_CN_005",
+      "title": {
+        "en": "Talk after Promotion 1",
+        "jp": "昇進後会話1",
+        "kr": "1차 정예화 후 대화",
+        "cn": "晋升后交谈1"
+      },
+      "text": {
+        "en": "Oh, this is my new weapon, took it off an absolute scumbag. Using power that's not even his to bully the weak… I get a lot of joy breaking the noses of bastards like him.",
+        "jp": "ああ、コイツは新調した武器だ。ろくでもねぇゲス野郎からぶん取ったんだよ。自分のもんでもねぇ力を振りかざして、弱い者イジメをするような奴は――片っ端からブチのめしてやりゃいい。",
+        "kr": "아, 이 녀석은 새로 장만한 무기야. 형편없는 쓰레기한테서 뺏어왔지. 자기 것도 아닌 힘을 휘둘러대면서 약자나 괴롭히는 놈들은, 보이는 족족 다 박살 내버리면 그만이야.",
+        "cn": "哦，这个是我新换的武器，是从一个混蛋手上夺来的。靠着不属于自己的力量欺凌他人——我不介意把这样的混蛋挨个打倒。"
+      },
+      "asset": "char_1051_headb2/CN_005"
+    },
+    {
+      "id": "char_1051_headb2_CN_006",
+      "title": {
+        "en": "Talk after Promotion 2",
+        "jp": "昇進後会話2",
+        "kr": "2차 정예화 후 대화",
+        "cn": "晋升后交谈2"
+      },
+      "text": {
+        "en": "There was a time I was gonna break up the USSG, but then I thought: it's good to have a place where everyone can relax. Hmm… Rhodes Island is kinda like that for us too.",
+        "jp": "たしかに、一時期は自治団を解散させようと考えたこともあった。でもその後、みんなが安心できる拠り所があるのも悪くないって思うようになってな……ああ、ロドスもアタシらにとっちゃ、そういう場所だよ。",
+        "kr": "뭐 확실히, 한때는 자치단을 해산시킬까 생각한 적도 있었지. 그래도 그 뒤에는 모두가 안심할 수 있는 안식처가 있어도 나쁘지 않겠다는 생각이 들어서…… 그래, 로도스 아일랜드도 우리에겐 그런 장소야.",
+        "cn": "有段时间，我确实想过解散乌萨斯学生自治团，但后来觉得，大家能有一个放心依靠的地方也不错……嗯，罗德岛对我们来说也是这样。"
+      },
+      "asset": "char_1051_headb2/CN_006"
+    },
+    {
+      "id": "char_1051_headb2_CN_007",
+      "title": {
+        "en": "Talk after Trust Increase 1",
+        "jp": "信頼上昇後会話1",
+        "kr": "신뢰도 상승 후 대화 1",
+        "cn": "信赖提升后交谈1"
+      },
+      "text": {
+        "en": "Don't worry, we might have run into some trouble, we handled it fine. Zoya even officially joined the USSG. But Gummy has been pretty distracted lately, some <i>thing</i> with her parents, and we're all thinking of a way to help her… If you have any ideas, remember to tell us.",
+        "jp": "あんま心配すんなって。ゴタゴタはあったけど、みんな乗り越えたし、ゾーヤも正式に自治団のメンバーになってくれた。でもな、最近両親のことでグムがちょっとボーッとしがちでよ。みんなで何とかしようと頭ひねってんだが……もしなんかいい案を思いついたら教えてくれ。",
+        "kr": "너무 걱정 말라니까. 우여곡절이 있었지만 다들 잘 이겨냈고, 조야도 정식으로 자치단 멤버가 되어줬어. 그런데, 최근 부모님 일로 굼이 좀 멍하니 있을 때가 많단 말이지. 다들 어떻게든 해보려고 머리를 쥐어짜고 있긴 한데…… 뭐 좋은 생각 나면 알려줘.",
+        "cn": "别太担心，虽然遇到了点麻烦，但大家都挺过来了，卓娅也正式加入了自治团。不过因为父母的事，古米最近有些恍惚，我们都在想办法帮助她……你如果想到什么好点子，记得和我们说。"
+      },
+      "asset": "char_1051_headb2/CN_007"
+    },
+    {
+      "id": "char_1051_headb2_CN_008",
+      "title": {
+        "en": "Talk after Trust Increase 2",
+        "jp": "信頼上昇後会話2",
+        "kr": "신뢰도 상승 후 대화 2",
+        "cn": "信赖提升后交谈2"
+      },
+      "text": {
+        "en": "When did I start thinking about going back to Ursus? That place buried my parents, and it nearly buried us too. I used to hate… no, hide from it, but there was always going to be a point where you can't run anymore, and that's when I knew I had to get up and face it.",
+        "jp": "ウルサスに帰りたいって思うようになったのは、いつからだったかな。うちの両親の骨はあそこに埋まってるし、アタシらも全員そうなるところだったから、昔はずっとあの場所を憎んで……いや、あの場所から逃げてたんだ。それでも、いつかは後に退けない時ってやつが来るもんさ。立ち上がって、向き合うしかねぇって思い知らされる時がな。",
+        "kr": "우르수스로 돌아가고 싶다는 생각이 든 건 언제부터였을까. 거기엔 부모님 뼈가 묻혀 있고, 우리도 싹 다 그렇게 될 뻔했으니까, 예전엔 계속 그 장소를 증오…… 아니, 거기서 도망쳤지. 그래도 언젠가는 물러설 수 없는 때라는 게 오는 법이야. 일어나서 마주할 수밖에 없다는 걸 뼈저리게 느끼게 되는 때가 말이지.",
+        "cn": "我是从什么时候开始，想回乌萨斯的呢？那里埋葬了我的父母，也差点埋葬了我们所有人，我曾经憎恨……逃避过那个地方，但总会有一个退无可退的时刻，让我知道自己必须起身，面对它。"
+      },
+      "asset": "char_1051_headb2/CN_008"
+    },
+    {
+      "id": "char_1051_headb2_CN_009",
+      "title": {
+        "en": "Talk after Trust Increase 3",
+        "jp": "信頼上昇後会話3",
+        "kr": "신뢰도 상승 후 대화 3",
+        "cn": "信赖提升后交谈3"
+      },
+      "text": {
+        "en": "You're like Istina, always lecturing us on grand truths before doing something <i>stupid</i>. Sure, I don't really listen to you two when you talk about that stuff, but I know we've always seen eye-to-eye on what is to be done. Let the truth be as grand as it wants. It doesn't matter how high the walls they built are, we'll tear them down.",
+        "jp": "オマエもイースチナも、「バカな真似」をやる前にいちいち大義名分を並べたがるよな。御託を聞かされるのはダルいが、結局「何をやるべきか」についての意見が割れたことはねぇ。大義名分があろうとなかろうと、どのみち奴らが築いた壁なんか、アタシらがぶっ壊しちまうってことだ。",
+        "kr": "너나 이스티나나, '멍청한 짓'을 하기 전에 일일이 대의명분을 늘어놓으려고 하네. 장황한 말을 듣는 건 지루하지만, 결국 '뭘 해야 하냐'에 대해서 의견이 갈린 적은 없어. 대의명분이 있든 없든, 어차피 녀석들이 쌓아놓은 벽 따위는 우리가 다 박살 내겠다는 거다.",
+        "cn": "你和真理一样，做“蠢事”前总是会先寻找一番大道理。虽然懒得听，但我知道至少在“应该做”这件事上，我们始终是一致的。大道理就大道理吧，反正他们筑起的高墙壁垒，都会被我们砸开。"
+      },
+      "asset": "char_1051_headb2/CN_009"
+    },
+    {
+      "id": "char_1051_headb2_CN_010",
+      "title": {
+        "en": "Idle",
+        "jp": "放置",
+        "kr": "방치",
+        "cn": "闲置"
+      },
+      "text": {
+        "en": "I'm going out for a walk. If you feel like stretching your legs, come and find me.",
+        "jp": "ちょっと散歩してくる。オマエも、体動かしたくなったら出てこいよ。",
+        "kr": "잠깐 산책 갔다 온다. 너도 몸 좀 움직이고 싶으면 나와.",
+        "cn": "我出去走一会儿，你要是也想动了，可以到外面找我。"
+      },
+      "asset": "char_1051_headb2/CN_010"
+    },
+    {
+      "id": "char_1051_headb2_CN_011",
+      "title": {
+        "en": "Onboard",
+        "jp": "入職会話",
+        "kr": "오퍼레이터 입사",
+        "cn": "干员报到"
+      },
+      "text": {
+        "en": "Here's my report: the mission to set up an office in Ursus was a success… I need to actually <i>write</i> a report? What a pain…",
+        "jp": "取り急ぎ報告。ウルサスの事務所立ち上げ任務、片付けといてやったぞ……報告書も書けって？かったりいな……",
+        "kr": "일단 보고할게. 우르수스 사무소 설립 임무, 처리해 놨어…… 보고서도 쓰라고? 귀찮게……",
+        "cn": "先通报一声，在乌萨斯建立办事处的任务已经完成了……还需要我去写行动报告？麻烦……"
+      },
+      "asset": "char_1051_headb2/CN_011"
+    },
+    {
+      "id": "char_1051_headb2_CN_012",
+      "title": {
+        "en": "Watching Battle Record",
+        "jp": "経験値上昇",
+        "kr": "작전기록 학습",
+        "cn": "观看作战记录"
+      },
+      "text": {
+        "en": "When's the real fight?",
+        "jp": "で、実戦はいつなんだ？",
+        "kr": "그래서, 실전은 언젠데?",
+        "cn": "实战是什么时候？"
+      },
+      "asset": "char_1051_headb2/CN_012"
+    },
+    {
+      "id": "char_1051_headb2_CN_013",
+      "title": {
+        "en": "Promotion 1",
+        "jp": "昇進Ⅰ",
+        "kr": "1차 정예화 (승진)",
+        "cn": "精英化晋升1"
+      },
+      "text": {
+        "en": "My medals need re-issuing? It's standard procedure? Man, if Ursine nobles were half as strict as you, I'd have never gotten out of their lockdown.",
+        "jp": "メダルまで配り直すのか？規則でそう決まってるから？ウルサスの貴族がオマエらの半分でも真面目な奴だったら、アタシらはあの封鎖を突破できなかっただろうな。",
+        "kr": "훈장도 다시 주나? 규칙이 그렇게 돼 있다고? 우르수스 귀족이 너네 절반만이라도 성실한 놈들이었으면, 우리는 그 봉쇄를 돌파 못했을걸.",
+        "cn": "勋章也要重新发一遍？因为流程就是这么规定的？乌萨斯的贵族要是有你们一半严谨，恐怕我也走不出那个封锁区。"
+      },
+      "asset": "char_1051_headb2/CN_013"
+    },
+    {
+      "id": "char_1051_headb2_CN_014",
+      "title": {
+        "en": "Promotion 2",
+        "jp": "昇進Ⅱ",
+        "kr": "2차 정예화 (승진)",
+        "cn": "精英化晋升2"
+      },
+      "text": {
+        "en": "By the way, who actually makes Rhodes Island's medals? I'm thinking of getting some with the USSG's insignia on them. The first batch goes to Istina and the rest, of course, but after that… A few extra wouldn't hurt.",
+        "jp": "そういや、ロドスのメダルって誰が作ってんだ？アタシも自治団のマーク入りのやつを作りたいと思ってよ。最初にできたやつはもちろんイースチナたちに配って、後の分は……まあ、たくさん作っといて損はねぇだろ。",
+        "kr": "그러고 보니, 로도스 아일랜드의 훈장은 누가 만들어? 나도 자치단 마크가 들어간 걸 만들고 싶거든. 처음 나오는 건 당연히 이스티나나 애들 주고, 남은 건…… 뭐, 많이 만들어서 손해 볼 건 없잖아.",
+        "cn": "说起来罗德岛的勋章是谁做的？我也想弄几枚带着自治团徽记的勋章，第一批当然要发给真理她们，至于后面的嘛……多储备一点也没坏处。"
+      },
+      "asset": "char_1051_headb2/CN_014"
+    },
+    {
+      "id": "char_1051_headb2_CN_017",
+      "title": {
+        "en": "Added to Squad",
+        "jp": "編成",
+        "kr": "팀 배치",
+        "cn": "编入队伍"
+      },
+      "text": {
+        "en": "Fighting is still the easiest option.",
+        "jp": "やっぱケンカが一番手っ取り早えな。",
+        "kr": "역시 싸움이 제일 빨라.",
+        "cn": "还是打架最简单。"
+      },
+      "asset": "char_1051_headb2/CN_017"
+    },
+    {
+      "id": "char_1051_headb2_CN_018",
+      "title": {
+        "en": "Appointed as Squad Leader",
+        "jp": "隊長任命",
+        "kr": "팀장 임명",
+        "cn": "任命队长"
+      },
+      "text": {
+        "en": "Same old, same old?",
+        "jp": "いつも通り、だな？",
+        "kr": "늘 하던 대로, 맞지?",
+        "cn": "老规矩？"
+      },
+      "asset": "char_1051_headb2/CN_018"
+    },
+    {
+      "id": "char_1051_headb2_CN_019",
+      "title": {
+        "en": "Depart",
+        "jp": "作戦準備",
+        "kr": "작전 출발",
+        "cn": "行动出发"
+      },
+      "text": {
+        "en": "C'mon, let's go already.",
+        "jp": "グズグズすんなよ。",
+        "kr": "꾸물대지 말라고.",
+        "cn": "赶紧。"
+      },
+      "asset": "char_1051_headb2/CN_019"
+    },
+    {
+      "id": "char_1051_headb2_CN_020",
+      "title": {
+        "en": "Begin Operation",
+        "jp": "戦闘開始",
+        "kr": "작전 개시",
+        "cn": "行动开始"
+      },
+      "text": {
+        "en": "Hmph, hope those scumbags are stronger than they look.",
+        "jp": "フン、見かけ倒しじゃねぇといいがな。",
+        "kr": "흥, 겉만 멀쩡한 게 아니면 좋겠네.",
+        "cn": "哼，希望对面比看上去要强。"
+      },
+      "asset": "char_1051_headb2/CN_020"
+    },
+    {
+      "id": "char_1051_headb2_CN_021",
+      "title": {
+        "en": "Selecting Operator 1",
+        "jp": "選択時1",
+        "kr": "오퍼레이터 선택 1",
+        "cn": "选中干员1"
+      },
+      "text": {
+        "en": "Send me where the biggest fight is.",
+        "jp": "人が多いとこに行かせろ。",
+        "kr": "사람 많은 데로 보내줘.",
+        "cn": "让我去人多的地方。"
+      },
+      "asset": "char_1051_headb2/CN_021"
+    },
+    {
+      "id": "char_1051_headb2_CN_022",
+      "title": {
+        "en": "Selecting Operator 2",
+        "jp": "選択時2",
+        "kr": "오퍼레이터 선택 2",
+        "cn": "选中干员2"
+      },
+      "text": {
+        "en": "So, what's the plan?",
+        "jp": "オマエはどう思う？",
+        "kr": "넌 어떻게 생각해?",
+        "cn": "你的判断是？"
+      },
+      "asset": "char_1051_headb2/CN_022"
+    },
+    {
+      "id": "char_1051_headb2_CN_023",
+      "title": {
+        "en": "Deployment 1",
+        "jp": "配置1",
+        "kr": "배치 1",
+        "cn": "部署1"
+      },
+      "text": {
+        "en": "Steady, everyone. I'm here.",
+        "jp": "アタシが来たんだ、もう少し踏ん張れよ。",
+        "kr": "내가 왔으니까, 조금만 더 버티라고.",
+        "cn": "我来了，都稳住。"
+      },
+      "asset": "char_1051_headb2/CN_023"
+    },
+    {
+      "id": "char_1051_headb2_CN_024",
+      "title": {
+        "en": "Deployment 2",
+        "jp": "配置2",
+        "kr": "배치 2",
+        "cn": "部署2"
+      },
+      "text": {
+        "en": "Here I come!",
+        "jp": "行くぞ！",
+        "kr": "간다!",
+        "cn": "要上了！"
+      },
+      "asset": "char_1051_headb2/CN_024"
+    },
+    {
+      "id": "char_1051_headb2_CN_025",
+      "title": {
+        "en": "In Battle 1",
+        "jp": "作戦中1",
+        "kr": "작전 중 1",
+        "cn": "作战中1"
+      },
+      "text": {
+        "en": "Get over here, if you want to die!",
+        "jp": "死にてぇやつはかかってこい！",
+        "kr": "뒤지고 싶은 놈은 덤벼!",
+        "cn": "不要命的就过来！"
+      },
+      "asset": "char_1051_headb2/CN_025"
+    },
+    {
+      "id": "char_1051_headb2_CN_026",
+      "title": {
+        "en": "In Battle 2",
+        "jp": "作戦中2",
+        "kr": "작전 중 2",
+        "cn": "作战中2"
+      },
+      "text": {
+        "en": "Who's next?",
+        "jp": "次はどいつだ？",
+        "kr": "다음은 어떤 놈이냐?",
+        "cn": "下一个是谁？"
+      },
+      "asset": "char_1051_headb2/CN_026"
+    },
+    {
+      "id": "char_1051_headb2_CN_027",
+      "title": {
+        "en": "In Battle 3",
+        "jp": "作戦中3",
+        "kr": "작전 중 3",
+        "cn": "作战中3"
+      },
+      "text": {
+        "en": "All for one, one for all!",
+        "jp": "一人はみんなのために、みんなは一人のために！",
+        "kr": "하나는 모두를 위해, 모두는 하나를 위해!",
+        "cn": "人人为我，我为人人！"
+      },
+      "asset": "char_1051_headb2/CN_027"
+    },
+    {
+      "id": "char_1051_headb2_CN_028",
+      "title": {
+        "en": "In Battle 4",
+        "jp": "作戦中4",
+        "kr": "작전 중 4",
+        "cn": "作战中4"
+      },
+      "text": {
+        "en": "Charge! CHARGE!",
+        "jp": "アタシに続け！",
+        "kr": "날 따라와라!",
+        "cn": "跟我冲！"
+      },
+      "asset": "char_1051_headb2/CN_028"
+    },
+    {
+      "id": "char_1051_headb2_CN_029",
+      "title": {
+        "en": "4-star Result",
+        "jp": "高難度作戦クリア",
+        "kr": "고난이도 작전 종료",
+        "cn": "完成高难行动"
+      },
+      "text": {
+        "en": "Ah… That felt great!",
+        "jp": "ふぅ……サイコーだな！",
+        "kr": "후우…… 최곤데!",
+        "cn": "呵……尽兴！"
+      },
+      "asset": "char_1051_headb2/CN_029"
+    },
+    {
+      "id": "char_1051_headb2_CN_030",
+      "title": {
+        "en": "3-star Result",
+        "jp": "★3で戦闘終了",
+        "kr": "3★ 작전 종료",
+        "cn": "3星结束行动"
+      },
+      "text": {
+        "en": "That was just enough for a warm-up.",
+        "jp": "この程度、準備運動にしかならねぇな。",
+        "kr": "이 정도는 준비 운동밖에 안 된다고.",
+        "cn": "这种强度，只够我热身。"
+      },
+      "asset": "char_1051_headb2/CN_030"
+    },
+    {
+      "id": "char_1051_headb2_CN_031",
+      "title": {
+        "en": "Sub 3-star Result",
+        "jp": "★2以下戦闘終了",
+        "kr": "비 3★ 작전 종료",
+        "cn": "非3星结束行动"
+      },
+      "text": {
+        "en": "Damn, they run fast…",
+        "jp": "逃げ足だけは速ぇな……",
+        "kr": "튀는 속도 하나는 빠르네……",
+        "cn": "跑得倒挺快……"
+      },
+      "asset": "char_1051_headb2/CN_031"
+    },
+    {
+      "id": "char_1051_headb2_CN_032",
+      "title": {
+        "en": "Operation Failure",
+        "jp": "作戦失敗",
+        "kr": "작전 실패",
+        "cn": "行动失败"
+      },
+      "text": {
+        "en": "Leave the rear to me. Don't mess things up next time.",
+        "jp": "チッ、あとはアタシに任せろ。次は情けねぇ真似すんなよ。",
+        "kr": "쳇, 나머지는 나한테 맡겨. 다음엔 한심한 짓 하지 마라.",
+        "cn": "嘁，后面交给我，下次别这么丢人了。"
+      },
+      "asset": "char_1051_headb2/CN_032"
+    },
+    {
+      "id": "char_1051_headb2_CN_033",
+      "title": {
+        "en": "Assigned to Facility",
+        "jp": "基地配属",
+        "kr": "시설에 배치",
+        "cn": "进驻设施"
+      },
+      "text": {
+        "en": "Phew, I'm back…",
+        "jp": "ふぅ、帰ってきたなぁ……",
+        "kr": "후우, 돌아왔군……",
+        "cn": "呼，回来了……"
+      },
+      "asset": "char_1051_headb2/CN_033"
+    },
+    {
+      "id": "char_1051_headb2_CN_034",
+      "title": {
+        "en": "Tap",
+        "jp": "タッチ1",
+        "kr": "터치",
+        "cn": "戳一下"
+      },
+      "text": {
+        "en": "You really got nothing to do, huh… Whatever, do what you want.",
+        "jp": "オマエ暇人かよ……まあいい、勝手にやってろ。",
+        "kr": "너 한가하냐…… 뭐 됐어, 맘대로 해.",
+        "cn": "你很闲吗……算了，随你便。"
+      },
+      "asset": "char_1051_headb2/CN_034"
+    },
+    {
+      "id": "char_1051_headb2_CN_036",
+      "title": {
+        "en": "Trust Tap",
+        "jp": "信頼タッチ",
+        "kr": "신뢰도 터치",
+        "cn": "信赖触摸"
+      },
+      "text": {
+        "en": "It's good seeing everyone like this.",
+        "jp": "ちょうどいい、みんなの様子を見に行くか。",
+        "kr": "마침 좋아. 애들 상태나 보러 가볼까.",
+        "cn": "正好，看看大家都怎么样。"
+      },
+      "asset": "char_1051_headb2/CN_036"
+    },
+    {
+      "id": "char_1051_headb2_CN_037",
+      "title": {
+        "en": "Title",
+        "jp": "タイトルコール",
+        "kr": "타이틀",
+        "cn": "标题"
+      },
+      "text": {
+        "en": "Arknights.",
+        "jp": "アークナイツ。",
+        "kr": "명일방주.",
+        "cn": "明日方舟。"
+      },
+      "asset": "char_1051_headb2/CN_037"
+    },
+    {
+      "id": "char_1051_headb2_CN_038",
+      "title": {
+        "en": "New Year's blessing",
+        "jp": "新年",
+        "kr": "새해",
+        "cn": "新年祝福"
+      },
+      "text": {
+        "en": "Man, Rhodes Island is so damned rowdy today… Oh, you're here. Come, try some blini. I made them with Gummy. We're heading out to mess around once we're done eating, you want to come along?",
+        "jp": "はぁ、ロドスは毎年この時期になると、うるさいったらありゃしねぇ……ん、オマエか。これ食ってみろよ、グムと一緒に焼いたブリヌイだ。アタシらはさっさと腹ごしらえして出かけるつもりだが、オマエも来るか？",
+        "kr": "하아, 로도스 아일랜드는 매년 이때가 되면 시끄러워 죽겠다니까…… 어, 너냐. 이거 먹어봐. 굼이랑 같이 구운 블리니야. 우린 얼른 배 채우고 나갈 건데, 너도 갈래?",
+        "cn": "唉，每年这天罗德岛都这么闹腾……嗯，你来了啊，尝尝这个，我喊古米一块儿做的烤薄饼，吃完还赶着出去玩儿呢，要不要一起？"
+      },
+      "asset": "char_1051_headb2/CN_038"
+    },
+    {
+      "id": "char_1051_headb2_CN_042",
+      "title": {
+        "en": "Greeting",
+        "jp": "挨拶",
+        "kr": "인사",
+        "cn": "问候"
+      },
+      "text": {
+        "en": "Hey, you doing alright?",
+        "jp": "おい、最近どうだ？",
+        "kr": "어이, 요즘 어때?",
+        "cn": "喂，最近都还好？"
+      },
+      "asset": "char_1051_headb2/CN_042"
+    },
+    {
+      "id": "char_1051_headb2_CN_043",
+      "title": {
+        "en": "Birthday",
+        "jp": "誕生日",
+        "kr": "생일",
+        "cn": "生日"
+      },
+      "text": {
+        "en": "Here, a leather jacket I brought back from Ursus. Think it suits you—See the USSG insignia on it? Drew it myself. What, you not happy with it, or…? Okay, that's good… Happy birthday, Doctor.",
+        "jp": "ほら、ウルサス土産の革ジャンだ。オマエに似合うと思ってな――自治団のマークが入ってるって？アタシが描いたんだ、なんか文句でも……そうか、ならいい……誕生日おめでとう、ドクター。",
+        "kr": "자, 우르수스에서 가져온 가죽점퍼. 너한테 잘 어울릴 것 같아서…… 자치단 마크가 있다고? 내가 그린 건데, 뭐 불만이라도…… 그래, 그럼 됐어…… 생일 축하한다, 박사.",
+        "cn": "喏，我带回来的乌萨斯皮衣，感觉很适合你——你说上面有自治团的标志？我自己画的，有什么不满吗……嗯，那就好……生日快乐，博士。"
+      },
+      "asset": "char_1051_headb2/CN_043"
+    },
+    {
+      "id": "char_1051_headb2_CN_044",
+      "title": {
+        "en": "Anniversary Celebration",
+        "jp": "周年",
+        "kr": "애니버서리",
+        "cn": "周年庆典"
+      },
+      "text": {
+        "en": "The Self-Government Group used to just be about survival, but now that we're on Rhodes Island, we can't stop ourselves from thinking about the future… And for me, I think, when everyone is happily walking their own paths, I'll be there to make sure nobody stumbles.",
+        "jp": "昔の自治団は、「生き延びる」ためだけに存在してた。けど、ロドスに来た今は、つい将来のことも考えちまう……アタシは、みんなが自由に自分の道を走っていく時、誰も躓かないようにしてやりたいと思ってんだ。",
+        "kr": "예전의 자치단은 '살아남는 것'만을 위해 존재했어. 하지만 로도스 아일랜드에 온 지금은, 무심코 장래에 대해서도 생각하게 돼…… 난 모두가 자유롭게 자신의 길을 달려갈 때, 아무도 넘어지지 않게 해주고 싶어.",
+        "cn": "曾经，自治团只是为了“活下去”而存在，如今我们都在罗德岛上，也不禁会多想些以后的事……至少我的想法是，当大家自在地奔向自己的道路时，我不会让任何人跌倒。"
+      },
+      "asset": "char_1051_headb2/CN_044"
+    }
+  ],
+  "actors": {
+    "en": {
+      "native": "Amy Lennox",
+      "global": "Amy Lennox"
+    },
+    "cn": {
+      "native": "秦文静",
+      "global": "Wenjing Qin"
+    },
+    "jp": {
+      "native": "小清水亜美",
+      "global": "Ami Koshimizu"
+    },
+    "kr": {
+      "native": "이명희",
+      "global": "Lee Myung-hi"
+    },
+    "ru": {
+      "native": "Eva Finkelshtein",
+      "global": "Eva Finkelshtein"
+    }
+  },
+  "availability": [
+    "en",
+    "cn",
+    "jp",
+    "kr",
+    "ru"
+  ]
+}

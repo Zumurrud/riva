@@ -686,6 +686,20 @@
     "release_date": "2026-07-16"
   },
   {
+    "fullid": "char_1051_headb2",
+    "nameid": "headb2",
+    "numberid": "1051",
+    "name": {
+      "en": "Zima the Raging Tide",
+      "jp": "怒潮ズィマー",
+      "kr": "지마 더 레이징 타이드",
+      "cn": "怒潮凛冬"
+    },
+    "nation": "ursus",
+    "rating": 6,
+    "release_date": "2026-09-16"
+  },
+  {
     "fullid": "char_106_franka",
     "nameid": "franka",
     "numberid": "106",
@@ -5248,6 +5262,34 @@
     "nation": "yan",
     "rating": 5,
     "release_date": "2026-07-16"
+  },
+  {
+    "fullid": "char_4223_botany",
+    "nameid": "botany",
+    "numberid": "4223",
+    "name": {
+      "en": "Botani",
+      "jp": "ボタニ",
+      "kr": "보타니",
+      "cn": "伯塔尼"
+    },
+    "nation": "ursus",
+    "rating": 5,
+    "release_date": "2026-09-16"
+  },
+  {
+    "fullid": "char_4224_turdus",
+    "nameid": "turdus",
+    "numberid": "4224",
+    "name": {
+      "en": "Ukusik",
+      "jp": "ウクシク",
+      "kr": "우쿠시크",
+      "cn": "乌啾"
+    },
+    "nation": "ursus",
+    "rating": 5,
+    "release_date": "2026-09-16"
   },
   {
     "fullid": "char_422_aurora",
