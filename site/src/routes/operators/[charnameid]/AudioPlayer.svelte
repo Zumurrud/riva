@@ -22,8 +22,6 @@
     ["kr", "voice_kr"],
   ]);
 
-  const oldLangs = ["old_jp", "old_en", "old_cn"];
-
   const regionalSuffixes = new Map([
     ["cn_topolect", "cn_topolect"],
     ["de", ""],
@@ -39,6 +37,7 @@
     ["old_cn", "OLD CN"],
     ["old_en", "OLD EN"],
     ["old_jp", "OLD JP"],
+    ["old_kr", "OLD KR"],
   ]);
 
   function getAudioFileUrl(lang: string | null) {
@@ -96,7 +95,7 @@
       <button
         onclick={() => clickLang(lang)}
         class:selected={selectedLang === lang}
-        class:no-width={oldLangs.includes(lang)}
+        class:no-width={lang.startsWith("old_")}
         >{nameMapping.has(lang)
           ? nameMapping.get(lang)
           : lang.toUpperCase()}</button

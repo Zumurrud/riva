@@ -633,12 +633,20 @@
     "kr": {
       "native": "천송이",
       "global": "Chun Song-e"
+    },
+    "old_kr": {
+      "native": "박고운",
+      "global": "Park Ko-woon"
     }
   },
   "availability": [
     "en",
     "cn",
     "jp",
-    "kr"
-  ]
+    "kr",
+    "old_kr"
+  ],
+  "audio_path_override": {
+    "old_kr": "https://raw.githubusercontent.com/Zumurrud/riva-voices/main/old_voices/voice_kr/char_174_slbell/CN_###.mp3"
+  }
 }

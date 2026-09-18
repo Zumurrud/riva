@@ -88,6 +88,33 @@
         "global": "Hart Lau"
       },
       "baseurl": "https://raw.githubusercontent.com/Zumurrud/riva-voices/main/old_voices/voice_cn/char_282_catap/CN_###.mp3"
+    },
+
+    "slbell": {
+      "lang": "kr",
+      "actor": {
+        "native": "박고운",
+        "global": "Park Ko-woon"
+      },
+      "baseurl": "https://raw.githubusercontent.com/Zumurrud/riva-voices/main/old_voices/voice_kr/char_174_slbell/CN_###.mp3"
+    },
+
+    "midn": {
+      "lang": "jp",
+      "actor": {
+        "native": "佐藤拓也",
+        "global": "Takuya Satou"
+      },
+      "baseurl": "https://raw.githubusercontent.com/Zumurrud/riva-voices/main/old_voices/voice/char_283_midn/CN_###.mp3"
+    },
+
+    "12fce": {
+      "lang": "jp",
+      "actor": {
+        "native": "佐藤拓也",
+        "global": "Takuya Satou"
+      },
+      "baseurl": "https://raw.githubusercontent.com/Zumurrud/riva-voices/main/old_voices/voice/char_009_12fce/CN_###.mp3"
     }
   }
 }

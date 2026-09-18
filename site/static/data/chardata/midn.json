@@ -569,12 +569,20 @@
     "kr": {
       "native": "강호철",
       "global": "Kang Ho-cheol"
+    },
+    "old_jp": {
+      "native": "佐藤拓也",
+      "global": "Takuya Satou"
     }
   },
   "availability": [
     "en",
     "cn",
     "jp",
-    "kr"
-  ]
+    "kr",
+    "old_jp"
+  ],
+  "audio_path_override": {
+    "old_jp": "https://raw.githubusercontent.com/Zumurrud/riva-voices/main/old_voices/voice/char_283_midn/CN_###.mp3"
+  }
 }
