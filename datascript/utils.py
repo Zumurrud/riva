@@ -57,3 +57,19 @@ def load_wordtable(lang):
 
 def load_wordtables():
     return {lang: load_wordtable(lang) for lang in LANGS}
+
+
+def get_voiced_characters(wordtable=None):
+    """
+    Returns an iterable of (charId, wordKey) for the supplied wordtable,
+    or the EN wordtable if no wordtable is supplied.
+    """
+    if wordtable is None:
+        wordtable = load_wordtable("en")
+
+    # char_512_aprot and char_4025_aprot2 are both Shalem and have the same lines
+    return [
+        (v["charId"], k)
+        for k, v in wordtable["voiceLangDict"].items()
+        if k != "char_512_aprot"
+    ]

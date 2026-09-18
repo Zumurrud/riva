@@ -9,6 +9,7 @@ from utils import (
     load_wordtables,
     load_chartables,
     ensure_dir,
+    get_voiced_characters,
 )
 import config as cfg
 
@@ -40,19 +41,11 @@ def get_new_names(names, wordkey):
 
 
 def make_charlist():
-    chartables = load_chartables()
-    wordtables = load_wordtables()
-
     release_dates = load_json(cfg.manual("global-release.json"))
     id_to_release = {x["char_key"]: x["date_global"] for x in release_dates}
 
-    # char_512_aprot and char_4025_aprot2 are both Shalem and have the same lines
-    voices = {
-        (x["charId"], x["wordKey"])
-        for x in wordtables["en"]["charWords"].values()
-        if x["charId"] != "char_512_aprot"
-    }
-
+    voices = get_voiced_characters()
+    chartables = load_chartables()
     charlist = []
 
     for char_id, wordkey in voices:
@@ -70,11 +63,6 @@ def make_charlist():
             }
         else:
             # handle an extra voice, e.g. voiced skins or Amiya's extra forms
-            if wordkey.endswith("_ITA") or wordkey.endswith("_CN_TOPOLECT"):
-                # These don't have separate voice texts and don't need further handling
-                continue
-
-            # Only changes for Amiya, so far
             _, char_num, _ = wordkey.split("_", maxsplit=2)
 
             names, name_id = get_new_names(char_names, wordkey)
