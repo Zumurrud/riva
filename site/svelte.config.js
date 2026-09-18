@@ -9,7 +9,7 @@ const config = {
       assets: "build",
     }),
     paths: {
-      base: dev ? "" : "/asbestos-is-bestos",
+      base: dev ? "" : process.env.BASE_PATH,
     },
     prerender: {
       origin: dev ? "http://sveltekit-prerender" : "http://localhost:5173",
