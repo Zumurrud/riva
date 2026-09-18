@@ -8,3 +8,6 @@ do-the-thing:
   rclone sync --include '*.json' --max-depth 1 --checksum output ../site/src/lib/data
   # right now any image is good enough for me
   rclone copy --ignore-existing output/images ../site/static/images
+
+format:
+  uvx ruff format *.py
