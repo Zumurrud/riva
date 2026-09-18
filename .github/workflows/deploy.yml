@@ -7,6 +7,10 @@ on:
 jobs:
   build_site:
     runs-on: ubuntu-latest
+    defaults:
+      run:
+        shell: bash
+        working-directory: ./site
     steps:
       - name: Checkout
         uses: actions/checkout@v7
@@ -18,7 +22,6 @@ jobs:
         run: bun i
 
       - name: build
-        shell: bash
         env:
           BASE_PATH: '/${{ github.event.repository.name }}'
         run: bun run build
@@ -26,8 +29,7 @@ jobs:
       - name: Upload Artifacts
         uses: actions/upload-pages-artifact@v5
         with:
-          # this should match the `pages` option in your adapter-static options
-          path: 'build/'
+          path: 'site/build/'
 
   deploy:
     needs: build_site
